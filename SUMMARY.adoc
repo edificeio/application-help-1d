@@ -18,5 +18,3 @@
 * link:application/collaborative-editor/index.adoc[Pad Collaboratif]
 * link:application/administration/index.adoc[Administration]
 * link:application/parametrage-de-la-classe-1d/index.adoc[Paramétrage de la classe]
-
-
