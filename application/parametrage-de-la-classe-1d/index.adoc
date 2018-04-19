@@ -83,17 +83,6 @@ correspondant.
 [[cas-d-usage-2]]
 == Renouveler un mot de passe
 
-Pour accéder à l’appli Paramétrage de la classe, cliquez sur l’icône
-correspondante dans la page « Mes
-applis ».
-
-image:../../wp-content/uploads/2015/06/p11.png[p1,width=268,height=49] +
-image:../../wp-content/uploads/2015/06/p6.png[p6,width=411,height=245]
-
-Vous accédez à la page de gestion de votre classe, qui vous permet de
-modifier le nom de votre classe et d’administrer les utilisateurs
-(élèves et parents).
-
 Dans l’onglet correspondant, sélectionnez l’utilisateur dont vous
 souhaitez renouveler le mot de passe et cliquez sur « Réinitialiser le
 mot de passe ».
@@ -137,16 +126,6 @@ alors se connecter avec son nouveau mot de passe.
 [[cas-d-usage-3]]
 == Exporter les identifiants et codes d'activation
 
-Pour accéder à l’appli Paramétrage de la classe, cliquez sur l’icône
-correspondante dans la page « Mes applis ».
-
-image:../../wp-content/uploads/2015/06/p12.png[p1,width=290,height=53]
-image:../../wp-content/uploads/2015/06/p9.png[p9,width=426,height=253]
-
-Vous accédez à la page de gestion de votre classe, qui vous permet de
-modifier le nom de votre classe et d’administrer les utilisateurs
-(élèves et parents).
-
 Placez-vous sur l’onglet « Elèves » ou « Parents » en fonction du profil
 des utilisateurs pour lesquels vous souhaitez récupérer les informations
 de connexion.
@@ -164,14 +143,6 @@ classe.
 
 [[cas-d-usage-4]]
 == Supprimer un utilisateur
-
-Pour accéder à l’appli Paramétrage de la classe, cliquez sur l’icône
-correspondante dans la page « Mes applis ». +
-image:../../wp-content/uploads/2015/06/p13.png[p1,width=312,height=57]
-image:../../wp-content/uploads/2015/06/p9.png[p9,width=595,height=353] +
-Vous accédez à la page de gestion de votre classe, qui vous permet de
-modifier le nom de votre classe et d’administrer les utilisateurs
-(élèves et parents).
 
 Dans l’onglet correspondant, sélectionnez l’utilisateur que vous
 souhaitez supprimer et cliquez sur « Supprimer ».
