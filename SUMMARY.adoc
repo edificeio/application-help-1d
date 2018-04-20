@@ -19,5 +19,5 @@
 * link:application/administration/index.adoc[Administration]
 * link:application/parametrage-de-la-classe-1d/index.adoc[Paramétrage de la classe]
 * link:application/wiki/index.adoc[Wiki]
-* link:application/stats/index.adoc[Statistique 1D]
+* link:application/stats/index.adoc[Statistique]
 * link:application/wiki/index.adoc[Wiki]
