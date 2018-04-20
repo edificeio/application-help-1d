@@ -24,7 +24,7 @@ permet de consulter rapidement la demande. Il peut alors la *mettre à
 jour* ou **changer son statut**. L’utilisateur recevra à son tour une
 *notification* pour être averti des modifications et réponses.
 
-image:../../wp-content/uploads/2016/08/aide_1-1024x248.png[image,width=700]
+image:/assets/Assistance 1.png[alt=""]
 
 [[cas-d-usage-1]]
 == Créer une demande
@@ -32,7 +32,7 @@ image:../../wp-content/uploads/2016/08/aide_1-1024x248.png[image,width=700]
 La demande de création se fait en cliquant sur le bouton « Nouvelle
 demande » (1) disponible sur la page principale du service.
 
-image:../../wp-content/uploads/2016/08/aide_2-1024x248.png[image,width=700]
+image:/assets/Assistance 2.png[alt=""]
 
 La page de création d’une nouvelle demande se présente comme suit :
 
@@ -52,8 +52,7 @@ d’écran ou un document pour illustrer votre propos.
 La saisie est enregistrée lorsque vous cliquez sur le bouton
 « Enregistrer »(6).
 
-link:../../wp-content/uploads/2016/04/4-Assistance-ENT.png[image:../../wp-content/uploads/2016/04/4-Assistance-ENT-1024x370.png[4-
-Assistance ENT,width=601,height=217]]
+image:/assets/Assistance 3.png[alt=""]
 
 La création d’une nouvelle demande donne lieu à l'envoi d'une
 notification dans le fil de nouveautés de l’administrateur de
