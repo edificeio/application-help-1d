@@ -33,7 +33,7 @@ correspondante dans la page « Mes
 applis ».
 
 image:../../wp-content/uploads/2015/06/p1.png[p1,width=274,height=50] +
-image:../../wp-content/uploads/2015/06/p2.png[p2,width=474,height=213]
+image:/assets/paramétrage vu apps.png[alt=""]
 
 Vous accédez à la page de gestion de votre classe, qui vous permet de
 modifier le nom de votre classe et d’administrer les utilisateurs
