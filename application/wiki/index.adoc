@@ -25,32 +25,28 @@ dans différentes pages liées entre elles**. La page d'accueil du wiki
 est souvent utilisée comme un index référençant l'ensemble des pages
 créées dans le wiki.
 
-image:../../wp-content/uploads/2016/01/WIKI_PRESENTATION1.png[image,width=550]
+image:/assets/wiki 1.png[alt=""]
 
 [[cas-d-usage-1]]
 == Créer un Wiki
 
 Pour créer un wiki, cliquez sur le bouton « Créer un wiki » dans la page
 d'accueil de l'appli.
-
-image:../../wp-content/uploads/2015/07/w1.png[w1,width=80]
+image:/assets/wiki 2.png[alt=""]
 
 Saisissez un titre (1) et enregistrez si vous le souhaitez une image
 d’illustration du wiki (sinon c’est l’icône par défaut qui est affichée)
 (2).
 
 Cliquez enfin sur « Enregistrer » (3)
-
-image:../../wp-content/uploads/2015/07/w2.png[w2,width=600,height=157]
- 
+image:/assets/wiki 3.png[alt=""]
 
 [[cas-d-usage-2]]
 == Partager un Wiki
 
 Pour partager un Wiki avec d’autres utilisateurs, cliquez sur le +
 correspondant au Wiki (1) puis sur le bouton « Partager » (2).
-
-image:../../wp-content/uploads/2016/08/Wiki_1-1024x490.png[image,width=600,height=287]
+image:/assets/wiki 4.png[alt=""]
 
 Dans la fenêtre, vous pouvez donner aux utilisateurs de l’ENT différents
 droits d'accès à votre wiki. Pour cela, suivez les étapes suivantes :
@@ -61,8 +57,7 @@ d’utilisateurs que vous recherchez.
 3.  Cochez les cases correspondant aux droits que vous souhaitez leur
 attribuer.
 
-link:../../wp-content/uploads/2016/01/WIKI-PARTAGE.png[image:../../wp-content/uploads/2016/01/WIKI-PARTAGE-1024x870.png[image,width=600]]
-
+image:/assets/wiki 5.png[alt=""]
 Les droits de partage que vous pouvez attribuer aux autres utilisateurs
 sont les suivants :
 
@@ -82,9 +77,7 @@ suivantes :
 3.  Saisissez du contenu
 4.  Cliquez sur « Enregistrer »
 
-image:../../wp-content/uploads/2015/07/w4.png[w4,width=550]
-
-image:../../wp-content/uploads/2016/01/WIKI-EDITER-1024x539.png[image,width=550]
+image:/assets/wiki 6.png[alt=""]
 
 '''''
 
@@ -110,9 +103,9 @@ Vous pouvez modifier une page. Pour cela, suivez les étapes suivantes :
 2.  Effectuez les modifications nécessaires et cliquez sur le bouton
 « Enregistrer ».
 
-image:../../wp-content/uploads/2016/01/WIKI-MODIFIER-1-1024x410.png[image,width=550] +
-link:../../wp-content/uploads/2016/01/WIKI-MODIFIER-2.png[  ]
-image:../../wp-content/uploads/2016/01/WIKI-MODIFIER-2-1024x538.png[image,width=550] +
+image:/assets/wiki 7.png[alt=""]
+image:/assets/wiki 8.png[alt=""]
+
 La page s’affiche avec les modifications effectuées.
 
 [[cas-d-usage-5]]
@@ -127,7 +120,7 @@ Pour comparer deux versions de page, suivez les étapes suivantes :
 1.  Cliquez sur le bouton « Plus » en haut à droite de la page.
 2.  Cliquez sur le bouton « Versions »
 
-image:../../wp-content/uploads/2016/01/WIKI-VERSION-1-1024x451.png[image,width=550]
+image:/assets/wiki 9.png[alt=""]
 
 La liste des versions de la page s’affiche, avec pour chacune les
 informations suivantes :
@@ -139,14 +132,14 @@ Pour comparer deux versions de page, sélectionnez les cases à cocher des
 versions correspondantes (1) et cliquez sur « Comparer » en bas à gauche
 de la page (2).
 
-image:../../wp-content/uploads/2015/07/w21.png[w2,width=550]
+image:/assets/wiki 10.png[alt=""]
 
 Les deux versions de page apparaissent l’une à côté de l’autre avec :
 
 * En vert : les ajouts
 * En rouge : les suppressions
 
-image:../../wp-content/uploads/2016/01/WIKI-VERSION-2-1024x467.png[image,width=550] +
+image:/assets/wiki 11.png[alt=""] +
 Il est également possible de restaurer une version précédente en
 cliquant sur « Restaurer » en haut de la page correspondante.
 
