@@ -75,6 +75,8 @@ utilisateurs,
 appli.
 image:/assets/Mon compte 3.png[alt=""]
 
+
+
 Vous pouvez aussi choisir d’importer une photo à partir de votre poste
 de travail.
 
