@@ -65,6 +65,7 @@ ce nom d'affichage est le prénom et le nom de l'utilisateur.
 Pour changer votre photo, cliquez directement sur la photo ou sur
 l'avatar par défaut.
 image:/assets/Mon compte 2.png[alt=""]
+
 Vous pouvez choisir une photo à partir de votre espace personnel de
 l’ENT en la sélectionnant dans :
 
@@ -119,8 +120,6 @@ Votre mot de passe est maintenant modifié !
 
 [[cas-d-usage-4]]
 == Ajouter ou modifier mon adresse mail
-
-
 
 Vous pouvez ajouter ou modifier votre adresse mail dans l’espace « Mon
 compte ».
