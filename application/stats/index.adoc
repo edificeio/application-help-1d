@@ -44,6 +44,8 @@ dans la page « Mes applis ».
 
 image:../../wp-content/uploads/2015/06/p14.png[p1,width=200]
 
+image:/assets/stat ONE.png[alt=""]
+
 Un récapitulatif des statistiques de fréquentation de l’ENT s’affiche.
 
 image:../../wp-content/uploads/2015/06/s14.png[s1,width=400]
