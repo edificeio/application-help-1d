@@ -1,7 +1,7 @@
 [[documents]]
 = Espace documentaire
 
-L’appli *Espace documentaire* permet de stocker et partager ses documents en ligne. Chaque utilisateur accède ainsi à tous les fichiers dont il a besoin.  
+À chacun son classeur numérique ! Grâce à l’application *Espace documentaire*, retrouvez, au même endroit, tous les documents utilisés à travers les applis ONE Stockez d’autres fichiers et organisez-les dans votre espace en fonction de leurs thématiques, du cours ou de la classe concernée ! 
 
 * link:index.html?iframe=true#presentation[Présentation]
 * link:index.html?iframe=true#cas-d-usage-1[Naviguer dans mes Documents]

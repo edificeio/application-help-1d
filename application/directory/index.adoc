@@ -1,8 +1,7 @@
 [[annuaire]]
 = Annuaire
 
-L’**Annuaire** permet de rechercher un utilisateur de la plateforme avec
-lequel l'utilisateur est en contact, à la façon des « Pages Blanches ».
+Besoin de rentrer en contact rapidement ? Pas de panique, grâce à l'appli *Annuaire*, recherchez facilement un utilisateurs avec lequel vous pouvez communiquer !
 
 * link:index.html?iframe=true#presentation[Présentation]
 * link:index.html?iframe=true#notes-de-versions[Note de version]

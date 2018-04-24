@@ -1,9 +1,7 @@
 [[wiki]]
 = Wiki
 
-Un *Wiki* est un ensemble de pages modifiables par les utilisateurs
-habilités afin de permettre l'écriture et l'illustration collaboratives
-des documents numériques qu'il contient.
+L’encyclopédie libre de ONE ! l’application *Wiki* permet de créer et publier des contenus à propos d’une thématique que vous souhaitez approfondir.
 
 * link:index.html?iframe=true#presentation[Présentation]
 * link:index.html?iframe=true#cas-d-usage-1[Créer un Wiki]

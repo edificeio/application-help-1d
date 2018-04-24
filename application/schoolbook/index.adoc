@@ -1,7 +1,7 @@
 [[schoolbook]]
 = Carnet de liaison
 
-Besoin de communiquer un mot aux parents d’élèves ? Mais comment savoir s’ils en ont pris connaissance ? Envoyez-le via le carnet de liaison !
+Besoin de communiquer un mot aux parents d’élèves ? Mais comment savoir s’ils en ont pris connaissance ? Envoyez-le via le *carnet de liaison* !
 
 L’application carnet de liaison permet à l’enseignant d’envoyer des mots aux parents d’élèves et d’accéder au suivi des lectures. En activant l’option « réponse », les parents pourront réagir au mot.
 

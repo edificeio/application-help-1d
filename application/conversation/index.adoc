@@ -1,9 +1,7 @@
 [[messagerie]]
 = Messagerie
 
-La *Messagerie* permet d’échanger des messages électroniques avec
-d’autres utilisateurs selon des règles de communication préalablement
-définies.  
+La boîte mail dédiée à l’école! La *Messagerie* ONE vous permet d’envoyer un message à un utilisateur, ou à un groupe d’utilisateurs selon des règles de communication préalablement définies ! 
 
 *SOMMAIRE A REFAIRE*
 

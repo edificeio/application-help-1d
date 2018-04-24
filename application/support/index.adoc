@@ -1,8 +1,7 @@
 [[aide-support]]
-= Aide & Support
+= Assistance ENT
 
-L’appli *Aide & Support* permet de signaler une difficulté ou un
-problème d'utilisation de l'ENT aux administrateurs de l'établissement.
+Un problème, une difficulté ? Pas de panique ! L'appli *Assistance ENT* vous permet de signaler un problème d’utilisation de l’ENT aux administrateurs de l'établissement.
 
 * link:index.html?iframe=true#presentation[Présentation]
 * link:index.html?iframe=true#cas-d-usage-1[Créer une demande]
