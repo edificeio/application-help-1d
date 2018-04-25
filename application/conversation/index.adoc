@@ -3,9 +3,6 @@
 
 La boîte mail dédiée à l’école! La *Messagerie* ONE vous permet d’envoyer un message à un utilisateur, ou à un groupe d’utilisateurs selon des règles de communication préalablement définies ! 
 
-*SOMMAIRE A REFAIRE*
-
-
 * link:index.html?iframe=true#presentation[Présentation]
 * link:index.html?iframe=true#cas-d-usage-1[Envoyer un message]
 * link:index.html?iframe=true#cas-d-usage-2[Visualiser mes messages
