@@ -19,4 +19,4 @@
 * link:application/collaborative-editor/index.adoc[Pad Collaboratif]
 * link:application/parametrage-de-la-classe-1d/index.adoc[Paramétrage de la classe]
 * link:application/wiki/index.adoc[Wiki]
-* link:application/stats/index.adoc[Statistique]
+* link:application/stats/index.adoc[Statistiques]

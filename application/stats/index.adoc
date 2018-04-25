@@ -1,7 +1,7 @@
 [[statistiques-1d]]
 = Statistiques 
 
-Devenez un mathématicien en herbes ! Grâce à l'appli *Statistique* suivez sur une période donnée la fréquentation de l'ENT.
+Devenez un mathématicien en herbes ! Grâce à l'appli *Statistiques* suivez sur une période donnée la fréquentation de l'ENT.
 
 * link:index.html?iframe=true#presentation[Présentation]
 * link:index.html?iframe=true#cas-d-usage-1[Comprendre les données
