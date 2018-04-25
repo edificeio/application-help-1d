@@ -92,7 +92,7 @@ image:/assets/Mon compte 4.png[alt=""]
 Votre photo est maintenant visible dans votre compte et par tous les
 utilisateurs !
 
-image:/assets/Mon compte 5.png[alt=""]+
+image:/assets/Mon compte 5.png[alt=""]
 
 Votre photo est visible dans le fil de nouveautés des autres
 utilisateurs lorsque vous leur partagez un contenu mais également
