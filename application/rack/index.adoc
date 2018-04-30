@@ -9,7 +9,7 @@ casier]
 * link:index.html?iframe=true#cas-d-usage-2[Sélection et action sur les
 documents]
 * link:index.html?iframe=true#cas-d-usage-3[Copier un document du casier
-vers l'appli Documents]
+vers l'appli Espace Documentaire]
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
 BY-NC-SA 3.0 FR,width=100,height=35]]
