@@ -10,7 +10,6 @@ casier]
 documents]
 * link:index.html?iframe=true#cas-d-usage-3[Copier un document du casier
 vers l'appli Documents]
-* link:index.html?iframe=true#notes-de-versions[Note de version]
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
 BY-NC-SA 3.0 FR,width=100,height=35]]
@@ -20,8 +19,7 @@ BY-NC-SA 3.0 FR,width=100,height=35]]
 == Présentation
 
 Le casier est composé de 3 dossiers :
-
-image:../../wp-content/uploads/2016/04/Casier.png[Casier,width=200]
+image:/assets/CasierONE_1.JPG[alt=""]
 
 Le dossier « *Mon casier* » contient les documents envoyés dans mon
 casier. +
@@ -42,21 +40,13 @@ possible de faire un second envoi avec une nouvelle version du document.
 Pour déposer un document dans le casier d'un autre utilisateur, accédez
 à l'appli Casier puis cliquez sur le bouton « Déposer dans un casier ».
 
-link:../../wp-content/uploads/2016/08/rack-déposer-casier.png[image:../../wp-content/uploads/2016/08/rack-déposer-casier-1024x279.png[rack
-- déposer casier,width=628,height=171]]
+image:/assets/CasierONE_2 Déposer.jpg[alt=""]
 
-Dans la nouvelle fenêtre, cliquez sur « Parcourir » (1) pour
-sélectionner sur votre ordinateur le document à envoyer puis
-sélectionnez le(s) destinataire(s) (2). Comme dans les autres applis de
-l'ENT, vous pouvez choisir un utilisateur ou un groupe d'utilisateurs.
-En cas d'erreur dans la sélection des destinataires, le bouton «
-Réinitialiser les destinataires » vous permet de supprimer la sélection
-faite.
+Dans la nouvelle fenêtre, cliquez sur « Parcourir » (1) pour sélectionner sur votre ordinateur le document à envoyer puis recherchez le nom de l’utilisateur ou du groupe d’utilisateurs auquel / auxquels vous souhaitez déposer le fichier (2) puis sélectionnez le(s) (3). La liste des destinataires sélectionnés s’affiche sur la partie de droite de la fenêtre (4).  En cas d’erreur dans la sélection des destinataires, le bouton « Réinitialiser les destinataires » vous permet de supprimer la sélection faite.
+Cliquez ensuite sur « Envoyer » (5) pour envoyer le document. Un message de confirmation vous informe que le document a bien été envoyé.
 
-Cliquez ensuite sur « Envoyer » (3) pour envoyer le document. Un message
-de confirmation vous informe que le document a bien été envoyé.
 
-image:../../wp-content/uploads/2016/04/Casier3.png[Casier3,width=300]
+image:/assets/CasierONE_3.png[alt=""]
 
  
 
@@ -69,17 +59,15 @@ bas de page (2). +
 Vous pouvez également sélectionner plusieurs documents en même temps
 pour effectuer une action sur tous ces documents.
 
-image:../../wp-content/uploads/2016/08/rack-tous-sélectionnés2-1024x512.png[rack
-- tous sélectionnés2,width=628,height=314]
+image:/assets/CasierONE_4 sélection.jpg[alt=""]
 
 Vous disposez également d'un bouton "télécharger" (1) sur chaque fichier
 si vous souhaitez télécharger directement le fichier sur votre
 ordinateur. +
-link:../../wp-content/uploads/2016/08/rack-bouton-télécharger2.png[image:../../wp-content/uploads/2016/08/rack-bouton-télécharger2.png[rack
-- bouton télécharger2,width=110,height=102]]
+image:/assets/CasierONE_5 télécharger.jpg[alt=""]
 
 [[cas-d-usage-3]]
-== Copier un document du casier vers l'appli Documents
+== Copier un document du casier vers l'appli Espace Documentaire
 
 Lorsque vous recevez un document dans votre casier, vous avez la
 possibilité de le copier vers un dossier de votre espace documentaire. +
@@ -87,20 +75,10 @@ Connectez-vous à l'appli Casier et consultez le dossier « Mon casier ».
 Sélectionnez le document et cliquez sur le bouton « Copier dans mes
 documents » en bas de page.
 
-image:../../wp-content/uploads/2016/04/Casier4.png[Casier4,width=250]
+image:/assets/CasierONE_6 copier.png[alt=""]
 
 La nouvelle fenêtre vous présente l'arborescence du dossier « Mes
 documents » (1), vous pouvez ainsi copier le document dans le dossier
 que vous souhaitez (2).
 
-image:../../wp-content/uploads/2016/04/Casier5.png[Casier5,width=400]
-
-[[notes-de-versions]]
-== Note de version
-
-Nouveauté de la version 0.6
-
-*Évolution ergonomique*
-
-Les cases à cocher ont été supprimées. La sélection d’un ou plusieurs
-documents se fait désormais en cochant la ou les vignettes.
+image:/assets/CasierONE_7 fenêtre copier.jpg[alt=""]
