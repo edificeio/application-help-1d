@@ -8,7 +8,7 @@ Devenez un maître du temps avec l'appli *Frise chronologique* ! Sur une ligne r
 chronologique]
 * link:index.html?iframe=true#cas-d-usage-2[Créer un événement dans la
 frise chronologique]
-* link:index.html?iframe=true#notes-de-versions[Note de version]
+
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
 BY-NC-SA 3.0 FR,width=100,height=35]]
@@ -22,8 +22,6 @@ temporelle. Chaque événement est accompagné d'un encart permettant de
 **publier du contenu additionnel** (texte, image, son ...). Chaque frise
 peut être partagée avec un utilisateur ou un groupe d'utilisateurs.
 
-image:../../wp-content/uploads/2015/04/Frise1.png[Frise1,width=400]
-
 [[cas-d-usage-1]]
 == Créer et partager une frise chronologique
 
@@ -31,12 +29,12 @@ Pour accéder à l’appli Frise chronologique, cliquez sur l’icône
 correspondante dans la page « Mes
 applis ».
 
-image:/assets/Page_mesapplis_1D.png["",width=600]
+image:/assets/FrisechronoONE_2 app.png[alt=""]
 
 
 Cliquez sur le bouton « Créer une frise ».
 
-image:../../wp-content/uploads/2015/07/f11.png[f1,width=136,height=39]
+image:/assets/FrisechronoONE_3.png[alt=""]
 
 Suivez les étapes suivantes :
 
@@ -45,13 +43,14 @@ Suivez les étapes suivantes :
 * Renseignez le descriptif de la frise
 * Cliquez sur « Sauvegarder »
 
-link:../../wp-content/uploads/2016/01/FRISE_1.png[image:../../wp-content/uploads/2016/01/FRISE_1.png[image,width=550]]
+image:/assets/FrisechronoONE_4 Création.png[alt=""]
 
-La frise chronologique est maintenant créée. Pour la partager, saisissez
-les premières lettres du nom de l’utilisateur ou d’un groupe
-d’utilisateurs que vous recherchez (1), sélectionnez le résultat  (2) et
-cochez les cases correspondant aux droits que vous souhaitez leur
-attribuer (3).
+*Partager une frise*
+Votre frise chronologique est désormais créée mais n’est pas encore visible. Pour le partager avec d’autres utilisateurs, cliquez sur le bouton « + » (1) présent dans le coin supérieur droit de la vignette de votre frise puis cliquez sur le bouton « Partager » (2).
+
+image:/assets/FrisechronoONE_5 Partage.png[alt=""]
+
+Dans la fenêtre de partage, vous pouvez donner des droits de consultation, de contribution ou de gestion sur votre frise chronologique. Pour cela, saisissez les premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs que vous recherchez (1), sélectionnez le résultat (2) et cochez les cases correspondant aux droits que vous souhaitez leur attribuer (3).
 
 Les différents droits que vous pouvez attribuer sont les suivants :
 
@@ -59,7 +58,8 @@ Les différents droits que vous pouvez attribuer sont les suivants :
 * Contribution : l’utilisateur peut créer des événements sur la frise
 * Gestion : l’utilisateur peut partager, modifier et supprimer la frise
 
-image:../../wp-content/uploads/2015/06/f5.png[f5,width=494,height=205]
+image:/assets/FrisechronoONE_6 Fenêtre partage.png[alt=""]
+
 
 [[cas-d-usage-2]]
 == Créer un événement dans la frise chronologique
@@ -67,7 +67,7 @@ image:../../wp-content/uploads/2015/06/f5.png[f5,width=494,height=205]
 Pour créer du contenu dans la frise, cliquez sur « Ajouter un
 événement ».
 
-image:../../wp-content/uploads/2016/08/frise1-1024x361.png[image,width=600,height=212]
+image:/assets/FrisechronoONE_7 Ajouter évenement.png[alt=""]
 
 Vous devez renseigner plusieurs informations pour créer un évènement :
 
@@ -76,15 +76,7 @@ Vous devez renseigner plusieurs informations pour créer un évènement :
 * Une image d’illustration
 * Une description
 
-link:../../wp-content/uploads/2016/01/FRISE_21.png[ +
-image:../../wp-content/uploads/2016/01/FRISE_21.png[image,width=450]]
-
+image:/assets/FrisechronoONE_8 Créer évenement.png[alt=""]
 * Une fois l’événement créé, il apparaît dans la frise chronologique.
 
-image:../../wp-content/uploads/2015/06/f8.png[f8,width=450]
 
-[[notes-de-versions]]
-== Note de version
-
-A chaque nouvelle version de l'application, les nouveautés seront
-présentées dans cette section.
