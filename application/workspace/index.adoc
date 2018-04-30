@@ -4,10 +4,10 @@
 À chacun son classeur numérique ! Grâce à l’application *Espace documentaire*, retrouvez, au même endroit, tous les documents utilisés à travers les applis ONE Stockez d’autres fichiers et organisez-les dans votre espace en fonction de leurs thématiques, du cours ou de la classe concernée ! 
 
 * link:index.html?iframe=true#presentation[Présentation]
-* link:index.html?iframe=true#cas-d-usage-1[Naviguer dans mon Espace Documentaire]
-* link:index.html?iframe=true#cas-d-usage-2[Importer un document]
-* link:index.html?iframe=true#cas-d-usage-3[Déplacer un document ou un
+* link:index.html?iframe=true#cas-d-usage-1[Importer un document]
+* link:index.html?iframe=true#cas-d-usage-2[Déplacer un document ou un
 dossier]
+* link:index.html?iframe=true#cas-d-usage-3[Naviguer dans mon Espace Documentaire]
 * link:index.html?iframe=true#cas-d-usage-4[Connaître l'espace de
 stockage disponible]
 * link:index.html?iframe=true#cas-d-usage-5[Ajouter la nouvelle version
@@ -39,7 +39,7 @@ Vous retrouverez ici tous les fichiers que vous avez ajouté dans d’autres app
 l'appli Documents permet d'intégrer facilement un contenu dans n'importe
 quelle appli.*
 
- [[cas-d-usage-2]]
+ [[cas-d-usage-1]]
 == Importer un document
 
 Pour importer un document dans votre espace de stockage personnel,
@@ -62,16 +62,14 @@ importé dans votre espace documentaire. Vous pouvez fermer la fenêtre.
 document est en cours.*
 
 '''''
-
-*image:../../wp-content/uploads/2016/04/Document31-1024x507.png[Document3,width=300]*
-
-* *
+image:/assets/EspacedocONE_10.JPG[alt=""]
 
 '''''
 
 *Vous pouvez importer plusieurs fichiers en une seule fois, si vous en
 sélectionnez plusieurs sur votre ordinateur.*
 
+image:/assets/EspacedocONE_11.JPG[alt=""]
 '''''
 
 Vous pouvez aussi importer un document ou plusieurs documents en
@@ -81,7 +79,7 @@ vers son nouvel emplacement (2).
 
 image:/assets/EspacedocONE_5 glisser déposer.JPG[alt=""]
 
-[[cas-d-usage-3]]
+[[cas-d-usage-2]]
 == Déplacer un document ou un dossier
 
 Vous pouvez déplacer vos documents et vos dossiers facilement dans votre
@@ -101,7 +99,7 @@ les applis ».
 Le dossier se trouve maintenant à l’emplacement choisi.
 
 
-[[cas-d-usage-1]]
+[[cas-d-usage-3]]
 == Naviguer dans mes Documents
 Pour *accéder au menu d'option* d'un fichier ou d'un dossier, vous devez
 *cliquer une fois* dessus. Le menu s'affiche ensuite en bas de la page
