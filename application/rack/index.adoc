@@ -19,6 +19,7 @@ BY-NC-SA 3.0 FR,width=100,height=35]]
 == Présentation
 
 Le casier est composé de 3 dossiers :
+
 image:/assets/CasierONE_1.JPG[alt=""]
 
 Le dossier « *Mon casier* » contient les documents envoyés dans mon
