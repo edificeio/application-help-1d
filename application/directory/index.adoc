@@ -23,4 +23,4 @@ En cliquant sur une vignette, il est possible d'accéder aux
 **d'interagir avec lui en quelques clics** (envoi d’un message par
 exemple).
 
-image:../../wp-content/uploads/2015/07/a114.png[a1,width=600,height=206]
+image:/assets/Annuaire 1.png[alt=""]
