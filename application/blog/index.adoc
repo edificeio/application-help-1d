@@ -30,19 +30,18 @@ du blog choisit le **circuit de publication** souhaité : soit il relit
 les billets soumis par les autres utilisateurs avant de les publier,
 soit les billets sont publiés immédiatement quel qu'en soit l'auteur.
 
-image:../../wp-content/uploads/2016/07/blog_1-1024x478.png[image,width=600,height=280]
+image:/assets/Blog 1.png[alt=""]
 
 [[cas-d-usage-1]]
 == Créer un blog
 
 Cliquez sur la page « Mes applis » puis sur l’icône « Blog ».
-
-image:/assets/Page_mesapplis_1D.png["",width=600]
+image:/assets/Blog 2.png[alt=""]
 
 Dans le service Blog, cliquez sur le bouton « Créer un blog » présent en
 haut à droite de la page.
 
-image:../../wp-content/uploads/2016/07/Blog_2_11-1024x545.png[image,width=600,height=319]
+image:/assets/Blog 3.png[alt=""]
 
 Vous accédez à l’interface de création du blog.
 
@@ -51,7 +50,7 @@ Vous accédez à l’interface de création du blog.
 l’image, c’est la vignette par défaut qui s’affichera).
 3.  Cliquez sur « Enregistrer ».
 
-image:../../wp-content/uploads/2016/04/BLOG4-1024x240.png[BLOG4,width=600,height=140]
+image:/assets/Blog 4.png[alt=""]
 
  
 
@@ -64,7 +63,7 @@ suivantes :
 1.  Cliquez sur le + du blog (1)
 2.  Cliquez sur le bouton « Partager » (2)
 
-image:../../wp-content/uploads/2016/07/Blog_3_1-1024x633.png[image,width=600,height=371]
+image:/assets/Blog 5.png[alt=""]
 
 Le blog a été créé mais n’est pas encore visible par les autres
 utilisateurs. Pour le partager, suivez les étapes suivantes :
@@ -75,7 +74,7 @@ d’utilisateurs que vous recherchez.
 3.  Cochez les cases correspondant aux droits que vous souhaitez leur
 attribuer.
 
-image:../../wp-content/uploads/2016/04/Image11-1024x740.png[Image1,width=600,height=434]
+image:/assets/Blog 6.png[alt=""]
 
 Les différents droits que vous pouvez attribuer aux autres utilisateurs
 sont les suivants :
@@ -97,8 +96,7 @@ créent un billet, celui-ci est directement publié dans le blog.
 * *Billet à soumettre* : lorsque des utilisateurs contributeurs créent
 un billet, le billet passe au statut « Soumis » et c’est le gestionnaire
 du blog qui effectue l’action de publication du billet.
-
-image:../../wp-content/uploads/2016/04/Image22-1024x685.png[Image2,width=550,height=368]
+image:/assets/Blog 7.png[alt=""]
 
 [[cas-d-usage-4]]
 == Publier un billet
@@ -106,14 +104,13 @@ image:../../wp-content/uploads/2016/04/Image22-1024x685.png[Image2,width=550,hei
 Une fois votre blog créé, vous pouvez publier un billet. Pour cela,
 cliquez sur le bouton « Créer un billet » présent en haut de l’écran.
 
-image:../../wp-content/uploads/2016/07/Blog_4-1024x159.png[image,width=524,height=82]
-
+image:/assets/Blog 8.png[alt=""]
 L'outil de création du billet s’affiche dans la page :
 
 1.  Saisissez le titre
 2.  Rédigez le contenu du billet.
 
-image:../../wp-content/uploads/2016/04/BLOG9-1024x578.png[BLOG9,width=524,height=296]
+image:/assets/Blog 9.png[alt=""]
 
 Une fois la saisie terminée, vous pouvez soit :
 
@@ -123,7 +120,7 @@ pas visible des autres utilisateurs ayant accès au blog
 ayant accès au blog
 * *Annuler* la création du billet
 
-image:../../wp-content/uploads/2016/04/Image33-1024x572.png[Image3,width=524,height=293]
+image:/assets/Blog 10.png[alt=""]
 
 '''''
 
@@ -135,8 +132,7 @@ chargera de la publication ou non du billet. +
 
 '''''
 
-image:../../wp-content/uploads/2016/04/Capture-1024x643.png[Capture,width=524,height=329]
-
+image:/assets/Blog 11.png[alt=""]
 [[cas-d-usage-5]]
 == Valider un billet
 
@@ -151,7 +147,7 @@ image:../../wp-content/uploads/2016/07/Blog_51.png[image,width=600,height=48]
 
 Vous pouvez réaliser les actions suivantes en cliquant sur « Publier »
 ou sur l'icône
-image:../../wp-content/uploads/2016/07/unnamed-file.png[image,width=38,height=43] :
+image:/assets/blog 13.png[alt=""]
 
 * *Publier* le billet sans mise à jour : le billet est alors visible par
 tous les utilisateurs ayant accès au blog
@@ -159,4 +155,4 @@ tous les utilisateurs ayant accès au blog
 texte pour apporter vos modifications
 * *Supprimer* le billet
 
-image:../../wp-content/uploads/2016/07/blog_2-1024x363.png[image,width=700]
+image:/assets/Blog 12.png[alt=""]
