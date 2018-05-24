@@ -46,31 +46,28 @@ ou le contenu ;
 * Le lien vers l’information ou le contenu.
 * Une indication sur l'application concernée par la notification
 
-link:../../wp-content/uploads/2016/12/Fil-notif-et-filtre-2.png[image:../../wp-content/uploads/2016/12/Fil-notif-et-filtre-2.png[Fil
-- notif et filtre 2,width=501,height=398]]
+image:/assets/Premiers pas 1.png[alt=""]
 
 Pour filtrer les notifications reçues, déplier le menu "Filtrer les
 nouveautés" et cliquez sur les applications dont vous souhaitez
 visualiser les notifications ou non. +
-link:../../wp-content/uploads/2016/12/Fil-filtre.png[image:../../wp-content/uploads/2016/12/Fil-filtre.png[Fil
-- filtre,width=350,height=137]] +
+image:/assets/Premiers pas 2.png[alt=""] +
 Pour accéder à une information ou un contenu qui vous a été partagé,
 cliquez sur le lien présent dans la nouveauté.
 
-image:../../wp-content/uploads/2016/07/fil_1.1-1024x133.png[image,width=600,height=78]
+image:/assets/Premiers pas 3.png[alt=""]
 
 Le contenu s’affiche.
-
-image:../../wp-content/uploads/2016/07/fil_2-1024x425.png[image,width=600,height=249]
+image:/assets/Premiers pas 4.png[alt=""]
 
 Pour accéder au profil de l’utilisateur qui vous a partagé le contenu ou
 l’information, cliquez sur son identifiant.
 
-image:../../wp-content/uploads/2016/07/fil_1.2-1024x133.png[image,width=600,height=78]
+image:/assets/Premiers pas 5.png[alt=""]
 
 Le profil de l’utilisateur s’affiche.
 
-image:../../wp-content/uploads/2016/07/fil_3-1024x454.png[image,width=600,height=266]
+image:/assets/Premiers pas 6.png[alt=""]
 
 [[cas-d-usage-2]]
 == Suppression et signalement des notifications
@@ -81,8 +78,7 @@ Sur le fil de nouveauté, vous avez la possibilité de ne plus voir la
 notification reçue et/ou de signaler à l'administrateur de votre
 établissement une notification inappropriée. Une flèche d'action
 s'affiche sur la notification lors du survol de celle-ci. +
-link:../../wp-content/uploads/2016/12/Fil-survol1.png[image:../../wp-content/uploads/2016/12/Fil-survol1.png[Fil
-- survol,width=321,height=201]]
+image:/assets/Premiers pas 7.png[alt=""]
 
 Lorsque vous cliquez sur la flèche, les
 actions concernant la notification sélectionnée s'affichent. +
@@ -91,8 +87,7 @@ Vous pouvez :
 * Supprimer l'affichage de la notification de votre fil de nouveauté
 * Signaler la notification comme inappropriée à votre référent ENT
 
-link:../../wp-content/uploads/2016/12/Fil-action.png[image:../../wp-content/uploads/2016/12/Fil-action.png[Fil
-- action,width=414,height=89]]
+image:/assets/Premiers pas 8.png[alt=""]
 
 Vous avez également la possibilité de ne
 pas diffuser une notification aux utilisateurs avec lesquels vous avez
@@ -100,16 +95,14 @@ des droits de communication ou vous avez partagé du contenu. +
 Depuis votre espace "Mon compte", vous retrouverez toutes les
 notifications que vous avez émises en cliquant sur l'onglet
 "Historique" +
-link:../../wp-content/uploads/2016/12/Fil-historique.png[image:../../wp-content/uploads/2016/12/Fil-historique.png[Fil
-- historique,width=602,height=220]]
+image:/assets/Premiers pas 9.png[alt=""]
 
 Comme précédemment, en survolant la
 notification avec la souris, vous verrez apparaître une flèche sur la
 droite de la notification. En cliquant sur cette flèche, une action
 apparaît vous permettant de supprimer définitivement la notification de
 l'ENT. +
-link:../../wp-content/uploads/2016/12/Fil-historique-suppression.png[image:../../wp-content/uploads/2016/12/Fil-historique-suppression.png[Fil
-- historique suppression,width=561,height=97]]
+image:/assets/Premiers pas 10.png[alt=""]
 
 [[cas-d-usage-3]]
 == Les widgets
@@ -201,18 +194,16 @@ image:../../wp-content/uploads/2016/04/Image61.png[Image6,width=500]
 Lorsque l'on clique sur l'icône d'ajout de pièces jointes, on peut
 choisir un document de sa bibliothèque multimédia (1) ou charger un
 document depuis son poste (2).
-
-image:../../wp-content/uploads/2016/04/Image7.png[Image7,width=400,height=320]
+image:/assets/Premiers pas 11.png[alt=""]
 
 La ou les pièces jointes sélectionnées apparaissent dans la zone
 d'édition dans un cadre dédié.
 
-image:../../wp-content/uploads/2016/04/Image8.png[Image8,width=600,height=234]
-
+image:/assets/Premiers pas 12.png[alt=""]
 Pour modifier les pièces jointes, faire un clic droit dans la zone
 grisée et cliquer sur "Modifier les fichiers" (3).
 
-image:../../wp-content/uploads/2016/04/Image9.png[Image9,width=314,height=171]
+image:/assets/Premiers pas 13.png[alt=""]
 
 [[cas-d-usage-6]]
 == La gestion des paramètres
@@ -263,13 +254,11 @@ de chaque notification (immédiat, quotidien, hebdomadaire, jamais)
 (4). +
 Le détail des notifications disponibles par service est accessible en
 cliquant sur le nom du service dans la ligne correspondante (5).
-
-image:../../wp-content/uploads/2016/04/Image2.png[Image2,width=600,height=339]
-
 Lorsque les modifications sont terminées, cliquer sur "Enregistrer" en
 bas du tableau (6).
 
-image:../../wp-content/uploads/2016/04/Image31.png[image,width=600,height=81]
+image:/assets/Premiers pas 14.png[alt=""]
+
 
 Une fois la notification reçue dans sa boîte mail personnelle,
 l'utilisateur peut cliquer sur le lien correspondant afin d'accéder au
