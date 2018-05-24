@@ -123,37 +123,28 @@ cliquant sur « Sauvegarder ».
 == Publier une vidéo dans un cahier multimédia
 
 
-Il est possible d’ajouter dans vos cahiers multimédia des vidéos
-stockées sur des plateformes d’hébergement comme Youtube, Dailymotion,
-Libcast, Vimeo, Wat.tv, …
+Il est possible d’ajouter dans vos cahiers multimédia des vidéos stockées sur des plateformes d’hébergement comme Youtube, Dailymotion, Libcast, Vimeo, Wat.tv, …
+Ouvrez le cahier multimédia dans lequel vous souhaitez ajouter cette vidéo et cliquez sur l’icône d’ajout de vidéo.
+image:/assets/CMA 3.png[alt=""]
 
-Pour cela, rendez-vous sur la plateforme et récupérez le code permettant
-d’intégrer la vidéo à un site web.
+Dans la fenêtre qui s’ouvre, selectionnez un type de contenu de média (vidéos hébergées sur Youtube, Viméo, Dailymotion, Learningaps.org et educaplay) (1) 
 
-Voici un exemple de procédure pour le site Youtube :
+image:/assets/CMA 4.png[alt=""]
 
-1.  Sous la vidéo, cliquer sur « Partager »
-2.  Cliquez sur « Intégrer »
-3.  Copiez le lien qui est indiqué dans la barre
+Puis collez l’URL de la vidéo (2) et cliquez sur « Appliquer » (3). 
+image:/assets/CMA 5.png[alt=""]
 
-image:../../wp-content/uploads/2015/06/m44.png[m4,width=400]
+Pour une vidéo hébergée ailleurs , appuyez sur la vignette "Collez votre propre code" (4), 
+image:/assets/CMA 6.png[alt=""]
 
-Ouvrez le cahier multimédia dans lequel vous souhaitez ajouter cette
-vidéo et cliquez sur l’icône d’ajout de
-vidéo.
+puis collez le lien Iframe (5) et cliquez sur "Appliquer" (6) 
+image:/assets/CMA 7.png[alt=""]
 
-image:../../wp-content/uploads/2015/06/m55.png[m5,width=302,height=92]
+Positionnez ensuite la vidéo dans la page et sauvegardez votre travail. 
 
-Dans la fenêtre qui s’ouvre, collez le lien précédemment copié depuis le
-site hébergeant la vidéo (1) puis cliquez sur « Ajouter » (2).
+image:/assets/CMA 8.png[alt=""]
 
- 
 
-image:../../wp-content/uploads/2015/06/m66.png[m6,width=437,height=218]
-
-Positionnez ensuite la vidéo dans la page et sauvegardez votre travail.
-
-image:../../wp-content/uploads/2015/06/m74.png[m7,width=366,height=297]
 
 Votre cahier est complété et la vidéo prête à être regardée !
 
