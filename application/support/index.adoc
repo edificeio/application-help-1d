@@ -80,20 +80,6 @@ Le référent ENT et le demandeur peuvent visualiser l'ensemble des
 image:../../wp-content/uploads/2016/08/aide_3-1024x455.png[aide_3,width=600,height=267]
 image:../../wp-content/uploads/2016/08/aide_4-1024x432.png[aide_4,width=600,height=253]
 
-[[notes-de-versions]]
-== Note de version
 
-Nouveauté de la version 0.3.0
 
-*Ajout de pièces jointes*
-
-Il est désormais possible d’ajouter des pièces jointes dans les demandes
-du service Aide et Support, par exemple pour joindre des captures
-d’écran. L'ajout de pièces jointes reste disponible même quand le quota
-d’espace disponible de l'utilisateur est atteint.
-
-image:../../wp-content/uploads/2015/04/NDF-13.png[NDF
-13,width=400] +
-
-'''''
 
