@@ -91,7 +91,7 @@ image:../../wp-content/uploads/2015/06/m54.png[m5,width=476,height=385]
 
 Vous pouvez ajouter les contenus suivants dans vos cahiers :
 
-image:../../wp-content/uploads/2015/06/m65.png[m6,width=600,height=184]
+image:/assets/CMA 1.png[alt=""]
 
 Il est possible de modifier une zone de texte. Pour cela, cliquez sur la
 zone : une barre d’édition s’affiche. L’éditeur offre de nombreuses
