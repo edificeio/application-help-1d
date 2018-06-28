@@ -77,7 +77,7 @@ attribuer.
 image:/assets/Actu 6.png[alt=""]
 
 Les différents droits que vous pouvez attribuer aux autres utilisateurs
-de l’ENT sur le fil d'actualités sont les suivants :
+de la plateforme sur le fil d'actualités sont les suivants :
 
 * **Contribuer** : l’utilisateur peut créer des actualités qui vous
 seront soumises avant publication
@@ -129,7 +129,7 @@ attribuer :
 image:/assets/Actu 6.png[alt=""]
 
 Les différents droits que vous pouvez attribuer aux autres utilisateurs
-de l’ENT sur l'actualité sont les suivants :
+de la plateforme sur l'actualité sont les suivants :
 
 * *Lire* : l’utilisateur peut lire le contenu de l'actualité
 * **Commenter **: l’utilisateur peut laisser un commentaire sous
