@@ -27,10 +27,9 @@ BY-NC-SA 3.0 FR,width=100,height=35]]
 Pour mettre à jour votre humeur, votre devise, votre photo et vos autres
 informations personnelles, vous disposez d’un espace dédié. Vous pouvez
 choisir de rendre visibles vos informations aux autres utilisateurs de
-l’ENT ou de les laisser invisibles.
+la plateforme ou de les laisser invisibles.
 
-Pour accéder à votre compte, connectez-vous à l’ENT en saisissant votre
-identifiant et votre mot de passe dans la fenêtre de connexion.
+Pour accéder à votre compte, connectez-vous à la plateforme en saisissant votre identifiant et votre mot de passe dans la fenêtre de connexion.
 
 Cliquez sur « Connexion ».
 
@@ -50,7 +49,7 @@ image:/assets/Mon compte 1.png[alt=""]
 '''''
 
 Les enseignants ont la possibilité de choisir un nom d’affichage
-personnalisé, visible par les autres utilisateurs de l'ENT. Par défaut,
+personnalisé, visible par les autres utilisateurs de la plateforme. Par défaut,
 ce nom d'affichage est le prénom et le nom de l'utilisateur.
 
 '''''
@@ -67,9 +66,9 @@ l'avatar par défaut.
 image:/assets/Mon compte 2.png[alt=""]
 
 Vous pouvez choisir une photo à partir de votre espace personnel de
-l’ENT en la sélectionnant dans :
+la plateforme en la sélectionnant dans :
 
-* « Mes documents » : documents personnels stockés dans l’ENT,
+* « Mes documents » : documents personnels stockés dans la plateforme,
 * « Documents partagés avec moi » : documents partagés par d’autres
 utilisateurs,
 * « Documents ajoutés dans les applis » : documents insérés dans une
@@ -142,7 +141,7 @@ champ « Devise » sous vos coordonnées.
 image:/assets/Mon compte 9.png[alt=""]
 
 Votre devise sera visible sur votre profil et apparaitra dans le fil de
-nouveautés des autres utilisateurs de l’ENT lorsque vous la modifierez.
+nouveautés des autres utilisateurs de la plateforme lorsque vous la modifierez.
 
 [[cas-d-usage-6]]
 == Changer mon humeur
@@ -160,8 +159,7 @@ Une liste d’humeurs apparaît. Choisissez celle que vous souhaitez.
 image:/assets/Mon compte 11.png[alt=""]
  
 Votre nouvelle humeur apparaît sur votre compte et est maintenant
-visible dans le fil de nouveautés des autres utilisateurs de l’ENT avec
-lesquels vous avez le droit de communiquer.
+visible dans le fil de nouveautés des autres utilisateurs de la plateforme avec lesquels vous avez le droit de communiquer.
 
 [[cas-d-usage-7]]
 == Modifier mes centres d'intérêt
@@ -213,9 +211,9 @@ image:/assets/Mon compte 15.png[alt=""]
 
 
 
-L'ENT est désormais doté d'un système de notification par mail qui
+La plateforme est désormais doté d'un système de notification par mail qui
 permet aux utilisateurs de recevoir sur leur adresse personnelle des
-mails contenant les nouveautés de l'ENT qui les concernent. +
+mails contenant les nouveautés de la plateforme qui les concernent. +
 Chaque utilisateur peut modifier les notifications qu'il souhaite
 recevoir et la fréquence de chacune d'elles (immédiate, quotidienne,
 hebdomadaire). +
@@ -240,7 +238,7 @@ image:/assets/Mon compte 18.png[alt=""]
 
 Une fois la notification reçue dans sa boîte mail personnelle,
 l'utilisateur peut cliquer sur le lien correspondant afin d'accéder au
-contenu. S'il n'est pas connecté à l'ENT, il devra saisir son
+contenu. S'il n'est pas connecté à la plateforme, il devra saisir son
 identifiant et son mot de passe pour accéder à l'objet de la
 notification.
 
@@ -261,6 +259,6 @@ notifications que vous avez émis en cliquant sur l'onglet
 image:/assets/Mon compte 19.png[alt=""]En survolant la notification avec la
 souris, vous verrez apparaître une flèche sur la droite de la
 notification. En cliquant sur cette flèche, une action apparaît vous
-permettant de supprimer définitivement la notification de l'ENT. +
+permettant de supprimer définitivement la notification de la plateforme. +
 image:/assets/Mon compte 20.png[alt=""]
 
