@@ -1,7 +1,7 @@
 [[statistiques-1d]]
 = Statistiques 
 
-Devenez un mathématicien en herbes ! Grâce à l'appli *Statistiques* suivez sur une période donnée la fréquentation de l'ENT.
+Devenez un mathématicien en herbes ! Grâce à l'appli *Statistiques* suivez sur une période donnée la fréquentation de la plateforme.
 
 * link:index.html?iframe=true#presentation[Présentation]
 * link:index.html?iframe=true#cas-d-usage-1[Comprendre les données
@@ -25,7 +25,7 @@ utilisateur identifié depuis le début du mois en cours +
 • *Appli la plus utilisée* : indique l’appli recueillant le plus de
 visites depuis le 1er septembre +
 • *Pic de connexion journalier* : indique le créneau horaire auquel
-l'ENT est le plus consulté depuis le 1er septembre +
+la plateforme est le plus consulté depuis le 1er septembre +
 • *Pic de connexion hebdomadaire* : indique le jour de la semaine
 recueillant le plus de visites depuis le 1er septembre +
 • *Comptes activés* : calcule le nombre de comptes activés depuis le 1er
@@ -44,7 +44,7 @@ image:../../wp-content/uploads/2015/06/p14.png[p1,width=200]
 
 image:/assets/stat ONE.png[alt=""]
 
-Un récapitulatif des statistiques de fréquentation de l’ENT s’affiche.
+Un récapitulatif des statistiques de fréquentation de la plateforme s’affiche.
 
 image:../../wp-content/uploads/2015/06/s14.png[s1,width=400]
 
