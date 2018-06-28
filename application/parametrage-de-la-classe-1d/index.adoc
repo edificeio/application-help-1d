@@ -154,6 +154,6 @@ ne pourra plus accéder aux autres applis (espace documentaire, blog,
 cahier multimédia, etc.).
 
 Au bout de trois mois, un compte supprimé est complètement effacé et
-l’utilisateur n’a plus accès à l’ENT. Aucune information le concernant
+l’utilisateur n’a plus accès à la plateforme. Aucune information le concernant
 n’est conservée.
 
