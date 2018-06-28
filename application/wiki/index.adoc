@@ -46,8 +46,7 @@ Pour partager un Wiki avec d’autres utilisateurs, cliquez sur le +
 correspondant au Wiki (1) puis sur le bouton « Partager » (2).
 image:/assets/wiki 4.png[alt=""]
 
-Dans la fenêtre, vous pouvez donner aux utilisateurs de l’ENT différents
-droits d'accès à votre wiki. Pour cela, suivez les étapes suivantes :
+Dans la fenêtre, vous pouvez donner aux utilisateurs de la plateforme différents droits d'accès à votre wiki. Pour cela, suivez les étapes suivantes :
 
 1.  Saisissez les premières lettres du nom de l’utilisateur ou du groupe
 d’utilisateurs que vous recherchez.
