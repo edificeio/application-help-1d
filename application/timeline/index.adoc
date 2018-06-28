@@ -22,7 +22,7 @@ BY-NC-SA 3.0 FR,width=100,height=35]]
 La page d’accueil est la première page affichée après vous être connecté
 sur la plateforme. Elle vous permet d’accéder à différentes fonctions et
 contenus, comme le fil de nouveautés, les widgets, le bandeau de
-navigation (présents sur chaque page de l’ENT) mais aussi de changer de
+navigation (présents sur chaque page de la plateforme) mais aussi de changer de
 thème.
 
 link:/assets/Page_accueil_1D.png[image:/assets/Page_accueil_1D.png[Accueil,width=700]]
@@ -101,7 +101,7 @@ Comme précédemment, en survolant la
 notification avec la souris, vous verrez apparaître une flèche sur la
 droite de la notification. En cliquant sur cette flèche, une action
 apparaît vous permettant de supprimer définitivement la notification de
-l'ENT. +
+la plateforme. +
 image:/assets/Premiers pas 10.png[alt=""]
 
 [[cas-d-usage-3]]
@@ -129,7 +129,7 @@ documentaire de l’utilisateur.
 image:/assets/Page_accueil_1D_dictaphone.png[alt=""]
 
 Vous pouvez changer l’ordre d’apparition des widgets sur la page
-d’accueil de l’ENT en sélectionnant le widget puis en le déplaçant sur
+d’accueil de la plateforme en sélectionnant le widget puis en le déplaçant sur
 la page.
 
 [[cas-d-usage-4]]
@@ -147,7 +147,7 @@ link:/assets/Bandeau_1D.PNG[image:/assets/Bandeau_1D.PNG[Bandeau,width=8000]]
 
 Les différents services disponibles depuis le bandeau sont les suivants :
 
-* Le bouton de notification de nouveaux messages reçus dans l’ENT et
+* Le bouton de notification de nouveaux messages reçus dans la plateforme et
 d'accès à la messagerie link:/assets/Page_accueil_1D_msg.png[image:/assets/Page_accueil_1D_msg.png[m1,width=40]]
 
 * L’accès à votre
@@ -157,7 +157,7 @@ compte link:/assets/Page_accueil_1D_MonCompte.png[image:/assets/Page_accueil_1D
 portail link:/assets/Page_accueil_1D_deco.png[image:/assets/Page_accueil_1D_deco.png[d1,width=40]]
 
 
-Trois vues sont également disponibles depuis n'importe quel endroit de l'ENT :
+Trois vues sont également disponibles depuis n'importe quel endroit de la plateforme:
 
 * La vue Quoi De Neuf qui est aussi la page d'accueil link:/assets/Page_accueil_1D_quoideneuf.png[image:/assets/Page_accueil_1D_quoideneuf.png[a1,width=40]]
 * La vue La Classe qui présente la listes des élèves de la classe link:/assets/Page_accueil_1D_laclasse.png[image:/assets/Page_accueil_1D_laclasse.png[a1,width=40]]
@@ -237,9 +237,9 @@ image:/assets/Page_accueil_1D_widget.png[alt=""]
 
 
 
-L'ENT est désormais doté d'un système de notification par mail qui
+La plateforme est désormais doté d'un système de notification par mail qui
 permet aux utilisateurs de recevoir sur leur adresse personnelle des
-mails contenant les nouveautés de l'ENT qui les concernent. +
+mails contenant les nouveautés de la plateforme qui les concernent. +
 Chaque utilisateur peut modifier les notifications qu'il souhaite
 recevoir et la fréquence de chacune d'elles (immédiate, quotidienne,
 hebdomadaire). +
@@ -262,7 +262,7 @@ image:/assets/Premiers pas 14.png[alt=""]
 
 Une fois la notification reçue dans sa boîte mail personnelle,
 l'utilisateur peut cliquer sur le lien correspondant afin d'accéder au
-contenu. S'il n'est pas connecté à l'ENT, il devra saisir son
+contenu. S'il n'est pas connecté à la plateforme, il devra saisir son
 identifiant et son mot de passe pour accéder à l'objet de la
 notification.
 
@@ -276,7 +276,7 @@ link:/assets/Page_accueil_1D_ex_notification.png[image:/assets/Page_accueil_1D_e
 
 
 Des messages d'informations à destinations de tous les utilisateurs de
-l'ENT s'affichent dans le fil de nouveautés via un bandeau coloré (1).
+la plateforme s'affichent dans le fil de nouveautés via un bandeau coloré (1).
 
 image:../../wp-content/uploads/2016/11/Image12-1024x556.png[image,width=600,height=326]
 
