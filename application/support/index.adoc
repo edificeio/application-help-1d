@@ -35,7 +35,7 @@ image:/assets/Assistance 2.png[alt=""]
 
 La page de création d’une nouvelle demande se présente comme suit :
 
-La zone (1) vous permet d’indiquer quelle application de l’ENT est
+La zone (1) vous permet d’indiquer quelle application de la plateforme est
 concernée par la demande en la choisissant dans la liste déroulante.
 
 La zone (2) permet de choisir l'établissement concerné si vous faites
