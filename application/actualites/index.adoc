@@ -10,8 +10,7 @@ L’actu 100 % bahut ! Ne laissez passer aucune info importante sur l’établis
 * link:index.html?iframe=true#cas-d-usage-3[Créer une actualité]
 * link:index.html?iframe=true#cas-d-usage-4[Partager une actualité]
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
+image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[]
 
 
 [[presentation]]
@@ -30,7 +29,7 @@ l’information. Les personnes concernées reçoivent une *notification*
 dans leur *fil de nouveautés* et voient appaaraître l’actualité dans le
 **widget Actualités** sur la page d'accueil.
 
-image:/assets/Actu 1.png[alt=""]
+image:/assets/Actu 1.png[]
 
 [[cas-d-usage-1]]
 == Créer un fil d'actualités
@@ -43,9 +42,9 @@ Pour créer un fil d'actualités, suivez les étapes suivantes :
 4.  Choisissez une image d'illustration
 5.  Cliquez sur « Sauvegarder »
 
-image:/assets/Actu 2.png[alt=""]
-image:/assets/Actu 3.png[alt=""]
-image:/assets/Actu 4.png[alt=""]
+image:/assets/Actu 2.png[]
+image:/assets/Actu 3.png[]
+image:/assets/Actu 4.png[]
 
 Par défaut seuls les enseignants et les personnels sont habilités à
 créer des fils d’actualités.
@@ -63,8 +62,9 @@ Vous pouvez maintenant partager votre fil d'actualités :
 2.  Sélectionnez la case à cocher du fil à partager
 3.  Cliquez sur « Partager »
 
-image:/assets/Actu 2.png[alt=""]
-image:/assets/Actu 5.png[alt=""] +
+image:/assets/Actu 2.png[]
+image:/assets/Actu 5.png[] 
+
 Pour partager le fil d'actualités avec d'autres utilisateurs, suivez les
 étapes suivantes :
 
@@ -74,7 +74,7 @@ d’utilisateurs que vous recherchez
 3.  Cochez les cases correspondant aux droits que vous souhaitez leur
 attribuer.
 
-image:/assets/Actu 6.png[alt=""]
+image:/assets/Actu 6.png[]
 
 Les différents droits que vous pouvez attribuer aux autres utilisateurs
 de la plateforme sur le fil d'actualités sont les suivants :
@@ -89,7 +89,8 @@ d'actualités
 == Créer une actualité
 
 Pour créer une actualité, cliquez sur le bouton « Nouvelle actualité ».
-image:/assets/Actu 7.png[alt=""]
+
+image:/assets/Actu 7.png[]
 
 Dans la nouvelle fenêtre, indiquez le titre de l'actualité (1), le fil
 auquel l'actualité sera rattachée (2), les dates de publication et
@@ -97,7 +98,7 @@ d'expiration (3), et le contenu de votre actualité (4). +
 La case à cocher « Mettre à la une » permet de laisser votre actualité
 en haut de la liste.
 
-image:/assets/Actu 8.png[alt=""]
+image:/assets/Actu 8.png[]
 
 Plusieurs actions sont ensuite proposées :
 
@@ -117,7 +118,8 @@ appartient.
 Pour cela, cliquez sur la case à cocher de l'actualité concernée (1)
 puis sur « Partager » (2).
 
-image:/assets/Actu 9.png[alt=""]
+image:/assets/Actu 9.png[]
+
 Pour attribuer ces droits, suivez les étapes suivantes :
 
 1.  Saisissez les premières lettres du nom de l’utilisateur ou du groupe
@@ -126,7 +128,7 @@ d’utilisateurs que vous recherchez
 3.  Cochez les cases correspondant aux droits que vous souhaitez leur
 attribuer :
 
-image:/assets/Actu 6.png[alt=""]
+image:/assets/Actu 6.png[]
 
 Les différents droits que vous pouvez attribuer aux autres utilisateurs
 de la plateforme sur l'actualité sont les suivants :

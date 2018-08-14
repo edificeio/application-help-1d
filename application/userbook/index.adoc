@@ -17,8 +17,7 @@ informations personnelles]
 notifications émises]
 * link:index.html?iframe=true#notes-de-versions[Note de version]
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
+image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[]
 
 
 [[presentation]]
@@ -33,18 +32,18 @@ Pour accéder à votre compte, connectez-vous à la plateforme en saisissant vot
 
 Cliquez sur « Connexion ».
 
-image:../../wp-content/uploads/2015/07/m1.png[m1,width=454,height=256]
+image:../../wp-content/uploads/2015/07/m1.png[]
 
 Cliquez sur l’avatar en haut à droite de l'écran.
 
-link:/assets/Bandeau_1D.PNG[image:/assets/Bandeau_1D.PNG[Bandeau,width=8000]]
+image:/assets/Bandeau_1D.PNG[]
 
 
 Vous accédez à votre espace personnel où vous pouvez modifier vos
 informations : photo, coordonnées, devise, humeur, centres d’intérêt, en
 cliquant simplement sur le champ à modifier.
 
-image:/assets/Mon compte 1.png[alt=""]
+image:/assets/Mon compte 1.png[]
 
 '''''
 
@@ -54,16 +53,13 @@ ce nom d'affichage est le prénom et le nom de l'utilisateur.
 
 '''''
 
- 
-
 [[cas-d-usage-2]]
 == Changer ma photo de profil
 
-
-
 Pour changer votre photo, cliquez directement sur la photo ou sur
 l'avatar par défaut.
-image:/assets/Mon compte 2.png[alt=""]
+
+image:/assets/Mon compte 2.png[]
 
 Vous pouvez choisir une photo à partir de votre espace personnel de
 la plateforme en la sélectionnant dans :
@@ -73,7 +69,8 @@ la plateforme en la sélectionnant dans :
 utilisateurs,
 * « Documents ajoutés dans les applis » : documents insérés dans une
 appli.
-image:/assets/Mon compte 3.png[alt=""]
+
+image:/assets/Mon compte 3.png[]
 
 
 
@@ -86,12 +83,12 @@ de travail.
 Sélectionnez un fichier dans votre poste de travail et cliquez sur
 ouvrir. Cliquez en suite sur « Importer » pour lancer le téléchargement.
 
-image:/assets/Mon compte 4.png[alt=""]
+image:/assets/Mon compte 4.png[]
 
 Votre photo est maintenant visible dans votre compte et par tous les
 utilisateurs !
 
-image:/assets/Mon compte 5.png[alt=""]
+image:/assets/Mon compte 5.png[]
 
 Votre photo est visible dans le fil de nouveautés des autres
 utilisateurs lorsque vous leur partagez un contenu mais également
@@ -100,11 +97,10 @@ lorsque vous postez un message dans un forum.
 [[cas-d-usage-3]]
 == Changer de mot de passe
 
-
-
 Pour changer votre mot de passe, cliquez sur « Modifier mon mot de
 passe ».
-image:/assets/Mon compte 6.png[alt=""]
+
+image:/assets/Mon compte 6.png[]
 
 Puis suivez les étapes suivantes :
 
@@ -113,7 +109,7 @@ Puis suivez les étapes suivantes :
 * Saisissez la « Confirmation du mot de passe »
 * Cliquez sur « Réinitialiser »
 
-image:/assets/Mon compte 7.png[alt=""]
+image:/assets/Mon compte 7.png[]
 
 Votre mot de passe est maintenant modifié !
 
@@ -125,7 +121,8 @@ compte ».
 
 Pour ajouter ou modifier votre adresse mail, saisissez votre nouvelle
 adresse dans le champ prévu, en face de « Adresse courrielle ».
-image:/assets/Mon compte 8.png[alt=""]
+
+image:/assets/Mon compte 8.png[]
 
 En cas d’oubli de votre mot de passe, un lien de récupération vous sera
 envoyé sur l’adresse mail renseignée dans votre compte.
@@ -133,12 +130,10 @@ envoyé sur l’adresse mail renseignée dans votre compte.
 [[cas-d-usage-5]]
 == Ajouter une devise à mon compte
 
-
-
 Vous pouvez ajouter une devise à votre compte. Pour cela, remplissez le
 champ « Devise » sous vos coordonnées.
 
-image:/assets/Mon compte 9.png[alt=""]
+image:/assets/Mon compte 9.png[]
 
 Votre devise sera visible sur votre profil et apparaitra dans le fil de
 nouveautés des autres utilisateurs de la plateforme lorsque vous la modifierez.
@@ -146,43 +141,39 @@ nouveautés des autres utilisateurs de la plateforme lorsque vous la modifierez.
 [[cas-d-usage-6]]
 == Changer mon humeur
 
-
-
 Pour changer votre humeur, cliquez sur l’icône en dessous de votre
 photo.
 
-image:/assets/Mon compte 10.png[alt=""]
+image:/assets/Mon compte 10.png[]
 
 Une liste d’humeurs apparaît. Choisissez celle que vous souhaitez.
 
 
-image:/assets/Mon compte 11.png[alt=""]
+image:/assets/Mon compte 11.png[]
  
 Votre nouvelle humeur apparaît sur votre compte et est maintenant
 visible dans le fil de nouveautés des autres utilisateurs de la plateforme avec lesquels vous avez le droit de communiquer.
 
+
 [[cas-d-usage-7]]
 == Modifier mes centres d'intérêt
-
-
 
 Vous pouvez modifier vos centres d’intérêt : animaux, cinéma, musique,
 endroits et sports.
 
-image:/assets/Mon compte 12.png[alt=""]
+image:/assets/Mon compte 12.png[]
 
 Saisissez les informations souhaitées dans les champs correspondants.
 
-image:/assets/Mon compte 13.png[alt=""]
+image:/assets/Mon compte 13.png[]
 
 Mais aussi d'autres commentaires dans « Divers ».
-image:/assets/Mon compte 14.png[alt=""]
+
+image:/assets/Mon compte 14.png[]
 
 
 [[cas-d-usage-8]]
 == Définir la visibilité de mes informations personnelles
-
-
 
 Vous avez la possibilité de définir la visibilité de vos informations
 personnelles grâce à l’icône située au bout de chaque ligne.
@@ -193,23 +184,22 @@ visibilité que vous souhaitez :
 * L’icône “Cadenas” signifie que l’information est privée, vous êtes le
 (la) seul(e) à la voir.
 
-image:../../wp-content/uploads/2015/07/m16.png[m16,width=36,height=36]
+image:../../wp-content/uploads/2015/07/m16.png[]
 
 * L’icône “Globe” signifie que l’information est visible des autres
 utilisateurs de l’ENT, en fonction des droits de communication dont ils
 disposent.
 
-image:../../wp-content/uploads/2015/07/m18.png[m18,width=32,height=27] +
+image:../../wp-content/uploads/2015/07/m18.png[]
+
 Lorsque vous ajoutez ou modifiez le texte ou les paramètres de
 visibilité dans votre espace personnel, l’enregistrement est
 automatique.
 
-image:/assets/Mon compte 15.png[alt=""]
+image:/assets/Mon compte 15.png[]
 
 [[cas-d-usage-9]]
 == Notifications externes
-
-
 
 La plateforme est désormais doté d'un système de notification par mail qui
 permet aux utilisateurs de recevoir sur leur adresse personnelle des
@@ -220,7 +210,7 @@ hebdomadaire). +
 Pour accéder à ce paramétrage, aller dans mon compte  et cliquer sur
 le bouton "Gérer mes notifications externes" 
 
-image:/assets/Mon compte 16.png[alt=""]
+image:/assets/Mon compte 16.png[]
 
 La page de paramétrage des notifications externes permet de modifier
 l'adresse de réception des mails (3) et de choisir la fréquence d'envoi
@@ -229,12 +219,12 @@ de chaque notification (immédiat, quotidien, hebdomadaire, jamais)
 Le détail des notifications disponibles par service est accessible en
 cliquant sur le nom du service dans la ligne correspondante (5).
 
-image:/assets/Mon compte 17.png[alt=""]
+image:/assets/Mon compte 17.png[]
 
 Lorsque les modifications sont terminées, cliquer sur "Enregistrer" en
 bas du tableau (6).
 
-image:/assets/Mon compte 18.png[alt=""]
+image:/assets/Mon compte 18.png[]
 
 Une fois la notification reçue dans sa boîte mail personnelle,
 l'utilisateur peut cliquer sur le lien correspondant afin d'accéder au
@@ -242,8 +232,7 @@ contenu. S'il n'est pas connecté à la plateforme, il devra saisir son
 identifiant et son mot de passe pour accéder à l'objet de la
 notification.
 
-link:../../wp-content/uploads/2016/12/notif-externe-réception.png[image:../../wp-content/uploads/2016/12/notif-externe-réception.png[notif
-externe - réception,width=200]]
+image:../../wp-content/uploads/2016/12/notif-externe-réception.png[]
 
 [[cas-d-usage-10]]
 == Historique des notifications émises
@@ -255,10 +244,14 @@ utilisateurs avec lesquels vous avez des droits de communication ou vous
 avez partagé du contenu. +
 Depuis votre espace "Mon compte", vous retrouverez toutes les
 notifications que vous avez émis en cliquant sur l'onglet
-"Historique". +
-image:/assets/Mon compte 19.png[alt=""]En survolant la notification avec la
+"Historique".
+
+image:/assets/Mon compte 19.png[]
+
+En survolant la notification avec la
 souris, vous verrez apparaître une flèche sur la droite de la
 notification. En cliquant sur cette flèche, une action apparaît vous
-permettant de supprimer définitivement la notification de la plateforme. +
-image:/assets/Mon compte 20.png[alt=""]
+permettant de supprimer définitivement la notification de la plateforme.
+
+image:/assets/Mon compte 20.png[]
 
