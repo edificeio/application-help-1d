@@ -5,7 +5,7 @@ La page d’accueil
 
 La page d’accueil est la première page affichée après vous être connecté sur la plateforme. Elle vous permet d’accéder à différentes fonctions et contenus, comme le fil de nouveautés, les widgets, le bandeau de navigation (présents sur chaque page de la plateforme) mais aussi de changer de thème.
 
-[/assets/Page\_accueil\_1D.png](/assets/Page_accueil_1D.png)
+![](/assets/Page_accueil_1D.png)
 
 Le fil de nouveautés
 ====================

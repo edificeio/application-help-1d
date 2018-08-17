@@ -101,7 +101,7 @@ Une fois la saisie terminée, vous pouvez soit :
 
 Pour les utilisateurs pouvant contribuer à un blog dans lequel le circuit de publication a été activé, un bouton « Envoyer » s’affiche : il leur permet de soumettre leur billet au gestionnaire du blog qui se chargera de la publication ou non du billet.  
 
-![](:/assets/Blog 11.png)
+![](/assets/Blog 11.png)
 
 Valider un billet
 =================
