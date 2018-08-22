@@ -210,15 +210,21 @@ Vous retrouvez la fenêtre de partage dans la majeure partie des applications. C
 
 Vous accédez à la fenêtre de partage dans laquelle vous allez pouvoir rechercher des utilisateurs. Renseignez les premières lettres de la personne, ou du groupe que vous recherchez \(1\). Dans la liste qui vous est proposée, sélectionnez le ou les utilisateurs recherchés \(2\). Si l’utilisateur ou le groupe n’apparaît pas, cliquez sur "Voir la suite" pour dérouler la liste de propositions \(3\).
 
-![](.gitbook/assets/2018-08-22_17h11_39%20%281%29.png)
+![](.gitbook/assets/2018-08-22_17h15_45%20%281%29.png)
 
 Vous avez la possibilité d’enregistrer une liste d’utilisateurs ou de groupes comme favori de partage. Une fois vos destinataires sélectionnés, cliquez sur "Enregistrer comme favori de partage" \(1\).
 
+![](.gitbook/assets/2018-08-22_17h49_02.png)
+
 Il vous suffit ensuite d’inscrire le nom que vous souhaitez donner au favori \(1\) et cliquer sur OK \(2\).
+
+![](.gitbook/assets/2018-08-22_17h50_08.png)
 
 Vous retrouverez ensuite ce favori de partage dans votre barre de recherche, au nom que vous avez enregistré. Vous pourrez ainsi partager plus facilement à un groupe de destinataires avec lequel vous avez l’habitude d'échanger régulièrement des contenus. Après avoir sélectionné votre favori de partage, il vous sera toujours possible de consulter la liste des membres du favori directement dans la fenêtre de partage. Cliquez sur la petite encoche à côté du nom de votre favori \(1\). Consultez les personnes ou les groupes rattachés à votre liste \(2\).
 
+![](.gitbook/assets/2018-08-22_17h51_48.png)
+
 Afin que vous partage soit pris en compte, n’oubliez pas de cliquer sur le bouton "Partager".
 
-
+![](.gitbook/assets/2018-08-22_17h52_48.png)
 
