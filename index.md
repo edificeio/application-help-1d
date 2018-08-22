@@ -79,7 +79,7 @@ Les widgets se situent à gauche du fil de nouveautés. Ils sont composés des n
 
 Vous pouvez changer l’ordre d’apparition des widgets sur la page d’accueil de la plateforme en sélectionnant le widget puis en le déplaçant sur la page.
 
-## Le bandeau de navigation et les vues
+## Le bandeau de navigation 
 
 Le bandeau de navigation situé en haut de la page permet d’accéder à différents services, quelle que soit l’appli dans laquelle vous naviguez.
 
@@ -127,6 +127,30 @@ Pour modifier les pièces jointes, faire un clic droit dans la zone grisée et c
 
 ![](.gitbook/assets/premiers-pas-13.png)
 
+## L’éditeur d'images
+
+L’éditeur d’images permet de modifier une image en cours d’import ou déjà importée. Vous pouvez y accéder directement en cliquant sur une image depuis l'éditeur :
+
+![](.gitbook/assets/retouche-image.png)
+
+ Depuis la fenêtre d’import d’images, après avoir sélectionné l'image :
+
+![](.gitbook/assets/2018-08-22_16h43_03.png)
+
+ Ou encore depuis l’espace documentaire :
+
+![](.gitbook/assets/2018-08-22_16h29_35.png)
+
+L’éditeur d’images permet de :
+
+1. Pivoter une image
+2. Rogner
+3. Flouter des visages ou une partie de l'image
+4. Redimensionner
+5. Changer le titre, ajouter un texte alternatif pour les mal-voyants ou une légende
+
+![](.gitbook/assets/2018-08-22_16h43_35.png)
+
 ## La gestion des paramètres
 
 La gestion des paramètres vous permet de modifier votre thème d’apparence mais également de choisir l’affichage de ses widgets.
@@ -149,9 +173,13 @@ Pour décider d’afficher seulement certains widgets, désélectionnez ceux que
 
 La plateforme est doté d’un système de notification par mail qui permet aux utilisateurs de recevoir sur leur adresse personnelle les nouveautés de la plateforme qui les concernent.  
 Chaque utilisateur peut paramétrer les notifications qu’il souhaite recevoir et leur fréquence \(immédiate, quotidienne, hebdomadaire\).  
-Pour accéder à ce paramétrage, aller dans Mon compte \(1\) et cliquer sur le bouton "Gérer mes notifications externes" \(2\).
+Pour accéder à ce paramétrage, aller dans Mon compte \(1\),
 
-![](.gitbook/assets/page_accueil_1d_notifications.png)
+![](.gitbook/assets/moncompte.png)
+
+et cliquer sur le bouton "Gérer mes notifications externes" \(2\).
+
+![](.gitbook/assets/notification.png)
 
 La page de paramétrage des notifications externes permet de modifier l’adresse de réception des mails \(3\) et de choisir la fréquence d’envoi de chaque notification \(immédiat, quotidien, hebdomadaire, jamais\) \(4\).  
 Le détail des notifications disponibles par service est accessible en cliquant sur le nom du service dans la ligne correspondante \(5\). Lorsque les modifications sont terminées, cliquer sur "Enregistrer" en bas du tableau \(6\).
@@ -166,7 +194,31 @@ Une fois la notification reçue dans sa boîte mail personnelle, l’utilisateur
 
 Des messages d’informations à destinations de tous les utilisateurs de la plateforme s’affichent dans le fil de nouveautés via un bandeau coloré \(1\).
 
-![](.gitbook/assets/image12-1024x556.png)
+![](.gitbook/assets/2018-08-22_17h05_11.png)
 
 Après avoir pris connaissance du message, vous avez la possibilité de le supprimer en cliquant sur la croix à droite de celui-ci \(2\).
+
+![](.gitbook/assets/2018-08-22_17h06_34.png)
+
+## Partage et favoris de partage {#partage-et-favoris-de-partage}
+
+Vous retrouvez la fenêtre de partage dans la majeure partie des applications. Cette fenêtre vous permet de partager un contenu que vous avez crée ou sur lequel vous avez des droits de gestion. Le bouton "Partager" est accessible en règle générale dans le menu qui apparaît en bas de votre écran. Sélectionnez le contenu en question \(1\) puis cliquez sur "Partager" \(2\).
+
+ 
+
+![](.gitbook/assets/2018-08-22_17h19_48.png)
+
+Vous accédez à la fenêtre de partage dans laquelle vous allez pouvoir rechercher des utilisateurs. Renseignez les premières lettres de la personne, ou du groupe que vous recherchez \(1\). Dans la liste qui vous est proposée, sélectionnez le ou les utilisateurs recherchés \(2\). Si l’utilisateur ou le groupe n’apparaît pas, cliquez sur "Voir la suite" pour dérouler la liste de propositions \(3\).
+
+![](.gitbook/assets/2018-08-22_17h11_39%20%281%29.png)
+
+Vous avez la possibilité d’enregistrer une liste d’utilisateurs ou de groupes comme favori de partage. Une fois vos destinataires sélectionnés, cliquez sur "Enregistrer comme favori de partage" \(1\).
+
+Il vous suffit ensuite d’inscrire le nom que vous souhaitez donner au favori \(1\) et cliquer sur OK \(2\).
+
+Vous retrouverez ensuite ce favori de partage dans votre barre de recherche, au nom que vous avez enregistré. Vous pourrez ainsi partager plus facilement à un groupe de destinataires avec lequel vous avez l’habitude d'échanger régulièrement des contenus. Après avoir sélectionné votre favori de partage, il vous sera toujours possible de consulter la liste des membres du favori directement dans la fenêtre de partage. Cliquez sur la petite encoche à côté du nom de votre favori \(1\). Consultez les personnes ou les groupes rattachés à votre liste \(2\).
+
+Afin que vous partage soit pris en compte, n’oubliez pas de cliquer sur le bouton "Partager".
+
+
 
