@@ -1,14 +1,47 @@
 # Annuaire
 
-Besoin de rentrer en contact rapidement ? Pas de panique, grâce à l’appli **Annuaire**, recherchez facilement un utilisateurs avec lequel vous pouvez communiquer !
-
-![](.gitbook/assets/cc-by-nc-sa-3.0-fr-300x105%20%282%29.png)
+ Grâce à l’**Annuaire**, vous allez pouvoir rechercher les utilisateurs et les groupes avec lesquels vous pouvez communiquer. Vous pourrez également créer et gérer vos favoris de partage. Tout votre réseau accessible au même endroit !
 
 ## Présentation
 
-Pour effectuer une recherche, il suffit de saisir les premières lettres du nom ou du prénom de l’utilisateur et de filtrer les résultats par structure ou type de profil.
+Grâce au service "Annuaire", vous allez pouvoir :
 
-Le code couleur présent sur chaque vignette permet d’identifier rapidement le profil des utilisateurs \(enseignant, élève, parent, etc.\). En cliquant sur une vignette, il est possible d’accéder aux **informations personnelles** de l’utilisateur \(photo, classe, statut…\) et **d’interagir avec lui en quelques clics** \(envoi d’un message par exemple\).
+* Rechercher un utilisateur
+* Rechercher un groupe
+* Créer et gérer des favoris de partage
 
-![](.gitbook/assets/annuaire-1.png)
+![](.gitbook/assets/2018-08-22_18h11_12.png)
+
+## Rechercher un utilisateur {#rechercher-un-utilisateur}
+
+Vous pouvez rechercher facilement et rapidement un utilisateur. Pour effectuer votre recherche, vous disposez un onglet de recherche \(1\) et de filtres afin d’affiner les résultats. Vous pourrez filtrer par :
+
+* Classe \(2\)
+* Profil \(élève, enseignant, parent, personnel, invité\) \(3\)
+* Fonction \(administrateur\) \(4\)
+
+![](.gitbook/assets/2018-08-22_18h17_30.png)
+
+ Une fois l’utilisateur trouvé, vous pouvez consulter sa fiche. Vous avez la possibilité de lui envoyer un message \(1\), l’ajouter dans vos favoris de partage \(2\), ou consulter tout simplement les informations disponibles sur sa fiche.
+
+![](.gitbook/assets/2018-08-22_18h14_20.png)
+
+## Rechercher un groupe {#rechercher-un-groupe}
+
+Vous pouvez rechercher facilement et rapidement un groupe d’utilisateurs. Pour effectuer votre recherche, vous disposez un onglet de recherche \(1\) et de filtres afin d’affiner les résultats. Vous pourrez filtrer par :
+
+* Classe \(2\)
+* Profil \(élève, enseignant, parent, personnel, invité\) \(3\)
+* Fonction \(administrateur\) \(4\)
+* Type de groupe \(Groupe d’enseignement, groupe de communauté, groupe manuel\) \(5\)
+
+![](.gitbook/assets/2018-08-22_18h15_28.png)
+
+Une fois le groupe trouvé, vous pouvez accéder à la liste des utilisateurs concernés. Vous avez la possibilité d’envoyer un message au groupe \(1\), d’ajouter le groupe à vos favoris de partage \(2\), ou consulter leurs fiches individuelles.
+
+![](.gitbook/assets/2018-08-22_18h19_24.png)
+
+## Gérer vos favoris de partage {#gerer-vos-favoris-de-partage}
+
+En cliquant sur la fenêtre des favoris, vous pourrez gérer des listes d’utilisateurs avec lesquels vous communiquez régulièrement. Vous retrouverez vos listes de favoris à chaque fois que vous aurez besoin de partager un contenu, à travers l’onglet de recherche d’utilisateurs dans la fenêtre de partage, ainsi que dans la messagerie. Dans cet espace, vous voyez apparaître vos favoris préalablement enregistrés \(1\). Vous avez la possibilité d’effectuer une recherche dans vos listes de favoris grâce à la barre de recherche \(2\), ou bien de créer directement une liste \(3\).
 
