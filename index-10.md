@@ -1,21 +1,12 @@
 # Espace documentaire
 
-À chacun son classeur numérique ! Grâce à l’application **Espace documentaire**, retrouvez, au même endroit, tous les documents utilisés à travers les applis ONE Stockez d’autres fichiers et organisez-les dans votre espace en fonction de leurs thématiques, du cours ou de la classe concernée !
+À chacun son classeur numérique ! Grâce à l’application **Espace documentaire**, retrouvez, au même endroit, tous les documents utilisés à travers les applis du réseau. Stockez d’autres fichiers et organisez-les dans votre espace en fonction de leurs thématiques, du cours ou de la classe concernée !
 
-* [Présentation](https://github.com/web-education/application-help-1d/tree/ad32183a1d403a859b77c57fb7a49b74169d99cc/application/workspace/index.html?iframe=true#presentation)
-* [Importer un document](https://github.com/web-education/application-help-1d/tree/ad32183a1d403a859b77c57fb7a49b74169d99cc/application/workspace/index.html?iframe=true#cas-d-usage-1)
-* [Déplacer un document ou un dossier](https://github.com/web-education/application-help-1d/tree/ad32183a1d403a859b77c57fb7a49b74169d99cc/application/workspace/index.html?iframe=true#cas-d-usage-2)
-* [Naviguer dans mon Espace Documentaire](https://github.com/web-education/application-help-1d/tree/ad32183a1d403a859b77c57fb7a49b74169d99cc/application/workspace/index.html?iframe=true#cas-d-usage-3)
-* [Connaître l’espace de stockage disponible](https://github.com/web-education/application-help-1d/tree/ad32183a1d403a859b77c57fb7a49b74169d99cc/application/workspace/index.html?iframe=true#cas-d-usage-4)
-* [Ajouter la nouvelle version d’un document](https://github.com/web-education/application-help-1d/tree/ad32183a1d403a859b77c57fb7a49b74169d99cc/application/workspace/index.html?iframe=true#cas-d-usage-5)
-* [Accéder aux anciennes versions de son document](https://github.com/web-education/application-help-1d/tree/ad32183a1d403a859b77c57fb7a49b74169d99cc/application/workspace/index.html?iframe=true#cas-d-usage-6)
-* [Note de version](https://github.com/web-education/application-help-1d/tree/ad32183a1d403a859b77c57fb7a49b74169d99cc/application/workspace/index.html?iframe=true#notes-de-versions)
-
-mage:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png\[\]
+![](.gitbook/assets/2018-08-23_17h39_10.png)
 
 ## Présentation
 
-L’application Document d’un utilisateur est composée de 4 dossiers :
+L’application Espace documentaire d’un utilisateur est composée de 4 dossiers :
 
 ![](.gitbook/assets/espacedocone_1-menu.JPG)
 
@@ -27,7 +18,7 @@ L’application Document d’un utilisateur est composée de 4 dossiers :
 
 **En centralisant l’ensemble des documents accessibles par l’utilisateur, l’appli Documents permet d’intégrer facilement un contenu dans n’importe quelle appli.**
 
-== Importer un document
+## Importer un document
 
 Pour importer un document dans votre espace de stockage personnel, cliquez sur le bouton « Importer » situé en haut de l’interface.
 
@@ -45,7 +36,9 @@ Dans la nouvelle fenêtre, suivez les étapes suivantes :
 
 **Vous pouvez importer plusieurs fichiers en une seule fois, si vous en sélectionnez plusieurs sur votre ordinateur.**
 
-![](.gitbook/assets/espacedocone_11.JPG) _'_''
+ _'_''
+
+![](.gitbook/assets/espacedocone_11.JPG)
 
 Vous pouvez aussi importer un document ou plusieurs documents en effectuant un glisser-déposer. Pour cela, sélectionnez le ou les documents à déplacer \(1\) depuis votre espace de travail et glissez-le vers son nouvel emplacement \(2\).
 
