@@ -125,8 +125,7 @@ Les photos de profils sous le titre « Carnet de liaison » permet au parent de 
 Les élèves ont un droit de lecture sur chaque mot qui est envoyé à leurs parents. Ils peuvent ainsi :
 
 * Voir si le mot a été lu par un parent \(1\)
-* Savoir quel\(s\) parent\(s\) a/ont lu le mot \(2\)
-* Voir les réponses éventuelles d’un parent \(3\)
+* Voir les réponses éventuelles de ses parents \(2\)
 
-![](.gitbook/assets/carnet_liaison_17.png)
+![](.gitbook/assets/2018-08-23_17h06_39.png)
 
