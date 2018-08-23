@@ -44,6 +44,27 @@ Vous pouvez aussi importer un document ou plusieurs documents en effectuant un g
 
 ![](.gitbook/assets/espacedocone_5-glisser-deposer.JPG)
 
+## Partager un document
+
+Pour partager un document à d'autres utilisateurs, sélectionnez le document \(1\), puis cliquez sur "Partager" \(2\).
+
+![](.gitbook/assets/2018-08-23_17h45_10.png)
+
+Si vous partagez un dossier, un message vous indiquera que le partage concernera également tous les fichiers et sous dossiers contenus dans le dossier en question. 
+
+![](.gitbook/assets/2018-08-23_17h46_01.png)
+
+Cliquez sur continuer pour accéder à la fenêtre de partage. Recherchez les utilisateurs ou les groupes d'utilisateurs avec lesquels vous souhaitez partager le document \(1\), sélectionnez-les dans les suggestions qui apparaissent en dessous \(2\). Accordez leur les droits que vous souhaitez \(3\) et validez votre sélection en cliquant sur "Partager" \(4\).
+
+![](.gitbook/assets/2018-08-23_17h48_11.png)
+
+Les droits sont les suivants :
+
+* Consulter : droit de lecture
+* Contribuer : droit de modification sur le document
+* Gérer : droit de propriété sur le document. L'utilisateur peut ainsi décider de supprimer le document s'il le souhaite
+* Commenter : droit de commentaire sur le document
+
 ## Déplacer un document ou un dossier
 
 Vous pouvez déplacer vos documents et vos dossiers facilement dans votre espace documentaire. Pour cela, sélectionnez le document ou le dossier à déplacer \(1\) et glissez-le vers son nouvel emplacement \(2\).
