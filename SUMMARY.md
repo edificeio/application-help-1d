@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Premiers pas dans l'ENT](index.md)
+* [Premiers pas](index.md)
 * [Actualités](index-1.md)
 * [Annuaire](index-2.md)
 * [Assistance ENT](index-3.md)
