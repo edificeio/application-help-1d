@@ -1,8 +1,6 @@
 # Blog
 
-Endossez la casquette du petit reporter ! Créez un **Blog** ! Publier et partager facilement vos informations, en y intégrant différents types de contenus : texte, images, vidéos, etc.
-
-![](.gitbook/assets/cc-by-nc-sa-3.0-fr-300x105%20%284%29.png)
+Endossez la casquette du petit reporter en créant un **Blog** ! Publiez et partagez facilement vos informations, en y intégrant différents types de contenus : texte, images, vidéos, etc. Permettez à vos collègues ou vos élèves de contribuer ou de commenter vos billets facilement.
 
 ## Présentation
 
@@ -44,8 +42,9 @@ Le blog a été créé mais n’est pas encore visible par les autres utilisateu
 1. Saisissez les premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs que vous recherchez.
 2. Sélectionnez le résultat.
 3. Cochez les cases correspondant aux droits que vous souhaitez leur attribuer.
+4. Pour valider, cliquez sur le bouton "Partager".
 
-![](.gitbook/assets/blog-6.png)
+![](.gitbook/assets/2018-08-23_10h08_22.png)
 
 Les différents droits que vous pouvez attribuer aux autres utilisateurs sont les suivants :
 
