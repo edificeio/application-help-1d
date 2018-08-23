@@ -1,8 +1,6 @@
 # Assistance ENT
 
-Un problème, une difficulté ? Pas de panique ! L’appli **Assistance ENT** vous permet de signaler un problème d’utilisation de l’ENT aux administrateurs de l'établissement.
-
-![](.gitbook/assets/cc-by-nc-sa-3.0-fr-300x105.png)
+Un problème, une question ? On a pensé à tout ! L’appli **Assistance ENT** vous permet d’envoyer votre demande aux administrateurs de l'établissement, pour une communication rapide et fluide.
 
 ## Présentation
 
@@ -18,19 +16,13 @@ La demande de création se fait en cliquant sur le bouton « Nouvelle demande »
 
 La page de création d’une nouvelle demande se présente comme suit :
 
-La zone \(1\) vous permet d’indiquer quelle application de la plateforme est concernée par la demande en la choisissant dans la liste déroulante.
+* La zone \(1\) vous permet d’indiquer quelle application de la plateforme est concernée par la demande en la choisissant dans la liste déroulante.
+* La zone \(2\) permet de saisir un intitulé pour la demande.
+* La zone \(3\) permet de développer votre question.
+* Le bouton « Ajouter une pièce jointe » \(4\) permet de joindre une copie d’écran ou un document pour illustrer votre propos.
+* La saisie est enregistrée lorsque vous cliquez sur le bouton « Enregistrer »\(5\).
 
-La zone \(2\) permet de choisir l'établissement concerné si vous faites parti de plusieurs établissements.
-
-La zone \(3\) permet de saisir un intitulé pour la demande.
-
-La zone \(4\) permet de développer votre question.
-
-Le bouton « Ajouter une pièce jointe » \(5\) permet de joindre une copie d’écran ou un document pour illustrer votre propos.
-
-La saisie est enregistrée lorsque vous cliquez sur le bouton « Enregistrer »\(6\).
-
-![](.gitbook/assets/assistance-3.png)
+![](.gitbook/assets/2018-08-23_10h03_37.png)
 
 La création d’une nouvelle demande donne lieu à l’envoi d’une notification dans le fil de nouveautés de l’administrateur de l'établissement.
 
@@ -41,9 +33,11 @@ Les référents ENT reçoivent toutes les demandes des utilisateurs et peuvent c
 
 ![](.gitbook/assets/assistance-4.png)
 
-Les référents ENT et les demandeurs de l'établissement seront notifiés sur leur fil de nouveauté lorsque le support aura fourni une réponse à la demande.
+Les référents ENT et les demandeurs de l'établissement seront notifiés sur leur fil de nouveauté lorsque le support aura fourni une réponse à la demande. Le référent ENT et le demandeur peuvent visualiser l’ensemble des échanges.
 
-Le référent ENT et le demandeur peuvent visualiser l’ensemble des échanges.
+![](.gitbook/assets/assistance-5.png)
 
-![](.gitbook/assets/assistance-5.png) ![](.gitbook/assets/aide_4-1024x432.png)
+![](.gitbook/assets/aide_4-1024x432.png)
+
+
 
