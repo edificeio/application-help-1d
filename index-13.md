@@ -1,8 +1,6 @@
 # Messagerie
 
-La boîte mail dédiée à l’école! La **Messagerie** ONE vous permet d’envoyer un message à un utilisateur, ou à un groupe d’utilisateurs selon des règles de communication préalablement définies !
-
-![](.gitbook/assets/cc-by-nc-sa-3.0-fr-300x105.png)
+La boîte mail dédiée à l’école ! La **Messagerie** vous permet d’envoyer un message à un utilisateur, ou à un groupe d’utilisateurs selon des règles de communication préalablement définies !
 
 ## Présentation
 
@@ -12,9 +10,13 @@ L’appli Messagerie permet d’envoyer simplement un message à **un utilisateu
 
 La réception d’un nouveau message est visible dès la page d’accueil. Elle est indiquée par une **notification** dans le bandeau de navigation et dans le fil de nouveautés. Le nombre de messages non lus est indiqué devant chaque dossier.
 
+![](.gitbook/assets/2018-08-23_18h08_39.png)
+
 ## Envoyer un message
 
-Dans le service Messagerie, cliquez sur le bouton « Nouveau message » présent en haut de la page. ![](.gitbook/assets/messagerie-v2-18.png)
+Dans le service Messagerie, cliquez sur le bouton « Nouveau message » présent en haut de la page.
+
+![](.gitbook/assets/messagerie-v2-18.png)
 
 Vous accédez à la fenêtre de création d’un message.
 
