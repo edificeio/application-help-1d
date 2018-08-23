@@ -2,13 +2,13 @@
 
 Besoin de communiquer un mot aux parents d’élèves ? Mais comment savoir s’ils en ont pris connaissance ? Envoyez-le via le **carnet de liaison** !
 
-L’application carnet de liaison permet à l’enseignant d’envoyer des mots aux parents d’élèves et d’accéder au suivi des lectures. En activant l’option « réponse », les parents pourront réagir au mot.
+## Présentation
 
-La possibilité d’imprimer les mots en coupons assure la complémentarité entre le numérique et le papier !
+L’application carnet de liaison permet à l’enseignant d’envoyer des mots aux parents d’élèves et d’accéder au suivi des lectures. En activant l’option « réponse », les parents pourront réagir au mot. La possibilité d’imprimer les mots en coupons assure la complémentarité entre le numérique et le papier !
 
-![](.gitbook/assets/cc-by-nc-sa-3.0-fr-300x105.png)
+![](.gitbook/assets/2018-08-23_12h05_14.png)
 
-## Créer et envoyer un mot
+## Créez un mot
 
 Cliquez d’abord sur le bouton « Créer un mot ».
 
@@ -16,41 +16,37 @@ Cliquez d’abord sur le bouton « Créer un mot ».
 
 L’assistant de création d’un mot s’ouvre, il permet d’envoyer un mot en 4 étapes :
 
-### 1ère étape : Contenu du mot
+## Rédigez le contenu du mot
 
-Entrez un titre au mot \(1\), puis rédiger un texte en ajoutant du contenu multimédia \(2\). Cliquez maintenant sur le bouton “Suivant” \(3\).
+Renseignez un titre à votre mot \(1\), puis rédigez un texte en ajoutant du contenu multimédia grâce à l'éditeur de texte \(2\). Cliquez maintenant sur le bouton “Suivant” \(3\).
 
-![](.gitbook/assets/carnet_liaison_2.png)
+![](.gitbook/assets/2018-08-23_12h09_18.png)
 
-### 2e étape : Destinataires
+## Choisissez vos destinataires
 
-Dans cette fenêtre, vous pouvez choisir les destinataires de votre message. Pour cela, entrez puis sélectionnez le nom d’un élève ou d’un groupe d’élève dans la barre de recherche \(1\). Le message sera ensuite transmis aux responsables de ces élèves.
+Dans la fenêtre "Destinataires", vous pouvez choisir les utilisateurs avec lesquels vous souhaitez partager votre message. Un message vous indique que les destinataires seront des élèves ou des groupes d’élèves. **Le mot sera envoyé aux responsables des élèves en question. Les élèves auront un droit de lecture sur le mot \(1\).** Effectuez votre recherche \(2\) et sélectionnez les élèves avec lesquels vous souhaitez partager le mot. Les groupes et utilisateurs ajoutés apparaissent sous la barre de recherche \(3\). Le message sera transmis aux responsables de ces élèves. Vous pouvez cocher sur la croix pour les supprimer de votre sélection. Cliquez sur "Suivant" pour valider \(4\). 
 
-Les destinataires sélectionnés s’affichent dans la rubrique « Groupes ajoutés » et « Utilisateurs ajoutés » \(2\).
+![](.gitbook/assets/2018-08-23_12h11_20.png)
 
-**Dans le service Carnet de liaison les destinataires doivent être des élèves ou des groupes d’élèves.**
+## Définissez les paramètres du mot
 
-![](.gitbook/assets/carnet_liaison_3.png)
+Cette fenêtre vous permet de choisir d’autoriser ou non les responsables à répondre au mot \(1\). Sélectionnez une icône thème pour le mot qui s’affichera à gauche du titre \(2\) et cliquez sur « Suivant » \(3\).
 
-### 3e étape : Paramètres
+![](.gitbook/assets/2018-08-23_12h19_54.png)
 
-Cette fenêtre vous permet de choisir d’autoriser ou non les responsables à répondre au mot \(1\). Sélectionnez une icône thème pour le mot qui s’affichera à gauche sur titre \(2\). Cliquez sur « Suivant » \(3\).
-
-![](.gitbook/assets/carnet_liaison_4.png)
-
-### 4e étape : Envoi
+## Envoyez le mot
 
 Un récapitulatif du mot apparaît avec comme indication : le titre et le contenu du mot, l’activation ou non de l’option « Réponse » et le nombre d’élèves concernés par l’envoi \(1\). Cliquez sur « Terminer » pour envoyer le mot aux élèves et parents d’élèves. \(2\).
 
-![](.gitbook/assets/carnet_liaison_5.png)
+![](.gitbook/assets/2018-08-23_12h21_22.png)
 
-Le mot est envoyé, les parents et leurs enfants recevront une notification sur leur fil de nouveautés et par courriel \(s’ils ont bien une adresse mail renseignée pour leur compte\).
+Le mot est envoyé, les parents et leurs enfants recevront une notification sur leur fil de nouveautés et par courriel \(s’ils ont bien une adresse mail renseignée sur leur page Mon compte\).
 
-## Accéder au suivi du mot
+## Accédez au suivi du mot
 
 L’enseignant accède au suivi des accusés de lecture et éventuellement des réponses en cliquant sur le bouton « Accéder au suivi » du mot en question.
 
-![](.gitbook/assets/carnet_liaison_6.png)
+![](.gitbook/assets/2018-08-23_12h23_33.png)
 
 La fenêtre « Suivi du mot » s’ouvre avec deux onglets :
 
