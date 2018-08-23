@@ -1,6 +1,6 @@
 # Cahier multimédia
 
-“Pimp” ton exposé en version 2.0 ! Avec le **Cahier multimédia**, votre banal exposé sur la faune amazonienne devient tout de suite plus passionnant. Mise en page personnalisée, illustrations, vidéos, sons, votre cahier prend vie sous les clics de vos lecteurs.
+Avec le **Cahier multimédia**, votre banal exposé sur les fables de La Fontaine devient tout de suite plus passionnant. Mise en page personnalisée, illustrations, vidéos, sons, votre cahier prend vie sous les clics de vos lecteurs.
 
 ![](.gitbook/assets/copyright.jpg)
 
@@ -16,49 +16,59 @@ Les utilisateurs ayant des droits de contribution dans le cahier choisissent le 
 
 Pour accéder à l’appli Cahier multimédia, cliquez sur l’icône correspondante dans la page « Mes applis ».
 
-![](.gitbook/assets/p14.png) ![](.gitbook/assets/m17.png)
+![](.gitbook/assets/2018-08-23_10h27_23.png)
+
+![](.gitbook/assets/2018-08-23_10h26_57.png)
 
 Dans le service Cahier multimédia, cliquez sur le bouton « Créer » en haut de la page.
 
-![](.gitbook/assets/m24.png)
+![](.gitbook/assets/2018-08-23_10h29_55.png)
 
 Vous accédez à l’interface de création du cahier.
 
 1. Indiquez le « titre » de votre cahier dans le champ correspondant
-2. Vous pouvez ajouter une vignette d’illustration du cahier \(qui apparaît en miniature sur la page d’accueil et comme couverture du cahier\) en cliquant sur « Changer l’image ». Si vous ne modifiez pas l’image, c’est la vignette par défaut qui s’affichera.
-3. Une fois le titre ajouté et l’image importée, cliquez sur « Valider »
+2. Vous pouvez renseigner un sous-titre pour votre cahier
+3. Ajoutez une vignette d’illustration du cahier \(qui apparaît en miniature sur la page d’accueil et comme couverture du cahier\) en cliquant sur « Changer l’image ». Si vous ne modifiez pas l’image, c’est la vignette par défaut qui s’affichera.
+4. Choisissez une couleur de couverture
+5. Cliquez sur « Valider »
 
-![](.gitbook/assets/m32.png)
+![](.gitbook/assets/2018-08-23_10h28_42.png)
 
-Votre cahier est désormais créé mais n’est pas encore visible. Pour le partager avec d’autres utilisateurs, cliquez sur la case à cocher \(1\) située à côté du cahier puis sur « Partager » \(2\).
+Votre cahier est désormais créé mais n’est pas encore visible. Pour le partager avec d’autres utilisateurs, sélectionnez le cahier que vous souhaitez partager \(1\) puis sur cliquez sur « Partager » \(2\).
 
-![](.gitbook/assets/m42.png)
+![](.gitbook/assets/2018-08-23_10h33_45.png)
 
-Dans la fenêtre, vous pouvez donner des droits de consultation, de contribution et de gestion sur votre cahier. Pour cela, saisissez les premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs que vous recherchez \(1\), sélectionnez le résultat \(2\) et cochez les cases correspondant aux droits que vous souhaitez leur attribuer \(3\).
+Dans la fenêtre, vous pouvez donner des droits de consultation, de contribution et de gestion sur votre cahier. Pour cela, saisissez les premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs que vous recherchez \(1\), sélectionnez le résultat \(2\) et cochez les cases correspondant aux droits que vous souhaitez leur attribuer \(3\). Cliquez sur "Partager" \(4\) pour valider.
 
-![](.gitbook/assets/m53.png)
+![](.gitbook/assets/2018-08-23_10h35_25.png)
 
 ## Editer les pages du cahier multimédia
 
-Une fois [votre cahier multimédia créé](http://one1d.fr/aide-support/aide-support/7-cahier-multimedia/creer-et-partager-un-cahier-multimedia/), vous pouvez publier des pages. Pour cela, cliquez sur le titre du cahier dans la page d’accueil.
+Une fois votre cahier créé et partagé, vous pouvez publier des pages. Rendez vous sur le cahier que vous souhaitez éditer, et cliquez sur « Modifier ».
 
-![](.gitbook/assets/m18%20%281%29.png)
-
-Lorsque le cahier est affiché à l’écran, cliquez sur « Modifier ».
-
-![](.gitbook/assets/m43.png)
+![](.gitbook/assets/2018-08-23_10h39_10.png)
 
 Pour ajouter de nouvelles pages, cliquez sur « Ajouter une page » \(1\) ou sur la flèche à droite du cahier \(2\).
 
-![](.gitbook/assets/m54.png)
+![](.gitbook/assets/2018-08-23_10h40_02.png)
 
 Vous pouvez ajouter les contenus suivants dans vos cahiers :
 
+![](.gitbook/assets/2018-08-23_10h41_13.png)
+
 ![](.gitbook/assets/cma-1.png)
+
+1. Texte
+2. Image
+3. Son / enregistrement audio
+4. Vidéo / contenu multimédia
+5. Ajouter une image de fond
+6. Supprimer une image de fond
+7. Modifier la couleur de fond
 
 Il est possible de modifier une zone de texte. Pour cela, cliquez sur la zone : une barre d’édition s’affiche. L’éditeur offre de nombreuses possibilités pour mettre le texte en forme.
 
-![](.gitbook/assets/m73.png)
+![](.gitbook/assets/2018-08-23_10h45_33.png)
 
 Pour tous les types de contenus, il est aussi possible de modifier la position et la taille de la zone.
 
@@ -68,9 +78,9 @@ Pour modifier la taille du contenu, survolez le contour de la zone et cliquez de
 
 ![](.gitbook/assets/m81.png)
 
-Pour visualiser votre cahier, cliquez sur « Afficher ».
+Pour visualiser votre cahier, cliquez sur « Afficher ». N’oubliez pas d’enregistrer vos travaux avant de quitter la page en cliquant sur « Enregistrer ».
 
-N’oubliez pas d’enregistrer vos travaux avant de quitter la page en cliquant sur « Sauvegarder ».
+![](.gitbook/assets/2018-08-23_10h47_05.png)
 
 ## Publier une vidéo dans un cahier multimédia
 
