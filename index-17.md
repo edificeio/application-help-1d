@@ -2,16 +2,6 @@
 
 L’encyclopédie libre de ONE ! l’application **Wiki** permet de créer et publier des contenus à propos d’une thématique que vous souhaitez approfondir.
 
-* [Présentation](https://github.com/web-education/application-help-1d/tree/ad32183a1d403a859b77c57fb7a49b74169d99cc/application/wiki/index.html?iframe=true#presentation)
-* [Créer un Wiki](https://github.com/web-education/application-help-1d/tree/ad32183a1d403a859b77c57fb7a49b74169d99cc/application/wiki/index.html?iframe=true#cas-d-usage-1)
-* [Partager un Wiki](https://github.com/web-education/application-help-1d/tree/ad32183a1d403a859b77c57fb7a49b74169d99cc/application/wiki/index.html?iframe=true#cas-d-usage-2)
-* [Créer et éditer une page](https://github.com/web-education/application-help-1d/tree/ad32183a1d403a859b77c57fb7a49b74169d99cc/application/wiki/index.html?iframe=true#cas-d-usage-3)
-* [Modifier une page](https://github.com/web-education/application-help-1d/tree/ad32183a1d403a859b77c57fb7a49b74169d99cc/application/wiki/index.html?iframe=true#cas-d-usage-4)
-* [Comparer deux versions de pages](https://github.com/web-education/application-help-1d/tree/ad32183a1d403a859b77c57fb7a49b74169d99cc/application/wiki/index.html?iframe=true#cas-d-usage-5)
-* [Note de version](https://github.com/web-education/application-help-1d/tree/ad32183a1d403a859b77c57fb7a49b74169d99cc/application/wiki/index.html?iframe=true#notes-de-versions)
-
-![](.gitbook/assets/cc-by-nc-sa-3.0-fr-300x105.png)
-
 ## Présentation
 
 Un wiki permet de **créer et publier des contenus \(texte, images…\) dans différentes pages liées entre elles**. La page d’accueil du wiki est souvent utilisée comme un index référençant l’ensemble des pages créées dans le wiki.
@@ -42,8 +32,9 @@ Dans la fenêtre, vous pouvez donner aux utilisateurs de la plateforme différen
 1. Saisissez les premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs que vous recherchez.
 2. Sélectionnez le résultat.
 3. Cochez les cases correspondant aux droits que vous souhaitez leur attribuer.
+4. Cliquez sur "Partager"
 
-![](.gitbook/assets/wiki-5.png)
+![](.gitbook/assets/2018-08-24_12h09_08.png)
 
 Les droits de partage que vous pouvez attribuer aux autres utilisateurs sont les suivants :
 
