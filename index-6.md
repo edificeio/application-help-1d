@@ -56,8 +56,6 @@ Vous pouvez ajouter les contenus suivants dans vos cahiers :
 
 ![](.gitbook/assets/2018-08-23_10h41_13.png)
 
-![](.gitbook/assets/cma-1.png)
-
 1. Texte
 2. Image
 3. Son / enregistrement audio
