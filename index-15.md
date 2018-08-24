@@ -2,21 +2,21 @@
 
 Écrire à plusieurs mains en temps réel ! Le **Pad collaboratif** permet à tous les membres de votre groupe de co-rédiger le devoir en ligne. Travaillez ensemble sur le même texte, où que vous soyez et en même temps.
 
-![](.gitbook/assets/cc-by-nc-sa-3.0-fr-300x105.png)
-
 ## Présentation
 
 Le Pad est un éditeur de texte en ligne fonctionnant en mode collaboratif temps réel. Il vous permet de partager l'élaboration simultanée d’un texte, et d’en discuter en parallèle, via une messagerie instantanée. Il promeut des usages pédagogiques, notamment pour l’apprentissage collaboratif.
 
 ## Créer un Pad
 
+Retrouvez l'appli Pad collaboratif depuis la page Mes applis.
+
+![](.gitbook/assets/2018-08-24_11h38_20.png)
+
 Pour créer un Pad, cliquez sur le bouton « Créer un Pad » dans la page d’accueil de l’appli.
 
 ![](.gitbook/assets/pad-co-1.png)
 
-Ensuite, saisissez un nom \(1\) et enregistrez si vous le souhaitez une image d’illustration du Pad \(sinon c’est l’icône par défaut qui est affichée\) \(2\). Vous pouvez ensuite si vous le souhaitez ajouter une description \(3\).
-
-Cliquez enfin sur « Enregistrer » \(4\).
+Ensuite, saisissez un nom \(1\) et enregistrez si vous le souhaitez une image d’illustration du Pad \(sinon c’est l’icône par défaut qui est affichée\) \(2\). Vous pouvez ensuite ajouter une description \(3\). Cliquez enfin sur « Enregistrer » \(4\).
 
 ![](.gitbook/assets/pad-co-2.png)
 
@@ -31,8 +31,9 @@ Dans la fenêtre, vous pouvez donner aux utilisateurs différents droits d’acc
 1. Saisissez les premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs que vous recherchez.
 2. Sélectionnez le résultat.
 3. Cochez les cases correspondant aux droits que vous souhaitez leur attribuer.
+4. Cliquez sur "Partager" pour valider
 
-![](.gitbook/assets/pad-co-4.png)
+![](.gitbook/assets/2018-08-23_17h22_12.png)
 
 \]Les droits de partage que vous pouvez attribuer aux autres utilisateurs sont les suivants :
 
