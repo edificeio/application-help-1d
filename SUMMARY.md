@@ -18,6 +18,6 @@
 * [Mon compte](index-14.md)
 * [Pad Collaboratif](index-15.md)
 * [Paramétrage de la classe](index-16.md)
-* [Wiki](index-17.md)
 * [Statistiques](index-18.md)
+* [Wiki](index-17.md)
 
