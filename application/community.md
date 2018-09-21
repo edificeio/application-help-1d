@@ -1,30 +1,30 @@
 L’appli **Communautés** permet de **rassembler** un **groupe d’utilisateurs** autour d’un **intérêt commun** pour **communiquer**, **partager** ou **collaborer** en utilisant différentes applis **(Blog, Forum, Wiki, Documents…).**
 
-![](../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png)
+![](.gitbook/assets/CC-BY-NC-SA-3.0-FR-300x105.png)
 
 Présentation
 ============
 
 Plutôt que de proposer un usage centré sur un outil (le blog ou le wiki par exemple), l’appli communautés permet de rassembler un groupe d’utilisateurs autour d’un **projet collaboratif.** Pour chaque communauté créée (Espace CDI, parcours artistique, communauté de l’association sportive, …), il est possible de définir précisément les droits de chaque utilisateur et les applis mises à disposition (blog, wiki, documents, forum, pages…).
 
-![](../../wp-content/uploads/2016/04/Communaut_Pres-ConvertImage.png)
+![](.gitbook/assets/Communaut_Pres-ConvertImage.png)
 
 Créer et partager une communauté
 ================================
 
 Pour accéder à l’appli Communautés, cliquez sur l’icône correspondante dans la page « Mes applis ».
 
-![](../../wp-content/uploads/2016/04/Mes_Applis_3-1024x231.png)
+![](.gitbook/assets/Mes_Applis_3-1024x231.png)
 
 Cliquez sur « Créer une communauté ».
 
-![](../../wp-content/uploads/2016/08/communauté-11-1024x227.png)
+![](.gitbook/assets/communauté-11-1024x227.png)
 
 Un assistant de création apparait pour vous guider dans les étapes à suivre.
 
 Cliquez sur « Suivant ».
 
-![](../../wp-content/uploads/2015/06/c3.png)
+![](.gitbook/assets/c3.png)
 
 L’onglet Configuration de l’assistant s’affiche.
 
@@ -36,7 +36,7 @@ L’onglet Configuration de l’assistant s’affiche.
 
 4.  Cliquez sur « Suivant »
 
-![](../../wp-content/uploads/2015/06/c4.png)
+![](.gitbook/assets/c4.png)
 
 L’onglet Services de l’assistant s’affiche.
 
@@ -44,7 +44,7 @@ L’onglet Services de l’assistant s’affiche.
 
 2.  Cliquez sur « Suivant »
 
-![](../../wp-content/uploads/2016/08/communauté-2-1024x295.png)
+![](.gitbook/assets/communauté-2-1024x295.png)
 
 L’onglet Membres de l’assistant s’affiche.
 
@@ -68,7 +68,7 @@ Les différents droits que vous pouvez attribuer aux autres utilisateurs sont le
 
  4. Cliquez sur « Suivant ».
 
-![](../../wp-content/uploads/2015/06/c6.png)
+![](.gitbook/assets/c6.png)
 
 La communauté est maintenant créée et partagée. Chaque appli de la communauté est accessible de manière différenciée. Par exemple, le wiki  de la communauté est accessible depuis l’appli communauté et depuis l’appli wiki.
 

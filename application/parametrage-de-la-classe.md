@@ -23,12 +23,12 @@ Il est alors possible d’ajouter des élèves \(1\), des parents \(2\), des ens
 Pour ajouter des élèves, assurez-vous tout d'abord que vous êtes bien dans l'onglet "Elèves" \(1\). Vous avez ensuite deux options :
 
 * Saisir manuellement les informations et cliquer sur "Ajouter" \(2\),
-* Importer un fichier CSV sur le modèle suivant \(3\) : [Import\_ELEVES \(cliquez ici pour télécharger le fichier\)](http://one1d.fr/wp-content/uploads/2014/04/Import_ELEVES.csv).
+* Importer un fichier CSV sur le modèle suivant \(3\) : http://one1d.fr/wp-content/uploads/2014/04/Import_ELEVES.csv.
 * Pour modifier les informations déjà saisies pour un utilisateur de votre classe, cliquez sur le nom de l’utilisateur en question \(4\).
 
 ![](.gitbook/assets/2018-08-24_11h48_43.png)
 
-La création de compte parent s’effectue de la même manière, en sélectionnant l'onglet « Parents ». Si vous optez pour l'import d'un fichier d'utilisateurs parents, vous pouvez utiliser le modèle suivant : [Import\_RESPONSABLES \(cliquez ici pour télécharger le fichier\).](http://one1d.fr/wp-content/uploads/2014/08/Import_RESPONSABLES_2014.csv)
+La création de compte parent s’effectue de la même manière, en sélectionnant l'onglet « Parents ». Si vous optez pour l'import d'un fichier d'utilisateurs parents, vous pouvez utiliser le modèle suivant : http://one1d.fr/wp-content/uploads/2014/08/Import_RESPONSABLES_2014.csv
 
 {% hint style="info" %}
 Pour que les élèves soient bien rattachés aux parents, vérifiez que le nom et prénom de l’élève soient correctement saisis dans le fichier des parents.
