@@ -6,7 +6,7 @@ pipeline {
       stage('Build') {
         steps {
           sh '''
-            rm -rf application-help.tar.gz application assets
+            rm -rf application-help-1d.tar.gz application assets
           '''
           checkout scm
           sh '''
@@ -15,16 +15,15 @@ pipeline {
                 mkdir "application/$app"
                 sed -i 's/!\\[\\](\\.gitbook\\(.*\\))/![](\\1)/g' application/${app}.md
                 sed -i '1d' application/${app}.md
+                sed -i -e '/{%.*%}/d' application/${app}.md
                 docker-compose run --rm pandoc -s --toc --section-divs -f markdown -t html /application/${app}.md -o /application/${app}/index.html
                 echo "Processed $app"
             done
             mv application/collaborative-editor application/collaborativeeditor
             mv application/scrap-book application/scrapbook
-            mv application/search-engine application/searchengine
-            mv application/share-big-files application/sharebigfiles
             mv application/.gitbook/assets assets
             rm -Rf application/*.md application/.gitbook
-            tar cfzh application-help.tar.gz application/* assets
+            tar cfzh application-help-1d.tar.gz application/* assets
 	        '''
         }
       }
