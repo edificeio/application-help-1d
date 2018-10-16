@@ -23,7 +23,8 @@ pipeline {
             mv application/scrap-book application/scrapbook
             mv application/.gitbook/assets assets
             rm -Rf application/*.md application/.gitbook
-            tar cfzh application-help-1d.tar.gz application/* assets
+            mkdir help-1d && mv application assets help-1d 
+            tar cfzh application-help-1d.tar.gz help-1d
 	        '''
         }
       }
