@@ -6,7 +6,7 @@ pipeline {
       stage('Build') {
         steps {
           sh '''
-            rm -rf application-help-1d.tar.gz application assets
+            rm -rf application-help-1d.tar.gz application assets help-1d
           '''
           checkout scm
           sh '''
@@ -21,7 +21,7 @@ pipeline {
             done
             mv application/collaborative-editor application/collaborativeeditor
             mv application/scrap-book application/scrapbook
-            mv application/.gitbook/assets assets
+            cp -Rf application/.gitbook/assets .
             rm -Rf application/*.md application/.gitbook
             mkdir help-1d && mv application assets help-1d 
             tar cfzh application-help-1d.tar.gz help-1d
