@@ -6,19 +6,19 @@ L’encyclopédie libre de ONE ! l’application **Wiki** permet de créer et pu
 
 Un wiki permet de **créer et publier des contenus \(texte, images…\) dans différentes pages liées entre elles**. La page d’accueil du wiki est souvent utilisée comme un index référençant l’ensemble des pages créées dans le wiki.
 
-![](.gitbook/assets/wiki-1.png)
+![](.gitbook/assets/wiki-1%20%281%29.png)
 
 ## Créer un Wiki
 
 Pour créer un wiki, cliquez sur le bouton « Créer un wiki » dans la page d’accueil de l’appli.
 
-![](.gitbook/assets/wiki-2.png)
+![](.gitbook/assets/wiki-2%20%281%29.png)
 
 Saisissez un titre \(1\) et enregistrez si vous le souhaitez une image d’illustration du wiki \(sinon c’est l’icône par défaut qui est affichée\) \(2\).
 
 Cliquez enfin sur « Enregistrer » \(3\)
 
-![](.gitbook/assets/wiki-3.png)
+![](.gitbook/assets/wiki-3%20%281%29.png)
 
 ## Partager un Wiki
 
@@ -34,7 +34,7 @@ Dans la fenêtre, vous pouvez donner aux utilisateurs de la plateforme différen
 3. Cochez les cases correspondant aux droits que vous souhaitez leur attribuer.
 4. Cliquez sur "Partager"
 
-![](.gitbook/assets/2018-08-24_12h09_08.png)
+![](.gitbook/assets/2018-08-24_12h09_08%20%281%29.png)
 
 Les droits de partage que vous pouvez attribuer aux autres utilisateurs sont les suivants :
 
@@ -80,7 +80,7 @@ Pour comparer deux versions de page, suivez les étapes suivantes :
 1. Cliquez sur le bouton « Plus » en haut à droite de la page.
 2. Cliquez sur le bouton « Versions »
 
-![](.gitbook/assets/wiki-9.png)
+![](.gitbook/assets/wiki-9%20%281%29.png)
 
 La liste des versions de la page s’affiche, avec pour chacune les informations suivantes :
 

@@ -2,8 +2,6 @@
 
 Devenez un mathématicien en herbes ! Grâce à l’appli **Statistiques** suivez sur une période donnée la fréquentation de la plateforme.
 
-![](.gitbook/assets/copyright.jpg)
-
 ## Présentation
 
 L’appli Statistiques vous propose de suivre **sept indicateurs** calculés sur **une période donnée** \(soit sur le mois écoulé, soit depuis le 1er septembre\):

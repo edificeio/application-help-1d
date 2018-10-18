@@ -23,12 +23,12 @@ Il est alors possible d’ajouter des élèves \(1\), des parents \(2\), des ens
 Pour ajouter des élèves, assurez-vous tout d'abord que vous êtes bien dans l'onglet "Elèves" \(1\). Vous avez ensuite deux options :
 
 * Saisir manuellement les informations et cliquer sur "Ajouter" \(2\),
-* Importer un fichier CSV sur le modèle suivant \(3\) : http://one1d.fr/wp-content/uploads/2014/04/Import_ELEVES.csv.
+* Importer un fichier CSV sur le modèle suivant \(3\) : [http://one1d.fr/wp-content/uploads/2014/04/Import\_ELEVES.csv](http://one1d.fr/wp-content/uploads/2014/04/Import_ELEVES.csv).
 * Pour modifier les informations déjà saisies pour un utilisateur de votre classe, cliquez sur le nom de l’utilisateur en question \(4\).
 
 ![](.gitbook/assets/2018-08-24_11h48_43.png)
 
-La création de compte parent s’effectue de la même manière, en sélectionnant l'onglet « Parents ». Si vous optez pour l'import d'un fichier d'utilisateurs parents, vous pouvez utiliser le modèle suivant : http://one1d.fr/wp-content/uploads/2014/08/Import_RESPONSABLES_2014.csv
+La création de compte parent s’effectue de la même manière, en sélectionnant l'onglet « Parents ». Si vous optez pour l'import d'un fichier d'utilisateurs parents, vous pouvez utiliser le modèle suivant : [http://one1d.fr/wp-content/uploads/2014/08/Import\_RESPONSABLES\_2014.csv](http://one1d.fr/wp-content/uploads/2014/08/Import_RESPONSABLES_2014.csv)
 
 {% hint style="info" %}
 Pour que les élèves soient bien rattachés aux parents, vérifiez que le nom et prénom de l’élève soient correctement saisis dans le fichier des parents.
@@ -44,7 +44,7 @@ Pour créer un compte enseignant ou un compte personnel, il suffit de renseigner
 
 Dans l’onglet correspondant, sélectionnez l’utilisateur dont vous souhaitez renouveler le mot de passe \(1\) et cliquez sur « Réinitialiser le mot de passe » \(2\).
 
-![](.gitbook/assets/2018-08-24_11h59_36.png)
+![](.gitbook/assets/2018-08-24_11h59_36%20%281%29.png)
 
 L'email suivant est alors envoyé sur l’adresse email que vous avez renseigné dans la rubrique Mon compte :
 
@@ -60,12 +60,11 @@ _Si vous n’êtes pas à l’origine de cette demande, vous pouvez ignorer cet 
 _Cordialement,  
 L’équipe ENT_
 
-  
 Vous avez la possibilité de transmettre ce message à l’utilisateur concerné pour qu’il renouvelle lui-même son mot de passe \(par exemple s’il s’agit d’un parent\).
 
 Vous pouvez également effectuer vous-même la manipulation. Pour cela, cliquez sur le lien contenu dans le corps du message. Vous accédez à l’interface de réinitialisation du mot de passe.
 
-![](.gitbook/assets/p8.png)
+![](.gitbook/assets/p8%20%281%29.png)
 
 Renseignez l’identifiant de l’utilisateur dans le premier champ \(1\). Saisissez ensuite le nouveau mot de passe \(2\), puis confirmez-le dans le dernier champ \(3\) et cliquez sur « Réinitialiser ».
 
@@ -75,7 +74,7 @@ La réinitialisation du mot de passe est effective. L’utilisateur peut alors s
 
 Placez-vous sur l’onglet « Elèves » ou « Parents » en fonction du profil des utilisateurs pour lesquels vous souhaitez récupérer les informations de connexion. En bas de la liste d’utilisateurs, cliquez sur « Exporter les codes d’activation ».
 
-![](.gitbook/assets/2018-08-24_12h03_27.png)
+![](.gitbook/assets/2018-08-24_12h03_27%20%281%29.png)
 
 Un fichier CSV est généré, contenant les identifiants et codes d’activation des utilisateurs sélectionnés, que vous pouvez ouvrir ou enregistrer sur votre ordinateur. Ce fichier vous permettra de distribuer les informations de connexion aux utilisateurs de votre classe.
 
