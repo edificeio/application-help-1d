@@ -49,7 +49,7 @@ En cliquant sur la fenêtre des favoris, vous pourrez gérer des listes d’util
 
 ![](.gitbook/assets/2018-08-23_09h42_25.png)
 
-## Consulter et modifier un favori {#consulter-et-modifier-un-favori}
+**Consulter et modifier un favori :**
 
 Pour consulter une liste de favoris, cliquez sur son nom dans l’onglet de gauche \(1\). Vous voyez apparaître la liste des utilisateurs concernés \(2\). Si vous souhaitez supprimer ou ajouter des utilisateurs, ou des groupes d’utilisateurs à cette liste, cliquez sur "Modifier le favori" \(3\).
 
@@ -65,7 +65,7 @@ Pour supprimer de votre liste des utilisateurs ou des groupes, vous pouvez cliqu
 
 ![](.gitbook/assets/2018-08-23_09h48_18.png)
 
-## Créer un favori {#creer-un-favori}
+**Créer un favori**
 
 Vous pouvez créer directement votre liste de favori depuis l’annuaire. Pour cela, il vous suffit de cliquer sur "Créer un favori".
 
@@ -96,4 +96,18 @@ Vous pouvez envoyer directement un message sur la Messagerie en sélectionnant v
 Les utilisateurs de votre favori seront ainsi directement pré-sélectionnés dans votre message 
 
 ![](.gitbook/assets/messagerie1d-favori.png)
+
+## Vue "La Classe" {#envoyer-un-message-a-un-favori}
+
+Depuis l'onglet "La classe", vous accédez à la vue de l'enseignant et des élèves de la classe :
+
+![](.gitbook/assets/image%20%281%29.png)
+
+En cliquant sur un profil, vous accédez aux informations de l'utilisateur. S'il s'agit d'un élève, vous pouvez accéder à ses responsables, et consulter le ou les établissements et classe\(s\) de rattachement de l'utilisateur.
+
+![](.gitbook/assets/image%20%282%29.png)
+
+Il vous est également possible d'envoyer un message dans la Messagerie \(1\) directement à travers cette fiche, ou encore d'ajouter l'utilisateur dans un favori de partage \(2\).
+
+![](.gitbook/assets/fiche-maclasse.png)
 
