@@ -6,7 +6,7 @@
 * [Annuaire](application/directory.md)
 * [Assistance ENT](application/support.md)
 * [Blog](application/blog.md)
-* [Cahier de textes](application/751.md)
+* [Cahier de textes](application/homeworks.md)
 * [Cahier multimédia](application/scrap-book.md)
 * [Carnet de liaison](application/schoolbook.md)
 * [Carte mentale](application/mindmap.md)
