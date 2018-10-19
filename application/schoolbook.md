@@ -6,13 +6,13 @@ Besoin de communiquer un mot aux parents d’élèves ? Mais comment savoir s’
 
 L’application carnet de liaison permet à l’enseignant d’envoyer des mots aux parents d’élèves et d’accéder au suivi des lectures. En activant l’option « réponse », les parents pourront réagir au mot. La possibilité d’imprimer les mots en coupons assure la complémentarité entre le numérique et le papier !
 
-![](.gitbook/assets/2018-08-23_12h05_14.png)
+![](.gitbook/assets/image.png)
 
 ## Vue Enseignant - Créez un mot
 
 Cliquez d’abord sur le bouton « Créer un mot ».
 
-![](.gitbook/assets/carnet_liaison_1.png)
+![](.gitbook/assets/creer-un-mot.png)
 
 L’assistant de création d’un mot s’ouvre, il permet d’envoyer un mot en 4 étapes :
 
@@ -20,13 +20,13 @@ L’assistant de création d’un mot s’ouvre, il permet d’envoyer un mot en
 
 Renseignez un titre à votre mot \(1\), puis rédigez un texte en ajoutant du contenu multimédia grâce à l'éditeur de texte \(2\). Cliquez maintenant sur le bouton “Suivant” \(3\).
 
-![](.gitbook/assets/2018-08-23_12h09_18.png)
+![](.gitbook/assets/carnet-redaction.png)
 
 ## Vue Enseignant - Choisissez vos destinataires
 
-Dans la fenêtre "Destinataires", vous pouvez choisir les utilisateurs avec lesquels vous souhaitez partager votre message. Un message vous indique que les destinataires seront des élèves ou des groupes d’élèves. **Le mot sera envoyé aux responsables des élèves en question. Les élèves auront un droit de lecture sur le mot \(1\).** Effectuez votre recherche \(2\) et sélectionnez les élèves avec lesquels vous souhaitez partager le mot. Les groupes et utilisateurs ajoutés apparaissent sous la barre de recherche \(3\). Le message sera transmis aux responsables de ces élèves. Vous pouvez cocher sur la croix pour les supprimer de votre sélection. Cliquez sur "Suivant" pour valider \(4\). 
+Dans la fenêtre "Destinataires", vous pouvez choisir les utilisateurs avec lesquels vous souhaitez partager votre message. Un message vous indique que les destinataires seront des élèves ou des groupes d’élèves. **Le mot sera envoyé aux responsables des élèves en question. Les élèves auront un droit de lecture sur le mot \(1\).** Effectuez votre recherche \(2\) et sélectionnez les élèves avec lesquels vous souhaitez partager le mot. Les groupes et utilisateurs ajoutés apparaissent sous la barre de recherche \(3\). Vous pouvez retrouver vos favoris de partage dans la recherche d'utilisateurs. Il vous est possible de consulter la fiche d'un utilisateur sélectionné dans la liste des destinataires en cliquant sur son nom \(4\). Le message sera transmis aux responsables de ces élèves. Vous pouvez cocher sur la croix pour les supprimer de votre sélection. Cliquez sur "Suivant" pour valider \(5\). 
 
-![](.gitbook/assets/2018-08-23_12h11_20.png)
+![](.gitbook/assets/destinataire-mot.png)
 
 ## Vue Enseignant - Définissez les paramètres du mot
 
@@ -38,7 +38,7 @@ Cette fenêtre vous permet de choisir d’autoriser ou non les responsables à r
 
 Un récapitulatif du mot apparaît avec comme indication : le titre et le contenu du mot, l’activation ou non de l’option « Réponse » et le nombre d’élèves concernés par l’envoi \(1\). Cliquez sur « Terminer » pour envoyer le mot aux élèves et parents d’élèves. \(2\).
 
-![](.gitbook/assets/2018-08-23_12h21_22.png)
+![](.gitbook/assets/mot-fin.png)
 
 Le mot est envoyé, les parents et leurs enfants recevront une notification sur leur fil de nouveautés et par courriel \(s’ils ont bien une adresse mail renseignée sur leur page Mon compte\).
 
@@ -51,9 +51,11 @@ L’enseignant accède au suivi des accusés de lecture et éventuellement des r
 La fenêtre « Suivi du mot » s’ouvre avec deux colonnes :
 
 * La colonne de gauche \(1\) indique les élèves auxquels les responsables ont lu le mot. Une indication au dessus de la colonne informe du nombre de lu sur le total des destinataires \(2\).
-* La colonne de droite \(3\) indique les utilisateurs qui ont répondus au mot. Une indication au dessus de la colonne informe du nombre de réponse\(s\) reçue\(s\) \(4\).
+* La colonne de droite \(3\) indique les utilisateurs qui ont répondu au mot. 
+* Une indication au dessus de la colonne informe du nombre de réponse\(s\) reçue\(s\) \(4\).
+* Il est possible d'envoyer un rappel de lecture aux utilisateurs qui n'ont pas encore répondu \(5\).
 
-![](.gitbook/assets/2018-08-23_16h12_43.png)
+![](.gitbook/assets/suivi-mot.png)
 
 En cliquant sur l’onglet « Réponse » en haut de la colonne \(1\), vous pouvez consulter les réponses des responsables. Cette option est disponible seulement si elle a été activée lors de la création du mot. Les réponses s’affichent par ordre ante chronologique. A droite, vous voyez apparaître la réponse du responsable \(3\), et à gauche, vous retrouvez l'élève correspondant \(2\). Chaque parent peut répondre une seule fois au mot de son enfant.
 
@@ -68,10 +70,11 @@ Si un parent modifie sa réponse après l’avoir envoyée, l’enseignant est i
 L’icône « + » \(1\) sur chaque mot envoyé permet d’accéder aux actions secondaires \(2\) :
 
 * Corriger
+* Partager
 * Imprimer
 * Supprimer
 
-![](.gitbook/assets/2018-08-23_16h27_06.png)
+![](.gitbook/assets/toaster-mot.png)
 
 ## Vue Enseignant - Corrigez un mot
 
@@ -94,6 +97,18 @@ En cliquant sur l’icône “imprimer”, une fenêtre s’ouvre permettant de 
 En cliquant sur l’icône “supprimer”, une fenêtre s’ouvre, cliquer sur « Supprimer » pour confirmer la suppression du mot. Les utilisateurs à qui le mot avait été envoyé n’y auront plus accès.
 
 ![](.gitbook/assets/2018-08-23_16h32_17.png)
+
+## Vue Enseignant - Partager un mot
+
+Vous pouvez partager un mot afin d'attribuer à d'autres utilisateurs des droits de :
+
+* Lecture
+* Contribution
+* Gestion
+
+Pour cela, sélectionnez les utilisateurs avec qui vous souhaitez partager le mot \(1\), puis accordez les droits que vous souhaitez \(2\) et cliquez sur "Partager" \(3\). Cette fonctionnalité est très utile si vous souhaitez déléguer le suivi du mot à l'un de vos collègues par exemple.
+
+![](.gitbook/assets/partager-mot.png)
 
 ## Vue Parent - Attester de la lecture d'un mot
 
