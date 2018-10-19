@@ -22,7 +22,9 @@ Vous pouvez rechercher facilement et rapidement un utilisateur. Pour effectuer v
 
 ![](.gitbook/assets/2018-08-22_18h17_30.png)
 
- Une fois l’utilisateur trouvé, vous pouvez consulter sa fiche. Vous avez la possibilité de lui envoyer un message \(1\), l’ajouter dans vos favoris de partage \(2\), ou consulter tout simplement les informations disponibles sur sa fiche.
+Certains de ces filtres sont conditionnels. Par exemple : le filtre "Fonction" disparaîtra pour le profil "Élève" qui ne peut pas avoir de "Fonction" particulière dans l'ENT.
+
+Une fois l’utilisateur trouvé, vous pouvez consulter sa fiche. Vous avez la possibilité de lui envoyer un message \(1\), l’ajouter dans vos favoris de partage \(2\), ou consulter tout simplement les informations disponibles sur sa fiche.
 
 ![](.gitbook/assets/2018-08-22_18h14_20.png)
 
@@ -84,4 +86,14 @@ Pour supprimer de votre liste des utilisateurs ou des groupes, vous pouvez cliqu
 ![](.gitbook/assets/2018-08-23_09h48_18%20%281%29.png)
 
 Vous avez également la possibilité de créer des listes de favoris directement depuis la fenêtre de partage. Une option "Enregistrer comme favori de partage" est disponible dans toutes les fenêtres de partage, pour enregistrer rapidement et sans effort vos listes favorites.
+
+## Envoyer un message à un favori {#envoyer-un-message-a-un-favori}
+
+Vous pouvez envoyer directement un message sur la Messagerie en sélectionnant votre liste de favori depuis l’Annuaire. Une fois le favori sélectionné, il vous suffira de cliquer sur "Envoyer un message au favori"
+
+![Envoyer un message &#xE0; un favori depuis l&apos;Annuaire](.gitbook/assets/annuaire1d-message-favori.png)
+
+Les utilisateurs de votre favori seront ainsi directement pré-sélectionnés dans votre message 
+
+![](.gitbook/assets/messagerie1d-favori.png)
 
