@@ -2,8 +2,6 @@
 
 Avec le **Cahier multimédia**, votre banal exposé sur les fables de La Fontaine devient tout de suite plus passionnant. Mise en page personnalisée, illustrations, vidéos, sons, votre cahier prend vie sous les clics de vos lecteurs.
 
-![](.gitbook/assets/copyright.jpg)
-
 ## Présentation
 
 Les cahiers créés peuvent être utilisés comme des **supports de restitution** de travaux ou encore comme **outil de communication** avec d’autres utilisateurs puisque chaque cahier peut être partagé avec un utilisateur ou un groupe d’utilisateurs.

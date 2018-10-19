@@ -20,6 +20,16 @@ Vous accédez à votre espace personnel où vous pouvez modifier vos information
 
 Les enseignants ont la possibilité de choisir un nom d’affichage personnalisé, visible par les autres utilisateurs de la plateforme. Par défaut, ce nom d’affichage est le prénom et le nom de l’utilisateur.
 
+## Changer mon identifiant {#changer-mon-identifiant}
+
+Vous pouvez remplacer votre identifiant de connexion par un alias, en cliquant sur "Modifier" à côté de l'identifiant :
+
+![](.gitbook/assets/alias-modif.png)
+
+ Il vous suffira ensuite de renseigner votre nouvel identifiant :
+
+![](.gitbook/assets/2018-10-19_12h27_49.png)
+
 ## Changer ma photo de profil
 
 Pour changer votre photo, cliquez directement sur la photo ou sur l’avatar par défaut.
