@@ -14,7 +14,7 @@
 * [Espace documentaire](application/workspace.md)
 * [Export](application/archive.md)
 * [Frise chronologique](application/timelinegenerator.md)
-* [Mes applis](application/mes-applis.md)
+* [Mes applis](application/portal.md)
 * [Messagerie](application/conversation.md)
 * [Mon compte](application/userbook.md)
 * [Pad Collaboratif](application/collaborative-editor.md)
