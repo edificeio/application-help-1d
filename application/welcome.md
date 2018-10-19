@@ -11,6 +11,3 @@ Vous accédez aux services pour lesquels vous avez des droits d’accès : appli
 ![](.gitbook/assets/blog-mesapplis.png)
 
 La page d’accueil de l’appli apparaît.
-
-##   {#gestion-des-favoris}
-
