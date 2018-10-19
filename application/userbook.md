@@ -10,7 +10,7 @@ Pour accéder à votre compte, connectez-vous à la plateforme en saisissant vot
 
 Pour vous rendre sur l'espace Mon compte, cliquez sur l’avatar en haut à droite de l'écran.
 
-![](.gitbook/assets/moncompte%20%281%29.png)
+![](.gitbook/assets/moncompte-1.png)
 
 Vous accédez à votre espace personnel où vous pouvez modifier vos informations : photo, coordonnées, devise, humeur, centres d’intérêt, en cliquant simplement sur le champ à modifier.
 
@@ -26,15 +26,15 @@ Vous pouvez remplacer votre identifiant de connexion par un alias, en cliquant s
 
 ![](.gitbook/assets/alias-modif.png)
 
- Il vous suffira ensuite de renseigner votre nouvel identifiant :
+Il vous suffira ensuite de renseigner votre nouvel identifiant :
 
-![](.gitbook/assets/2018-10-19_12h27_49.png)
+![](.gitbook/assets/2018-10-19_12h27_49%20%281%29.png)
 
 ## Changer ma photo de profil
 
 Pour changer votre photo, cliquez directement sur la photo ou sur l’avatar par défaut.
 
-![](.gitbook/assets/mon-compte-2.png)
+![](.gitbook/assets/mon-compte-2%20%281%29.png)
 
 Vous pouvez choisir une photo à partir de votre espace personnel de la plateforme en la sélectionnant dans :
 
@@ -42,7 +42,7 @@ Vous pouvez choisir une photo à partir de votre espace personnel de la platefor
 * « Documents partagés avec moi » : documents partagés par d’autres utilisateurs,
 * « Documents ajoutés dans les applis » : documents insérés dans une appli.
 
-![](.gitbook/assets/mon-compte-3.png)
+![](.gitbook/assets/mon-compte-3%20%281%29.png)
 
 Vous pouvez aussi choisir d’importer une photo à partir de votre poste de travail.
 
@@ -55,7 +55,7 @@ Sélectionnez un fichier dans votre poste de travail et cliquez sur ouvrir. Cliq
 
 Votre photo est maintenant visible dans votre compte et par tous les utilisateurs !
 
-![](.gitbook/assets/mon-compte-5.png)
+![](.gitbook/assets/mon-compte-5%20%281%29.png)
 
 Votre photo est visible dans le fil de nouveautés des autres utilisateurs lorsque vous leur partagez un contenu mais également lorsque vous postez un message dans un forum.
 
@@ -72,7 +72,7 @@ Puis suivez les étapes suivantes :
 * Saisissez la « Confirmation du mot de passe »
 * Cliquez sur « Réinitialiser »
 
-![](.gitbook/assets/mon-compte-7.png)
+![](.gitbook/assets/mon-compte-7%20%281%29.png)
 
 Votre mot de passe est maintenant modifié !
 
@@ -102,7 +102,7 @@ Pour changer votre humeur, cliquez sur l’icône en dessous de votre photo.
 
 Une liste d’humeurs apparaît. Choisissez celle que vous souhaitez.
 
-![](.gitbook/assets/mon-compte-11.png)
+![](.gitbook/assets/mon-compte-11%20%281%29.png)
 
 Votre nouvelle humeur apparaît sur votre compte et est maintenant visible dans le fil de nouveautés des autres utilisateurs de la plateforme avec lesquels vous avez le droit de communiquer.
 
@@ -114,7 +114,7 @@ Vous pouvez modifier vos centres d’intérêt : animaux, cinéma, musique, endr
 
 Saisissez les informations souhaitées dans les champs correspondants.
 
-![](.gitbook/assets/mon-compte-13.png)
+![](.gitbook/assets/mon-compte-13%20%281%29.png)
 
 Mais aussi d’autres commentaires dans « Divers ».
 
@@ -128,7 +128,7 @@ En un seul clic, vous choisissez l’icône correspondant au niveau de visibilit
 
 * L’icône “Cadenas” signifie que l’information est privée, vous êtes le \(la\) seul\(e\) à la voir.
 
-![](.gitbook/assets/m16.png)
+![](.gitbook/assets/m16%20%281%29.png)
 
 * L’icône “Globe” signifie que l’information est visible des autres utilisateurs de l’ENT, en fonction des droits de communication dont ils disposent.
 
@@ -136,7 +136,7 @@ En un seul clic, vous choisissez l’icône correspondant au niveau de visibilit
 
 Lorsque vous ajoutez ou modifiez le texte ou les paramètres de visibilité dans votre espace personnel, l’enregistrement est automatique.
 
-![](.gitbook/assets/mon-compte-15.png)
+![](.gitbook/assets/mon-compte-15%20%281%29.png)
 
 ## Notifications externes
 
@@ -146,20 +146,20 @@ Pour accéder à ce paramétrage, aller dans Mon compte et cliquer sur le bouton
 
 ![](.gitbook/assets/mon-compte-16.png)
 
- La page de paramétrage des notifications externes permet de modifier l’adresse de réception des mails \(1\). Un bouton "Enregistrer" vous permettra de valider votre adresse mail ou les modifications apportées à la fréquence d'envoi \(2\). Vous pouvez choisir, pour chaque application \(3\), la fréquence d’envoi des notifications \(immédiat, quotidien, hebdomadaire, jamais\) \(4\).
+La page de paramétrage des notifications externes permet de modifier l’adresse de réception des mails \(1\). Un bouton "Enregistrer" vous permettra de valider votre adresse mail ou les modifications apportées à la fréquence d'envoi \(2\). Vous pouvez choisir, pour chaque application \(3\), la fréquence d’envoi des notifications \(immédiat, quotidien, hebdomadaire, jamais\) \(4\).
 
-![](.gitbook/assets/notif1d.png)
+![](.gitbook/assets/notif1d%20%281%29.png)
 
 Une fois la notification reçue dans sa boîte mail personnelle, l’utilisateur peut cliquer sur le lien correspondant afin d’accéder au contenu. S’il n’est pas connecté à la plateforme, il devra saisir son identifiant et son mot de passe pour accéder à l’objet de la notification.
 
-![](.gitbook/assets/notif-externe-reception.png)
+![](.gitbook/assets/notif-externe-reception%20%281%29.png)
 
 ## Historique des notifications émises
 
 Vous avez la possibilité de ne pas diffuser une notification aux utilisateurs avec lesquels vous avez des droits de communication ou vous avez partagé du contenu.  
 Depuis votre espace "Mon compte", vous retrouverez toutes les notifications que vous avez émis en cliquant sur l’onglet "Historique".
 
-![](.gitbook/assets/mon-compte-19.png)
+![](.gitbook/assets/mon-compte-19%20%281%29.png)
 
 En survolant la notification avec la souris, vous verrez apparaître une flèche sur la droite de la notification. En cliquant sur cette flèche, une action apparaît vous permettant de supprimer définitivement la notification de la plateforme.
 

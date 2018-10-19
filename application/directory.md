@@ -97,7 +97,7 @@ Les utilisateurs de votre favori seront ainsi directement pré-sélectionnés da
 
 ![](.gitbook/assets/messagerie1d-favori.png)
 
-## Vue "La Classe" {#envoyer-un-message-a-un-favori}
+## Vue "La Classe" {#vue-la-classe}
 
 Depuis l'onglet "La classe", vous accédez à la vue de l'enseignant et des élèves de la classe :
 
