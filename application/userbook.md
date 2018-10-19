@@ -10,11 +10,13 @@ Pour accéder à votre compte, connectez-vous à la plateforme en saisissant vot
 
 Pour vous rendre sur l'espace Mon compte, cliquez sur l’avatar en haut à droite de l'écran.
 
-![](.gitbook/assets/2018-08-24_11h28_42.png)
+![](.gitbook/assets/moncompte%20%281%29.png)
 
 Vous accédez à votre espace personnel où vous pouvez modifier vos informations : photo, coordonnées, devise, humeur, centres d’intérêt, en cliquant simplement sur le champ à modifier.
 
-![](.gitbook/assets/mon-compte-1.png)
+![](.gitbook/assets/2018-10-19_10h57_05.png)
+
+![](.gitbook/assets/2018-10-19_10h57_42.png)
 
 Les enseignants ont la possibilité de choisir un nom d’affichage personnalisé, visible par les autres utilisateurs de la plateforme. Par défaut, ce nom d’affichage est le prénom et le nom de l’utilisateur.
 
