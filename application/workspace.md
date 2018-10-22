@@ -2,9 +2,9 @@
 
 À chacun son classeur numérique ! Grâce à l’application **Espace documentaire**, retrouvez, au même endroit, tous les documents utilisés à travers les applis du réseau. Stockez d’autres fichiers et organisez-les dans votre espace en fonction de leurs thématiques, du cours ou de la classe concernée !
 
-![](.gitbook/assets/2018-08-23_17h39_10.png)
-
 ## Présentation
+
+![](.gitbook/assets/2018-08-23_17h39_10.png)
 
 L’application Espace documentaire d’un utilisateur est composée de 4 dossiers :
 

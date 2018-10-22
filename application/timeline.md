@@ -200,7 +200,7 @@ Après avoir pris connaissance du message, vous avez la possibilité de le suppr
 
 ![](.gitbook/assets/2018-08-22_17h06_34.png)
 
-## Partage et favoris de partage {#partage-et-favoris-de-partage}
+## Partage et favoris de partage <a id="partage-et-favoris-de-partage"></a>
 
 Vous retrouvez la fenêtre de partage dans la majeure partie des applications. Cette fenêtre vous permet de partager un contenu que vous avez crée ou sur lequel vous avez des droits de gestion. Le bouton "Partager" est accessible en règle générale dans le menu qui apparaît en bas de votre écran. Sélectionnez le contenu en question \(1\) puis cliquez sur "Partager" \(2\).
 

@@ -12,7 +12,7 @@ Grâce au service "Annuaire", vous allez pouvoir :
 
 ![](.gitbook/assets/2018-08-22_18h11_12.png)
 
-## Rechercher un utilisateur {#rechercher-un-utilisateur}
+## Rechercher un utilisateur <a id="rechercher-un-utilisateur"></a>
 
 Vous pouvez rechercher facilement et rapidement un utilisateur. Pour effectuer votre recherche, vous disposez un onglet de recherche \(1\) et de filtres afin d’affiner les résultats. Vous pourrez filtrer par :
 
@@ -28,7 +28,7 @@ Une fois l’utilisateur trouvé, vous pouvez consulter sa fiche. Vous avez la p
 
 ![](.gitbook/assets/2018-08-22_18h14_20.png)
 
-## Rechercher un groupe {#rechercher-un-groupe}
+## Rechercher un groupe <a id="rechercher-un-groupe"></a>
 
 Vous pouvez rechercher facilement et rapidement un groupe d’utilisateurs. Pour effectuer votre recherche, vous disposez un onglet de recherche \(1\) et de filtres afin d’affiner les résultats. Vous pourrez filtrer par :
 
@@ -43,7 +43,7 @@ Une fois le groupe trouvé, vous pouvez accéder à la liste des utilisateurs co
 
 ![](.gitbook/assets/2018-08-22_18h19_24.png)
 
-## Gérer vos favoris de partage {#gerer-vos-favoris-de-partage}
+## Gérer vos favoris de partage <a id="gerer-vos-favoris-de-partage"></a>
 
 En cliquant sur la fenêtre des favoris, vous pourrez gérer des listes d’utilisateurs avec lesquels vous communiquez régulièrement. Vous retrouverez vos listes de favoris à chaque fois que vous aurez besoin de partager un contenu, à travers l’onglet de recherche d’utilisateurs dans la fenêtre de partage, ainsi que dans la messagerie. Dans cet espace, vous voyez apparaître vos favoris préalablement enregistrés \(1\). Vous avez la possibilité d’effectuer une recherche dans vos listes de favoris grâce à la barre de recherche \(2\), ou bien de créer directement une liste \(3\).
 
@@ -87,7 +87,7 @@ Pour supprimer de votre liste des utilisateurs ou des groupes, vous pouvez cliqu
 
 Vous avez également la possibilité de créer des listes de favoris directement depuis la fenêtre de partage. Une option "Enregistrer comme favori de partage" est disponible dans toutes les fenêtres de partage, pour enregistrer rapidement et sans effort vos listes favorites.
 
-## Envoyer un message à un favori {#envoyer-un-message-a-un-favori}
+## Envoyer un message à un favori <a id="envoyer-un-message-a-un-favori"></a>
 
 Vous pouvez envoyer directement un message sur la Messagerie en sélectionnant votre liste de favori depuis l’Annuaire. Une fois le favori sélectionné, il vous suffira de cliquer sur "Envoyer un message au favori"
 
@@ -97,7 +97,7 @@ Les utilisateurs de votre favori seront ainsi directement pré-sélectionnés da
 
 ![](.gitbook/assets/messagerie1d-favori.png)
 
-## Vue "La Classe" {#vue-la-classe}
+## Vue "La Classe" <a id="vue-la-classe"></a>
 
 Depuis l'onglet "La classe", vous accédez à la vue de l'enseignant et des élèves de la classe :
 
