@@ -1,6 +1,6 @@
 # Mes applis
 
-## Accéder à mes applis <a id="acceder-a-mes-applis"></a>
+## Accéder à mes applis 
 
 Pour accéder à vos applis, cliquez sur l’icône correspondante dans le bandeau de navigation.
 
