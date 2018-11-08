@@ -36,8 +36,6 @@ Dans la nouvelle fenêtre, suivez les étapes suivantes :
 
 **Vous pouvez importer plusieurs fichiers en une seule fois, si vous en sélectionnez plusieurs sur votre ordinateur.**
 
- _'_''
-
 ![](.gitbook/assets/espacedocone_11.JPG)
 
 Vous pouvez aussi importer un document ou plusieurs documents en effectuant un glisser-déposer. Pour cela, sélectionnez le ou les documents à déplacer \(1\) depuis votre espace de travail et glissez-le vers son nouvel emplacement \(2\).
