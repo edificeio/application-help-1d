@@ -93,11 +93,11 @@ Si vous avez activé un circuit de publication \(billets à soumettre pour les c
 
 Cliquez la case à cocher des billets soumis pour afficher les billets rédigés par les contributeurs du blog.
 
-![](.gitbook/assets/blog_51.png)
+![](.gitbook/assets/blog_51%20%281%29.png)
 
 Vous pouvez réaliser les actions suivantes en cliquant sur « Publier » ou sur l’icône
 
-![](.gitbook/assets/blog-13.png)
+![](.gitbook/assets/blog-13%20%281%29.png)
 
 * **Publier** le billet sans mise à jour : le billet est alors visible par tous les utilisateurs ayant accès au blog
 * **Modifier** le billet avant publication : vous accédez à l’éditeur de texte pour apporter vos modifications
@@ -109,7 +109,7 @@ Vous pouvez réaliser les actions suivantes en cliquant sur « Publier » ou sur
 
 Lorsque vous naviguez sur votre blog, vous avez la possibilité de l'imprimer, en cliquant sur le bouton "Imprimer le blog" :
 
-![](.gitbook/assets/imprimerblog1d.png)
+![](.gitbook/assets/imprimerblog1d%20%281%29.png)
 
 Une option vous permettra de choisir si vous souhaitez imprimer le blog avec les commentaires ou non :
 

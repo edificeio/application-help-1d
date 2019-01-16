@@ -6,7 +6,7 @@ Un problème, une question ? On a pensé à tout ! L’appli **Assistance ENT** 
 
 L’utilisateur peut faire part de ses difficultés d’utilisation ou d’un dysfonctionnement via un formulaire dans lequel il peut également ajouter une copie d’écran pour illustrer son propos. Lorsqu’une demande est créée, l’**administrateur local** reçoit une **notification** qui lui permet de consulter rapidement la demande. Il peut alors la **mettre à jour** ou **changer son statut**. L’utilisateur recevra à son tour une **notification** pour être averti des modifications et réponses.
 
-![](.gitbook/assets/assistance-1.png)
+![](.gitbook/assets/assistance-1%20%281%29.png)
 
 ## Créer une demande
 
@@ -38,6 +38,4 @@ Les référents ENT et les demandeurs de l'établissement seront notifiés sur l
 ![](.gitbook/assets/assistance-5.png)
 
 ![](.gitbook/assets/aide_4-1024x432.png)
-
-
 

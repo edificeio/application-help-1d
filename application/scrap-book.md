@@ -14,13 +14,13 @@ Les utilisateurs ayant des droits de contribution dans le cahier choisissent le 
 
 Pour accéder à l’appli Cahier multimédia, cliquez sur l’icône correspondante dans la page « Mes applis ».
 
-![](.gitbook/assets/2018-08-23_10h27_23.png)
+![](.gitbook/assets/2018-08-23_10h27_23%20%281%29.png)
 
-![](.gitbook/assets/2018-08-23_10h26_57.png)
+![](.gitbook/assets/2018-08-23_10h26_57%20%281%29.png)
 
 Dans le service Cahier multimédia, cliquez sur le bouton « Créer » en haut de la page.
 
-![](.gitbook/assets/2018-08-23_10h29_55.png)
+![](.gitbook/assets/2018-08-23_10h29_55%20%281%29.png)
 
 Vous accédez à l’interface de création du cahier.
 
@@ -38,7 +38,7 @@ Votre cahier est désormais créé mais n’est pas encore visible. Pour le part
 
 Dans la fenêtre, vous pouvez donner des droits de consultation, de contribution et de gestion sur votre cahier. Pour cela, saisissez les premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs que vous recherchez \(1\), sélectionnez le résultat \(2\) et cochez les cases correspondant aux droits que vous souhaitez leur attribuer \(3\). Cliquez sur "Partager" \(4\) pour valider.
 
-![](.gitbook/assets/2018-08-23_10h35_25.png)
+![](.gitbook/assets/2018-08-23_10h35_25%20%281%29.png)
 
 ## Editer les pages du cahier multimédia
 
@@ -52,7 +52,7 @@ Pour ajouter de nouvelles pages, cliquez sur « Ajouter une page » \(1\) ou sur
 
 Vous pouvez ajouter les contenus suivants dans vos cahiers :
 
-![](.gitbook/assets/2018-08-23_10h41_13.png)
+![](.gitbook/assets/2018-08-23_10h41_13%20%281%29.png)
 
 1. Texte
 2. Image
@@ -72,7 +72,7 @@ Pour déplacer un contenu, survolez la zone et cliquez dessus quand le curseur p
 
 Pour modifier la taille du contenu, survolez le contour de la zone et cliquez dessus quand le curseur prend la forme d’une double flèche.
 
-![](.gitbook/assets/m81.png)
+![](.gitbook/assets/m81%20%281%29.png)
 
 Pour visualiser votre cahier, cliquez sur « Afficher ». N’oubliez pas d’enregistrer vos travaux avant de quitter la page en cliquant sur « Enregistrer ».
 
@@ -82,7 +82,7 @@ Pour visualiser votre cahier, cliquez sur « Afficher ». N’oubliez pas d’en
 
 Il est possible d’ajouter dans vos cahiers multimédia des vidéos stockées sur des plateformes d’hébergement comme Youtube, Dailymotion, Libcast, Vimeo, Wat.tv, … Ouvrez le cahier multimédia dans lequel vous souhaitez ajouter cette vidéo et cliquez sur l’icône d’ajout de vidéo.
 
-![](.gitbook/assets/cma-3.png)
+![](.gitbook/assets/cma-3%20%281%29.png)
 
 Dans la fenêtre qui s’ouvre, selectionnez un type de contenu de média \(vidéos hébergées sur Youtube, Viméo, Dailymotion, Learningaps.org et educaplay\) \(1\)
 
@@ -98,11 +98,11 @@ Pour une vidéo hébergée ailleurs , appuyez sur la vignette "Collez votre prop
 
 puis collez le lien Iframe \(5\) et cliquez sur "Appliquer" \(6\)
 
-![](.gitbook/assets/cma-7.png)
+![](.gitbook/assets/cma-7%20%281%29.png)
 
 Positionnez ensuite la vidéo dans la page et sauvegardez votre travail.
 
-![](.gitbook/assets/cma-8.png)
+![](.gitbook/assets/cma-8%20%281%29.png)
 
 Votre cahier est complété et la vidéo prête à être regardée !
 
