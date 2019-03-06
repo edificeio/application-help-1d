@@ -1,6 +1,6 @@
 # Pad Collaboratif
 
-Écrire à plusieurs mains en temps réel ! Le **Pad collaboratif** permet à tous les membres de votre groupe de co-rédiger le devoir en ligne. Travaillez ensemble sur le même texte, où que vous soyez et en même temps.
+L’appli **Pad collaboratif** permet de travailler à plusieurs personnes et en temps réel sur un éditeur de texte en ligne.
 
 ## Présentation
 
@@ -8,34 +8,31 @@ Le Pad est un éditeur de texte en ligne fonctionnant en mode collaboratif temps
 
 ## Créer un Pad
 
-Retrouvez l'appli Pad collaboratif depuis la page Mes applis.
-
-![](.gitbook/assets/2018-08-24_11h38_20%20%281%29.png)
-
 Pour créer un Pad, cliquez sur le bouton « Créer un Pad » dans la page d’accueil de l’appli.
 
-![](.gitbook/assets/pad-co-1.png)
+![](.gitbook/assets/nouveaupad1.png)
 
-Ensuite, saisissez un nom \(1\) et enregistrez si vous le souhaitez une image d’illustration du Pad \(sinon c’est l’icône par défaut qui est affichée\) \(2\). Vous pouvez ensuite ajouter une description \(3\). Cliquez enfin sur « Enregistrer » \(4\).
+Ensuite, saisissez un nom \(1\) et enregistrez si vous le souhaitez une image d’illustration du Pad \(sinon c’est l’icône par défaut qui est affichée\) \(2\). Vous pouvez ensuite si vous le souhaitez ajouter une description \(3\).
 
-![](.gitbook/assets/pad-co-2.png)
+Cliquez enfin sur « Enregistrer » \(4\).
+
+![](.gitbook/assets/nouveaupad2.png)
 
 ## Partager un Pad
 
 Pour partager un Pad avec d’autres utilisateurs, cliquez sur la case à cocher correspondant à votre Pad \(1\) puis sur le bouton « Partager » \(2\).
 
-![](.gitbook/assets/pad-co-3%20%281%29.png)
+![](.gitbook/assets/partagepad.png)
 
 Dans la fenêtre, vous pouvez donner aux utilisateurs différents droits d’accès à votre Pad. Pour cela, suivez les étapes suivantes :
 
 1. Saisissez les premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs que vous recherchez.
 2. Sélectionnez le résultat.
 3. Cochez les cases correspondant aux droits que vous souhaitez leur attribuer.
-4. Cliquez sur "Partager" pour valider
 
-![](.gitbook/assets/2018-08-23_17h22_12.png)
+![](.gitbook/assets/partagepad2.png)
 
-\]Les droits de partage que vous pouvez attribuer aux autres utilisateurs sont les suivants :
+Les droits de partage que vous pouvez attribuer aux autres utilisateurs sont les suivants :
 
 * **Lecteur** : l’utilisateur peut lire le contenu
 * **Contributeur** : l’utilisateur peut contribuer à votre Pad
@@ -45,7 +42,7 @@ Dans la fenêtre, vous pouvez donner aux utilisateurs différents droits d’acc
 
 Pour travailler avec un Pad partagé, il vous suffit de saisir le texte qui sera transmis automatiquement à tous les collaborateurs en ligne sur ce même Pad.
 
-![](.gitbook/assets/pad-co-5.png)
+![](.gitbook/assets/travaillerpad.png)
 
 1. Saisissez du texte dans votre Pad.
 2. Dès lors qu’un collaborateur contribue, sa contribution s’affiche en temps réel dans une couleur différente.
@@ -54,11 +51,15 @@ Pour travailler avec un Pad partagé, il vous suffit de saisir le texte qui sera
    * La partie gauche concerne des outils de saisie de texte classique \(gras, italique, souligné, etc.\)
    * La partie droite offre certaines fonctionnalités complémentaires :
 
-![](.gitbook/assets/pad-co-6.png)
+![](.gitbook/assets/barre-outil.png)
 
 * Importer/exporter un Pad dans divers formats ;
 * Accéder à l’historique dynamique. Cette fonctionnalité présente une cinématique des différentes versions du contenu du Pad ;
 * Forcer l’enregistrement d’une révision \(une version\) ;
 * Modifier le paramétrage de votre Pad ;
 * Visualiser l’identité des participants avec leur couleur de saisie.
+
+## Note de version
+
+A chaque nouvelle version de l’application, les nouveautés seront présentées dans cette section.
 

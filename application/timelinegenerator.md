@@ -1,41 +1,33 @@
 # Frise chronologique
 
-Devenez un maître du temps avec l’appli **Frise chronologique** ! Sur une ligne représentant la flèche du temps, positionnez les étapes marquantes liées à votre thématique . Intégrez du texte, des images ou même des vidéos pour rendre votre frise plus attractive et ajoutez des contributeurs pour vous prêter main forte.
+L’appli **Frise chronologique** permet de **positionner des événements sur une ligne** représentant la flèche du temps.
 
 ## Présentation
 
 L’appli Frise chronologique permet **d’associer des événements à leur position dans le temps** et de les représenter sous la forme d’une frise temporelle. Chaque événement est accompagné d’un encart permettant de **publier du contenu additionnel** \(texte, image, son …\). Chaque frise peut être partagée avec un utilisateur ou un groupe d’utilisateurs.
 
-![](.gitbook/assets/2018-08-23_17h58_55%20%281%29.png)
+![](.gitbook/assets/frise1.png)
 
-## Créer une frise chronologique
+## Créer et partager une frise chronologique
 
 Pour accéder à l’appli Frise chronologique, cliquez sur l’icône correspondante dans la page « Mes applis ».
 
-![](.gitbook/assets/frisechronoone_2-app.png)
+![](.gitbook/assets/page_mesapplis_1d.png)
 
 Cliquez sur le bouton « Créer une frise ».
 
-![](.gitbook/assets/frisechronoone_3%20%281%29.png)
+![](.gitbook/assets/f11.png)
 
 Suivez les étapes suivantes :
 
-* Saisissez un titre \(1\)
-* Choisissez une image pour la vignette \(2\)
-* Renseignez le descriptif de la frise \(3\)
-* Cliquez sur « Enregistrer » \(4\)
+* Saisissez un titre
+* Choisissez une image pour la vignette
+* Renseignez le descriptif de la frise
+* Cliquez sur « Sauvegarder »
 
-![](.gitbook/assets/frisechronoone_4-creation.png)
+![](.gitbook/assets/frise_1.png)
 
-## Partager une frise chronologique
-
-Votre frise chronologique est désormais créée mais n’est pas encore visible. Pour le partager avec d’autres utilisateurs, cliquez sur le bouton « + » \(1\) présent dans le coin supérieur droit de la vignette de votre frise puis cliquez sur le bouton « Partager » \(2\).
-
-![](.gitbook/assets/frisechronoone_5-partage%20%281%29.png)
-
-Dans la fenêtre de partage, vous pouvez donner des droits de consultation, de contribution ou de gestion sur votre frise chronologique. Pour cela, saisissez les premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs que vous recherchez \(1\), sélectionnez le résultat \(2\) et cochez les cases correspondant aux droits que vous souhaitez leur attribuer \(3\). Cliquez sur "Partager" pour valider \(4\).
-
-![](.gitbook/assets/2018-08-23_18h01_11%20%281%29.png)
+La frise chronologique est maintenant créée. Pour la partager, saisissez les premières lettres du nom de l’utilisateur ou d’un groupe d’utilisateurs que vous recherchez \(1\), sélectionnez le résultat \(2\) et cochez les cases correspondant aux droits que vous souhaitez leur attribuer \(3\).
 
 Les différents droits que vous pouvez attribuer sont les suivants :
 
@@ -43,11 +35,13 @@ Les différents droits que vous pouvez attribuer sont les suivants :
 * Contribution : l’utilisateur peut créer des événements sur la frise
 * Gestion : l’utilisateur peut partager, modifier et supprimer la frise
 
+![](.gitbook/assets/f5.png)
+
 ## Créer un événement dans la frise chronologique
 
 Pour créer du contenu dans la frise, cliquez sur « Ajouter un événement ».
 
-![](.gitbook/assets/frisechronoone_7-ajouter-evenement.png)
+![](.gitbook/assets/frise1-1024x361.png)
 
 Vous devez renseigner plusieurs informations pour créer un évènement :
 
@@ -56,7 +50,13 @@ Vous devez renseigner plusieurs informations pour créer un évènement :
 * Une image d’illustration
 * Une description
 
-![](.gitbook/assets/frisechronoone_8-creer-evenement.png)
+![](.gitbook/assets/frise_21.png)
 
-Une fois l’événement créé, il apparaît dans la frise chronologique. Le tour est joué !
+* Une fois l’événement créé, il apparaît dans la frise chronologique.
+
+![](.gitbook/assets/f8.png)
+
+## Note de version
+
+A chaque nouvelle version de l’application, les nouveautés seront présentées dans cette section.
 

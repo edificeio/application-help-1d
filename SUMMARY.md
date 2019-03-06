@@ -1,12 +1,10 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Premiers pas](application/timeline.md)
-* [Actualités](application/actualites.md)
+* [Premiers pas dans l'ENT](application/timeline.md)
 * [Annuaire](application/directory.md)
-* [Assistance ENT](application/support.md)
 * [Blog](application/blog.md)
-* [Cahier de textes](application/homeworks.md)
+* [Cahier de textes](application/751.md)
 * [Cahier multimédia](application/scrap-book.md)
 * [Carnet de liaison](application/schoolbook.md)
 * [Carte mentale](application/mindmap.md)
@@ -14,11 +12,9 @@
 * [Espace documentaire](application/workspace.md)
 * [Export](application/archive.md)
 * [Frise chronologique](application/timelinegenerator.md)
-* [Mes applis](application/portal.md)
 * [Messagerie](application/conversation.md)
 * [Mon compte](application/userbook.md)
 * [Pad Collaboratif](application/collaborative-editor.md)
-* [Paramétrage de la classe](application/parametrage-de-la-classe.md)
-* [Statistiques](application/stats.md)
-* [Wiki](application/wiki.md)
+* [Administration](application/administration.md)
+* [Paramétrage de la classe](application/parametrage-de-la-classe-1d.md)
 

@@ -1,94 +1,220 @@
 # Espace documentaire
 
-À chacun son classeur numérique ! Grâce à l’application **Espace documentaire**, retrouvez, au même endroit, tous les documents utilisés à travers les applis du réseau. Stockez d’autres fichiers, organisez-les et partagez-les dans votre espace en fonction de leurs thématiques, du cours ou de la classe concernée !
+L’appli **Espace documentaire** permet de stocker et partager ses documents en ligne. Chaque utilisateur accède ainsi à tous les fichiers dont il a besoin.
 
 ## Présentation
 
-![](.gitbook/assets/image%20%287%29.png)
+L’application Document d’un utilisateur est composé de 4 dossiers :
 
-L’application Espace documentaire d’un utilisateur est composée de 4 dossiers :
+![](.gitbook/assets/document.png)
 
-**Mes documents** Dans ce dossier, vous pouvez charger tous types de fichiers depuis votre ordinateur, qu’il s’agisse de documents texte ou PDF, d’images, de vidéos ou d’extraits audio. Classez ces fichiers dans des dossier pour les retrouver plus facilement. En quelques clics, partagez vos documents personnels avec d’autres utilisateurs en leur attribuant des droits de consultation, de contribution, de gestion ou de commentaire, selon vos besoins.
+L’utilisateur peut importer depuis son poste de travail **tout type de document** sans restriction de format, et les **organiser** en dossiers créés dans « Mes documents ». Il peut **également partager ses documents** personnels avec d’autres utilisateurs en leur attribuant différents droits.
 
-**Documents partagés** Vous retrouvez dans ce dossier tous les documents partagés, que d’autres utilisateurs ont partagés avec vous, ou que vous leur avez partagés.
+Lorsqu’un document est partagé par un autre utilisateur, celui-ci se trouve dans le dossier « Documents partagés avec moi ».
 
-**Documents ajoutés dans les applis** Vous retrouverez ici tous les fichiers que vous avez ajouté dans d’autres applis \(par exemple image d’un billet de blog\).
+Le dossier « Documents ajoutés dans les applis » contient les documents que l’utilisateur aura ajoutés dans les autres applis \(par exemple l’image d’un billet de blog\).
 
-**En centralisant l’ensemble des documents accessibles par l’utilisateur, l’appli Documents permet d’intégrer facilement un contenu dans n’importe quelle appli.**
+**En centralisant l’ensemble des documents accessibles par l’utilisateur, l’appli Documents permet d’intégrer facilement un contenu dans n’importe quelle appli de l’ENT.**
+
+## Naviguer dans mes Documents
+
+Un nouveau mode de navigation plus intuitif a été mis en place sur l’application Document.  
+Pour **accéder au menu d’option** d’un fichier ou d’un dossier, vous devez **cliquer une fois** dessus. Le menu s’affiche ensuite en bas de la page et vous pouvez choisir les actions à effectuer.  
+Vous devez cliquer une nouvelle fois sur le fichier ou le dossier pour le désélectionner.
+
+![](.gitbook/assets/doc-ouverture-menu-fichier.png)
+
+Pour **visualiser un fichier** sur la visionneuse de l’ENT ou pour **ouvrir un dossier**, vous devez **double-cliquer dessus**.
+
+Vous pouvez également sélectionner plusieurs fichiers ou dossiers si vous souhaitez effectuer une action sur tous ces documents simultanément.
+
+![](.gitbook/assets/doc-selection-multi-fichier.png)  
+**ATTENTION**  
+Si vous effectuez une action de partage sur plusieurs fichiers ou dossiers alors que l’un de ces fichiers ou dossiers possède déjà un partage, vous supprimerez l’ancien partage effectué sur ce fichier ou dossier.
 
 ## Importer un document
 
 Pour importer un document dans votre espace de stockage personnel, cliquez sur le bouton « Importer » situé en haut de l’interface.
 
-![](.gitbook/assets/image%20%281%29.png)
+![](.gitbook/assets/document3-1024x507.png)
 
 Dans la nouvelle fenêtre, suivez les étapes suivantes :
 
-1. Cliquez sur « Parcourir » et sélectionnez sur votre ordinateur le document que vous souhaitez enregistrer dans l’espace documentaire de la plateforme.
+1. Cliquez sur « Parcourir » et sélectionnez sur votre ordinateur le document que vous souhaitez enregistrer dans l’espace documentaire de l’ENT.
 2. Cliquez sur « Importer ».
+3. Lorsque la case est cochée, cela signifie que le document a bien été importé dans votre espace documentaire. Vous pouvez fermer la fenêtre.
 
 **Une icône d’attente s’affiche pour indiquer que le chargement du document est en cours.**
 
-![](.gitbook/assets/espacedocone_10.JPG)
+![](.gitbook/assets/document31-1024x507.png)
+
+\* \*
 
 **Vous pouvez importer plusieurs fichiers en une seule fois, si vous en sélectionnez plusieurs sur votre ordinateur.**
 
-![](.gitbook/assets/espacedocone_11.JPG)
+Vous pouvez aussi importer un document ou plusieurs documents en effectuant un glisser-déposer. Pour cela, sélectionnez le ou les documents à déplacer \(1\) depuis votre espace de travail et glissez-le vers son nouvel emplacement \(2\).
 
-Vous pouvez aussi importer un document ou plusieurs documents en effectuant un glisser-déposer. Pour cela, sélectionnez le ou les documents à déplacer depuis votre espace de travail et glissez-le vers son nouvel emplacement.
-
-![](.gitbook/assets/image%20%288%29.png)
-
-## Partager un document
-
-Pour partager un document à d'autres utilisateurs, sélectionnez le document \(1\), puis cliquez sur "Partager" \(2\).
-
-![](.gitbook/assets/2018-08-23_17h45_10.png)
-
-Si vous partagez un dossier personnel, un message vous indiquera que le partage concernera également tous les fichiers et sous dossiers contenus dans le dossier en question mais aussi que ce dossier sera déplacé dans les "documents partagés".
-
-![](.gitbook/assets/image%20%285%29.png)
-
-Cliquez sur copier et partager ou sur partager sans copier pour accéder à la fenêtre de partage. Recherchez les utilisateurs ou les groupes d'utilisateurs avec lesquels vous souhaitez partager le document \(1\), sélectionnez-les dans les suggestions qui apparaissent en dessous \(2\). Accordez leur les droits que vous souhaitez \(3\) et validez votre sélection en cliquant sur "Partager" \(4\).
-
-![](.gitbook/assets/2018-08-23_17h48_11%20%281%29.png)
-
-Les droits sont les suivants :
-
-* Consulter : droit de lecture
-* Contribuer : droit de modification sur le document et d'import de fichiers dans le dossier partagé
-* Gérer : droit de propriété sur le document ou dossier. L'utilisateur peut ainsi décider de supprimer le document ou dossier s'il le souhaite
-* Commenter : droit de commentaire sur le document ou dossier
+![](.gitbook/assets/doc-glisser-deposer-pc2.png)
 
 ## Déplacer un document ou un dossier
 
 Vous pouvez déplacer vos documents et vos dossiers facilement dans votre espace documentaire. Pour cela, sélectionnez le document ou le dossier à déplacer \(1\) et glissez-le vers son nouvel emplacement \(2\).
 
-![](.gitbook/assets/espacedocone_6-dossiers.JPG)
+![](.gitbook/assets/doc-glisser-deposer-avec.png)
 
-Vous ne pouvez pas déplacer un fichier du dossier « Mes documents » vers les dossiers « Documents partagés » et « Documents ajoutés dans les applis ».
+Vous ne pouvez pas déplacer un fichier du dossier « Mes documents » vers les dossiers « Documents partagés avec moi » et « Documents ajoutés dans les applis ».
 
 Le dossier se trouve maintenant à l’emplacement choisi.
 
-## Naviguer dans mes Documents
-
-Pour **accéder au menu d’option** d’un fichier ou d’un dossier, vous devez **cliquer une fois** dessus. Le menu s’affiche ensuite en bas de la page et vous pouvez choisir les actions à effectuer.  
-Vous devez cliquer une nouvelle fois sur le fichier ou le dossier pour le désélectionner.
-
-![](.gitbook/assets/espacedocone_7-options%20%281%29.JPG)
-
-Pour **visualiser un fichier** sur la visionneuse de la plateforme ou pour **ouvrir un dossier**, vous devez **double-cliquer dessus**.
-
-Vous pouvez également sélectionner plusieurs fichiers ou dossiers si vous souhaitez effectuer une action sur tous ces documents simultanément.
-
-![](.gitbook/assets/espacedocone_8-multiselection.JPG)
-
-**ATTENTION**  
-Si vous effectuez une action de partage sur plusieurs fichiers ou dossiers alors que l’un de ces fichiers ou dossiers possède déjà un partage, vous supprimerez l’ancien partage effectué sur ce fichier ou dossier.
+![](.gitbook/assets/doc-glisser-deposer-2.png)
 
 ## Connaître l’espace de stockage disponible
 
 La jauge affichée sous la liste des dossiers de l’espace documentaire vous permet de connaître l’espace de stockage dont vous disposez. L’espace utilisé est indiqué sur la gauche. Le chiffre situé sur la droite indique l’espace total de l’utilisateur.
 
-![](.gitbook/assets/espacedocone_9.JPG)
+![](.gitbook/assets/document11.png)
+
+## Ajouter la nouvelle version d’un document
+
+Vous pouvez mettre à jour un document tout en gardant une trace de ses précédentes versions et en conservant les droits de partage du document initial.
+
+Pour mettre à jour un document, cliquer une fois sur le document pour qu’il soit surligner en bleu. La barre d’action s’affiche en bas de page, cliquez sur le bouton « Versions ».
+
+![](.gitbook/assets/doc-selection-fichier.png)
+
+Une nouvelle page s’affiche, cliquez sur le bouton « Nouvelle version ».
+
+![](.gitbook/assets/document5-1024x328.png)
+
+Choisissez le document depuis votre poste de travail et cliquez sur « Ouvrir ».
+
+![](.gitbook/assets/document6-1024x720.png)
+
+Le document a été mis à jour.
+
+![](.gitbook/assets/document7-1024x408.png)
+
+Le document sera renommé avec le libellé du dernier document importé.
+
+\*Les utilisateurs qui ont un droit de contribution sur un document peuvent mettre à jour de nouvelles versions.  
+\*
+
+## Accéder aux anciennes versions de son document
+
+Pour visualiser les anciennes versions d’un document, suivez les étapes suivantes:
+
+1. Cliquez une fois sur le document pour qu’il soit surligné en bleu
+2. Cliquez sur le bouton "Versions" en bas de page
+
+![](.gitbook/assets/doc-selection-fichier.png)
+
+Toutes les versions du document s’affichent. Chaque version permet d’accéder aux informations suivantes :
+
+* Titre du document
+* Identifiant de la personne qui a ajouté le document
+* Taille du document
+
+Il est possible de supprimer toutes les versions du document sauf la dernière mise à jour.
+
+![](.gitbook/assets/document8-1024x399.png)
+
+## Note de version
+
+Nouveautés de la version 1.13.1
+
+**Glisser-déposer dans la vue liste**
+
+La fonctionnalité de glisser-déposer est maintenant disponible dans la vue liste du service Documents.
+
+![](.gitbook/assets/ndv-4.png)  
+**Suppression de commentaire**
+
+Les commentaires d’un document peuvent être supprimés par le créateur du commentaire ou le gestionnaire du document.
+
+**Compression des images lors du chargement**
+
+Une nouvelle fonctionnalité permet de compresser les images lors de leur chargement dans l’espace documentaire. Un curseur permet de choisir dans quelle proportion compresser l’image.
+
+Cette fonctionnalité est aussi disponible lors du téléchargement d’une image à partir de la bibliothèque multimédia.
+
+![](.gitbook/assets/ndv-5.png)
+
+**Visionneuse de documents**
+
+Le service document permet maintenant de visualiser les documents pour les formats suivants :
+
+Documents :
+
+* PDF
+
+Images :
+
+* JPEG
+* PNG
+* GIF
+
+Sons :
+
+* MP3
+* MPEG-4
+* WAVE
+
+![](.gitbook/assets/ndv-6.png)  
+Lors du clic sur le document, si le format est reconnu, le document est affiché à l’écran pour être visualisé ou écouté. Il est alors possible de l’afficher en plein écran ou de le télécharger.
+
+Nouveautés de la version 1.12.0    
+****
+
+**Carrousel**
+
+Une nouvelle vue fait son apparition dans l’espace documentaire : la vue carrousel. Elle permet de faire défiler un aperçu de toutes les images du dossier courant.
+
+![](.gitbook/assets/ndv-3.png)
+
+Le carrousel est également présent dans la liste des "sniplets" disponible dans l’appli Pages.
+
+**Gestion des versions d’un document**
+
+Il est désormais possible de mettre à jour un document tout en conservant une trace de l’historique des versions de ce dernier. Pour cela, cliquez sur l’icône « Voir les versions archivées ».  
+![](.gitbook/assets/ndv-41.png)
+
+La liste affichée permet de voir toutes les versions déposées et les utilisateurs qui les ont déposées.
+
+![](.gitbook/assets/ndv-5.png)
+
+Il est ensuite possible de supprimer les anciennes versions d’un document en cliquant sur la croix blanche en face d’une version.
+
+Les actions possibles sur les versions d’un document dépendent des droits dont l’utilisateur dispose sur ce document :
+
+* Les personnes ayant des droits de consultation peuvent visualiser toutes les versions d’un document ;
+* Les contributeurs peuvent ajouter une nouvelle version du document et supprimer les anciennes versions dont ils sont propriétaires ;
+* Les gestionnaires peuvent ajouter une nouvelle version du document et supprimer toutes les anciennes versions du document.
+
+**Glisser-déposer depuis le poste de l’utilisateur**
+
+Un utilisateur peut maintenant glisser-déposer un ou plusieurs documents depuis son poste de travail.
+
+Cette fonctionnalité est également disponible dans les zones de textes et pour les vignettes des contenus des services.
+
+![](.gitbook/assets/ndv-61.png)
+
+**Espace documentaire : suppression des partages des documents mis à la corbeille**
+
+Quand un utilisateur met un document à la corbeille, les partages du document sont automatiquement supprimés.
+
+**Espace documentaire : caractères spéciaux sur les dossiers**
+
+A l’exception du caractère "_", les caractères spéciaux sont désormais correctement gérés dans les noms des dossiers. Pour le moment, le caractère "_" ne peut pas être utilisé dans le nom des dossiers.
+
+**Commentaires sur les dossiers**
+
+Les commentaires sur les dossiers sont maintenant possibles. L’ajout de commentaire s’effectue de la même manière que pour les documents : sélectionnez la case à cocher correspondant au document et cliquez sur le bouton « Commentaire ».
+
+![](.gitbook/assets/ndv-7.png)
+
+Nouveauté de la version 1.21
+
+**Évolution ergonomique**
+
+Les cases à cocher ont été supprimées en mode vignette. La sélection d’un ou plusieurs documents se fait désormais en cochant la ou les vignettes.
 
