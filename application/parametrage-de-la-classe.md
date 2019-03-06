@@ -12,13 +12,13 @@ Pour accéder à l’appli Paramétrage de la classe, cliquez sur l’icône cor
 
 ![](.gitbook/assets/2018-08-24_11h44_08%20%281%29.png)
 
-![](.gitbook/assets/2018-08-24_11h45_21%20%281%29.png)
+![](.gitbook/assets/2018-08-24_11h45_21%20%282%29.png)
 
 Vous accédez à la page de gestion de votre classe, qui vous permet de modifier le nom de votre classe et d’administrer les utilisateurs \(élèves et parents\).
 
 Il est alors possible d’ajouter des élèves \(1\), des parents \(2\), des enseignants \(3\) et des personnels \(4\).
 
-![](.gitbook/assets/2018-08-24_11h46_40.png)
+![](.gitbook/assets/2018-08-24_11h46_40%20%281%29.png)
 
 Pour ajouter des élèves, assurez-vous tout d'abord que vous êtes bien dans l'onglet "Elèves" \(1\). Vous avez ensuite deux options :
 
@@ -44,7 +44,7 @@ Pour créer un compte enseignant ou un compte personnel, il suffit de renseigner
 
 Dans l’onglet correspondant, sélectionnez l’utilisateur dont vous souhaitez renouveler le mot de passe \(1\) et cliquez sur « Réinitialiser le mot de passe » \(2\).
 
-![](.gitbook/assets/2018-08-24_11h59_36-1.png)
+![](.gitbook/assets/2018-08-24_11h59_36-1%20%281%29.png)
 
 L'email suivant est alors envoyé sur l’adresse email que vous avez renseigné dans la rubrique Mon compte :
 
@@ -74,7 +74,7 @@ La réinitialisation du mot de passe est effective. L’utilisateur peut alors s
 
 Placez-vous sur l’onglet « Elèves » ou « Parents » en fonction du profil des utilisateurs pour lesquels vous souhaitez récupérer les informations de connexion. En bas de la liste d’utilisateurs, cliquez sur « Exporter les codes d’activation ».
 
-![](.gitbook/assets/2018-08-24_12h03_27-1.png)
+![](.gitbook/assets/2018-08-24_12h03_27-1%20%281%29.png)
 
 Un fichier CSV est généré, contenant les identifiants et codes d’activation des utilisateurs sélectionnés, que vous pouvez ouvrir ou enregistrer sur votre ordinateur. Ce fichier vous permettra de distribuer les informations de connexion aux utilisateurs de votre classe.
 

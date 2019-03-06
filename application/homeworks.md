@@ -6,7 +6,7 @@ Devenez un maître de l’organisation avec l’appli **Cahier de Texte** ! Cré
 
 Il est facile de publier les leçons des élèves dans le cahier de textes. Les élèves y accèdent jour par jour et disposent également d’une synthèse de la semaine \(vue semaine\). Le cahier peut être partagé avec un utilisateur ou un groupe d’utilisateurs, selon les souhaits de l’enseignant.
 
-![](.gitbook/assets/cahier-de-textes-1.png)
+![](.gitbook/assets/cahier-de-textes-1%20%281%29.png)
 
 ## Créer un cahier de textes
 
@@ -30,7 +30,7 @@ Pour partager un cahier de textes avec d’autres utilisateurs, cliquez sur la c
 
 Dans la fenêtre de partage, vous pouvez donner des droits de lecture, de contribution et de gestion à d’autres personnes sur votre cahier. Pour cela, saisissez les premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs que vous recherchez \(1\), sélectionnez le résultat \(2\) et cochez les cases correspondant aux droits que vous souhaitez leur attribuer \(3\). Pour valider, cliquez sur "Partager" \(4\).
 
-![](.gitbook/assets/2018-08-23_10h17_05%20%281%29.png)
+![](.gitbook/assets/2018-08-23_10h17_05%20%282%29.png)
 
 Les différents droits que vous pouvez attribuer sont les suivants :
 
@@ -48,7 +48,7 @@ Une fois votre cahier de textes créé, vous pouvez y ajouter des activités. Po
 
 Lorsque le cahier est affiché à l’écran, cliquez sur un jour de la semaine pour saisir une nouvelle activité.
 
-![](.gitbook/assets/cahier-de-texte-7%20%281%29.png)
+![](.gitbook/assets/cahier-de-texte-7%20%282%29.png)
 
 Une fois le jour sélectionné, cliquez sur le bouton « Créer ».
 
@@ -72,5 +72,5 @@ Une fois que vous avez terminé, cliquez sur le bouton « Afficher la vue semain
 
 La semaine en cours est affichée par défaut. Pour saisir une activité pour une semaine ultérieure, vous pouvez soit faire défiler les semaines en cliquant sur les flèches \(1\) soit sélectionner la date dans le calendrier \(2\).
 
-![](.gitbook/assets/t12.png)
+![](.gitbook/assets/t12%20%281%29.png)
 

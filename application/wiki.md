@@ -25,7 +25,7 @@ Cliquez enfin sur « Enregistrer » \(3\)
 Pour partager un Wiki avec d’autres utilisateurs, cliquez sur le  
 correspondant au Wiki \(1\) puis sur le bouton « Partager » \(2\).
 
-![](.gitbook/assets/wiki-4.png)
+![](.gitbook/assets/wiki-4%20%281%29.png)
 
 Dans la fenêtre, vous pouvez donner aux utilisateurs de la plateforme différents droits d’accès à votre wiki. Pour cela, suivez les étapes suivantes :
 
@@ -67,7 +67,7 @@ Vous pouvez modifier une page. Pour cela, suivez les étapes suivantes :
 1. Cliquez sur le bouton « Modifier », en haut à droite de la page.
 2. Effectuez les modifications nécessaires et cliquez sur le bouton « Enregistrer ».
 
-![](.gitbook/assets/wiki-8.png)
+![](.gitbook/assets/wiki-8%20%281%29.png)
 
 La page s’affiche avec les modifications effectuées.
 
@@ -89,14 +89,14 @@ La liste des versions de la page s’affiche, avec pour chacune les informations
 
 Pour comparer deux versions de page, sélectionnez les cases à cocher des versions correspondantes \(1\) et cliquez sur « Comparer » en bas à gauche de la page \(2\).
 
-![](.gitbook/assets/wiki-10%20%282%29.png)
+![](.gitbook/assets/wiki-10%20%283%29.png)
 
 Les deux versions de page apparaissent l’une à côté de l’autre avec :
 
 * En vert : les ajouts
 * En rouge : les suppressions
 
-![](.gitbook/assets/wiki-11.png)
+![](.gitbook/assets/wiki-11%20%281%29.png)
 
 Il est également possible de restaurer une version précédente en cliquant sur « Restaurer » en haut de la page correspondante.
 
