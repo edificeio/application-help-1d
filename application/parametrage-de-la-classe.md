@@ -10,9 +10,9 @@ Cette appli permet notamment de créer de nouveaux comptes \(élèves, parents, 
 
 Pour accéder à l’appli Paramétrage de la classe, cliquez sur l’icône correspondante dans la page « Mes applis ».
 
-![](.gitbook/assets/2018-08-24_11h44_08.png)
+![](.gitbook/assets/2018-08-24_11h44_08%20%282%29.png)
 
-![](.gitbook/assets/2018-08-24_11h45_21.png)
+![](.gitbook/assets/2018-08-24_11h45_21%20%281%29.png)
 
 Vous accédez à la page de gestion de votre classe, qui vous permet de modifier le nom de votre classe et d’administrer les utilisateurs \(élèves et parents\).
 
@@ -26,7 +26,7 @@ Pour ajouter des élèves, assurez-vous tout d'abord que vous êtes bien dans l'
 * Importer un fichier CSV sur le modèle suivant \(3\) : [http://one1d.fr/wp-content/uploads/2014/04/Import\_ELEVES.csv](http://one1d.fr/wp-content/uploads/2014/04/Import_ELEVES.csv).
 * Pour modifier les informations déjà saisies pour un utilisateur de votre classe, cliquez sur le nom de l’utilisateur en question \(4\).
 
-![](.gitbook/assets/2018-08-24_11h48_43.png)
+![](.gitbook/assets/2018-08-24_11h48_43%20%283%29.png)
 
 La création de compte parent s’effectue de la même manière, en sélectionnant l'onglet « Parents ». Si vous optez pour l'import d'un fichier d'utilisateurs parents, vous pouvez utiliser le modèle suivant : [http://one1d.fr/wp-content/uploads/2014/08/Import\_RESPONSABLES\_2014.csv](http://one1d.fr/wp-content/uploads/2014/08/Import_RESPONSABLES_2014.csv)
 
@@ -44,7 +44,7 @@ Pour créer un compte enseignant ou un compte personnel, il suffit de renseigner
 
 Dans l’onglet correspondant, sélectionnez l’utilisateur dont vous souhaitez renouveler le mot de passe \(1\) et cliquez sur « Réinitialiser le mot de passe » \(2\).
 
-![](.gitbook/assets/2018-08-24_11h59_36%20%281%29.png)
+![](.gitbook/assets/2018-08-24_11h59_36-1.png)
 
 L'email suivant est alors envoyé sur l’adresse email que vous avez renseigné dans la rubrique Mon compte :
 
@@ -64,7 +64,7 @@ Vous avez la possibilité de transmettre ce message à l’utilisateur concerné
 
 Vous pouvez également effectuer vous-même la manipulation. Pour cela, cliquez sur le lien contenu dans le corps du message. Vous accédez à l’interface de réinitialisation du mot de passe.
 
-![](.gitbook/assets/p8%20%281%29.png)
+![](.gitbook/assets/p8-1%20%281%29.png)
 
 Renseignez l’identifiant de l’utilisateur dans le premier champ \(1\). Saisissez ensuite le nouveau mot de passe \(2\), puis confirmez-le dans le dernier champ \(3\) et cliquez sur « Réinitialiser ».
 
@@ -74,7 +74,7 @@ La réinitialisation du mot de passe est effective. L’utilisateur peut alors s
 
 Placez-vous sur l’onglet « Elèves » ou « Parents » en fonction du profil des utilisateurs pour lesquels vous souhaitez récupérer les informations de connexion. En bas de la liste d’utilisateurs, cliquez sur « Exporter les codes d’activation ».
 
-![](.gitbook/assets/2018-08-24_12h03_27%20%281%29.png)
+![](.gitbook/assets/2018-08-24_12h03_27-1.png)
 
 Un fichier CSV est généré, contenant les identifiants et codes d’activation des utilisateurs sélectionnés, que vous pouvez ouvrir ou enregistrer sur votre ordinateur. Ce fichier vous permettra de distribuer les informations de connexion aux utilisateurs de votre classe.
 
@@ -82,7 +82,7 @@ Un fichier CSV est généré, contenant les identifiants et codes d’activation
 
 Dans l’onglet correspondant, sélectionnez l’utilisateur que vous souhaitez supprimer et cliquez sur « Supprimer ».
 
-![](.gitbook/assets/2018-08-24_12h04_21.png)
+![](.gitbook/assets/2018-08-24_12h04_21%20%283%29.png)
 
 Une personne dont le compte est supprimé pourra encore se connecter et récupérer un export de ses documents \(appli Export\). En revanche, elle ne pourra plus accéder aux autres applis \(espace documentaire, blog, cahier multimédia, etc.\).
 

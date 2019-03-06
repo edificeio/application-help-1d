@@ -10,15 +10,15 @@ Le Pad est un éditeur de texte en ligne fonctionnant en mode collaboratif temps
 
 Retrouvez l'appli Pad collaboratif depuis la page Mes applis.
 
-![](.gitbook/assets/2018-08-24_11h38_20.png)
+![](.gitbook/assets/2018-08-24_11h38_20%20%281%29.png)
 
 Pour créer un Pad, cliquez sur le bouton « Créer un Pad » dans la page d’accueil de l’appli.
 
-![](.gitbook/assets/pad-co-1.png)
+![](.gitbook/assets/pad-co-1%20%281%29.png)
 
 Ensuite, saisissez un nom \(1\) et enregistrez si vous le souhaitez une image d’illustration du Pad \(sinon c’est l’icône par défaut qui est affichée\) \(2\). Vous pouvez ensuite ajouter une description \(3\). Cliquez enfin sur « Enregistrer » \(4\).
 
-![](.gitbook/assets/pad-co-2.png)
+![](.gitbook/assets/pad-co-2%20%281%29.png)
 
 ## Partager un Pad
 
@@ -33,7 +33,7 @@ Dans la fenêtre, vous pouvez donner aux utilisateurs différents droits d’acc
 3. Cochez les cases correspondant aux droits que vous souhaitez leur attribuer.
 4. Cliquez sur "Partager" pour valider
 
-![](.gitbook/assets/2018-08-23_17h22_12.png)
+![](.gitbook/assets/2018-08-23_17h22_12%20%282%29.png)
 
 \]Les droits de partage que vous pouvez attribuer aux autres utilisateurs sont les suivants :
 
@@ -45,7 +45,7 @@ Dans la fenêtre, vous pouvez donner aux utilisateurs différents droits d’acc
 
 Pour travailler avec un Pad partagé, il vous suffit de saisir le texte qui sera transmis automatiquement à tous les collaborateurs en ligne sur ce même Pad.
 
-![](.gitbook/assets/pad-co-5.png)
+![](.gitbook/assets/pad-co-5%20%282%29.png)
 
 1. Saisissez du texte dans votre Pad.
 2. Dès lors qu’un collaborateur contribue, sa contribution s’affiche en temps réel dans une couleur différente.
@@ -54,7 +54,7 @@ Pour travailler avec un Pad partagé, il vous suffit de saisir le texte qui sera
    * La partie gauche concerne des outils de saisie de texte classique \(gras, italique, souligné, etc.\)
    * La partie droite offre certaines fonctionnalités complémentaires :
 
-![](.gitbook/assets/pad-co-6.png)
+![](.gitbook/assets/pad-co-6%20%282%29.png)
 
 * Importer/exporter un Pad dans divers formats ;
 * Accéder à l’historique dynamique. Cette fonctionnalité présente une cinématique des différentes versions du contenu du Pad ;
