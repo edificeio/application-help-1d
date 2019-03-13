@@ -20,19 +20,23 @@ Dans le service Messagerie, cliquez sur le bouton « Nouveau message » présent
 
 Vous accédez à la fenêtre de création d’un message.
 
-![](.gitbook/assets/messagerie-v2-3%20%281%29.png)
+![](.gitbook/assets/2019-03-08_16h55_23.png)
 
-\(1\) Indiquez le\(s\) destinataire\(s\) de votre message dans le champ « A » en saisissant les trois premières lettres de son nom ou en appuyant sur entrée. Vous pouvez adresser un message à un utilisateur en particulier \(par exemple un élève\), ou à un groupe d’utilisateurs \(par exemple les parents d’élèves de Terminale\).La liste des résultats s’affiche automatiquement :
+\(1\) Indiquez le\(s\) destinataire\(s\) de votre message dans le champ « A » en saisissant les trois premières lettres de son nom ou en appuyant sur entrée. Ce champ doit être obligatoirement remplis pour pouvoir envoyer le message. Vous pouvez adresser un message à vous-même, à un utilisateur en particulier \(par exemple un élève\), ou à un groupe d’utilisateurs \(par exemple les parents d’élèves de Terminale\).
 
-![](.gitbook/assets/messagerie-v2-4%20%281%29.png)
+\(2\) Ajoutez des personnes et/ou des groupes dans le champ « Copie » si vous souhaitez leur adresser une copie du message.
 
-\(2\) Ajoutez des personnes ou des groupes dans le champ « Copie » si vous souhaitez leur adresser une copie du message.
+\(3\) Ajoutez des personnes ou des groupes dans le champ « Copie Cachée ». Les utilisateurs et/ou groupes ajoutés dans ce champ ne seront pas visibles des autres destinataires et ne pourront répondre qu'à l'expéditeur et au\(x\) destinataire\(s\).
 
-\(3\) Indiquez le sujet de votre message dans le champ « Objet ».
+\(4\) Indiquez le sujet de votre message dans le champ « Objet ».
+
+Une fois les premières lettres saisies, vous pouvez sélectionner les destinataires de votre message dans le menu déroulant :
+
+![](.gitbook/assets/2019-03-08_17h10_12.png)
 
 Dans la fenêtre de saisie de contenu, rédigez votre message \(1\). Cliquez sur "Ajouter une pièce jointe" \(2\) pour joindre un document à votre message.
 
-![](.gitbook/assets/messagerie-v2-5%20%281%29.png)
+![](.gitbook/assets/2019-03-08_17h05_20.png)
 
 Choisissez le document depuis votre poste de travail.
 
@@ -40,7 +44,7 @@ Choisissez le document depuis votre poste de travail.
 
 En cochant « Ajouter une signature », vous pouvez maintenant paramétrer l’ajout d’une signature pour ce message et pour les suivants.
 
-![](.gitbook/assets/messagerie-v2-7%20%282%29.png)
+![](.gitbook/assets/2019-03-08_17h06_48.png)
 
 L’option pourra être à tout moment décochée et le texte modifié : en cliquant sur la flèche vous faites apparaître le bloc de texte dédié à la signature.
 
@@ -54,7 +58,7 @@ Toutes les modifications effectuées sont automatiquement enregistrées. Vous po
 
 Une fois que votre message est prêt, vous pouvez l’envoyer.
 
-![](.gitbook/assets/messagerie-v2-10%20%281%29.png)
+![](.gitbook/assets/messagerie-envoi.PNG)
 
 ## Visualiser mes messages reçus
 
@@ -74,7 +78,19 @@ Sur l’écran central, les messages non lus apparaissent en bleu dans la liste 
 
 \(2\) Le trombone indique que le message comporte une pièce jointe
 
-![](.gitbook/assets/messagerie-v2-13%20%282%29.png)
+Lorsque vous ouvrez le message comprenant une ou plusieurs pièces jointes, vous avez deux options de téléchargement :
+
+![](.gitbook/assets/2019-03-08_17h30_25.png)
+
+\(1\) L'icône dossier permet d'enregistrer toutes les pièces jointes directement dans son espace documentaire.
+
+\(2\) L'icône flèche permet de télécharger toutes les pièces jointes sous forme de dossier compressé.
+
+\(3\) Ces deux options peuvent être utilisées pour une seule des pièces jointes également.
+
+Vous avez des options de filtrage et de recherche lorsque vous êtes dans un dossier de votre messagerie :
+
+![](.gitbook/assets/messagerie-v2-13.png)
 
 \(1\) Le filtre « messages non lus » vous permet de ne faire apparaître que les messages qui n’ont pas encore été lus.
 
