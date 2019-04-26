@@ -101,7 +101,7 @@ Les utilisateurs de votre favori seront ainsi directement pré-sélectionnés da
 
 Depuis l'onglet "La classe", vous accédez à la vue de l'enseignant et des élèves de la classe :
 
-![](.gitbook/assets/image-1.png)
+![](.gitbook/assets/image-1%20%281%29.png)
 
 En cliquant sur un profil, vous accédez aux informations de l'utilisateur. S'il s'agit d'un élève, vous pouvez accéder à ses responsables, et consulter le ou les établissements et classe\(s\) de rattachement de l'utilisateur.
 

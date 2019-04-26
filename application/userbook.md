@@ -10,7 +10,7 @@ Pour accéder à votre compte, connectez-vous à la plateforme en saisissant vot
 
 Pour vous rendre sur l'espace Mon compte, cliquez sur l’avatar en haut à droite de l'écran.
 
-![](.gitbook/assets/moncompte-1%20%282%29.png)
+![](.gitbook/assets/moncompte-1%20%283%29.png)
 
 Vous accédez à votre espace personnel où vous pouvez modifier vos informations : photo, coordonnées, devise, humeur, centres d’intérêt, en cliquant simplement sur le champ à modifier.
 
@@ -28,7 +28,7 @@ Vous pouvez remplacer votre identifiant de connexion par un alias, en cliquant s
 
 Il vous suffira ensuite de renseigner votre nouvel identifiant :
 
-![](.gitbook/assets/2018-10-19_12h27_49-1.png)
+![](.gitbook/assets/2018-10-19_12h27_49-1%20%281%29.png)
 
 ## Changer ma photo de profil
 
@@ -128,7 +128,7 @@ En un seul clic, vous choisissez l’icône correspondant au niveau de visibilit
 
 * L’icône “Cadenas” signifie que l’information est privée, vous êtes le \(la\) seul\(e\) à la voir.
 
-![](.gitbook/assets/m16-1.png)
+![](.gitbook/assets/m16-1%20%281%29.png)
 
 * L’icône “Globe” signifie que l’information est visible des autres utilisateurs de l’ENT, en fonction des droits de communication dont ils disposent.
 

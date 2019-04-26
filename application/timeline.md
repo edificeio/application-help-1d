@@ -88,8 +88,8 @@ Le bandeau de navigation situé en haut de la page permet d’accéder à diffé
 Les différents services disponibles depuis le bandeau sont les suivants :
 
 * Le bouton de notification de nouveaux messages reçus dans la plateforme et d’accès à la messagerie ![](.gitbook/assets/page_accueil_1d_msg%20%282%29.png)
-* L’accès à votre compte ![](.gitbook/assets/page_accueil_1d_moncompte.png)
-* Le bouton de déconnexion du portail ![](.gitbook/assets/page_accueil_1d_deco.png)
+* L’accès à votre compte ![](.gitbook/assets/page_accueil_1d_moncompte%20%281%29.png)
+* Le bouton de déconnexion du portail ![](.gitbook/assets/page_accueil_1d_deco%20%281%29.png)
 
 Trois vues sont également disponibles depuis n’importe quel endroit de la plateforme:
 
@@ -208,7 +208,7 @@ Vous retrouvez la fenêtre de partage dans la majeure partie des applications. C
 
 Vous accédez à la fenêtre de partage dans laquelle vous allez pouvoir rechercher des utilisateurs. Renseignez les premières lettres de la personne, ou du groupe que vous recherchez \(1\). Dans la liste qui vous est proposée, sélectionnez le ou les utilisateurs recherchés \(2\). Si l’utilisateur ou le groupe n’apparaît pas, cliquez sur "Voir la suite" pour dérouler la liste de propositions \(3\).
 
-![](.gitbook/assets/2018-08-22_17h15_45-1.png)
+![](.gitbook/assets/2018-08-22_17h15_45-1%20%281%29.png)
 
 Vous avez la possibilité d’enregistrer une liste d’utilisateurs ou de groupes comme favori de partage. Une fois vos destinataires sélectionnés, cliquez sur "Enregistrer comme favori de partage" \(1\).
 

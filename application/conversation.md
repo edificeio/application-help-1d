@@ -6,7 +6,7 @@ La boîte mail dédiée à l’école ! La **Messagerie** vous permet d’envoye
 
 L’appli Messagerie permet d’envoyer simplement un message à **un utilisateur** ou à un **groupe d’utilisateurs** \(les élèves d’une classe, le personnel de l'établissement, etc.\) ayant un accès à la plateforme.
 
-![](.gitbook/assets/messagerie-v2-2-1.png)
+![](.gitbook/assets/messagerie-v2-2-1%20%281%29.png)
 
 La réception d’un nouveau message est visible dès la page d’accueil. Elle est indiquée par une **notification** dans le bandeau de navigation et dans le fil de nouveautés. Le nombre de messages non lus est indiqué devant chaque dossier.
 
