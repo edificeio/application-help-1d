@@ -10,13 +10,13 @@ L’appli Messagerie permet d’envoyer simplement un message à **un utilisateu
 
 La réception d’un nouveau message est visible dès la page d’accueil. Elle est indiquée par une **notification** dans le bandeau de navigation et dans le fil de nouveautés. Le nombre de messages non lus est indiqué devant chaque dossier.
 
-![](.gitbook/assets/2018-08-23_18h08_39%20%282%29.png)
+![](.gitbook/assets/2018-08-23_18h08_39-2.png)
 
 ## Envoyer un message
 
 Dans le service Messagerie, cliquez sur le bouton « Nouveau message » présent en haut de la page.
 
-![](.gitbook/assets/messagerie-v2-18%20%281%29.png)
+![](.gitbook/assets/messagerie-v2-18-1.png)
 
 Vous accédez à la fenêtre de création d’un message.
 
@@ -32,7 +32,7 @@ Vous accédez à la fenêtre de création d’un message.
 
 Une fois les premières lettres saisies, vous pouvez sélectionner les destinataires de votre message dans le menu déroulant :
 
-![](.gitbook/assets/2019-03-08_17h10_12.png)
+![](.gitbook/assets/2019-03-08_17h10_12%20%281%29.png)
 
 Dans la fenêtre de saisie de contenu, rédigez votre message \(1\). Cliquez sur "Ajouter une pièce jointe" \(2\) pour joindre un document à votre message.
 
@@ -40,7 +40,7 @@ Dans la fenêtre de saisie de contenu, rédigez votre message \(1\). Cliquez sur
 
 Choisissez le document depuis votre poste de travail.
 
-![](.gitbook/assets/messagerie-v2-19%20%282%29.png)
+![](.gitbook/assets/messagerie-v2-19-2.png)
 
 En cochant « Ajouter une signature », vous pouvez maintenant paramétrer l’ajout d’une signature pour ce message et pour les suivants.
 
@@ -48,31 +48,31 @@ En cochant « Ajouter une signature », vous pouvez maintenant paramétrer l’a
 
 L’option pourra être à tout moment décochée et le texte modifié : en cliquant sur la flèche vous faites apparaître le bloc de texte dédié à la signature.
 
-![](.gitbook/assets/messagerie-v2-8%20%282%29.png)
+![](.gitbook/assets/messagerie-v2-8-2.png)
 
 Lorsque vous commencez la rédaction de votre message, un brouillon est automatiquement créé dans la rubrique « brouillon » de votre messagerie.
 
-![](.gitbook/assets/messagerie-v2-9%20%282%29.png)
+![](.gitbook/assets/messagerie-v2-9-2.png)
 
 Toutes les modifications effectuées sont automatiquement enregistrées. Vous pouvez donc interrompre à tout moment la création de votre message et la reprendre plus tard en vous rendant dans l’onglet « brouillon ».
 
 Une fois que votre message est prêt, vous pouvez l’envoyer.
 
-![](.gitbook/assets/messagerie-envoi.PNG)
+![](.gitbook/assets/messagerie-envoi%20%281%29.PNG)
 
 ## Visualiser mes messages reçus
 
 Lorsque vous recevez un nouveau message, la notification est indiquée dans le bandeau de navigation supérieur.
 
-![](.gitbook/assets/messagerie-v2-11%20%282%29.png)
+![](.gitbook/assets/messagerie-v2-11-2.png)
 
 Une fois dans l’appli messagerie, les nouveaux messages sont visibles dans la notification indiquée dans le dossier « boîte de réception ». Le nombre de messages non lus est indiqué dans la bulle à droite de la mention « Boîte de réception ».
 
-![](.gitbook/assets/messagerie-v2-2%20%283%29.png)
+![](.gitbook/assets/messagerie-v2-2-3.png)
 
 Sur l’écran central, les messages non lus apparaissent en bleu dans la liste et sont indiqués par une enveloppe fermée.
 
-![](.gitbook/assets/messagerie-v2-12%20%282%29.png)
+![](.gitbook/assets/messagerie-v2-12-2.png)
 
 \(1\) Une flèche indique que le message a été traité et qu’une réponse a été envoyée.
 
@@ -80,7 +80,7 @@ Sur l’écran central, les messages non lus apparaissent en bleu dans la liste 
 
 Lorsque vous ouvrez le message comprenant une ou plusieurs pièces jointes, vous avez deux options de téléchargement :
 
-![](.gitbook/assets/2019-03-08_17h30_25.png)
+![](.gitbook/assets/2019-03-08_17h30_25%20%281%29.png)
 
 \(1\) L'icône dossier permet d'enregistrer toutes les pièces jointes directement dans son espace documentaire.
 
@@ -90,7 +90,7 @@ Lorsque vous ouvrez le message comprenant une ou plusieurs pièces jointes, vous
 
 Vous avez des options de filtrage et de recherche lorsque vous êtes dans un dossier de votre messagerie :
 
-![](.gitbook/assets/messagerie-v2-13.png)
+![](.gitbook/assets/messagerie-v2-13%20%282%29.png)
 
 \(1\) Le filtre « messages non lus » vous permet de ne faire apparaître que les messages qui n’ont pas encore été lus.
 
@@ -100,7 +100,7 @@ Cliquez sur le titre d’un message pour en lire le contenu.
 
 Les flèches présentes en haut à gauche du message permettent de passer d’un message à un autre au sein de la catégorie ou la sélection.
 
-![](.gitbook/assets/messagerie-v2-14v2%20%281%29.png)
+![](.gitbook/assets/messagerie-v2-14v2-1.png)
 
 En revenant à la liste de vos messages dans la rubrique « Boîte de réception » de votre messagerie, vous pouvez :
 
@@ -112,17 +112,17 @@ En revenant à la liste de vos messages dans la rubrique « Boîte de réception
 
 \(4\) les marquer comme non lu
 
-![](.gitbook/assets/messagerie-v2-15%20%282%29.png)
+![](.gitbook/assets/messagerie-v2-15-2.png)
 
 ## Répondre, transférer, classer et supprimer un message
 
-Lorsque vous avez cliquez sur le titre d’un message, vous accédez à son contenu. Le bouton « répondre » en haut à droite vous permet de répondre à l’émetteur du message. ![](.gitbook/assets/messagerie-v2-16%20%281%29.png)
+Lorsque vous avez cliquez sur le titre d’un message, vous accédez à son contenu. Le bouton « répondre » en haut à droite vous permet de répondre à l’émetteur du message. ![](.gitbook/assets/messagerie-v2-16-1.png)
 
 La fenêtre de création d’un message s’ouvre. L’émetteur du message reçu est automatiquement ajouté en tant que destinataire.
 
 Si vous avez reçu un message groupé vous pouvez cliquez sur le bouton « + » \(1\) présent en haut à droite pour faire apparaître les options secondaires :
 
-![](.gitbook/assets/messagerie-v2-17%20%281%29.png)
+![](.gitbook/assets/messagerie-v2-17-1.png)
 
 \(2\) Répondre à tous : tous les destinataires du messages reçus sont automatiquement ajoutés dans les champs « à » et « en copie » selon la répartition du message d’origine.
 
