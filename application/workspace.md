@@ -4,7 +4,7 @@
 
 ## Présentation
 
-![](.gitbook/assets/2018-08-23_17h39_10-2.png)
+![](.gitbook/assets/2018-08-23_17h39_10-2%20%281%29.png)
 
 L’application Espace documentaire d’un utilisateur est composée de 4 dossiers :
 
@@ -20,7 +20,7 @@ L’application Espace documentaire d’un utilisateur est composée de 4 dossie
 
 Pour importer un document dans votre espace de stockage personnel, cliquez sur le bouton « Importer » situé en haut de l’interface.
 
-![](.gitbook/assets/espacedocone_2-importer-2.JPG)
+![](.gitbook/assets/espacedocone_2-importer-2%20%281%29.JPG)
 
 Dans la nouvelle fenêtre, suivez les étapes suivantes :
 
@@ -33,7 +33,7 @@ Dans la nouvelle fenêtre, suivez les étapes suivantes :
 
 **Vous pouvez importer plusieurs fichiers en une seule fois, si vous en sélectionnez plusieurs sur votre ordinateur.**
 
-![](.gitbook/assets/espacedocone_11-2.JPG)
+![](.gitbook/assets/espacedocone_11-2%20%281%29.JPG)
 
 Vous pouvez aussi importer un document ou plusieurs documents en effectuant un glisser-déposer. Pour cela, sélectionnez le ou les documents à déplacer depuis votre espace de travail et glissez-le vers son nouvel emplacement.
 
@@ -43,11 +43,11 @@ Vous pouvez aussi importer un document ou plusieurs documents en effectuant un g
 
 Pour partager un document à d'autres utilisateurs, sélectionnez le document \(1\), puis cliquez sur "Partager" \(2\).
 
-![](.gitbook/assets/2018-08-23_17h45_10-1.png)
+![](.gitbook/assets/2018-08-23_17h45_10-1%20%281%29.png)
 
 Si vous partagez un dossier, un message vous indiquera que le partage concernera également tous les fichiers et sous dossiers contenus dans le dossier en question.
 
-![](.gitbook/assets/image-6.png)
+![](.gitbook/assets/image-6%20%281%29.png)
 
 Cliquez sur copier et partager ou sur partager sans copier pour accéder à la fenêtre de partage. Recherchez les utilisateurs ou les groupes d'utilisateurs avec lesquels vous souhaitez partager le document \(1\), sélectionnez-les dans les suggestions qui apparaissent en dessous \(2\). Accordez leur les droits que vous souhaitez \(3\) et validez votre sélection en cliquant sur "Partager" \(4\).
 
@@ -75,7 +75,7 @@ Le dossier se trouve maintenant à l’emplacement choisi.
 Pour **accéder au menu d’option** d’un fichier ou d’un dossier, vous devez **cliquer une fois** dessus. Le menu s’affiche ensuite en bas de la page et vous pouvez choisir les actions à effectuer.  
 Vous devez cliquer une nouvelle fois sur le fichier ou le dossier pour le désélectionner.
 
-![](.gitbook/assets/espacedocone_7-options-1.JPG)
+![](.gitbook/assets/espacedocone_7-options-1%20%281%29.JPG)
 
 Pour **visualiser un fichier** sur la visionneuse de la plateforme ou pour **ouvrir un dossier**, vous devez **double-cliquer dessus**.
 

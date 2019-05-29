@@ -18,7 +18,7 @@ Pour accéder à l’appli Cahier de textes, cliquez sur l’icône correspondan
 
 Pour créer un nouveau cahier de textes, cliquez sur le bouton « Créer » en haut de la page.
 
-![](.gitbook/assets/cahier-de-texte-3-2.png)
+![](.gitbook/assets/cahier-de-texte-3-2%20%281%29.png)
 
 Votre cahier est désormais créé mais n’est pas encore visible.
 
@@ -30,7 +30,7 @@ Pour partager un cahier de textes avec d’autres utilisateurs, cliquez sur la c
 
 Dans la fenêtre de partage, vous pouvez donner des droits de lecture, de contribution et de gestion à d’autres personnes sur votre cahier. Pour cela, saisissez les premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs que vous recherchez \(1\), sélectionnez le résultat \(2\) et cochez les cases correspondant aux droits que vous souhaitez leur attribuer \(3\). Pour valider, cliquez sur "Partager" \(4\).
 
-![](.gitbook/assets/2018-08-23_10h17_05-1.png)
+![](.gitbook/assets/2018-08-23_10h17_05-1%20%281%29.png)
 
 Les différents droits que vous pouvez attribuer sont les suivants :
 
@@ -44,7 +44,7 @@ Votre cahier de textes est créé et partagé, vous pouvez désormais renseigner
 
 Une fois votre cahier de textes créé, vous pouvez y ajouter des activités. Pour cela, cliquez sur le titre du cahier dans le dossier correspondant.
 
-![](.gitbook/assets/cahier-de-texte-6-2.png)
+![](.gitbook/assets/cahier-de-texte-6-2%20%281%29.png)
 
 Lorsque le cahier est affiché à l’écran, cliquez sur un jour de la semaine pour saisir une nouvelle activité.
 
@@ -52,7 +52,7 @@ Lorsque le cahier est affiché à l’écran, cliquez sur un jour de la semaine 
 
 Une fois le jour sélectionné, cliquez sur le bouton « Créer ».
 
-![](.gitbook/assets/t8-2.png)
+![](.gitbook/assets/t8-2%20%281%29.png)
 
 Vous pouvez ajouter une activité directement dans le cahier. Tout d’abord, saisissez la matière dans la colonne de gauche.
 
@@ -60,7 +60,7 @@ Vous pouvez ajouter une activité directement dans le cahier. Tout d’abord, sa
 
 Cliquez dans la colonne principale pour afficher l’éditeur de texte.
 
-![](.gitbook/assets/t10-2.png)
+![](.gitbook/assets/t10-2%20%281%29.png)
 
 Comme pour les autres services, vous pouvez intégrer plusieurs types de contenus dans l’activité : texte, image, lecteur audio, lecteur vidéo, formule mathématique…
 
@@ -68,7 +68,7 @@ Lorsque vous saisissez des contenus, l’enregistrement des données est automat
 
 Une fois que vous avez terminé, cliquez sur le bouton « Afficher la vue semaine » pour revenir à la page d’accueil du cahier.
 
-![](.gitbook/assets/t11-2.png)
+![](.gitbook/assets/t11-2%20%281%29.png)
 
 La semaine en cours est affichée par défaut. Pour saisir une activité pour une semaine ultérieure, vous pouvez soit faire défiler les semaines en cliquant sur les flèches \(1\) soit sélectionner la date dans le calendrier \(2\).
 

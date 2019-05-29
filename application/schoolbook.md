@@ -12,7 +12,7 @@ L’application carnet de liaison **permet à l’enseignant d’envoyer des mot
 
 Cliquez d’abord sur le bouton « Créer un mot ».
 
-![](.gitbook/assets/creer-un-mot-1.png)
+![](.gitbook/assets/creer-un-mot-1%20%281%29.png)
 
 **L’assistant de création d’un mot s’ouvre, il permet d’envoyer un mot en 4 étapes :**
 
@@ -30,7 +30,7 @@ Dans la fenêtre "Destinataires", vous pouvez choisir les utilisateurs avec lesq
 
 Cette fenêtre vous permet de choisir d’autoriser ou non les responsables à répondre au mot \(1\). Sélectionnez une icône thème pour le mot qui s’affichera à gauche du titre \(2\) et cliquez sur « Suivant » \(3\).
 
-![](.gitbook/assets/2018-08-23_12h19_54-2.png)
+![](.gitbook/assets/2018-08-23_12h19_54-2%20%281%29.png)
 
 **Vous pourrez à présent envoyer le mot :**
 
@@ -53,11 +53,11 @@ La fenêtre « Suivi du mot » s’ouvre avec deux colonnes :
 * Une indication au dessus de la colonne informe du nombre de réponse\(s\) reçue\(s\) \(4\).
 * Il est possible d'envoyer un rappel de lecture aux utilisateurs qui n'ont pas encore répondu \(5\).
 
-![](.gitbook/assets/suivi-mot-1.png)
+![](.gitbook/assets/suivi-mot-1%20%281%29.png)
 
 En cliquant sur l’onglet « Réponse » en haut de la colonne \(1\), vous pouvez consulter les réponses des responsables. Cette option est disponible seulement si elle a été activée lors de la création du mot. Les réponses s’affichent par ordre ante chronologique. A droite, vous voyez apparaître la réponse du responsable \(3\), et à gauche, vous retrouvez l'élève correspondant \(2\). Chaque parent peut répondre une seule fois au mot de son enfant.
 
-![](.gitbook/assets/2018-08-23_16h21_55-1.png)
+![](.gitbook/assets/2018-08-23_16h21_55-1%20%281%29.png)
 
 Si un parent modifie sa réponse après l’avoir envoyée, l’enseignant est informé par une notification sur son fil de nouveautés.
 
@@ -72,7 +72,7 @@ L’icône « + » \(1\) sur chaque mot envoyé permet d’accéder aux actions 
 * Imprimer
 * Supprimer
 
-![](.gitbook/assets/toaster-mot-1.png)
+![](.gitbook/assets/toaster-mot-1%20%281%29.png)
 
 **Corriger un mot :**
 
@@ -88,7 +88,7 @@ Il est possible de corriger le contenu d’un mot. Attention, aucune notificatio
 
 En cliquant sur l’icône “imprimer”, une fenêtre s’ouvre permettant de choisir le nombre de coupons à imprimer \(par défaut, le nombre d’élèves concernés par l’envoi du mot\). Vous pouvez changer le nombre de coupons \(1\) puis cliquer sur "Imprimer" \(2\)
 
-![](.gitbook/assets/2018-08-23_16h31_05-2.png)
+![](.gitbook/assets/2018-08-23_16h31_05-2%20%281%29.png)
 
 **Supprimer un mot :**
 
@@ -106,13 +106,13 @@ Vous pouvez partager un mot **uniquement avec les utilisateurs de profil enseign
 
 Pour cela, sélectionnez les utilisateurs avec qui vous souhaitez partager le mot \(1\), puis accordez les droits que vous souhaitez \(2\) et cliquez sur "Partager" \(3\). Cette fonctionnalité est très utile si vous souhaitez déléguer le suivi du mot à l'un de vos collègues par exemple.
 
-![](.gitbook/assets/partager-mot-2.png)
+![](.gitbook/assets/partager-mot-2%20%281%29.png)
 
 ## Vue Parent - Attestez de la lecture et répondre
 
 Le parent peut attester la lecture de chaque mot qui lui a été envoyé sur la carnet de liaison. Il doit pour cela cliquer sur le bouton « Confirmer la lecture » qui apparaît sur le mot.
 
-![](.gitbook/assets/2018-08-23_16h48_32-1.png)
+![](.gitbook/assets/2018-08-23_16h48_32-1%20%281%29.png)
 
 Il suffit de la lecture d’un parent pour que le mot soit considéré comme lu pour l’élève, le deuxième parent pourra également attester la lecture de son côté.
 
@@ -125,7 +125,7 @@ Si l’enseignant a activé l’option « réponse » lors de l’envoi du mot :
 * En cliquant sur « Envoyer », la réponse est transmise à l’enseignant et le mot est considéré comme « lu ». \(3\)
 * Si l’autre parent a répondu au mot, sa réponse apparaîtra en dessous
 
-![](.gitbook/assets/2018-08-23_16h51_19-1.png)
+![](.gitbook/assets/2018-08-23_16h51_19-1%20%281%29.png)
 
 ## Vue Parent - Filtrez par enfant
 
@@ -140,5 +140,5 @@ Les élèves ont un droit de lecture sur chaque mot qui est envoyé à leurs par
 * Voir si le mot a été lu par un parent \(1\)
 * Voir les réponses éventuelles de ses parents \(2\)
 
-![](.gitbook/assets/2018-08-23_17h06_39-1.png)
+![](.gitbook/assets/2018-08-23_17h06_39-1%20%281%29.png)
 

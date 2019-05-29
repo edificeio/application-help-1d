@@ -8,7 +8,7 @@ Cette application permet notamment de créer et gérer de nouveaux comptes \(él
 
 Pour accéder à l’application Paramétrage de la classe, cliquez sur l’icône correspondante dans la page « Mes applis ».
 
-![](.gitbook/assets/2018-08-24_11h44_08-2.png)
+![](.gitbook/assets/2018-08-24_11h44_08-2%20%281%29.png)
 
 ![](.gitbook/assets/mesapplis2.PNG)
 
@@ -18,16 +18,16 @@ Vous accédez à la page de gestion de votre classe, qui vous permet de consulte
 
 Il est alors possible d’ajouter des élèves, des parents, des enseignants et des personnels en cliquant sur le bouton "Ajouter des utilisateurs" \(1\) pour la classe sélectionnée \(2\).
 
-![](.gitbook/assets/creer.png)
+![](.gitbook/assets/creer%20%281%29.png)
 
-Une interface propose deux options de création de compte  : 
+Une interface propose deux options de création de compte :
 
 * Créer des utilisateurs \(1\) : vous permet de créer manuellement des utilisateurs
 * Importer un fichier \(2\) : vous permet d'importer votre fichier ONDE classe pour créer tous vos élèves, ou d'importer un fichier en se basant sur les modèles fournis
 
 ![](.gitbook/assets/ajouter2.PNG)
 
-Si vous souhaitez **créer manuellement des utilisateurs**, une interface vous propose de créer l'utilisateur de votre choix en renseignant plusieurs informations, obligatoire ou non, en fonction du profil :
+Si vous souhaitez **créer manuellement des utilisateurs**, une interface vous propose de créer l'utilisateur de votre choix en renseignant plusieurs informations, obligatoires ou non, en fonction du profil :
 
 * Profil \(1\)
 * Nom \(obligatoire\) \(2\)
@@ -42,7 +42,7 @@ Si vous avez créé un **utilisateur existant déjà sur votre école**, une int
 
 * Déplacer dans ma classe \(1\) : le compte sera détaché de son ancienne classe et rattaché à sa nouvelle classe
 * Rattacher aux deux classes \(2\) : le compte sera rattaché à la classe et conservera son rattachement à l'autre classe
-* Créer l'utilisateur \(3\) : le compte sera créer dans la classe
+* Créer l'utilisateur \(3\) : le compte sera créé dans la classe
 
 ![](.gitbook/assets/doublon.PNG)
 
@@ -61,17 +61,17 @@ Pour que les élèves soient bien rattachés aux parents, vérifiez que le nom e
 Attention : pour le bon fonctionnement de ces manipulations, les élèves doivent être créés avant les parents.
 {% endhint %}
 
-Pour créer un compte enseignant ou un compte personnel, il n'est pas possible de fonctionner par import de fichier. Vous devrez créer ces comptes de manière manuelle, comme vu précédemment
+Pour créer un compte enseignant ou un compte personnel, il n'est pas possible de fonctionner par import de fichier. Vous devrez créer ces comptes de manière manuelle, comme vu précédemment.
 
 ## Créer des fiches de connexion
 
-Dans l'interface de l'application, vous disposez d'un bouton pour pouvoir créer des fiches de connexion \(1\) sur la classe sélectionnée \(2\). Ces fiches de connexion peuvent être effectué
+Dans l'interface de l'application, vous disposez d'un bouton pour pouvoir créer des fiches de connexion \(1\) sur la classe sélectionnée \(2\). Ces fiches de connexion peuvent être effectuées pour un compte déjà activé, en lui rappelant la procédure pour renouveler son mot de passe, ou pour un compte non activé, en lui indiquant la démarche de première connexion.
 
 ![](.gitbook/assets/ficheconnexion.png)
 
 Une nouvelle fenêtre s'ouvre où vous pourrez sélectionner un ou plusieurs profils afin de créer leur fiche de connexion.
 
-![](.gitbook/assets/profilfiche.PNG)
+![](.gitbook/assets/profilfiche%20%281%29.PNG)
 
 Une fois le ou les profils sélectionnés, vous disposez de plusieurs options pour récupérer et transmettre des fiches de connexion :
 
@@ -84,7 +84,7 @@ Une fois le ou les profils sélectionnés, vous disposez de plusieurs options po
 
 Vous pouvez également créer une ou plusieurs fiches de connexions détaillées pour un ou plusieurs comptes, en sélectionnant le ou les comptes \(1\), puis en cliquant sur "Fiche de connexion" \(2\).
 
-![](.gitbook/assets/ficheindiv.png)
+![](.gitbook/assets/ficheindiv%20%281%29.png)
 
 En allant consulter la fiche utilisateur d'un élève \(voir partie "Consulter et modifier les informations utilisateurs"\), vous pouvez récupérer des fiches de connexions simplifiées en PDF pour l'élève et son ou ses responsables légaux, en cliquant sur le lien "Fiches de connexion" \(1\)
 
@@ -94,7 +94,7 @@ En allant consulter la fiche utilisateur d'un élève \(voir partie "Consulter e
 
 Dans l’onglet correspondant, **uniquement pour les utilisateurs activés**, sélectionnez l’utilisateur dont vous souhaitez renouveler le mot de passe \(1\) et cliquez sur « Réinitialiser le mot de passe » \(2\).
 
-![](.gitbook/assets/reinit.png)
+![](.gitbook/assets/reinit%20%281%29.png)
 
 L'email suivant est alors envoyé sur l’adresse email que vous avez renseigné dans la rubrique Mon compte :
 
@@ -114,7 +114,7 @@ Vous avez la possibilité de transmettre ce message à l’utilisateur concerné
 
 Vous pouvez également effectuer vous-même la manipulation. Pour cela, cliquez sur le lien contenu dans le corps du message. Vous accédez à l’interface de réinitialisation du mot de passe.
 
-![](.gitbook/assets/p8-1-1.png)
+![](.gitbook/assets/p8-1-1%20%281%29.png)
 
 Renseignez l’identifiant de l’utilisateur dans le premier champ \(1\). Saisissez ensuite le nouveau mot de passe \(2\), puis confirmez-le dans le dernier champ \(3\) et cliquez sur « Réinitialiser ».
 
@@ -138,7 +138,7 @@ En cas de débordement, vous avez la possibilité de bloquer la connexion d'un u
 
 Dans l’onglet correspondant, sélectionnez l’utilisateur que vous souhaitez supprimer \(1\) et cliquez sur « Supprimer » \(2\).
 
-![](.gitbook/assets/suppression.png)
+![](.gitbook/assets/suppression%20%281%29.png)
 
 Une personne dont le compte est supprimé pourra encore se connecter et récupérer un export de ses documents \(appli Export\). En revanche, elle ne pourra plus accéder aux autres applis \(espace documentaire, blog, cahier multimédia, etc.\).
 

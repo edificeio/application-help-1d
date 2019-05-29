@@ -8,7 +8,7 @@ Les cahiers créés peuvent être utilisés comme des **supports de restitution*
 
 Les utilisateurs ayant des droits de contribution dans le cahier choisissent le nombre de pages du cahier et la mise en forme qu’ils souhaitent appliquer à chaque page.
 
-![](.gitbook/assets/cahier-multimedia-2.jpg)
+![](.gitbook/assets/cahier-multimedia-2%20%281%29.jpg)
 
 ## Créer et partager un cahier multimédia
 
@@ -20,7 +20,7 @@ Pour accéder à l’appli Cahier multimédia, cliquez sur l’icône correspond
 
 Dans le service Cahier multimédia, cliquez sur le bouton « Créer » en haut de la page.
 
-![](.gitbook/assets/2018-08-23_10h29_55-2.png)
+![](.gitbook/assets/2018-08-23_10h29_55-2%20%281%29.png)
 
 Vous accédez à l’interface de création du cahier.
 
@@ -30,25 +30,25 @@ Vous accédez à l’interface de création du cahier.
 4. Choisissez une couleur de couverture
 5. Cliquez sur « Valider »
 
-![](.gitbook/assets/2018-08-23_10h28_42-1.png)
+![](.gitbook/assets/2018-08-23_10h28_42-1%20%281%29.png)
 
 Votre cahier est désormais créé mais n’est pas encore visible. Pour le partager avec d’autres utilisateurs, sélectionnez le cahier que vous souhaitez partager \(1\) puis sur cliquez sur « Partager » \(2\).
 
-![](.gitbook/assets/2018-08-23_10h33_45-2.png)
+![](.gitbook/assets/2018-08-23_10h33_45-2%20%281%29.png)
 
 Dans la fenêtre, vous pouvez donner des droits de consultation, de contribution et de gestion sur votre cahier. Pour cela, saisissez les premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs que vous recherchez \(1\), sélectionnez le résultat \(2\) et cochez les cases correspondant aux droits que vous souhaitez leur attribuer \(3\). Cliquez sur "Partager" \(4\) pour valider.
 
-![](.gitbook/assets/2018-08-23_10h35_25-2.png)
+![](.gitbook/assets/2018-08-23_10h35_25-2%20%281%29.png)
 
 ## Editer les pages du cahier multimédia
 
 Une fois votre cahier créé et partagé, vous pouvez publier des pages. Rendez vous sur le cahier que vous souhaitez éditer, et cliquez sur « Modifier ».
 
-![](.gitbook/assets/2018-08-23_10h39_10-1.png)
+![](.gitbook/assets/2018-08-23_10h39_10-1%20%281%29.png)
 
 Pour ajouter de nouvelles pages, cliquez sur « Ajouter une page » \(1\) ou sur la flèche à droite du cahier \(2\).
 
-![](.gitbook/assets/2018-08-23_10h40_02-2.png)
+![](.gitbook/assets/2018-08-23_10h40_02-2%20%281%29.png)
 
 Vous pouvez ajouter les contenus suivants dans vos cahiers :
 
@@ -64,7 +64,7 @@ Vous pouvez ajouter les contenus suivants dans vos cahiers :
 
 Il est possible de modifier une zone de texte. Pour cela, cliquez sur la zone : une barre d’édition s’affiche. L’éditeur offre de nombreuses possibilités pour mettre le texte en forme.
 
-![](.gitbook/assets/2018-08-23_10h45_33-1.png)
+![](.gitbook/assets/2018-08-23_10h45_33-1%20%281%29.png)
 
 Pour tous les types de contenus, il est aussi possible de modifier la position et la taille de la zone.
 
@@ -72,11 +72,11 @@ Pour déplacer un contenu, survolez la zone et cliquez dessus quand le curseur p
 
 Pour modifier la taille du contenu, survolez le contour de la zone et cliquez dessus quand le curseur prend la forme d’une double flèche.
 
-![](.gitbook/assets/m81-1.png)
+![](.gitbook/assets/m81-1%20%281%29.png)
 
 Pour visualiser votre cahier, cliquez sur « Afficher ». N’oubliez pas d’enregistrer vos travaux avant de quitter la page en cliquant sur « Enregistrer ».
 
-![](.gitbook/assets/2018-08-23_10h47_05-1.png)
+![](.gitbook/assets/2018-08-23_10h47_05-1%20%281%29.png)
 
 ## Publier une vidéo dans un cahier multimédia
 
@@ -98,11 +98,11 @@ Pour une vidéo hébergée ailleurs , appuyez sur la vignette "Collez votre prop
 
 puis collez le lien Iframe \(5\) et cliquez sur "Appliquer" \(6\)
 
-![](.gitbook/assets/cma-7-2.png)
+![](.gitbook/assets/cma-7-2%20%281%29.png)
 
 Positionnez ensuite la vidéo dans la page et sauvegardez votre travail.
 
-![](.gitbook/assets/cma-8-2.png)
+![](.gitbook/assets/cma-8-2%20%281%29.png)
 
 Votre cahier est complété et la vidéo prête à être regardée !
 
