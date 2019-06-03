@@ -14,11 +14,11 @@ Retrouvez l'appli Pad collaboratif depuis la page Mes applis.
 
 Pour créer un Pad, cliquez sur le bouton « Créer un Pad » dans la page d’accueil de l’appli.
 
-![](.gitbook/assets/pad-co-1-1.png)
+![](.gitbook/assets/pad-co-1-1%20%281%29.png)
 
 Ensuite, saisissez un nom \(1\) et enregistrez si vous le souhaitez une image d’illustration du Pad \(sinon c’est l’icône par défaut qui est affichée\) \(2\). Vous pouvez ensuite ajouter une description \(3\). Cliquez enfin sur « Enregistrer » \(4\).
 
-![](.gitbook/assets/pad-co-2-1.png)
+![](.gitbook/assets/pad-co-2-1%20%281%29.png)
 
 ## Partager un Pad
 
@@ -54,7 +54,7 @@ Pour travailler avec un Pad partagé, il vous suffit de saisir le texte qui sera
    * La partie gauche concerne des outils de saisie de texte classique \(gras, italique, souligné, etc.\)
    * La partie droite offre certaines fonctionnalités complémentaires :
 
-![](.gitbook/assets/pad-co-6-2.png)
+![](.gitbook/assets/pad-co-6-2%20%281%29.png)
 
 * Importer/exporter un Pad dans divers formats ;
 * Accéder à l’historique dynamique. Cette fonctionnalité présente une cinématique des différentes versions du contenu du Pad ;

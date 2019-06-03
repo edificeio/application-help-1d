@@ -44,7 +44,7 @@ Vous disposez également d’un bouton "télécharger" \(1\) sur chaque fichier 
 Lorsque vous recevez un document dans votre casier, vous avez la possibilité de le copier vers un dossier de votre espace documentaire.  
 Connectez-vous à l’appli Casier et consultez le dossier « Mon casier ». Sélectionnez le document \(1\) et cliquez sur le bouton « Copier dans mes documents » en bas de page \(2\).
 
-![](.gitbook/assets/2018-08-23_17h35_13-1.png)
+![](.gitbook/assets/2018-08-23_17h35_13-1%20%281%29.png)
 
 La nouvelle fenêtre vous présente l’arborescence du dossier « Mes documents » \(1\), vous pouvez ainsi copier le document dans le dossier que vous souhaitez \(2\).
 

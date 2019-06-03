@@ -12,7 +12,7 @@ L’appli Carte Mentale permet de **représenter visuellement une arborescence**
 
 Pour accéder à l’appli Carte mentale, cliquez sur l’icône correspondante dans la page « Mes applis ».
 
-![](.gitbook/assets/cartementale_1-appli-1.JPG)
+![](.gitbook/assets/cartementale_1-appli-1%20%281%29.JPG)
 
 Cliquez sur « Créer une carte mentale ».
 
@@ -46,7 +46,7 @@ La barre d’outils de la carte mentale vous permet de modifier le format du tex
 
 Pour ajouter lien entre deux nœuds, sélectionnez le nœud de départ \(1\), cliquez sur l’icône « ajouter un lien » dans la barre d’outils \(2\). Une flèche apparaît, cliquez sur le second nœud \(3\) pour indiquer le point d’arrivée de la flèche.
 
-![](.gitbook/assets/cartementale_7-liens-1.png)
+![](.gitbook/assets/cartementale_7-liens-1%20%281%29.png)
 
 ## Ajouter des contenus complémentaires à un nœud
 
@@ -58,11 +58,11 @@ Grâce à la barre d’outils de la carte mentale vous pouvez ajouter à vos nœ
 
 Pour ajouter un contenu complémentaire, sélectionnez le nœud et cliquez sur les icônes suivantes dans la barre d’outils.
 
-![](.gitbook/assets/cartementale_8-editeur-liens-emoticons-2.png)
+![](.gitbook/assets/cartementale_8-editeur-liens-emoticons-2%20%281%29.png)
 
 Les émoticônes apparaissent dans le nœud avant le texte. Les liens et les notes apparaissent sous forme d’icône dans le nœud avant le texte et une visualisation est proposée au survol de l’icône.
 
-![](.gitbook/assets/cartementale_9-emoticons-1.png)
+![](.gitbook/assets/cartementale_9-emoticons-1%20%281%29.png)
 
 Lorsque la carte mentale est terminée, cliquez sur « Enregistrer ». Votre carte est maintenant créée !
 

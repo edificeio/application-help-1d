@@ -16,7 +16,7 @@ La réception d’un nouveau message est visible dès la page d’accueil. Elle 
 
 Dans le service Messagerie, cliquez sur le bouton « Nouveau message » présent en haut de la page.
 
-![](.gitbook/assets/messagerie-v2-18-1.png)
+![](.gitbook/assets/messagerie-v2-18-1%20%281%29.png)
 
 Vous accédez à la fenêtre de création d’un message.
 
@@ -40,7 +40,7 @@ Dans la fenêtre de saisie de contenu, rédigez votre message \(1\). Cliquez sur
 
 Choisissez le document depuis votre poste de travail.
 
-![](.gitbook/assets/messagerie-v2-19-2.png)
+![](.gitbook/assets/messagerie-v2-19-2%20%281%29.png)
 
 En cochant « Ajouter une signature », vous pouvez maintenant paramétrer l’ajout d’une signature pour ce message et pour les suivants.
 
@@ -64,7 +64,7 @@ Une fois que votre message est prêt, vous pouvez l’envoyer.
 
 Lorsque vous recevez un nouveau message, la notification est indiquée dans le bandeau de navigation supérieur.
 
-![](.gitbook/assets/messagerie-v2-11-2.png)
+![](.gitbook/assets/messagerie-v2-11-2%20%281%29.png)
 
 Une fois dans l’appli messagerie, les nouveaux messages sont visibles dans la notification indiquée dans le dossier « boîte de réception ». Le nombre de messages non lus est indiqué dans la bulle à droite de la mention « Boîte de réception ».
 
@@ -112,7 +112,7 @@ En revenant à la liste de vos messages dans la rubrique « Boîte de réception
 
 \(4\) les marquer comme non lu
 
-![](.gitbook/assets/messagerie-v2-15-2.png)
+![](.gitbook/assets/messagerie-v2-15-2%20%281%29.png)
 
 ## Répondre, transférer, classer et supprimer un message
 
@@ -122,7 +122,7 @@ La fenêtre de création d’un message s’ouvre. L’émetteur du message reç
 
 Si vous avez reçu un message groupé vous pouvez cliquez sur le bouton « + » \(1\) présent en haut à droite pour faire apparaître les options secondaires :
 
-![](.gitbook/assets/messagerie-v2-17-1.png)
+![](.gitbook/assets/messagerie-v2-17-1%20%281%29.png)
 
 \(2\) Répondre à tous : tous les destinataires du messages reçus sont automatiquement ajoutés dans les champs « à » et « en copie » selon la répartition du message d’origine.
 

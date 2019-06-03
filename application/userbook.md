@@ -6,17 +6,17 @@ Pour mettre à jour votre humeur, votre devise, votre photo et vos autres inform
 
 Pour accéder à votre compte, connectez-vous à la plateforme en saisissant votre identifiant \(1\) et votre mot de passe \(2\) dans la fenêtre de connexion. Vous pouvez visualiser votre mot de passe en cliquant sur l'icône des lunettes à droite du champ "Mot de passe" \(3\). Enfin, cliquez sur « Connexion » \(4\)
 
-![](.gitbook/assets/2018-08-24_11h21_31-2.png)
+![](.gitbook/assets/2018-08-24_11h21_31-2%20%281%29.png)
 
 Pour vous rendre sur l'espace Mon compte, cliquez sur l’avatar en haut à droite de l'écran.
 
-![](.gitbook/assets/moncompte-1-2.png)
+![](.gitbook/assets/moncompte-1-2%20%281%29.png)
 
 Vous accédez à votre espace personnel où vous pouvez modifier vos informations : photo, coordonnées, devise, humeur, centres d’intérêt, en cliquant simplement sur le champ à modifier.
 
 ![](.gitbook/assets/2018-10-19_10h57_05-2.png)
 
-![](.gitbook/assets/2018-10-19_10h57_42-2.png)
+![](.gitbook/assets/2018-10-19_10h57_42-2%20%281%29.png)
 
 Les enseignants ont la possibilité de choisir un nom d’affichage personnalisé, visible par les autres utilisateurs de la plateforme. Par défaut, ce nom d’affichage est le prénom et le nom de l’utilisateur.
 
@@ -51,7 +51,7 @@ Vous pouvez aussi choisir d’importer une photo à partir de votre poste de tra
 
 Sélectionnez un fichier dans votre poste de travail et cliquez sur ouvrir. Cliquez en suite sur « Importer » pour lancer le téléchargement.
 
-![](.gitbook/assets/mon-compte-4-1.png)
+![](.gitbook/assets/mon-compte-4-1%20%281%29.png)
 
 Votre photo est maintenant visible dans votre compte et par tous les utilisateurs !
 
@@ -82,7 +82,7 @@ Vous pouvez ajouter ou modifier votre adresse mail dans l’espace « Mon compte
 
 Pour ajouter ou modifier votre adresse mail, saisissez votre nouvelle adresse dans le champ prévu, en face de « Adresse courriel ».
 
-![](.gitbook/assets/mon-compte-8-2.png)
+![](.gitbook/assets/mon-compte-8-2%20%281%29.png)
 
 En cas d’oubli de votre mot de passe, un lien de récupération vous sera envoyé sur l’adresse mail renseignée dans votre compte.
 
@@ -90,7 +90,7 @@ En cas d’oubli de votre mot de passe, un lien de récupération vous sera envo
 
 Vous pouvez ajouter une devise à votre compte. Pour cela, remplissez le champ « Devise » sous vos coordonnées.
 
-![](.gitbook/assets/mon-compte-9-3.png)
+![](.gitbook/assets/mon-compte-9-3%20%281%29.png)
 
 Votre devise sera visible sur votre profil et apparaitra dans le fil de nouveautés des autres utilisateurs de la plateforme lorsque vous la modifierez.
 
@@ -98,11 +98,11 @@ Votre devise sera visible sur votre profil et apparaitra dans le fil de nouveaut
 
 Pour changer votre humeur, cliquez sur l’icône en dessous de votre photo.
 
-![](.gitbook/assets/mon-compte-10-1.png)
+![](.gitbook/assets/mon-compte-10-1%20%281%29.png)
 
 Une liste d’humeurs apparaît. Choisissez celle que vous souhaitez.
 
-![](.gitbook/assets/mon-compte-11-1-1.png)
+![](.gitbook/assets/mon-compte-11-1-1%20%281%29.png)
 
 Votre nouvelle humeur apparaît sur votre compte et est maintenant visible dans le fil de nouveautés des autres utilisateurs de la plateforme avec lesquels vous avez le droit de communiquer.
 
@@ -114,7 +114,7 @@ Vous pouvez modifier vos centres d’intérêt : animaux, cinéma, musique, endr
 
 Saisissez les informations souhaitées dans les champs correspondants.
 
-![](.gitbook/assets/mon-compte-13-1-1.png)
+![](.gitbook/assets/mon-compte-13-1-1%20%281%29.png)
 
 Mais aussi d’autres commentaires dans « Divers ».
 
@@ -163,5 +163,5 @@ Depuis votre espace "Mon compte", vous retrouverez toutes les notifications que 
 
 En survolant la notification avec la souris, vous verrez apparaître une flèche sur la droite de la notification. En cliquant sur cette flèche, une action apparaît vous permettant de supprimer définitivement la notification de la plateforme.
 
-![](.gitbook/assets/mon-compte-20-3.png)
+![](.gitbook/assets/mon-compte-20-3%20%281%29.png)
 

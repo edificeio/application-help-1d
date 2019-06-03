@@ -14,7 +14,7 @@ L’appli Statistiques vous propose de suivre **sept indicateurs** calculés sur
 • **Pic de connexion hebdomadaire** : indique le jour de la semaine recueillant le plus de visites depuis le 1er septembre  
 • **Comptes activés** : calcule le nombre de comptes activés depuis le 1er septembre.
 
-![](.gitbook/assets/stats-1-1.jpg)
+![](.gitbook/assets/stats-1-1%20%281%29.jpg)
 
 ## Comprendre les données disponibles
 

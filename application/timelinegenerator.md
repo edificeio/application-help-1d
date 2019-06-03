@@ -6,7 +6,7 @@ Devenez un maître du temps avec l’appli **Frise chronologique** ! Sur une lig
 
 L’appli Frise chronologique permet **d’associer des événements à leur position dans le temps** et de les représenter sous la forme d’une frise temporelle. Chaque événement est accompagné d’un encart permettant de **publier du contenu additionnel** \(texte, image, son …\). Chaque frise peut être partagée avec un utilisateur ou un groupe d’utilisateurs.
 
-![](.gitbook/assets/2018-08-23_17h58_55-2.png)
+![](.gitbook/assets/2018-08-23_17h58_55-2%20%281%29.png)
 
 ## Créer une frise chronologique
 
@@ -25,13 +25,13 @@ Suivez les étapes suivantes :
 * Renseignez le descriptif de la frise \(3\)
 * Cliquez sur « Enregistrer » \(4\)
 
-![](.gitbook/assets/frisechronoone_4-creation-2.png)
+![](.gitbook/assets/frisechronoone_4-creation-2%20%281%29.png)
 
 ## Partager une frise chronologique
 
 Votre frise chronologique est désormais créée mais n’est pas encore visible. Pour le partager avec d’autres utilisateurs, cliquez sur le bouton « + » \(1\) présent dans le coin supérieur droit de la vignette de votre frise puis cliquez sur le bouton « Partager » \(2\).
 
-![](.gitbook/assets/frisechronoone_5-partage-2.png)
+![](.gitbook/assets/frisechronoone_5-partage-2%20%281%29.png)
 
 Dans la fenêtre de partage, vous pouvez donner des droits de consultation, de contribution ou de gestion sur votre frise chronologique. Pour cela, saisissez les premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs que vous recherchez \(1\), sélectionnez le résultat \(2\) et cochez les cases correspondant aux droits que vous souhaitez leur attribuer \(3\). Cliquez sur "Partager" pour valider \(4\).
 
@@ -56,7 +56,7 @@ Vous devez renseigner plusieurs informations pour créer un évènement :
 * Une image d’illustration
 * Une description
 
-![](.gitbook/assets/frisechronoone_8-creer-evenement-2.png)
+![](.gitbook/assets/frisechronoone_8-creer-evenement-2%20%281%29.png)
 
 Une fois l’événement créé, il apparaît dans la frise chronologique. Le tour est joué !
 

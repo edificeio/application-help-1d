@@ -17,7 +17,7 @@ Il est composé des éléments suivants :
 * Le lien vers l’information ou le contenu.
 * Une indication sur l’application concernée par la notification
 
-![](.gitbook/assets/premiers-pas-1-1.png)
+![](.gitbook/assets/premiers-pas-1-1%20%281%29.png)
 
 Pour filtrer les notifications reçues, déplier le menu "Filtrer les nouveautés" et cliquez sur les applications dont vous souhaitez visualiser les notifications ou non.
 
@@ -25,11 +25,11 @@ Pour filtrer les notifications reçues, déplier le menu "Filtrer les nouveauté
 
 Pour accéder à une information ou un contenu qui vous a été partagé, cliquez sur le lien présent dans la nouveauté.
 
-![](.gitbook/assets/premiers-pas-3-1.png)
+![](.gitbook/assets/premiers-pas-3-1%20%281%29.png)
 
 Le contenu s’affiche.
 
-![](.gitbook/assets/premiers-pas-4-2.png)
+![](.gitbook/assets/premiers-pas-4-2%20%281%29.png)
 
 Pour accéder au profil de l’utilisateur qui vous a partagé le contenu ou l’information, cliquez sur son identifiant.
 
@@ -50,16 +50,16 @@ Lorsque vous cliquez sur la flèche, les actions concernant la notification sél
 * Supprimer l’affichage de la notification de votre fil de nouveauté
 * Signaler la notification comme inappropriée à votre référent ENT
 
-![](.gitbook/assets/premiers-pas-8-2.png)
+![](.gitbook/assets/premiers-pas-8-2%20%281%29.png)
 
 Vous avez également la possibilité de gérer vos notifications et choisir de ne pas envoyer de notification lors d'une mise à jour ou du partage d'un contenu à votre réseau.  
 Depuis votre espace "Mon compte", vous retrouverez toutes les notifications que vous avez émises en cliquant sur l’onglet "Historique"
 
-![](.gitbook/assets/premiers-pas-9-2.png)
+![](.gitbook/assets/premiers-pas-9-2%20%281%29.png)
 
 Comme précédemment, en survolant la notification avec la souris, vous verrez apparaître une flèche sur la droite de la notification. En cliquant sur cette flèche, une action apparaît vous permettant de supprimer définitivement la notification de la plateforme.
 
-![](.gitbook/assets/premiers-pas-10-1.png)
+![](.gitbook/assets/premiers-pas-10-1%20%281%29.png)
 
 ## Les widgets
 
@@ -94,8 +94,8 @@ Les différents services disponibles depuis le bandeau sont les suivants :
 Trois vues sont également disponibles depuis n’importe quel endroit de la plateforme:
 
 * La vue Quoi De Neuf qui est aussi la page d’accueil ![](.gitbook/assets/page_accueil_1d_quoideneuf%20%281%29.png)
-* La vue La Classe qui présente la listes des élèves de la classe ![](.gitbook/assets/page_accueil_1d_laclasse-1.png)
-* La vue d’accès aux applis ![](.gitbook/assets/page_accueil_1d_mesapplis-2.png)
+* La vue La Classe qui présente la listes des élèves de la classe ![](.gitbook/assets/page_accueil_1d_laclasse-1%20%281%29.png)
+* La vue d’accès aux applis ![](.gitbook/assets/page_accueil_1d_mesapplis-2%20%281%29.png)
 
 ## L’éditeur de texte
 
@@ -109,7 +109,7 @@ L’éditeur permet également d’intégrer différents types de contenus :
 4. Une formule Latex
 5. Un lien
 
-![](.gitbook/assets/image5-1024x387-2.png)
+![](.gitbook/assets/image5-1024x387-2%20%281%29.png)
 
 L'éditeur permet désormais d’ajouter plus simplement des pièces jointes dans un contenu.
 
@@ -139,7 +139,7 @@ Depuis la fenêtre d’import d’images, après avoir sélectionné l'image :
 
 Ou encore depuis l’espace documentaire :
 
-![](.gitbook/assets/2018-08-22_16h29_35-1.png)
+![](.gitbook/assets/2018-08-22_16h29_35-1%20%281%29.png)
 
 L’éditeur d’images permet de :
 
@@ -159,9 +159,9 @@ Pour y accéder, cliquez sur le bouton à droite de votre fil de nouveautés.
 
 L’onglet de gestion de vos paramètres apparaît.
 
-![](.gitbook/assets/page_accueil_1d_preferences-2.png)
+![](.gitbook/assets/page_accueil_1d_preferences-2%20%281%29.png)
 
-![](.gitbook/assets/page_accueil_1d_fond-1.png)
+![](.gitbook/assets/page_accueil_1d_fond-1%20%281%29.png)
 
 Pour changer l’apparence de votre thème, cliquez sur celui de votre choix.
 
@@ -184,11 +184,11 @@ et cliquer sur le bouton "Gérer mes notifications externes" \(2\).
 La page de paramétrage des notifications externes permet de modifier l’adresse de réception des mails \(3\) et de choisir la fréquence d’envoi de chaque notification \(immédiat, quotidien, hebdomadaire, jamais\) \(4\).  
 Le détail des notifications disponibles par service est accessible en cliquant sur le nom du service dans la ligne correspondante \(5\). Lorsque les modifications sont terminées, cliquer sur "Enregistrer" en bas du tableau \(6\).
 
-![](.gitbook/assets/premiers-pas-14-2.png)
+![](.gitbook/assets/premiers-pas-14-2%20%281%29.png)
 
 Une fois la notification reçue dans sa boîte mail personnelle, l’utilisateur peut cliquer sur le lien correspondant afin d’accéder au contenu. S’il n’est pas connecté à la plateforme, il devra saisir son identifiant et son mot de passe pour accéder à l’objet de la notification.
 
-![](.gitbook/assets/page_accueil_1d_ex_notification-1.png)
+![](.gitbook/assets/page_accueil_1d_ex_notification-1%20%281%29.png)
 
 ## Message Flash
 
@@ -198,7 +198,7 @@ Des messages d’informations à destinations de tous les utilisateurs de la pla
 
 Après avoir pris connaissance du message, vous avez la possibilité de le supprimer en cliquant sur la croix à droite de celui-ci \(2\).
 
-![](.gitbook/assets/2018-08-22_17h06_34-2.png)
+![](.gitbook/assets/2018-08-22_17h06_34-2%20%281%29.png)
 
 ## Partage et favoris de partage
 
@@ -212,15 +212,15 @@ Vous accédez à la fenêtre de partage dans laquelle vous allez pouvoir recherc
 
 Vous avez la possibilité d’enregistrer une liste d’utilisateurs ou de groupes comme favori de partage. Une fois vos destinataires sélectionnés, cliquez sur "Enregistrer comme favori de partage" \(1\).
 
-![](.gitbook/assets/2018-08-22_17h49_02-2.png)
+![](.gitbook/assets/2018-08-22_17h49_02-2%20%281%29.png)
 
 Il vous suffit ensuite d’inscrire le nom que vous souhaitez donner au favori \(1\) et cliquer sur OK \(2\).
 
-![](.gitbook/assets/2018-08-22_17h50_08-1.png)
+![](.gitbook/assets/2018-08-22_17h50_08-1%20%281%29.png)
 
 Vous retrouverez ensuite ce favori de partage dans votre barre de recherche, au nom que vous avez enregistré. Vous pourrez ainsi partager plus facilement à un groupe de destinataires avec lequel vous avez l’habitude d'échanger régulièrement des contenus. Après avoir sélectionné votre favori de partage, il vous sera toujours possible de consulter la liste des membres du favori directement dans la fenêtre de partage. Cliquez sur la petite encoche à côté du nom de votre favori \(1\). Consultez les personnes ou les groupes rattachés à votre liste \(2\).
 
-![](.gitbook/assets/2018-08-22_17h51_48-1.png)
+![](.gitbook/assets/2018-08-22_17h51_48-1%20%281%29.png)
 
 Afin que vous partage soit pris en compte, n’oubliez pas de cliquer sur le bouton "Partager".
 

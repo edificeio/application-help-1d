@@ -6,7 +6,7 @@ Besoin de communiquer un mot aux parents d’élèves ? Mais comment savoir s’
 
 L’application carnet de liaison **permet à l’enseignant d’envoyer des mots aux élèves et parents d’élèves uniquement** et d’accéder au suivi des lectures. En activant l’option « réponse », les parents pourront réagir au mot. La possibilité d’imprimer les mots en coupons assure la complémentarité entre le numérique et le papier !
 
-![](.gitbook/assets/image-3.png)
+![](.gitbook/assets/image-3%20%281%29.png)
 
 ## Vue Enseignant - Créez et envoyez un mot
 
@@ -18,13 +18,13 @@ Cliquez d’abord sur le bouton « Créer un mot ».
 
 Renseignez un titre à votre mot \(1\), puis rédigez un texte en ajoutant du contenu multimédia grâce à l'éditeur de texte \(2\). Cliquez maintenant sur le bouton “Suivant” \(3\).
 
-![](.gitbook/assets/carnet-redaction-2.png)
+![](.gitbook/assets/carnet-redaction-2%20%281%29.png)
 
 **Vous allez ensuite pouvoir choisir vos destinataires :**
 
 Dans la fenêtre "Destinataires", vous pouvez choisir les utilisateurs avec lesquels vous souhaitez partager votre message. Un message vous indique que **les destinataires seront des élèves ou des groupes d’élèves uniquement**. **Le mot sera envoyé aux responsables des élèves en question. Les élèves auront un droit de lecture sur le mot \(1\).** Effectuez votre recherche \(2\) et sélectionnez les élèves avec lesquels vous souhaitez partager le mot. Les groupes et utilisateurs ajoutés apparaissent sous la barre de recherche \(3\). Vous pouvez retrouver vos favoris de partage dans la recherche d'utilisateurs. Il vous est possible de consulter la fiche d'un utilisateur sélectionné dans la liste des destinataires en cliquant sur son nom \(4\). Le message sera transmis aux responsables de ces élèves. Vous pouvez cocher sur la croix pour les supprimer de votre sélection. Cliquez sur "Suivant" pour valider \(5\).
 
-![](.gitbook/assets/destinataire-mot-1.png)
+![](.gitbook/assets/destinataire-mot-1%20%281%29.png)
 
 **Il ne vous restera plus qu'à définir les paramètres du mot :**
 
@@ -36,7 +36,7 @@ Cette fenêtre vous permet de choisir d’autoriser ou non les responsables à r
 
 Un récapitulatif du mot apparaît avec comme indication : le titre et le contenu du mot, l’activation ou non de l’option « Réponse » et le nombre d’élèves concernés par l’envoi \(1\). Cliquez sur « Terminer » pour envoyer le mot aux élèves et parents d’élèves. \(2\).
 
-![](.gitbook/assets/mot-fin-1.png)
+![](.gitbook/assets/mot-fin-1%20%281%29.png)
 
 Le mot est envoyé, les parents et leurs enfants recevront une notification sur leur fil de nouveautés et par courriel \(s’ils ont bien une adresse mail renseignée sur leur page Mon compte\).
 
@@ -44,7 +44,7 @@ Le mot est envoyé, les parents et leurs enfants recevront une notification sur 
 
 L’enseignant accède au suivi des accusés de lecture et éventuellement des réponses en cliquant sur le bouton « Accéder au suivi » du mot en question.
 
-![](.gitbook/assets/2018-08-23_12h23_33-1.png)
+![](.gitbook/assets/2018-08-23_12h23_33-1%20%281%29.png)
 
 La fenêtre « Suivi du mot » s’ouvre avec deux colonnes :
 
@@ -61,7 +61,7 @@ En cliquant sur l’onglet « Réponse » en haut de la colonne \(1\), vous pouv
 
 Si un parent modifie sa réponse après l’avoir envoyée, l’enseignant est informé par une notification sur son fil de nouveautés.
 
-![](.gitbook/assets/carnet_liaison_9-2.png)
+![](.gitbook/assets/carnet_liaison_9-2%20%281%29.png)
 
 ## Vue Enseignant - Corrigez, imprimez ou supprimez un mot
 
@@ -82,7 +82,7 @@ Il est possible de corriger le contenu d’un mot. Attention, aucune notificatio
 * Le contenu du mot \(2\)
 * Pour valider les corrections, cliquer sur l’icône « Corriger » \(3\)
 
-![](.gitbook/assets/2018-08-23_16h29_33-1.png)
+![](.gitbook/assets/2018-08-23_16h29_33-1%20%281%29.png)
 
 **Imprimer un mot :**
 
@@ -94,7 +94,7 @@ En cliquant sur l’icône “imprimer”, une fenêtre s’ouvre permettant de 
 
 En cliquant sur l’icône “supprimer”, une fenêtre s’ouvre, cliquer sur « Supprimer » pour confirmer la suppression du mot. Les utilisateurs à qui le mot avait été envoyé n’y auront plus accès.
 
-![](.gitbook/assets/2018-08-23_16h32_17-2.png)
+![](.gitbook/assets/2018-08-23_16h32_17-2%20%281%29.png)
 
 ## Vue Enseignant - Partagez un mot
 
@@ -131,7 +131,7 @@ Si l’enseignant a activé l’option « réponse » lors de l’envoi du mot :
 
 Les photos de profils sous le titre « Carnet de liaison » permet au parent de filtrer les mots selon les enfants dont il est responsable. S’il est rattaché à un seul enfant, la fonction filtre n’apparaît pas.
 
-![](.gitbook/assets/2018-08-23_16h53_00-1.png)
+![](.gitbook/assets/2018-08-23_16h53_00-1%20%281%29.png)
 
 ## Vue Élève - Lecture d'un mot
 

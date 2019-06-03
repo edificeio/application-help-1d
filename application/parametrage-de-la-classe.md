@@ -10,7 +10,7 @@ Pour accéder à l’application Paramétrage de la classe, cliquez sur l’icô
 
 ![](.gitbook/assets/2018-08-24_11h44_08-2.png)
 
-![](.gitbook/assets/mesapplis2.PNG)
+![](.gitbook/assets/mesapplis2%20%281%29.PNG)
 
 ## Créer des utilisateurs dans la classe
 
@@ -25,7 +25,7 @@ Une interface propose deux options de création de compte  :
 * Créer des utilisateurs \(1\) : vous permet de créer manuellement des utilisateurs
 * Importer un fichier \(2\) : vous permet d'importer votre fichier ONDE classe pour créer tous vos élèves, ou d'importer un fichier en se basant sur les modèles fournis
 
-![](.gitbook/assets/ajouter2.PNG)
+![](.gitbook/assets/ajouter2%20%281%29.PNG)
 
 Si vous souhaitez **créer manuellement des utilisateurs**, une interface vous propose de créer l'utilisateur de votre choix en renseignant plusieurs informations, obligatoire ou non, en fonction du profil :
 
@@ -36,7 +36,7 @@ Si vous souhaitez **créer manuellement des utilisateurs**, une interface vous p
 * Courriel \(5\)
 * Rechercher un élève \(6\) : uniquement pour les responsables légaux, afin de relier l'élève au responsable créé manuellement
 
-![](.gitbook/assets/creation.PNG)
+![](.gitbook/assets/creation%20%281%29.PNG)
 
 Si vous avez créé un **utilisateur existant déjà sur votre école**, une interface de détection du doublon de compte vous propose trois actions :
 
@@ -44,7 +44,7 @@ Si vous avez créé un **utilisateur existant déjà sur votre école**, une int
 * Rattacher aux deux classes \(2\) : le compte sera rattaché à la classe et conservera son rattachement à l'autre classe
 * Créer l'utilisateur \(3\) : le compte sera créer dans la classe
 
-![](.gitbook/assets/doublon.PNG)
+![](.gitbook/assets/doublon%20%281%29.PNG)
 
 Si vous souhaitez **importer des utilisateurs** à partir d'un fichier, vous avez la possibilité d'exporter votre fichier ONDE pour votre classe afin de l'importer depuis l'interface prévue à cet effet.
 
@@ -67,7 +67,7 @@ Pour créer un compte enseignant ou un compte personnel, il n'est pas possible d
 
 Dans l'interface de l'application, vous disposez d'un bouton pour pouvoir créer des fiches de connexion \(1\) sur la classe sélectionnée \(2\). Ces fiches de connexion peuvent être effectué
 
-![](.gitbook/assets/ficheconnexion.png)
+![](.gitbook/assets/ficheconnexion%20%281%29.png)
 
 Une nouvelle fenêtre s'ouvre où vous pourrez sélectionner un ou plusieurs profils afin de créer leur fiche de connexion.
 
@@ -80,7 +80,7 @@ Une fois le ou les profils sélectionnés, vous disposez de plusieurs options po
 * Fiches de connexions détaillées par mail \(3\)
 * Exporter les codes d'activations en .CSV \(4\)
 
-![](.gitbook/assets/modefiche2.PNG)
+![](.gitbook/assets/modefiche2%20%281%29.PNG)
 
 Vous pouvez également créer une ou plusieurs fiches de connexions détaillées pour un ou plusieurs comptes, en sélectionnant le ou les comptes \(1\), puis en cliquant sur "Fiche de connexion" \(2\).
 
@@ -88,7 +88,7 @@ Vous pouvez également créer une ou plusieurs fiches de connexions détaillées
 
 En allant consulter la fiche utilisateur d'un élève \(voir partie "Consulter et modifier les informations utilisateurs"\), vous pouvez récupérer des fiches de connexions simplifiées en PDF pour l'élève et son ou ses responsables légaux, en cliquant sur le lien "Fiches de connexion" \(1\)
 
-![](.gitbook/assets/fichefamille2.PNG)
+![](.gitbook/assets/fichefamille2%20%281%29.PNG)
 
 ## Renouveler un mot de passe
 
@@ -126,13 +126,13 @@ En cliquant sur le nom de l'utilisateur présent dans la liste, vous pouvez acc�
 
 Une fois la fiche utilisateur affichée, vous pouvez naviguer d'une fiche à l'autre en cliquant sur "utilisateur précédent" \(1\) ou "utilisateur suivant" \(2\).
 
-![](.gitbook/assets/fiche.png)
+![](.gitbook/assets/fiche%20%281%29.png)
 
 ## Bloquer un compte
 
 En cas de débordement, vous avez la possibilité de bloquer la connexion d'un utilisateur. Sélectionnez l'utilisateur que vous souhaitez bloquer dans la liste \(1\) puis cliquez sur le bouton d'action "Bloquer" \(2\) pour bloquer la connexion de l'utilisateur. Une fois l'action effectuée, l'utilisateur ne pourra donc plus se connecter.
 
-![](.gitbook/assets/bloquer.png)
+![](.gitbook/assets/bloquer%20%281%29.png)
 
 ## Supprimer un utilisateur
 

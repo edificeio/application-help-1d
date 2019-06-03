@@ -20,13 +20,13 @@ Vous pouvez rechercher facilement et rapidement un utilisateur. Pour effectuer v
 * Profil \(élève, enseignant, parent, personnel, invité\) \(3\)
 * Fonction \(administrateur\) \(4\)
 
-![](.gitbook/assets/2018-08-22_18h17_30-1.png)
+![](.gitbook/assets/2018-08-22_18h17_30-1%20%281%29.png)
 
 Certains de ces filtres sont conditionnels. Par exemple : le filtre "Fonction" disparaîtra pour le profil "Élève" qui ne peut pas avoir de "Fonction" particulière dans l'ENT.
 
 Une fois l’utilisateur trouvé, vous pouvez consulter sa fiche. Vous avez la possibilité de lui envoyer un message \(1\), l’ajouter dans vos favoris de partage \(2\), ou consulter tout simplement les informations disponibles sur sa fiche.
 
-![](.gitbook/assets/2018-08-22_18h14_20-1.png)
+![](.gitbook/assets/2018-08-22_18h14_20-1%20%281%29.png)
 
 ## Rechercher un groupe
 
@@ -37,7 +37,7 @@ Vous pouvez rechercher facilement et rapidement un groupe d’utilisateurs. Pour
 * Fonction \(administrateur\) \(4\)
 * Type de groupe \(Groupe d’enseignement, groupe de communauté, groupe manuel\) \(5\)
 
-![](.gitbook/assets/2018-08-22_18h15_28-2.png)
+![](.gitbook/assets/2018-08-22_18h15_28-2%20%281%29.png)
 
 Une fois le groupe trouvé, vous pouvez accéder à la liste des utilisateurs concernés. Vous avez la possibilité d’envoyer un message au groupe \(1\), d’ajouter le groupe à vos favoris de partage \(2\), ou consulter leurs fiches individuelles.
 
@@ -47,7 +47,7 @@ Une fois le groupe trouvé, vous pouvez accéder à la liste des utilisateurs co
 
 En cliquant sur la fenêtre des favoris, vous pourrez gérer des listes d’utilisateurs avec lesquels vous communiquez régulièrement. Vous retrouverez vos listes de favoris à chaque fois que vous aurez besoin de partager un contenu, à travers l’onglet de recherche d’utilisateurs dans la fenêtre de partage, ainsi que dans la messagerie. Dans cet espace, vous voyez apparaître vos favoris préalablement enregistrés \(1\). Vous avez la possibilité d’effectuer une recherche dans vos listes de favoris grâce à la barre de recherche \(2\), ou bien de créer directement une liste \(3\).
 
-![](.gitbook/assets/2018-08-23_09h42_25-2.png)
+![](.gitbook/assets/2018-08-23_09h42_25-2%20%281%29.png)
 
 **Consulter et modifier un favori :**
 

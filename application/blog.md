@@ -14,11 +14,11 @@ En cas de contribution de la part d’autres utilisateurs, le gestionnaire du bl
 
 Cliquez sur la page « Mes applis » puis sur l’icône « Blog ».
 
-![](.gitbook/assets/blog-2-1.png)
+![](.gitbook/assets/blog-2-1%20%281%29.png)
 
 Dans le service Blog, cliquez sur le bouton « Créer un blog » présent en haut à droite de la page.
 
-![](.gitbook/assets/blog-3-1.png)
+![](.gitbook/assets/blog-3-1%20%281%29.png)
 
 Vous accédez à l’interface de création du blog.
 
@@ -26,7 +26,7 @@ Vous accédez à l’interface de création du blog.
 2. Ajoutez une vignette d’illustration du blog \(si vous ne modifiez pas l’image, c’est la vignette par défaut qui s’affichera\).
 3. Cliquez sur « Enregistrer ».
 
-![](.gitbook/assets/blog-4-1.png)
+![](.gitbook/assets/blog-4-1%20%281%29.png)
 
 ## Partager un blog
 
@@ -73,7 +73,7 @@ L’outil de création du billet s’affiche dans la page :
 1. Saisissez le titre
 2. Rédigez le contenu du billet.
 
-![](.gitbook/assets/blog-9-2.png)
+![](.gitbook/assets/blog-9-2%20%281%29.png)
 
 Une fois la saisie terminée, vous pouvez soit :
 
@@ -97,13 +97,13 @@ Cliquez la case à cocher des billets soumis pour afficher les billets rédigés
 
 Vous pouvez réaliser les actions suivantes en cliquant sur « Publier » ou sur l’icône
 
-![](.gitbook/assets/blog-13-1.png)
+![](.gitbook/assets/blog-13-1%20%281%29.png)
 
 * **Publier** le billet sans mise à jour : le billet est alors visible par tous les utilisateurs ayant accès au blog
 * **Modifier** le billet avant publication : vous accédez à l’éditeur de texte pour apporter vos modifications
 * **Supprimer** le billet
 
-![](.gitbook/assets/blog-12-1.png)
+![](.gitbook/assets/blog-12-1%20%281%29.png)
 
 ## Imprimer un blog
 
