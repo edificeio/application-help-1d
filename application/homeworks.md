@@ -6,7 +6,7 @@ Devenez un maître de l’organisation avec l’appli **Cahier de Texte** ! Cré
 
 Il est facile de publier les leçons des élèves dans le cahier de textes. Les élèves y accèdent jour par jour et disposent également d’une synthèse de la semaine \(vue semaine\). Le cahier peut être partagé avec un utilisateur ou un groupe d’utilisateurs, selon les souhaits de l’enseignant.
 
-![](.gitbook/assets/cahier-de-textes-1.png)
+![](.gitbook/assets/vu-semaine_vierge.png)
 
 ## Créer un cahier de textes
 
@@ -24,9 +24,9 @@ Votre cahier est désormais créé mais n’est pas encore visible.
 
 ## Partager un cahier de textes
 
-Pour partager un cahier de textes avec d’autres utilisateurs, cliquez sur la case à cocher \(1\) située à côté du cahier puis sur « Partager » \(2\).
+Pour partager un cahier de textes avec d’autres utilisateurs, cliquez sur le signe + \(1\) située sur le coin en haut à droite de l'icône du cahier puis sur « Partager » \(2\).
 
-![](.gitbook/assets/cahier-de-texte-4-2.png)
+![](.gitbook/assets/partager_selectetbouton.png)
 
 Dans la fenêtre de partage, vous pouvez donner des droits de lecture, de contribution et de gestion à d’autres personnes sur votre cahier. Pour cela, saisissez les premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs que vous recherchez \(1\), sélectionnez le résultat \(2\) et cochez les cases correspondant aux droits que vous souhaitez leur attribuer \(3\). Pour valider, cliquez sur "Partager" \(4\).
 
@@ -42,35 +42,35 @@ Votre cahier de textes est créé et partagé, vous pouvez désormais renseigner
 
 ## Créer une activité
 
-Une fois votre cahier de textes créé, vous pouvez y ajouter des activités. Pour cela, cliquez sur le titre du cahier dans le dossier correspondant.
+Une fois votre cahier de textes créé, vous pouvez y ajouter des activités. Pour cela, cliquez sur le titre ou sur l'image du cahier dans le dossier correspondant.
 
-![](.gitbook/assets/cahier-de-texte-6-2%20%281%29.png)
+![](.gitbook/assets/creeractivit_ouvrircahiertxt%20%281%29.png)
 
-Lorsque le cahier est affiché à l’écran, cliquez sur un jour de la semaine pour saisir une nouvelle activité.
+La semaine en cours est affichée par défaut. Pour saisir une activité pour une semaine ultérieure, vous pouvez soit faire défiler les semaines en cliquant sur les flèches \(1\) soit sélectionner la date dans le calendrier \(2\).
 
-![](.gitbook/assets/cahier-de-texte-7-2.png)
+![](.gitbook/assets/creeractivit_selectionsemaine.png)
+
+Cliquez ensuite sur un jour de la semaine pour saisir une nouvelle activité.
+
+![](.gitbook/assets/creeractivit_selectionjour%20%281%29.png)
 
 Une fois le jour sélectionné, cliquez sur le bouton « Créer ».
 
-![](.gitbook/assets/t8-2%20%281%29.png)
+![](.gitbook/assets/creeractivit_btncreer100.png)
 
-Vous pouvez ajouter une activité directement dans le cahier. Tout d’abord, saisissez la matière dans la colonne de gauche.
+Vous pouvez ajouter une activité dans le cahier. Tout d’abord, cliquez sur la colonne de gauche pour ajouter la matière.
 
-![](.gitbook/assets/t9-2.png)
+![](.gitbook/assets/creeractivit_saisiematiere100.png)
 
-Cliquez dans la colonne principale pour afficher l’éditeur de texte.
+Cliquez dans la colonne principale pour afficher l’éditeur de texte \(2\).
 
-![](.gitbook/assets/t10-2%20%281%29.png)
+![](.gitbook/assets/creeractivit_editeurtxt100.png)
 
-Comme pour les autres services, vous pouvez intégrer plusieurs types de contenus dans l’activité : texte, image, lecteur audio, lecteur vidéo, formule mathématique…
+Comme pour les autres services, vous pouvez intégrer plusieurs types de contenus dans l’activité : texte, image, lecteur audio, lecteur vidéo, formule mathématique… \(3\)
 
 Lorsque vous saisissez des contenus, l’enregistrement des données est automatique. Il suffit de cliquer dans la zone de saisie pour effectuer les modifications.
 
 Une fois que vous avez terminé, cliquez sur le bouton « Afficher la vue semaine » pour revenir à la page d’accueil du cahier.
 
-![](.gitbook/assets/t11-2%20%281%29.png)
-
-La semaine en cours est affichée par défaut. Pour saisir une activité pour une semaine ultérieure, vous pouvez soit faire défiler les semaines en cliquant sur les flèches \(1\) soit sélectionner la date dans le calendrier \(2\).
-
-![](.gitbook/assets/t12-1.png)
+![](.gitbook/assets/creeractivit_retourvuesemaine100.png)
 
