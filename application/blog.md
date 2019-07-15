@@ -10,7 +10,7 @@ En cas de contribution de la part d’autres utilisateurs, le gestionnaire du bl
 
 ![](.gitbook/assets/blog-1-1%20%281%29.png)
 
-## Créer un blog
+## Créer un blog privé
 
 Cliquez sur la page « Mes applis » puis sur l’icône « Blog ».
 
@@ -18,24 +18,25 @@ Cliquez sur la page « Mes applis » puis sur l’icône « Blog ».
 
 Dans le service Blog, cliquez sur le bouton « Créer un blog » présent en haut à droite de la page.
 
-![](.gitbook/assets/blog-3-1.png)
+![](.gitbook/assets/1d-blog-creer-1.png)
 
 Vous accédez à l’interface de création du blog.
 
 1. Indiquez le titre de votre blog.
 2. Ajoutez une vignette d’illustration du blog \(si vous ne modifiez pas l’image, c’est la vignette par défaut qui s’affichera\).
-3. Cliquez sur « Enregistrer ».
 
-![](.gitbook/assets/blog-4-1.png)
+Cliquez sur « Enregistrer » pour valider la création du blog.
+
+![](.gitbook/assets/2019-07-11_10h03_02.png)
 
 ## Partager un blog
 
 Pour partager un blog avec d’autres utilisateurs, suivez les étapes suivantes :
 
-1. Cliquez sur le + du blog \(1\)
+1. Cliquez sur le blog à partager \(1\)
 2. Cliquez sur le bouton « Partager » \(2\)
 
-![](.gitbook/assets/blog-5-1%20%281%29.png)
+![](.gitbook/assets/2019-07-12_17h36_41.png)
 
 Le blog a été créé mais n’est pas encore visible par les autres utilisateurs. Pour le partager, suivez les étapes suivantes :
 
@@ -52,6 +53,65 @@ Les différents droits que vous pouvez attribuer aux autres utilisateurs sont le
 * **Contribuer** : l’utilisateur peut publier un nouveau billet
 * **Gérer** : l’utilisateur peut gérer le blog, c’est-à-dire le modifier, le partager ou le supprimer
 * **Commenter** : l’utilisateur peut commenter les billets
+
+Sur les vignettes de blog, des icônes vous permettent facilement de connaitre vos droit sur les contenus : 
+
+* ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LJrV3Bz6t2ug7AOTCmd%2F-LiT9MbbnNRGQQbQ_9zR%2F-LiTPl2OssTepBdo7Dvq%2Feye.svg?alt=media&token=52b3f3fc-5b73-4eb8-b21d-5e1bf14da582) : Consulter
+* ![](.gitbook/assets/pencil.svg) : Contribuer
+* ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LJrV3Bz6t2ug7AOTCmd%2F-LiT9MbbnNRGQQbQ_9zR%2F-LiTPggWnHSSNeB_kqfs%2Fcog.svg?alt=media&token=dedfa0d6-bbb7-4ef2-b263-36815d78bd2b) : Gérer
+
+De plus,  concernant les blogs sur lesquels vous êtes propriétaire, l'icone suivante vous permet de savoir si le contenu a déjà été partagé :![](.gitbook/assets/share-1.svg) 
+
+![](.gitbook/assets/2019-07-12_17h49_02.png)
+
+## Créer un blog public
+
+Pour créer un blog accessible à des personnes extérieures à l'ENT, il vous faut retourner sur la page de création de blog.
+
+![](.gitbook/assets/2019-07-12_16h25_21.png)
+
+La page des propriétés du blog s'ouvre et vous pouvez y trouver une rubrique nommée "Adresse de mon blog".
+
+![](.gitbook/assets/2019-07-12_16h26_21.png)
+
+Cochez la case précédant la phrase "Le blog est accessible publiquement via cette adresse personnalisable :" \(1\)
+
+Une URL apparaît, c'est l'adresse qui permettra d'accéder au blog sans être connecté à l'ENT. Vous pouvez personnaliser l'URL du blog \(2\). Si l'adresse existe déjà, un message d'erreur apparaît.
+
+Pour communiquer facilement cette URL, vous pouvez cliquer sur le bouton "Copier l'adresse" \(3\).
+
+Note : Si l'on rend public un blog, les documents chargés sur le blog \(par vous ou par un autre utilisateur\) seront eux aussi publics. 
+
+![](.gitbook/assets/2019-07-11_10h29_43.png)
+
+Sur la vignette du blog, le symbole suivant vous informe que le contenu est public :![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LJrV3Bz6t2ug7AOTCmd%2F-LiT9MbbnNRGQQbQ_9zR%2F-LiTPiRK6aBj6hYYlbeR%2Fglobe.svg?alt=media&token=a9350c24-56e4-4cd5-a913-b3bf7adb3795).
+
+![](.gitbook/assets/2019-07-11_10h34_53.png)
+
+L'URL du blog public est visible sous l'image du blog. L'adresse apparaît tronquée. Par un clic-droit, vous pouvez récupérer l'URL en choisissant l'option "Copier l'adresse du lien".
+
+![](.gitbook/assets/2019-07-11_10h38_59.png)
+
+## Organiser vos blogs
+
+1. Vous disposez de 3 filtres pour afficher vos blogs : 
+   * **Mes blogs**, pour afficher/masquer les blogs dont vous êtes le propriétaire
+   * **Les blogs partagés avec moi**, pour afficher/masquer les blogs qui vous ont été partagés
+   * **Blogs publics**, pour afficher/masquer les blogs accessibles publiquement
+2. Une barre de recherche vous permet de trouver rapidement un blog en saisissant son nom.
+3. Afin d'organiser vos blogs, vous disposez de l'arborescence suivante : 
+   * **Mes blogs**, qui est le dossier principal, dans lequel vous pourrez créer tous vos sous-dossiers \(grâce au bouton **Créer un dossier\)**
+   * **Corbeille** où vous retrouverez les blogs que vous aurez supprimé, pour éviter toute suppression définitive involontaire
+
+![](.gitbook/assets/2019-07-11_11h20_16.png)
+
+Après avoir créer vos différents dossiers, sélectionnez \(1\) le ou les blogs que vous voulez mettre dans vos dossiers, puis cliquez sur le bouton "Déplacer" \(2\).
+
+![](.gitbook/assets/1d-blog-deplacer-1.png)
+
+Une fenêtre s'ouvrira, vous permettant de déplacer le blog sélectionné dans un dossier existant ou d'en créer un nouveau. Il vous est également possible de déplacer des dossiers.
+
+![](.gitbook/assets/1d-blog-deplacer-2.png)
 
 ## Gérer le circuit de publication
 
@@ -105,6 +165,18 @@ Vous pouvez réaliser les actions suivantes en cliquant sur « Publier » ou sur
 
 ![](.gitbook/assets/blog-12-1.png)
 
+## Organiser les billets d'un blog
+
+Il vous est possible de modifier l'ordre des billets. Ainsi vous pouvez choisir pour chaque billet de le remonter en première position.
+
+Cliquer sur le bouton "+" du billet que vous souhaitez remonter \(1\) puis cliquer sur "Remonter" \(2\).
+
+![](.gitbook/assets/2019-07-11_14h13_29.png)
+
+Un message de confirmation apparaît pour vous demander de confirmer la remontée du billet.
+
+![](.gitbook/assets/2019-07-11_14h19_43.png)
+
 ## Imprimer un blog
 
 Lorsque vous naviguez sur votre blog, vous avez la possibilité de l'imprimer, en cliquant sur le bouton "Imprimer le blog" :
@@ -114,4 +186,26 @@ Lorsque vous naviguez sur votre blog, vous avez la possibilité de l'imprimer, e
 Une option vous permettra de choisir si vous souhaitez imprimer le blog avec les commentaires ou non :
 
 ![](.gitbook/assets/2018-10-19_12h47_59-1%20%281%29.png)
+
+## Exporter un blog en PDF
+
+Si vous souhaitez exporter votre blog sous la forme d'un fichier PDF, il vous faut suivre les mêmes démarches que pour imprimer. Ensuite selon le navigateur utilisé :
+
+* Pour Chrome :
+
+Dans le champ "Destination", choisissez l'option Enregistrer au format PDF
+
+![](.gitbook/assets/2019-07-11_15h18_39.png)
+
+* Pour Internet Explorer, Microsoft Edge et Mozilla Firefox :
+
+Dans le champ "Nom", choisissez l'option "Microsoft Print to PDF"
+
+![](.gitbook/assets/2019-07-11_15h18_03.png)
+
+* Pour Safari :
+
+Cliquez sur la flèche vers le bas situé à coté du PDF puis choisissez l'option "Enregistrer au format PDF"
+
+![](.gitbook/assets/capture-decran-2019-07-11-a-15.36.46.png)
 

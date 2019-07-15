@@ -20,14 +20,15 @@ Il est alors possible d’ajouter des élèves, des parents, des enseignants et 
 
 ![](.gitbook/assets/creer%20%281%29.png)
 
-Une interface propose deux options de création de compte :
+Une interface propose trois options pour ajouter des utilisateurs à votre classe :
 
 * Créer des utilisateurs \(1\) : vous permet de créer manuellement des utilisateurs
 * Importer un fichier \(2\) : vous permet d'importer votre fichier ONDE classe pour créer tous vos élèves, ou d'importer un fichier en se basant sur les modèles fournis
+* Rechercher des utilisateurs \(3\) : vous permet de rechercher des utilisateurs déjà présents sur l'école
 
-![](.gitbook/assets/ajouter2.PNG)
+![](.gitbook/assets/1d-param-ajouter-des-users.png)
 
-Si vous souhaitez **créer manuellement des utilisateurs**, une interface vous propose de créer l'utilisateur de votre choix en renseignant plusieurs informations, obligatoires ou non, en fonction du profil :
+1. Si vous souhaitez **créer manuellement des utilisateurs**, une interface vous propose de créer l'utilisateur de votre choix en renseignant plusieurs informations, obligatoires ou non, en fonction du profil :
 
 * Profil \(1\)
 * Nom \(obligatoire\) \(2\)
@@ -46,26 +47,36 @@ Si vous avez créé un **utilisateur existant déjà sur votre école**, une int
 
 ![](.gitbook/assets/doublon.PNG)
 
-Si vous souhaitez **importer des utilisateurs** à partir d'un fichier, vous avez la possibilité d'exporter votre fichier ONDE pour votre classe afin de l'importer depuis l'interface prévue à cet effet.
+    2. Si vous souhaitez **importer des utilisateurs** à partir d'un fichier, vous avez la possibilité d'exporter votre fichier ONDE pour votre classe afin de l'importer depuis l'interface prévue à cet effet.
 
 Si vous n'avez pas de fichier d'export depuis ONDE, vous pouvez utiliser les fichiers modèles fournis sur les liens ci-après :
 
 * Fichier élève : [http://one1d.fr/wp-content/uploads/2014/04/Import\_ELEVES.csv](http://one1d.fr/wp-content/uploads/2014/04/Import_ELEVES.csv)
 * Fichier responsable légal : [http://one1d.fr/wp-content/uploads/2014/08/Import\_RESPONSABLES\_2014.csv](http://one1d.fr/wp-content/uploads/2014/08/Import_RESPONSABLES_2014.csv)
 
-{% hint style="info" %}
 Pour que les élèves soient bien rattachés aux parents, vérifiez que le nom et prénom de l’élève soient correctement saisis dans le fichier des parents.
-{% endhint %}
 
-{% hint style="warning" %}
 Attention : pour le bon fonctionnement de ces manipulations, les élèves doivent être créés avant les parents.
-{% endhint %}
 
 Pour créer un compte enseignant ou un compte personnel, il n'est pas possible de fonctionner par import de fichier. Vous devrez créer ces comptes de manière manuelle, comme vu précédemment.
 
+    3. Si les comptes utilisateurs que vous devez rattacher à votre classe sont déjà présents sur votre établissement, vous pouvez accéder à une interface qui vous permet de rechercher les utilisateurs.
+
+* Classe sélectionnée \(1\) : Vous pouvez y voir les classes auxquelles vous êtes rattaché et le groupe des utilisateurs qui ne sont rattachés à aucune classe. 
+* Barre de recherche \(2\)
+* Filtres de profil \(3\)
+* Liste des utilisateurs rattachés à la classe sélectionnée \(4\)
+* Liste des utilisateurs que vous voulez rattacher à votre classe \(5\)
+
+Après avoir complété la liste des utilisateurs que vous voulez rattacher à votre classe, cliquez sur "Ajouter à ma classe" \(6\) pour que l'action soit confirmée.
+
+
+
+![](.gitbook/assets/2019-07-12_09h53_52.png)
+
 ## Créer des fiches de connexion
 
-Dans l'interface de l'application, vous disposez d'un bouton pour pouvoir créer des fiches de connexion \(1\) sur la classe sélectionnée \(2\). Ces fiches de connexion peuvent être effectuées pour un compte déjà activé, en lui rappelant la procédure pour renouveler son mot de passe, ou pour un compte non activé, en lui indiquant la démarche de première connexion.
+Dans l'interface de l'application, vous disposez d'un bouton pour vous permettre de créer des fiches de connexion \(1\) sur la classe sélectionnée \(2\). Ces fiches de connexion peuvent être effectuées pour un compte déjà activé, en lui rappelant la procédure pour renouveler son mot de passe, ou pour un compte non activé, en lui indiquant la démarche de première connexion.
 
 ![](.gitbook/assets/ficheconnexion.png)
 
@@ -82,9 +93,9 @@ Une fois le ou les profils sélectionnés, vous disposez de plusieurs options po
 
 ![](.gitbook/assets/modefiche2.PNG)
 
-Vous pouvez également créer une ou plusieurs fiches de connexions détaillées pour un ou plusieurs comptes, en sélectionnant le ou les comptes \(1\), puis en cliquant sur "Fiche de connexion" \(2\).
+Vous pouvez également créer une ou plusieurs fiches de connexions détaillées pour un ou plusieurs comptes, en sélectionnant le ou les comptes \(1\), puis en cliquant sur "Fiches de connexions" \(2\).
 
-![](.gitbook/assets/ficheindiv%20%281%29.png)
+![](.gitbook/assets/1d-param-fiches-de-connexion.png)
 
 En allant consulter la fiche utilisateur d'un élève \(voir partie "Consulter et modifier les informations utilisateurs"\), vous pouvez récupérer des fiches de connexions simplifiées en PDF pour l'élève et son ou ses responsables légaux, en cliquant sur le lien "Fiches de connexion" \(1\)
 
@@ -94,7 +105,7 @@ En allant consulter la fiche utilisateur d'un élève \(voir partie "Consulter e
 
 Dans l’onglet correspondant, **uniquement pour les utilisateurs activés**, sélectionnez l’utilisateur dont vous souhaitez renouveler le mot de passe \(1\) et cliquez sur « Réinitialiser le mot de passe » \(2\).
 
-![](.gitbook/assets/reinit%20%281%29.png)
+![](.gitbook/assets/1d-param-reinitialiser.png)
 
 L'email suivant est alors envoyé sur l’adresse email que vous avez renseigné dans la rubrique Mon compte :
 
@@ -132,13 +143,23 @@ Une fois la fiche utilisateur affichée, vous pouvez naviguer d'une fiche à l'a
 
 En cas de débordement, vous avez la possibilité de bloquer la connexion d'un utilisateur. Sélectionnez l'utilisateur que vous souhaitez bloquer dans la liste \(1\) puis cliquez sur le bouton d'action "Bloquer" \(2\) pour bloquer la connexion de l'utilisateur. Une fois l'action effectuée, l'utilisateur ne pourra donc plus se connecter.
 
-![](.gitbook/assets/bloquer.png)
+![](.gitbook/assets/1d-param-bloquer.png)
+
+## Retirer un utilisateur de la classe
+
+En fin d'année, pour faciliter la transition d'année, vous pouvez retirer de la classe les élèves qui ne seront plus dans votre classe, afin que les autres enseignants puissent, via la recherche d'utilisateurs \(voir la section "Créer des utilisateurs dans la classe"\), rattacher leurs comptes à leur classe.
+
+Sélectionner l'utilisateur concerné \(1\) puis cliquer sur l'option "Retirer de la classe". Un message de confirmation vous demandera de vérifier si vous souhaitez bien faire votre action.
+
+En cas d'erreur, vous pourrez \(si l'utilisateur n'est rattaché à aucune autre classe\) aller dans la recherche d'utilisateur, et rattacher l'utilisateur à votre classe.
+
+![](.gitbook/assets/1d-param-retirer.png)
 
 ## Supprimer un utilisateur
 
 Dans l’onglet correspondant, sélectionnez l’utilisateur que vous souhaitez supprimer \(1\) et cliquez sur « Supprimer » \(2\).
 
-![](.gitbook/assets/suppression%20%281%29.png)
+![](.gitbook/assets/1d-param-supprimer.png)
 
 Une personne dont le compte est supprimé pourra encore se connecter et récupérer un export de ses documents \(appli Export\). En revanche, elle ne pourra plus accéder aux autres applis \(espace documentaire, blog, cahier multimédia, etc.\).
 
