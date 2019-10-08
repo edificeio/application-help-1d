@@ -12,11 +12,11 @@ L’appli Frise chronologique permet **d’associer des événements à leur pos
 
 Pour accéder à l’appli Frise chronologique, cliquez sur l’icône correspondante dans la page « Mes applis ».
 
-![](.gitbook/assets/frisechronoone_2-app-1%20%281%29.png)
+![](.gitbook/assets/frisechronoone_2-app-1-1.png)
 
 Cliquez sur le bouton « Créer une frise ».
 
-![](.gitbook/assets/1d-frise-chrono-creer.png)
+![](.gitbook/assets/1d-frise-chrono-creer%20%282%29.png)
 
 Suivez les étapes suivantes :
 
@@ -31,11 +31,11 @@ Suivez les étapes suivantes :
 
 Votre frise chronologique est désormais créée mais n’est pas encore visible. Pour le partager avec d’autres utilisateurs, cliquez sur votre frise \(1\) puis cliquez sur le bouton « Partager » \(2\).
 
-![](.gitbook/assets/1d-frise-chrono-partager.png)
+![](.gitbook/assets/1d-frise-chrono-partager%20%281%29.png)
 
 Dans la fenêtre de partage, vous pouvez donner des droits de consultation, de contribution ou de gestion sur votre frise chronologique. Pour cela, saisissez les premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs que vous recherchez \(1\), sélectionnez le résultat \(2\) et cochez les cases correspondant aux droits que vous souhaitez leur attribuer \(3\). Cliquez sur "Partager" pour valider \(4\).
 
-![](.gitbook/assets/2018-08-23_18h01_11-2%20%281%29.png)
+![](.gitbook/assets/2018-08-23_18h01_11-2-1.png)
 
 Les différents droits que vous pouvez attribuer sont les suivants :
 
@@ -45,11 +45,11 @@ Les différents droits que vous pouvez attribuer sont les suivants :
 
 En bas de chaque frise, vous pourrez voir quel droit vous disposez sur la frise en question grâce aux icônes suivantes:
 
-* ![](.gitbook/assets/eye.png) : Consulter
-* ![](.gitbook/assets/pencil.png) : Contribuer
-* ![](.gitbook/assets/cog.png) : Gérer
+* ![](https://github.com/opendigitaleducation/application-help-1d/tree/081e1f4b82e285a0b63a63ae402b347d6c888761/application/.gitbook/assets/eye.png) : Consulter
+* ![](https://github.com/opendigitaleducation/application-help-1d/tree/081e1f4b82e285a0b63a63ae402b347d6c888761/application/.gitbook/assets/pencil.png) : Contribuer
+* ![](https://github.com/opendigitaleducation/application-help-1d/tree/081e1f4b82e285a0b63a63ae402b347d6c888761/application/.gitbook/assets/cog.png) : Gérer
 
-De plus,  pour les frises vous appartenant, vous pourrez voir quels sont les frises que vous aurez déjà partagé car elles auront cette icône : ![](.gitbook/assets/share-1.png) 
+De plus, pour les frises vous appartenant, vous pourrez voir quels sont les frises que vous aurez déjà partagé car elles auront cette icône : ![](https://github.com/opendigitaleducation/application-help-1d/tree/081e1f4b82e285a0b63a63ae402b347d6c888761/application/.gitbook/assets/share-1.png)
 
 ## Organiser ses frises chronologiques
 
@@ -67,17 +67,17 @@ Vous avez à votre disposition différents outils pour trier les frises auxquell
 
 Après avoir créé vos différents dossiers, sélectionnez \(1\) la ou les frises que vous voulez mettre dans vos dossiers, puis cliquez sur le bouton "Déplacer" \(2\).
 
-![](.gitbook/assets/2019-07-11_11h53_21.png)
+![](.gitbook/assets/2019-07-11_11h53_21%20%282%29.png)
 
 Une fenêtre s'ouvrira, vous permettant de déplacer la frise sélectionnée dans un dossier existant ou d'en créer un nouveau. Vous pouvez également déplacer les dossiers eux-mêmes.
 
-![](.gitbook/assets/2019-07-11_11h54_22.png)
+![](.gitbook/assets/2019-07-11_11h54_22%20%281%29.png)
 
 ## Créer un événement dans la frise chronologique
 
 Pour créer du contenu dans la frise, cliquez sur « Ajouter un événement ».
 
-![](.gitbook/assets/frisechronoone_7-ajouter-evenement-1%20%281%29.png)
+![](.gitbook/assets/frisechronoone_7-ajouter-evenement-1-1.png)
 
 Vous devez renseigner plusieurs informations pour créer un évènement :
 
@@ -86,7 +86,7 @@ Vous devez renseigner plusieurs informations pour créer un évènement :
 * Une image d’illustration
 * Une description
 
-![](.gitbook/assets/frisechronoone_8-creer-evenement-2.png)
+![](.gitbook/assets/frisechronoone_8-creer-evenement-2%20%281%29.png)
 
 Une fois l’événement créé, il apparaît dans la frise chronologique. Le tour est joué !
 

@@ -31,7 +31,7 @@ La création d’une nouvelle demande donne lieu à l’envoi d’une notificati
 Certains établissements ont la possibilité d’escalader leurs demandes d’assistance auprès d’un service de support aux utilisateurs de l’ENT.  
 Les référents ENT reçoivent toutes les demandes des utilisateurs et peuvent choisir d’y répondre ou de la transmettre au service de support. Pour ce faire, les référents ENT doivent cliquer sur le texte en forme de lien "Transmettre la demande au support" \(1\).
 
-![](.gitbook/assets/assistance-4-1.png)
+![](.gitbook/assets/assistance-4-1%20%281%29.png)
 
 Les référents ENT et les demandeurs de l'établissement seront notifiés sur leur fil de nouveauté lorsque le support aura fourni une réponse à la demande. Le référent ENT et le demandeur peuvent visualiser l’ensemble des échanges.
 
