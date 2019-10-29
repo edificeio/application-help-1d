@@ -6,17 +6,17 @@
 
 L’appli Carte Mentale permet de **représenter visuellement une arborescence** en créant des liens entre différentes idées. Le schéma se construit autour d’une idée principale, sous forme d’image ou de texte, à partir de laquelle plusieurs chemins se créent. La carte mentale peut être faite de manière collective ou personnelle, selon les souhaits du créateur de la carte.
 
-![](.gitbook/assets/2018-08-23_17h13_43-2-1.png)
+![](.gitbook/assets/2018-08-23_17h13_43-2-1%20%281%29.png)
 
 ## Créer une Carte Mentale
 
 Pour accéder à l’appli Carte mentale, cliquez sur l’icône correspondante dans la page « Mes applis ».
 
-![](.gitbook/assets/cartementale_1-appli-1.JPG)
+![](.gitbook/assets/cartementale_1-appli-1%20%281%29.JPG)
 
 Cliquez sur « Créer une carte mentale ».
 
-![](.gitbook/assets/cartementale_2-creer-2-1.png)
+![](.gitbook/assets/cartementale_2-creer-2-1%20%281%29.png)
 
 1. Saisissez un nom de carte
 2. Renseignez une description
@@ -34,7 +34,7 @@ Pour ajouter de nouvelles notions à un nœud, sélectionnez le nœud de départ
 
 Pour supprimer un nœud, sélectionnez le nœud et cliquez sur l’icône « Supprimer un nœud » ou taper directement sur la touche « supprimer ».
 
-![](.gitbook/assets/cartementale_5-editeur-supprimer-noeud-2-1.png)
+![](.gitbook/assets/cartementale_5-editeur-supprimer-noeud-2-1%20%281%29.png)
 
 ## Mettre en forme le texte
 
@@ -62,7 +62,7 @@ Pour ajouter un contenu complémentaire, sélectionnez le nœud et cliquez sur l
 
 Les émoticônes apparaissent dans le nœud avant le texte. Les liens et les notes apparaissent sous forme d’icône dans le nœud avant le texte et une visualisation est proposée au survol de l’icône.
 
-![](.gitbook/assets/cartementale_9-emoticons-1%20%282%29.png)
+![](.gitbook/assets/cartementale_9-emoticons-1%20%281%29.png)
 
 Lorsque la carte mentale est terminée, cliquez sur « Enregistrer ». Votre carte est maintenant créée !
 

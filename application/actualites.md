@@ -22,9 +22,9 @@ Pour créer un fil d’actualités, suivez les étapes suivantes :
 
 ![](.gitbook/assets/actu-2-2.png)
 
-![](.gitbook/assets/actu-3-2%20%282%29.png)
+![](.gitbook/assets/actu-3-2.png)
 
-![](.gitbook/assets/actu-4-1.png)
+![](.gitbook/assets/actu-4-1%20%281%29.png)
 
 Par défaut seuls les enseignants et les personnels sont habilités à créer des fils d’actualités.
 
@@ -38,7 +38,7 @@ Vous pouvez maintenant partager votre fil d’actualités :
 
 ![](.gitbook/assets/actu-2-1-2.png)
 
-![](.gitbook/assets/actu-5-2.png)
+![](.gitbook/assets/actu-5-2%20%281%29.png)
 
 Pour partager le fil d’actualités avec d’autres utilisateurs, suivez les étapes suivantes :
 
@@ -47,7 +47,7 @@ Pour partager le fil d’actualités avec d’autres utilisateurs, suivez les é
 3. Cochez les cases correspondant aux droits que vous souhaitez leur attribuer
 4. Cliquez sur "Partager" 
 
-![](.gitbook/assets/2018-08-22_17h59_33-1%20%282%29.png)
+![](.gitbook/assets/2018-08-22_17h59_33-1.png)
 
 Les différents droits que vous pouvez attribuer aux autres utilisateurs de la plateforme sur le fil d’actualités sont les suivants :
 
@@ -59,12 +59,12 @@ Les différents droits que vous pouvez attribuer aux autres utilisateurs de la p
 
 Pour créer une actualité, cliquez sur le bouton « Nouvelle actualité ».
 
-![](.gitbook/assets/actu-7-1-1.png)
+![](.gitbook/assets/actu-7-1-1%20%281%29.png)
 
 Dans la nouvelle fenêtre, indiquez le titre de l’actualité \(1\), le fil auquel l’actualité sera rattachée \(2\), les dates de publication et d’expiration \(3\), et le contenu de votre actualité \(4\).  
 La case à cocher « Mettre à la une » permet de laisser votre actualité en haut de la liste.
 
-![](.gitbook/assets/actu-8-2%20%281%29.png)
+![](.gitbook/assets/actu-8-2.png)
 
 Plusieurs actions sont ensuite proposées :
 
@@ -87,7 +87,7 @@ Pour attribuer ces droits, suivez les étapes suivantes :
 3. Cochez les cases correspondant aux droits que vous souhaitez leur attribuer
 4. Cliquez sur "Partager" 
 
-![](.gitbook/assets/2018-08-22_18h02_30-2-1.png)
+![](.gitbook/assets/2018-08-22_18h02_30-2-1%20%281%29.png)
 
 Les différents droits que vous pouvez attribuer aux autres utilisateurs de la plateforme sur l’actualité sont les suivants :
 

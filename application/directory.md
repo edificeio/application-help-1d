@@ -10,7 +10,7 @@ Grâce au service "Annuaire", vous allez pouvoir :
 * Rechercher un groupe
 * Créer et gérer des favoris de partage
 
-![](.gitbook/assets/2018-08-22_18h11_12-1-1.png)
+![](.gitbook/assets/2018-08-22_18h11_12-1-1%20%281%29.png)
 
 ## Rechercher un utilisateur
 
@@ -20,7 +20,7 @@ Vous pouvez rechercher facilement et rapidement un utilisateur. Pour effectuer v
 * Profil \(élève, enseignant, parent, personnel, invité\) \(3\)
 * Fonction \(administrateur\) \(4\)
 
-![](.gitbook/assets/2018-08-22_18h17_30-1%20%282%29.png)
+![](.gitbook/assets/2018-08-22_18h17_30-1.png)
 
 Certains de ces filtres sont conditionnels. Par exemple : le filtre "Fonction" disparaîtra pour le profil "Élève" qui ne peut pas avoir de "Fonction" particulière dans l'ENT.
 
@@ -37,11 +37,11 @@ Vous pouvez rechercher facilement et rapidement un groupe d’utilisateurs. Pour
 * Fonction \(administrateur\) \(4\)
 * Type de groupe \(Groupe d’enseignement, groupe de communauté, groupe manuel\) \(5\)
 
-![](.gitbook/assets/2018-08-22_18h15_28-2%20%281%29.png)
+![](.gitbook/assets/2018-08-22_18h15_28-2.png)
 
 Une fois le groupe trouvé, vous pouvez accéder à la liste des utilisateurs concernés. Vous avez la possibilité d’envoyer un message au groupe \(1\), d’ajouter le groupe à vos favoris de partage \(2\), ou consulter leurs fiches individuelles.
 
-![](.gitbook/assets/2018-08-22_18h19_24-1-1.png)
+![](.gitbook/assets/2018-08-22_18h19_24-1-1%20%281%29.png)
 
 ## Gérer vos favoris de partage
 
@@ -73,11 +73,11 @@ Vous pouvez créer directement votre liste de favori depuis l’annuaire. Pour c
 
 Commencez par renseigner le nom de votre favori.
 
-![](.gitbook/assets/2018-08-23_09h51_03-2-1.png)
+![](.gitbook/assets/2018-08-23_09h51_03-2-1%20%281%29.png)
 
 Ajoutez ensuite vos utilisateurs ou vos groupes à votre favori. Vous pouvez utiliser la barre de recherche \(1\), et affiner votre recherche grâce au système de filtres \(2\). Cliquez ensuite sur "Rechercher" pour faire apparaître des propositions d’utilisateurs \(3\)
 
-![](.gitbook/assets/2018-08-23_09h52_15-1-1.png)
+![](.gitbook/assets/2018-08-23_09h52_15-1-1%20%281%29.png)
 
 Les utilisateurs et les groupes suggérés apparaissent dans la liste "Groupes et membres à ajouter au favori". Vous pouvez ajouter individuellement des membres à votre favori en cliquant sur la flèche à droite de l’utilisateur \(1\), ou bien ajouter tous les utilisateurs en cliquant sur "Tout ajouter" \(2\).
 
@@ -105,7 +105,7 @@ Depuis l'onglet "La classe", vous accédez à la vue de l'enseignant et des él�
 
 En cliquant sur un profil, vous accédez aux informations de l'utilisateur. S'il s'agit d'un élève, vous pouvez accéder à ses responsables, et consulter le ou les établissements et classe\(s\) de rattachement de l'utilisateur.
 
-![](.gitbook/assets/image-2-1-1.png)
+![](.gitbook/assets/image-2-1-1%20%281%29.png)
 
 Il vous est également possible d'envoyer un message dans la Messagerie \(1\) directement à travers cette fiche, ou encore d'ajouter l'utilisateur dans un favori de partage \(2\).
 

@@ -12,7 +12,7 @@
 * [Carte mentale](application/mindmap.md)
 * [Casier](application/rack.md)
 * [Espace documentaire](application/workspace.md)
-* [Export](application/archive.md)
+* [Mes données](application/archive.md)
 * [Frise chronologique](application/timelinegenerator.md)
 * [Mes applis](application/portal.md)
 * [Messagerie](application/conversation.md)

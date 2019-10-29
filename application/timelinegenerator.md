@@ -6,7 +6,7 @@ Devenez un maître du temps avec l’appli **Frise chronologique** ! Sur une lig
 
 L’appli Frise chronologique permet **d’associer des événements à leur position dans le temps** et de les représenter sous la forme d’une frise temporelle. Chaque événement est accompagné d’un encart permettant de **publier du contenu additionnel** \(texte, image, son …\). Chaque frise peut être partagée avec un utilisateur ou un groupe d’utilisateurs.
 
-![](.gitbook/assets/2018-08-23_17h58_55-2.png)
+![](.gitbook/assets/2018-08-23_17h58_55-2%20%281%29.png)
 
 ## Créer une frise chronologique
 
@@ -16,7 +16,7 @@ Pour accéder à l’appli Frise chronologique, cliquez sur l’icône correspon
 
 Cliquez sur le bouton « Créer une frise ».
 
-![](.gitbook/assets/1d-frise-chrono-creer%20%282%29.png)
+![](.gitbook/assets/1d-frise-chrono-creer.png)
 
 Suivez les étapes suivantes :
 
@@ -25,13 +25,13 @@ Suivez les étapes suivantes :
 * Renseignez le descriptif de la frise \(3\)
 * Cliquez sur « Enregistrer » \(4\)
 
-![](.gitbook/assets/frisechronoone_4-creation-2.png)
+![](.gitbook/assets/frisechronoone_4-creation-2%20%281%29.png)
 
 ## Partager une frise chronologique
 
 Votre frise chronologique est désormais créée mais n’est pas encore visible. Pour le partager avec d’autres utilisateurs, cliquez sur votre frise \(1\) puis cliquez sur le bouton « Partager » \(2\).
 
-![](.gitbook/assets/1d-frise-chrono-partager%20%281%29.png)
+![](.gitbook/assets/1d-frise-chrono-partager.png)
 
 Dans la fenêtre de partage, vous pouvez donner des droits de consultation, de contribution ou de gestion sur votre frise chronologique. Pour cela, saisissez les premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs que vous recherchez \(1\), sélectionnez le résultat \(2\) et cochez les cases correspondant aux droits que vous souhaitez leur attribuer \(3\). Cliquez sur "Partager" pour valider \(4\).
 
@@ -67,17 +67,17 @@ Vous avez à votre disposition différents outils pour trier les frises auxquell
 
 Après avoir créé vos différents dossiers, sélectionnez \(1\) la ou les frises que vous voulez mettre dans vos dossiers, puis cliquez sur le bouton "Déplacer" \(2\).
 
-![](.gitbook/assets/2019-07-11_11h53_21%20%282%29.png)
+![](.gitbook/assets/2019-07-11_11h53_21.png)
 
 Une fenêtre s'ouvrira, vous permettant de déplacer la frise sélectionnée dans un dossier existant ou d'en créer un nouveau. Vous pouvez également déplacer les dossiers eux-mêmes.
 
-![](.gitbook/assets/2019-07-11_11h54_22%20%281%29.png)
+![](.gitbook/assets/2019-07-11_11h54_22.png)
 
 ## Créer un événement dans la frise chronologique
 
 Pour créer du contenu dans la frise, cliquez sur « Ajouter un événement ».
 
-![](.gitbook/assets/frisechronoone_7-ajouter-evenement-1-1.png)
+![](.gitbook/assets/frisechronoone_7-ajouter-evenement-1-1%20%281%29.png)
 
 Vous devez renseigner plusieurs informations pour créer un évènement :
 

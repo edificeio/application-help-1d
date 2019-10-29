@@ -12,7 +12,7 @@ Un wiki permet de **créer et publier des contenus \(texte, images…\) dans dif
 
 Pour créer un wiki, cliquez sur le bouton « Créer un wiki » dans la page d’accueil de l’appli.
 
-![](.gitbook/assets/wiki-2-1-1%20%282%29.png)
+![](.gitbook/assets/wiki-2-1-1.png)
 
 Saisissez un titre \(1\) et enregistrez si vous le souhaitez une image d’illustration du wiki \(sinon c’est l’icône par défaut qui est affichée\) \(2\).
 
@@ -34,7 +34,7 @@ Dans la fenêtre, vous pouvez donner aux utilisateurs de la plateforme différen
 3. Cochez les cases correspondant aux droits que vous souhaitez leur attribuer.
 4. Cliquez sur "Partager"
 
-![](.gitbook/assets/2018-08-24_12h09_08-1-1%20%281%29.png)
+![](.gitbook/assets/2018-08-24_12h09_08-1-1.png)
 
 Les droits de partage que vous pouvez attribuer aux autres utilisateurs sont les suivants :
 
@@ -52,7 +52,7 @@ Pour créer et éditer une page dans le Wiki, suivez les étapes suivantes :
 3. Saisissez du contenu
 4. Cliquez sur « Enregistrer »
 
-![](.gitbook/assets/wiki-6-1-1.png)
+![](.gitbook/assets/wiki-6-1-1%20%281%29.png)
 
 Une page peut être définie comme page d’accueil du wiki, en cliquant dans la case prévue à cet effet. Elle devient ainsi la 1ère page sur laquelle sont dirigés les utilisateurs lorsqu’ils accèdent au wiki.
 
@@ -80,7 +80,7 @@ Pour comparer deux versions de page, suivez les étapes suivantes :
 1. Cliquez sur le bouton « Plus » en haut à droite de la page.
 2. Cliquez sur le bouton « Versions »
 
-![](.gitbook/assets/wiki-9-1-1%20%282%29.png)
+![](.gitbook/assets/wiki-9-1-1%20%281%29.png)
 
 La liste des versions de la page s’affiche, avec pour chacune les informations suivantes :
 
@@ -89,14 +89,14 @@ La liste des versions de la page s’affiche, avec pour chacune les informations
 
 Pour comparer deux versions de page, sélectionnez les cases à cocher des versions correspondantes \(1\) et cliquez sur « Comparer » en bas à gauche de la page \(2\).
 
-![](.gitbook/assets/wiki-10-2-1.png)
+![](.gitbook/assets/wiki-10-2-1%20%281%29.png)
 
 Les deux versions de page apparaissent l’une à côté de l’autre avec :
 
 * En vert : les ajouts
 * En rouge : les suppressions
 
-![](.gitbook/assets/wiki-11-1-1.png)
+![](.gitbook/assets/wiki-11-1-1%20%281%29.png)
 
 Il est également possible de restaurer une version précédente en cliquant sur « Restaurer » en haut de la page correspondante.
 

@@ -36,7 +36,7 @@ Une fois les premières lettres saisies, vous pouvez sélectionner les destinata
 
 Dans la fenêtre de saisie de contenu, rédigez votre message \(1\). Cliquez sur "Ajouter une pièce jointe" \(2\) pour joindre un document à votre message.
 
-![](.gitbook/assets/2019-03-08_17h05_20-1.png)
+![](.gitbook/assets/2019-03-08_17h05_20-1%20%281%29.png)
 
 Choisissez le document depuis votre poste de travail.
 
@@ -44,7 +44,7 @@ Choisissez le document depuis votre poste de travail.
 
 En cochant « Ajouter une signature », vous pouvez maintenant paramétrer l’ajout d’une signature pour ce message et pour les suivants.
 
-![](.gitbook/assets/2019-03-08_17h06_48-2.png)
+![](.gitbook/assets/2019-03-08_17h06_48-2%20%281%29.png)
 
 L’option pourra être à tout moment décochée et le texte modifié : en cliquant sur la flèche vous faites apparaître le bloc de texte dédié à la signature.
 
@@ -90,7 +90,7 @@ Lorsque vous ouvrez le message comprenant une ou plusieurs pièces jointes, vous
 
 Vous avez des options de filtrage et de recherche lorsque vous êtes dans un dossier de votre messagerie :
 
-![](.gitbook/assets/messagerie-v2-13-2%20%281%29.png)
+![](.gitbook/assets/messagerie-v2-13-2.png)
 
 \(1\) Le filtre « messages non lus » vous permet de ne faire apparaître que les messages qui n’ont pas encore été lus.
 
@@ -112,7 +112,7 @@ En revenant à la liste de vos messages dans la rubrique « Boîte de réception
 
 \(4\) les marquer comme non lu
 
-![](.gitbook/assets/messagerie-v2-15-2%20%282%29.png)
+![](.gitbook/assets/messagerie-v2-15-2%20%281%29.png)
 
 ## Répondre, transférer, classer et supprimer un message
 
@@ -122,7 +122,7 @@ La fenêtre de création d’un message s’ouvre. L’émetteur du message reç
 
 Si vous avez reçu un message groupé vous pouvez cliquez sur le bouton « + » \(1\) présent en haut à droite pour faire apparaître les options secondaires :
 
-![](.gitbook/assets/messagerie-v2-17-1%20%281%29.png)
+![](.gitbook/assets/messagerie-v2-17-1.png)
 
 \(2\) Répondre à tous : tous les destinataires du messages reçus sont automatiquement ajoutés dans les champs « à » et « en copie » selon la répartition du message d’origine.
 

@@ -8,7 +8,7 @@ Pour accéder à vos applis, cliquez sur l’icône correspondante dans le bande
 
 Vous accédez aux services pour lesquels vous avez des droits d’accès : applications, connecteurs aux outils de vie scolaire, sites web internes au réseau ou publics … Pour accéder à une appli, cliquez sur l’icône correspondante.
 
-![](.gitbook/assets/blog-mesapplis-1-1.png)
+![](.gitbook/assets/blog-mesapplis-1-1%20%281%29.png)
 
 La page d’accueil de l’appli apparaît.
 
