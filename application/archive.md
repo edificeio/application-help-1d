@@ -32,7 +32,7 @@ Connectez-vous avec le compte sur lequel vous souhaitez importer des données is
 
 _Seul un fichier au format .zip, généré par la fonction EXPORTER de l’application MES DONNEES, peut être importé._
 
-Une fois le fichier sélectionné et chargé, une fenêtre s’affiche vous proposant de sélectionner les applications pour lesquelles vous souhaitez importer les contenus. Cocher les contenus à importer \(1\) puis cliquer sur le bouton Importer \(2\) _:_ 
+Une fois le fichier sélectionné et chargé, une fenêtre s’affiche vous proposant de sélectionner les applications pour lesquelles vous souhaitez importer les contenus. Cocher les contenus à importer \(1\) puis cliquer sur le bouton Importer \(2\) _:_
 
 ![](.gitbook/assets/importer_selectionapplipourimport1d.png)
 
@@ -42,6 +42,4 @@ _Pour que le contenu d’une application puisse être importé, il faut :_
 * _Que l’export ait été effectué sur une version compatible de l’application. Si l’export est ancien et que l’application a évolué de manière conséquente depuis, l’import ne sera pas réalisable._
 
 A la fin de l’import, un rapport s’affiche sur l’onglet IMPORTER, indiquant notamment le nombre de contenus importés par Application.
-
-
 
