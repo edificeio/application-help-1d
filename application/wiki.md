@@ -6,7 +6,7 @@ L’encyclopédie libre de ONE ! l’application **Wiki** permet de créer et pu
 
 Un wiki permet de **créer et publier des contenus \(texte, images…\) dans différentes pages liées entre elles**. La page d’accueil du wiki est souvent utilisée comme un index référençant l’ensemble des pages créées dans le wiki.
 
-![](.gitbook/assets/wiki-1-1-1-1.png)
+![](.gitbook/assets/wiki-1-1-1-1%20%281%29.png)
 
 ## Créer un Wiki
 
@@ -18,7 +18,7 @@ Saisissez un titre \(1\) et enregistrez si vous le souhaitez une image d’illus
 
 Cliquez enfin sur « Enregistrer » \(3\)
 
-![](.gitbook/assets/wiki-3-1-1-1.png)
+![](.gitbook/assets/wiki-3-1-1-1%20%281%29.png)
 
 ## Partager un Wiki
 
@@ -52,7 +52,7 @@ Pour créer et éditer une page dans le Wiki, suivez les étapes suivantes :
 3. Saisissez du contenu
 4. Cliquez sur « Enregistrer »
 
-![](.gitbook/assets/wiki-6-1-1%20%281%29.png)
+![](.gitbook/assets/wiki-6-1-1-1.png)
 
 Une page peut être définie comme page d’accueil du wiki, en cliquant dans la case prévue à cet effet. Elle devient ainsi la 1ère page sur laquelle sont dirigés les utilisateurs lorsqu’ils accèdent au wiki.
 
@@ -67,7 +67,7 @@ Vous pouvez modifier une page. Pour cela, suivez les étapes suivantes :
 1. Cliquez sur le bouton « Modifier », en haut à droite de la page.
 2. Effectuez les modifications nécessaires et cliquez sur le bouton « Enregistrer ».
 
-![](.gitbook/assets/wiki-8-1-1.png)
+![](.gitbook/assets/wiki-8-1-1%20%281%29.png)
 
 La page s’affiche avec les modifications effectuées.
 
@@ -80,7 +80,7 @@ Pour comparer deux versions de page, suivez les étapes suivantes :
 1. Cliquez sur le bouton « Plus » en haut à droite de la page.
 2. Cliquez sur le bouton « Versions »
 
-![](.gitbook/assets/wiki-9-1-1%20%281%29.png)
+![](.gitbook/assets/wiki-9-1-1-1.png)
 
 La liste des versions de la page s’affiche, avec pour chacune les informations suivantes :
 
@@ -89,14 +89,14 @@ La liste des versions de la page s’affiche, avec pour chacune les informations
 
 Pour comparer deux versions de page, sélectionnez les cases à cocher des versions correspondantes \(1\) et cliquez sur « Comparer » en bas à gauche de la page \(2\).
 
-![](.gitbook/assets/wiki-10-2-1%20%281%29.png)
+![](.gitbook/assets/wiki-10-2-1-1.png)
 
 Les deux versions de page apparaissent l’une à côté de l’autre avec :
 
 * En vert : les ajouts
 * En rouge : les suppressions
 
-![](.gitbook/assets/wiki-11-1-1%20%281%29.png)
+![](.gitbook/assets/wiki-11-1-1-1.png)
 
 Il est également possible de restaurer une version précédente en cliquant sur « Restaurer » en haut de la page correspondante.
 
