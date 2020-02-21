@@ -1,6 +1,6 @@
 # Cahier de textes
 
-Devenez un maître de l’organisation avec l’appli **Cahier de Texte** ! Créez et organisez les activités de la classe comme vous le souhaitez !
+Devenez un maître de l’organisation avec l’appli **Cahier de Textes** ! Créez et organisez les activités de la classe comme vous le souhaitez !
 
 ## Présentation
 
