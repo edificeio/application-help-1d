@@ -5,6 +5,7 @@
 * [Actualités](application/actualites.md)
 * [Annuaire](application/directory.md)
 * [Assistance ENT](application/support.md)
+* [Bibliothèque](application/bibliotheque.md)
 * [Blog](application/blog.md)
 * [Cahier de textes](application/homeworks.md)
 * [Cahier multimédia](application/scrap-book.md)

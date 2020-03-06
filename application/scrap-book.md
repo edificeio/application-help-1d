@@ -141,11 +141,23 @@ Vous pourrez choisir le ou les cahiers multimédias de destination puis cliquer 
 
 ## Publier une vidéo dans un cahier multimédia
 
-Il est possible d’ajouter dans vos cahiers multimédia des vidéos stockées sur des plateformes d’hébergement comme Youtube, Dailymotion, Libcast, Vimeo, Wat.tv, … Ouvrez le cahier multimédia dans lequel vous souhaitez ajouter cette vidéo et cliquez sur l’icône d’ajout de vidéo.
+Vous pouvez intégrer des contenus multimédias comme des exercices interactifs, des vidéos, des murs collaboratifs, etc. Pour cela, ouvrez le cahier multimédia dans lequel vous souhaitez ajouter cette vidéo, cliquer sur le bouton MODIFIER, positionnez-vous sur la page de votre choix puis cliquez sur l’icône d’ajout de vidéo :
 
 ![](.gitbook/assets/cma-3-1%20%283%29.png)
 
-Dans la fenêtre qui s’ouvre, sélectionnez un type de contenu de média \(vidéos hébergées sur Youtube, Viméo, Dailymotion, Learningaps.org et educaplay\) \(1\)
+La fenêtre, qui s’affiche propose un choix entre trois options d’intégration multimédia : 
+
+![](.gitbook/assets/ajoutervideo_ongletsone.png)
+
+• L’onglet INTÉGRER UN LIEN permet d’intégrer une ressource externe en copiant-collant l’URL ou le code embed issu d’une plateforme de partage.   
+• L’onglet ENREGISTRER UNE VIDÉO permet de réaliser la captation, sur votre appareil, directement depuis votre espace numérique, en cliquant simplement sur “Démarrer l’enregistrement”.   
+• L’onglet PARCOURIR MON ESPACE PERSONNEL vous permet d’incorporer un contenu multimédia déjà présent dans votre espace numérique.
+
+### Intégrer un lien
+
+Il est possible d’ajouter dans vos cahiers multimédias des vidéos stockées sur des plateformes d’hébergement comme Youtube, Dailymotion, Libcast, Vimeo, LearningApps, educaplay… 
+
+Dans la fenêtre qui s’ouvre, sélectionnez un type de contenu de média \(plateforme d'hébergement de la vidéo\) \(1\)
 
 ![](.gitbook/assets/cma-4-2.png)
 
@@ -165,7 +177,67 @@ Positionnez ensuite la vidéo dans la page et sauvegardez votre travail.
 
 ![](.gitbook/assets/cma-8-2-1.png)
 
+### Enregistrer une vidéo
+
+Vous pouvez également ajouter une capture vidéo d’une durée maximale de 5 minutes. Pour cela, sélectionnez l’onglet Enregistrer une vidéo \(1\) dans la fenêtre qui s’ouvre lorsque vous cliquez sur l’icône Ajouter une vidéo. Puis autoriser \(2\) si besoin l’utilisation du micro et de la caméra de votre appareil
+
+![](.gitbook/assets/capturevideoone.png)
+
+Pour que l’enregistrement se mette en place, cliquez sur «Démarrer l’enregistrement».
+
+![](.gitbook/assets/demarrerenregistrementone.png)
+
+Pour arrêter la captation, cliquez sur l’icône «Stop» \(2\). Vous pouvez ensuite voir votre enregistrement en cliquant sur «Lire la vidéo» \(3\). Pour recommencer, cliquer sur l’icône «Refaire» \(4\).
+
+![](.gitbook/assets/arreterenrone.png)
+
+![](.gitbook/assets/lirevideoone.png)
+
+![](.gitbook/assets/refairevideoone.png)
+
+Pour sauvegarder votre vidéo, cliquer sur l’icône «Enregistrer».
+
+![](.gitbook/assets/savevideoone.png)
+
+La vidéo sera bien enregistrée et sauvegardée si ce bandeau s’affiche :
+
+![](.gitbook/assets/confirmationenregistrementone.png)
+
+Le message vous avertit que la vidéo est automatiquement placée dans votre Espace documentaire \(par défaut dans l’onglet “Document ajouté dans les applis”\).
+
+### Parcourir mon espace personnel.
+
+ Enfin, le dernier onglet de la fenêtre permet de parcourir son espace personnel pour intégrer une captation vidéo déjà réalisée et stockée dans la section “Document ajouté dans les applis” de l'Espace documentaire. Il vous suffit donc de sélectionner la vidéo que vous venez d’enregistrer, puis cliquer sur “Ajouter” pour l’intégrer à votre contenu.
+
+![](.gitbook/assets/parcourirmonespaceone.png)
+
 Votre cahier est complété et la vidéo prête à être regardée !
+
+## Publier dans la Bibliothèque
+
+La Bibliothèque est un espace de partage et d’inspiration entre enseignants.
+
+Si vous souhaitez publier votre cahier multimédia dans la bibliothèque pour inspirer d’autres enseignants, il vous suffit de cliquer sur le contenu que vous voulez publier. Le bandeau orange en bas de l’écran s’affiche. Cliquez sur le bouton « Publier dans la Bibliothèque ».
+
+
+
+Vous devez ensuite renseigner les caractéristiques de votre contenu pour expliquer votre usage :
+
+*  Titre : le plus explicatif possible
+*  Vignette : carrée au format JPG ou PNG
+* Description et contexte pédagogique : Décrivez l’activité, son contexte, vos intentions pédagogiques, les résultats obtenus… Dites-nous tout ! 
+* Type d’activité : activité en classe, à la maison, individuelle, en groupe ? 
+* Discipline : Quelle est la discipline concernée par l’activité
+* Langue : Dans quelle langue est l’activité ? 
+* Âge des élèves : Quel est la tranche d’âge des élèves concernés par l’activité ? 
+* Mots-clés : Quels sont les mots-clés qui caractérisent le mieux votre activité ? 
+
+
+
+Lorsque votre cahier multimédia est publié, vous pouvez le visualiser en cliquant sur “Voir dans la Bibliothèque”.
+
+Vous aurez ensuite la possibilité de modifier les champs saisis ou de supprimer la publication de votre cahier multimédia en cliquant sur “Modifier” depuis la page de votre activité.  
+
 
 ## Imprimer le cahier multimédia
 

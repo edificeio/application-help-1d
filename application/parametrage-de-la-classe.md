@@ -120,13 +120,11 @@ _Si vous n’êtes pas à l’origine de cette demande, vous pouvez ignorer cet 
 _Cordialement,  
 L’équipe ENT_
 
-Vous pouvez aussi sélectionner l'utilisateur en question \(1\) et cliquez sur "Générer un mot de passe temporaire" \(2\).
-
 Vous avez la possibilité de transmettre ce message à l’utilisateur concerné pour qu’il renouvelle lui-même son mot de passe \(par exemple s’il s’agit d’un parent\).
 
-![](.gitbook/assets/bouton-en-bas-3%20%281%29.png)
+Vous pouvez aussi sélectionner l'utilisateur en question \(1\) et cliquez sur "Générer un mot de passe temporaire" \(2\).
 
-Vous pouvez également effectuer vous-même la manipulation. Pour cela, cliquez sur le lien contenu dans le corps du message. Vous accédez à l’interface de réinitialisation du mot de passe.
+![](.gitbook/assets/bouton-en-bas-3%20%281%29.png)
 
 Une nouvelle fenêtre s'ouvre où vous verrez l'utilisateur sélectionné, son identifiant et le mot de passe temporaire généré automatiquement.
 

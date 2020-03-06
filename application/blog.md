@@ -177,6 +177,32 @@ Un message de confirmation apparaît pour vous demander de confirmer la remonté
 
 ![](.gitbook/assets/2019-07-11_14h19_43%20%283%29.png)
 
+## Publier dans la Bibliothèque
+
+La Bibliothèque est un espace de partage et d’inspiration entre enseignants.
+
+Si vous souhaitez publier votre blog dans la bibliothèque pour inspirer d’autres enseignants, il vous suffit de cliquer sur le contenu que vous voulez publier. Le bandeau orange en bas de l’écran s’affiche. Cliquez sur le bouton « Publier dans la Bibliothèque ».
+
+
+
+Vous devez ensuite renseigner les caractéristiques de votre contenu pour expliquer votre usage :
+
+*  Titre : le plus explicatif possible
+*  Vignette : carrée au format JPG ou PNG
+* Description et contexte pédagogique : Décrivez l’activité, son contexte, vos intentions pédagogiques, les résultats obtenus… Dites-nous tout ! 
+* Type d’activité : activité en classe, à la maison, individuelle, en groupe ? 
+* Discipline : Quelle est la discipline concernée par l’activité
+* Langue : Dans quelle langue est l’activité ? 
+* Âge des élèves : Quel est la tranche d’âge des élèves concernés par l’activité ? 
+* Mots-clés : Quels sont les mots-clés qui caractérisent le mieux votre activité ? 
+
+
+
+Lorsque votre blog est publié, vous pouvez le visualiser en cliquant sur “Voir dans la Bibliothèque”.
+
+Vous aurez ensuite la possibilité de modifier les champs saisis ou de supprimer la publication de votre blog en cliquant sur “Modifier” depuis la page de votre activité.  
+
+
 ## Imprimer un blog
 
 Lorsque vous naviguez sur votre blog, vous avez la possibilité de l'imprimer, en cliquant sur le bouton "Imprimer le blog" :

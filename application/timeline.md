@@ -117,7 +117,7 @@ L'éditeur permet désormais d’ajouter plus simplement des pièces jointes dan
 
 Lorsque l’on clique sur l’icône d’ajout de pièces jointes, on peut choisir un document de sa bibliothèque multimédia \(1\) ou charger un document depuis son poste \(2\).
 
-![](.gitbook/assets/premiers-pas-11-2-1.png)
+![](.gitbook/assets/ajoutpj-one.png)
 
 La ou les pièces jointes sélectionnées apparaissent dans la zone d'édition dans un cadre dédié.
 
@@ -150,6 +150,73 @@ L’éditeur d’images permet de :
 5. Changer le titre, ajouter un texte alternatif pour les mal-voyants ou une légende
 
 ![](.gitbook/assets/2018-08-22_16h43_35-2-1%20%281%29.png)
+
+
+
+## Intégrer un contenu multimédia
+
+Dans les différentes applications \(blog, actualités, messagerie, cahier de textes, wiki …\), vous pouvez intégrer des contenus multimédia comme des exercices interactifs, des vidéos, des murs collaboratifs, etc. Pour cela, rendez-vous sur une application, cliquez sur le bouton “Créer” et accédez à l’éditeur de texte. Cliquez sur l’icône multimédia présente dans la barre d’édition.
+
+![](.gitbook/assets/editeurone.png)
+
+La fenêtre, qui s’affiche propose un choix entre trois options d’intégration multimédia :   
+• L’onglet INTÉGRER UN LIEN permet d’intégrer une ressource externe en copiant-collant l’URL ou le code embed issu d’une plateforme de partage.  
+• L’onglet ENREGISTRER UNE VIDÉO permet de réaliser la captation, sur votre appareil, directement depuis votre espace numérique, en cliquant simplement sur “Démarrer l’enregistrement”.   
+• L’onglet PARCOURIR MON ESPACE PERSONNEL vous permet d’incorporer un contenu multimédia déjà présent dans votre espace numérique.
+
+![](.gitbook/assets/ajoutervideo_ongletsone.png)
+
+### Intégrer un lien
+
+Différentes ressources sont proposées par défaut sur ONE \(LearningApps, Educaplay, YouTube, Dailymotion, Vimeo et Libcast\) et peuvent être intégrées à un service en recopiant leur adresse internet \(ex : [https://learningapps.org/1459550](https://learningapps.org/1459550)\).
+
+a\) Copiez d’abord l’adresse URL du contenu
+
+![](.gitbook/assets/learningappsone.png)
+
+b\) Intégrez la ressource dans une application Cliquez sur l’icône du type de contenu à insérer, LearningApps par exemple.
+
+![](.gitbook/assets/iconelearningappsone.png)
+
+Une nouvelle fenêtre s’ouvre, dans laquelle vous pouvez coller l’adresse de la ressource en question \(1\). Une prévisualisation du contenu s’affiche \(2\), si vous souhaitez l’intégrer, cliquez sur le bouton “Appliquer” \(3\).
+
+![](.gitbook/assets/appercula-one.png)
+
+La ressource est maintenant intégrée à votre contenu !
+
+### Enregistrer une vidéo
+
+Vous pouvez également ajouter une capture vidéo d’une durée maximale de 5 minutes. Pour cela, sélectionnez l’onglet Enregistrer une vidéo \(1\) dans la fenêtre qui s’ouvre lorsque vous cliquez sur l’icône Ajouter une vidéo. Puis autoriser \(2\) si besoin l’utilisation du micro et de la caméra de votre appareil
+
+![](.gitbook/assets/capturevideoone.png)
+
+Pour que l’enregistrement se mette en place, cliquez sur «Démarrer l’enregistrement» \(1\).
+
+![](.gitbook/assets/demarrerenregistrementone.png)
+
+Pour arrêter la captation, cliquez sur l’icône «Stop» \(2\). Vous pouvez ensuite voir votre enregistrement en cliquant sur «Lire la vidéo» \(3\). Pour recommencer, cliquer sur l’icône «Refaire» \(4\)
+
+![](.gitbook/assets/arreterenrone.png)
+
+![](.gitbook/assets/lirevideoone.png)
+
+![](.gitbook/assets/refairevideoone.png)
+
+Pour sauvegarder votre vidéo, cliquer sur l’icône «Enregistrer» \(5\).
+
+![](.gitbook/assets/savevideoone.png)
+
+La vidéo sera bien enregistrée et sauvegardée si ce bandeau s’affiche :
+
+![](.gitbook/assets/confirmationenregistrementone.png)
+
+Le message vous avertit que la vidéo est automatiquement placée dans votre Espace documentaire \(par défaut dans l’onglet “Document ajouté dans les applis”\)
+
+### Parcourir mon espace personnel
+
+Enfin, le dernier onglet de la fenêtre permet de parcourir son espace personnel pour intégrer une captation vidéo déjà réalisée, et stockée dans la section “Document ajouté dans les applis” de l'Espace documentaire. Il vous suffit donc de sélectionner la vidéo que vous venez d’enregistrer, puis cliquer sur “Ajouter” pour l’intégrer à votre contenu.
+
+![](.gitbook/assets/parcourirmonespaceone.png)
 
 ## La gestion des paramètres
 
