@@ -164,7 +164,7 @@ La fenêtre, qui s’affiche propose un choix entre trois options d’intégrati
 • L’onglet ENREGISTRER UNE VIDÉO permet de réaliser la captation, sur votre appareil, directement depuis votre espace numérique, en cliquant simplement sur “Démarrer l’enregistrement”.   
 • L’onglet PARCOURIR MON ESPACE PERSONNEL vous permet d’incorporer un contenu multimédia déjà présent dans votre espace numérique.
 
-![](.gitbook/assets/ajoutervideo_ongletsone.png)
+![](.gitbook/assets/ajoutervideo_ongletsone%20%282%29.png)
 
 ### Intégrer un lien
 
@@ -188,7 +188,7 @@ La ressource est maintenant intégrée à votre contenu !
 
 Vous pouvez également ajouter une capture vidéo d’une durée maximale de 5 minutes. Pour cela, sélectionnez l’onglet Enregistrer une vidéo \(1\) dans la fenêtre qui s’ouvre lorsque vous cliquez sur l’icône Ajouter une vidéo. Puis autoriser \(2\) si besoin l’utilisation du micro et de la caméra de votre appareil
 
-![](.gitbook/assets/capturevideoone.png)
+![](.gitbook/assets/capturevideoone%20%281%29.png)
 
 Pour que l’enregistrement se mette en place, cliquez sur «Démarrer l’enregistrement» \(1\).
 
@@ -198,13 +198,13 @@ Pour arrêter la captation, cliquez sur l’icône «Stop» \(2\). Vous pouvez e
 
 ![](.gitbook/assets/arreterenrone.png)
 
-![](.gitbook/assets/lirevideoone.png)
+![](.gitbook/assets/lirevideoone%20%281%29.png)
 
 ![](.gitbook/assets/refairevideoone.png)
 
 Pour sauvegarder votre vidéo, cliquer sur l’icône «Enregistrer» \(5\).
 
-![](.gitbook/assets/savevideoone.png)
+![](.gitbook/assets/savevideoone%20%281%29.png)
 
 La vidéo sera bien enregistrée et sauvegardée si ce bandeau s’affiche :
 
@@ -216,7 +216,7 @@ Le message vous avertit que la vidéo est automatiquement placée dans votre Esp
 
 Enfin, le dernier onglet de la fenêtre permet de parcourir son espace personnel pour intégrer une captation vidéo déjà réalisée, et stockée dans la section “Document ajouté dans les applis” de l'Espace documentaire. Il vous suffit donc de sélectionner la vidéo que vous venez d’enregistrer, puis cliquer sur “Ajouter” pour l’intégrer à votre contenu.
 
-![](.gitbook/assets/parcourirmonespaceone.png)
+![](.gitbook/assets/parcourirmonespaceone%20%282%29.png)
 
 ## La gestion des paramètres
 

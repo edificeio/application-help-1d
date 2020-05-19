@@ -106,19 +106,19 @@ Une fois l’événement créé, il apparaît dans la frise chronologique. Le to
 
 Par défaut la frise s’affiche en vue frise. Afin de modifier ou supprimer un événement, passez en vue liste en cliquant sur la « voir tableau ».
 
-![](.gitbook/assets/image10-frise.png)
+![](.gitbook/assets/image10-frise%20%281%29.png)
 
 **Modifier un événement**
 
 Pour modifier un événement, cliquez sur le titre de l’événement dans la liste pour accéder à la fenêtre d’édition de l’événement. Effectuez les modifications nécessaires et cliquez sur le bouton « enregistrer »
 
-![](.gitbook/assets/image11-frise.png)
+![](.gitbook/assets/image11-frise%20%281%29.png)
 
 **Supprimer un événement**
 
 Pour supprimer un événement, cochez un événement dans la liste \(1\) et cliquez sur le bouton « supprimer » \(2\).
 
-![](.gitbook/assets/image12-frise.png)
+![](.gitbook/assets/image12-frise%20%281%29.png)
 
 ## Publier dans la Bibliothèque
 
