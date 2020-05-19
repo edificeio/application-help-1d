@@ -102,6 +102,24 @@ Vous devez renseigner plusieurs informations pour créer un évènement :
 
 Une fois l’événement créé, il apparaît dans la frise chronologique. Le tour est joué !
 
+## Dupliquer une frise chronologique
+
+Cliquez sur le signe + qui se trouve sur la frise chronologique dont vous souhaitez faire une copie, puis choisissez l'option "dupliquer" sur le menu. 
+
+![](.gitbook/assets/image%20%2814%29.png)
+
+![](.gitbook/assets/image%20%2818%29.png)
+
+Vous verrez apparaître un message vous demandant de patienter un instant, puis un deuxième message vous signalant que la copie a été correctement réalisée.
+
+![](.gitbook/assets/image%20%2816%29.png)
+
+![](.gitbook/assets/image%20%2815%29.png)
+
+Vous pourrez ensuite vérifier que la copie est bien présente dans votre application.
+
+![](.gitbook/assets/image%20%2812%29.png)
+
 ## Modifier ou supprimer un événement de votre frise
 
 Par défaut la frise s’affiche en vue frise. Afin de modifier ou supprimer un événement, passez en vue liste en cliquant sur la « voir tableau ».

@@ -51,13 +51,13 @@ Cliquez sur le signe + qui se trouve sur le Wiki dont vous souhaitez faire une c
 
 Vous verrez apparaître un message vous demandant de patienter un instant, puis un deuxième message vous signalant que la copie a été correctement réalisée.
 
-![](.gitbook/assets/image%20%2812%29.png)
+![](.gitbook/assets/image%20%2813%29.png)
 
-![](.gitbook/assets/image%20%2814%29.png)
+![](.gitbook/assets/image%20%2819%29.png)
 
 Vous pourrez ensuite vérifier que la copie est bien présente dans votre application.
 
-![](.gitbook/assets/image%20%2813%29.png)
+![](.gitbook/assets/image%20%2817%29.png)
 
 
 
