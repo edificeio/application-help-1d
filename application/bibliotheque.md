@@ -10,16 +10,17 @@ description: >-
 
 Vous avez créé un super parcours à l’aide d’une Frise chronologique ? À contrario, vous cherchez un Cahier multimédia prêt-à-l’emploi pour votre prochain cours de maths ? Rendez-vous dans la Bibliothèque ! Partagez et valorisez vos productions réalisées avec vos applications pédagogiques, récupérez des contenus proposés par d’autres enseignants et échangez sur vos activités avec la grande communauté des enseignants de votre espace collaboratif.
 
-## Publier dans la Bibliothèque 
+## Publier dans la Bibliothèque
 
-Vous pouvez publier dans la Bibliothèque depuis les applications suivantes :   
-- Blog    
-- Cahier Multimédia   
-- Wiki   
-- Exercices et évaluations   
-- Mur collaboratif   
-- Carte mentale   
-- Frise chronologique 
+Vous pouvez publier dans la Bibliothèque depuis les applications suivantes :
+
+* Blog    
+* Cahier Multimédia   
+* Wiki   
+* Exercices et évaluations   
+* Mur collaboratif   
+* Carte mentale   
+* Frise chronologique 
 
 Pour cela, sélectionner la ressource souhaitée, et cliquez sur “Publier dans la Bibliothèque” dans le menu inférieur.
 
@@ -27,20 +28,20 @@ Pour cela, sélectionner la ressource souhaitée, et cliquez sur “Publier dans
 
 Une activité est une production réalisée via les applications pédagogiques de votre plateforme. En cliquant sur la page d’une activité depuis la page d’accueil de la Bibliothèque ou un résultat de recherche, vous pouvez :
 
-**Visualiser en PDF**   
+**Visualiser en PDF**  
 Vous accédez au PDF de l’activité pour en obtenir un aperçu. Pour cela, cliquez sur “Voir en PDF”
 
-**Voir les statistiques d’une activité**   
-Vous accédez en haut à droite d’une activité aux différentes statistiques de consultation :   
-\(1\) Nombre de consultations de l’activité \(hors consultations de l’auteur sur sa propre activité\)   
-\(2\) Nombre de commentaires laissés sur l’activité   
+**Voir les statistiques d’une activité**  
+Vous accédez en haut à droite d’une activité aux différentes statistiques de consultation :  
+\(1\) Nombre de consultations de l’activité \(hors consultations de l’auteur sur sa propre activité\)  
+\(2\) Nombre de commentaires laissés sur l’activité  
 \(3\) Nombre d’ajouts dans Mes Inspirations  
 \(4\) Nombre de récupération par d’autres enseignants
 
-**Ajouter une activité à Mes inspirations**   
+**Ajouter une activité à Mes inspirations**  
 Ajouter une activité dans Mes inspirations vous permet l’enregistrer pour la consulter plus tard depuis votre Collection, disponible dans le bandeau supérieur.
 
-**Commenter une activité**   
+**Commenter une activité**  
 Vous pouvez commenter une activité, ou répondre à un commentaire existant, en bas de la page de chaque activité. L’auteur de l’activité sera notifié de ce commentaire et pourra vous répondre !
 
 ## Récupérer une activité de la Bibliothèque dans mes applis
