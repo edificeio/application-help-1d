@@ -45,11 +45,21 @@ Les droits de partage que vous pouvez attribuer aux autres utilisateurs sont les
 
 ## Dupliquer un Wiki
 
-Cliquez sur le signe + qui se trouve sur le Wiki dont vous souhaitez faire une copie, puis choisissez l'option "dupliquer" sur le menu.
-
- 
+Cliquez sur le signe + qui se trouve sur le Wiki dont vous souhaitez faire une copie, puis choisissez l'option "dupliquer" sur le menu. 
 
 ![](.gitbook/assets/image%20%2811%29.png)
+
+Vous verrez apparaître un message vous demandant de patienter un instant, puis un deuxième message vous signalant que la copie a été correctement réalisée.
+
+![](.gitbook/assets/image%20%2812%29.png)
+
+![](.gitbook/assets/image%20%2814%29.png)
+
+Vous pourrez ensuite vérifier que la copie est bien présente dans votre application.
+
+![](.gitbook/assets/image%20%2813%29.png)
+
+
 
 ## Créer et éditer une page
 
