@@ -90,6 +90,8 @@ Sur la vignette du blog, le symbole suivant vous informe que le contenu est publ
 
 L'URL du blog public est visible sous l'image du blog. L'adresse apparaît tronquée. Par un clic-droit, vous pouvez récupérer l'URL en choisissant l'option "Copier l'adresse du lien".
 
+Note : Les commentaires qui s'affichent dans l'ENT ne sont pas visible sur la version publique du blog.
+
 ![](.gitbook/assets/2019-07-11_10h38_59%20%283%29.png)
 
 ## Organiser vos blogs
