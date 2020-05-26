@@ -82,7 +82,7 @@ Pour communiquer facilement cette URL, vous pouvez cliquer sur le bouton "Copier
 
 Note : Si l'on rend public un blog, les documents chargés sur le blog \(par vous ou par un autre utilisateur\) seront eux aussi publics.
 
-![](.gitbook/assets/2019-07-11_10h29_43%20%283%29.png)
+![](.gitbook/assets/image%20%2828%29.png)
 
 Sur la vignette du blog, le symbole suivant vous informe que le contenu est public :![](https://github.com/opendigitaleducation/application-help-1d/tree/081e1f4b82e285a0b63a63ae402b347d6c888761/application/.gitbook/assets/globe.png).
 
@@ -92,7 +92,7 @@ L'URL du blog public est visible sous l'image du blog. L'adresse apparaît tronq
 
 Note : Les commentaires qui s'affichent dans l'ENT ne sont pas visible sur la version publique du blog.
 
-![](.gitbook/assets/2019-07-11_10h38_59%20%283%29.png)
+![](.gitbook/assets/image%20%2865%29.png)
 
 ## Organiser vos blogs
 
@@ -105,7 +105,7 @@ Note : Les commentaires qui s'affichent dans l'ENT ne sont pas visible sur la ve
    * **Mes blogs**, qui est le dossier principal, dans lequel vous pourrez créer tous vos sous-dossiers \(grâce au bouton **Créer un dossier\)**
    * **Corbeille** où vous retrouverez les blogs que vous aurez supprimé, pour éviter toute suppression définitive involontaire
 
-![](.gitbook/assets/2019-07-11_11h20_16%20%282%29%20%281%29.png)
+![](.gitbook/assets/image%20%2840%29.png)
 
 Après avoir créer vos différents dossiers, sélectionnez \(1\) le ou les blogs que vous voulez mettre dans vos dossiers, puis cliquez sur le bouton "Déplacer" \(2\).
 
@@ -173,7 +173,7 @@ Il vous est possible de modifier l'ordre des billets. Ainsi vous pouvez choisir 
 
 Cliquer sur le bouton "+" du billet que vous souhaitez remonter \(1\) puis cliquer sur "Remonter" \(2\).
 
-![](.gitbook/assets/2019-07-11_14h13_29%20%284%29%20%281%29.png)
+![](.gitbook/assets/image%20%2842%29.png)
 
 Un message de confirmation apparaît pour vous demander de confirmer la remontée du billet.
 
@@ -185,7 +185,7 @@ La Bibliothèque est un espace de partage et d’inspiration entre enseignants.
 
 Si vous souhaitez publier votre blog dans la bibliothèque pour inspirer d’autres enseignants, il vous suffit de cliquer sur le contenu que vous voulez publier \(1\). Le bandeau orange en bas de l’écran s’affiche. Cliquez sur le bouton « Publier dans la Bibliothèque » \(2\).
 
-![](.gitbook/assets/image%20%2848%29.png)
+![](.gitbook/assets/image%20%2854%29.png)
 
 Vous devez ensuite renseigner les caractéristiques de votre contenu pour expliquer votre usage :
 
@@ -198,17 +198,17 @@ Vous devez ensuite renseigner les caractéristiques de votre contenu pour expliq
 * Âge des élèves : Quel est la tranche d’âge des élèves concernés par l’activité ? 
 * Mots-clés : Quels sont les mots-clés qui caractérisent le mieux votre activité ? 
 
-![](.gitbook/assets/image%20%2837%29.png)
+![](.gitbook/assets/image%20%2862%29.png)
 
 Lorsque votre blog est publié, vous pouvez le visualiser en cliquant sur “Voir dans la Bibliothèque”.
 
-![](.gitbook/assets/image%20%2824%29.png)
+![](.gitbook/assets/image%20%2836%29.png)
 
 Vous aurez ensuite la possibilité de modifier les champs saisis ou de supprimer la publication de votre blog en cliquant sur “Modifier” depuis la page de votre activité.
 
-![](.gitbook/assets/image%20%2820%29.png)
+![](.gitbook/assets/image%20%2822%29.png)
 
-![](.gitbook/assets/image%20%2845%29.png)
+![](.gitbook/assets/image%20%2872%29.png)
 
 ## Imprimer un blog
 

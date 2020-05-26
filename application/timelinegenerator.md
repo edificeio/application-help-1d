@@ -25,7 +25,7 @@ Suivez les étapes suivantes :
 * Renseignez le descriptif de la frise \(3\)
 * Cliquez sur « Enregistrer » \(4\)
 
-![](.gitbook/assets/frisechronoone_4-creation-2-1%20%281%29.png)
+![](.gitbook/assets/image%20%2849%29.png)
 
 ## Partager une frise chronologique
 
@@ -83,13 +83,13 @@ Vous pouvez cliquez sur un évènement de la ligne du temps \(3\) pour vous y re
 
 Les icônes présentes sur la ligne du temps \(4\) vous permettent de zoomer pour agrandir ou rétrécir l’échelle de la ligne du temps et de revenir au début de la frise.
 
-![](.gitbook/assets/image13-frise%20%282%29.png)
+![](.gitbook/assets/image%20%2827%29.png)
 
 ## Créer un événement dans la frise chronologique
 
 Pour créer du contenu dans la frise, cliquez sur « Ajouter un événement ».
 
-![](.gitbook/assets/frisechronoone_7-ajouter-evenement-1-1-1%20%281%29.png)
+![](.gitbook/assets/image%20%2835%29.png)
 
 Vous devez renseigner plusieurs informations pour créer un évènement :
 
@@ -124,19 +124,19 @@ Vous pourrez ensuite vérifier que la copie est bien présente dans votre applic
 
 Par défaut la frise s’affiche en vue frise. Afin de modifier ou supprimer un événement, passez en vue liste en cliquant sur la « voir tableau ».
 
-![](.gitbook/assets/image10-frise%20%281%29%20%281%29.png)
+![](.gitbook/assets/image%20%2856%29.png)
 
 **Modifier un événement**
 
 Pour modifier un événement, cliquez sur le titre de l’événement dans la liste pour accéder à la fenêtre d’édition de l’événement. Effectuez les modifications nécessaires et cliquez sur le bouton « enregistrer »
 
-![](.gitbook/assets/image11-frise%20%281%29%20%281%29.png)
+![](.gitbook/assets/image%20%2834%29.png)
 
 **Supprimer un événement**
 
 Pour supprimer un événement, cochez un événement dans la liste \(1\) et cliquez sur le bouton « supprimer » \(2\).
 
-![](.gitbook/assets/image12-frise%20%281%29%20%281%29.png)
+![](.gitbook/assets/image%20%2859%29.png)
 
 ## Publier dans la Bibliothèque
 
@@ -144,7 +144,7 @@ Pour supprimer un événement, cochez un événement dans la liste \(1\) et cliq
 
 Si vous souhaitez publier votre frise chronologique dans la bibliothèque pour inspirer d’autres enseignants, il vous suffit de cliquer sur le contenu que vous voulez publier. Le bandeau orange en bas de l’écran s’affiche. Cliquez sur le bouton « Publier dans la Bibliothèque ».
 
-![](.gitbook/assets/image%20%2838%29.png)
+![](.gitbook/assets/image%20%2829%29.png)
 
 Vous devez ensuite renseigner les caractéristiques de votre contenu pour expliquer votre usage :
 
@@ -157,15 +157,15 @@ Vous devez ensuite renseigner les caractéristiques de votre contenu pour expliq
 * Âge des élèves : Quel est la tranche d’âge des élèves concernés par l’activité ? 
 * Mots-clés : Quels sont les mots-clés qui caractérisent le mieux votre activité ? 
 
-![](.gitbook/assets/image%20%2828%29.png)
+![](.gitbook/assets/image%20%2844%29.png)
 
 Lorsque votre frise chronologique est publiée, vous pouvez la visualiser en cliquant sur “Voir dans la Bibliothèque”.
 
-![](.gitbook/assets/image%20%2844%29.png)
+![](.gitbook/assets/image%20%2871%29.png)
 
 Vous aurez ensuite la possibilité de modifier les champs saisis ou de supprimer la publication de votre frise chronologique en cliquant sur “Modifier” depuis la page de votre activité.
 
-![](.gitbook/assets/image%20%2834%29.png)
+![](.gitbook/assets/image%20%2858%29.png)
 
-![](.gitbook/assets/image%20%2841%29.png)
+![](.gitbook/assets/image%20%2868%29.png)
 

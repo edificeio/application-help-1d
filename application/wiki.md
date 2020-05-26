@@ -124,7 +124,7 @@ La Bibliothèque est un espace de partage et d’inspiration entre enseignants.
 
 Si vous souhaitez publier votre Wiki dans la Bibliothèque pour inspirer d’autres enseignants, il vous suffit de cliquer sur le contenu que vous voulez publier. Le bandeau orange en bas de l’écran s’affiche. Cliquez sur le bouton « Publier dans la Bibliothèque ».
 
-![](.gitbook/assets/image%20%2831%29.png)
+![](.gitbook/assets/image%20%2823%29.png)
 
 Vous devez ensuite renseigner les caractéristiques de votre contenu pour expliquer votre usage :
 
@@ -137,15 +137,15 @@ Vous devez ensuite renseigner les caractéristiques de votre contenu pour expliq
 * Âge des élèves : Quel est la tranche d’âge des élèves concernés par l’activité ? 
 * Mots-clés : Quels sont les mots-clés qui caractérisent le mieux votre activité ? 
 
-![](.gitbook/assets/image%20%2825%29.png)
+![](.gitbook/assets/image%20%2837%29.png)
 
 Lorsque votre Wiki est publié, vous pouvez le visualiser en cliquant sur “Voir dans la Bibliothèque”.
 
-![](.gitbook/assets/image%20%2829%29.png)
+![](.gitbook/assets/image%20%2847%29.png)
 
 Vous aurez ensuite la possibilité de modifier les champs saisis ou de supprimer la publication de votre Wiki en cliquant sur “Modifier” depuis la page de votre activité.
 
-![](.gitbook/assets/image%20%2840%29.png)
+![](.gitbook/assets/image%20%2867%29.png)
 
-![](.gitbook/assets/image%20%2827%29.png)
+![](.gitbook/assets/image%20%2841%29.png)
 

@@ -18,7 +18,7 @@ Pour accéder à l’appli Cahier de textes, cliquez sur l’icône correspondan
 
 Pour créer un nouveau cahier de textes, cliquez sur le bouton « Créer » en haut de la page.
 
-![](.gitbook/assets/cahier-de-texte-3-2-1-1%20%281%29.png)
+![](.gitbook/assets/image%20%2831%29.png)
 
 Votre cahier est désormais créé mais n’est pas encore visible.
 
@@ -26,7 +26,7 @@ Votre cahier est désormais créé mais n’est pas encore visible.
 
 Pour partager un cahier de textes avec d’autres utilisateurs, cliquez sur le signe + \(1\) située sur le coin en haut à droite de l'icône du cahier puis sur « Partager » \(2\).
 
-![](.gitbook/assets/partager_selectetbouton%20%284%29.png)
+![](.gitbook/assets/image%20%2821%29.png)
 
 Dans la fenêtre de partage, vous pouvez donner des droits de lecture, de contribution et de gestion à d’autres personnes sur votre cahier. Pour cela, saisissez les premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs que vous recherchez \(1\), sélectionnez le résultat \(2\) et cochez les cases correspondant aux droits que vous souhaitez leur attribuer \(3\). Pour valider, cliquez sur "Partager" \(4\).
 
@@ -44,7 +44,7 @@ Votre cahier de textes est créé et partagé, vous pouvez désormais renseigner
 
 Une fois votre cahier de textes créé, vous pouvez y ajouter des activités. Pour cela, cliquez sur le titre ou sur l'image du cahier dans le dossier correspondant.
 
-![](.gitbook/assets/creeractivit_ouvrircahiertxt-1-1%20%281%29.png)
+![](.gitbook/assets/image%20%2830%29.png)
 
 La semaine en cours est affichée par défaut. Pour saisir une activité pour une semaine ultérieure, vous pouvez soit faire défiler les semaines en cliquant sur les flèches \(1\) soit sélectionner la date dans le calendrier \(2\).
 

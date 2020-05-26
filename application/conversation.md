@@ -112,7 +112,7 @@ En revenant à la liste de vos messages dans la rubrique « Boîte de réception
 
 \(4\) les marquer comme non lu
 
-![](.gitbook/assets/messagerie-v2-15-2-1.png)
+![](.gitbook/assets/image%20%2851%29.png)
 
 ## Répondre, transférer, classer et supprimer un message
 
@@ -122,7 +122,7 @@ La fenêtre de création d’un message s’ouvre. L’émetteur du message reç
 
 Si vous avez reçu un message groupé vous pouvez cliquez sur le bouton « + » \(1\) présent en haut à droite pour faire apparaître les options secondaires :
 
-![](.gitbook/assets/messagerie-v2-17-1%20%281%29.png)
+![](.gitbook/assets/image%20%2843%29.png)
 
 \(2\) Répondre à tous : tous les destinataires du messages reçus sont automatiquement ajoutés dans les champs « à » et « en copie » selon la répartition du message d’origine.
 
