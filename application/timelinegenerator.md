@@ -104,7 +104,7 @@ Une fois l’événement créé, il apparaît dans la frise chronologique. Le to
 
 ## Dupliquer une frise chronologique
 
-Cliquez sur le signe + qui se trouve sur la frise chronologique dont vous souhaitez faire une copie, puis choisissez l'option "dupliquer" sur le menu. 
+Cliquez sur la frise chronologique dont vous souhaitez faire une copie, puis choisissez l'option "dupliquer" sur le menu. 
 
 ![](.gitbook/assets/image%20%2814%29.png)
 
