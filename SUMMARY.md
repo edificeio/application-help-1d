@@ -19,8 +19,7 @@
 * [Mon compte](application/userbook.md)
 * [Pad Collaboratif](application/collaborative-editor.md)
 * [Paramétrage de la classe](application/parametrage-de-la-classe.md)
-* [Statistiques](application/stats/README.md)
-  * [Visioconférence](application/stats/visioconference.md)
+* [Statistiques](application/stats.md)
 * [Visioconférence](application/visioconference.md)
 * [Wiki](application/wiki.md)
 
