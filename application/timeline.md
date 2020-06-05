@@ -157,13 +157,6 @@ Dans les différentes applications \(blog, actualités, messagerie, cahier de te
 
 ![](.gitbook/assets/editeurone%20%282%29.png)
 
-La fenêtre, qui s’affiche propose un choix entre trois options d’intégration multimédia :  
-• L’onglet INTÉGRER UN LIEN permet d’intégrer une ressource externe en copiant-collant l’URL ou le code embed issu d’une plateforme de partage.  
-• L’onglet ENREGISTRER UNE VIDÉO permet de réaliser la captation, sur votre appareil, directement depuis votre espace numérique, en cliquant simplement sur “Démarrer l’enregistrement”.  
-• L’onglet PARCOURIR MON ESPACE PERSONNEL vous permet d’incorporer un contenu multimédia déjà présent dans votre espace numérique.
-
-![](.gitbook/assets/ajoutervideo_ongletsone%20%282%29%20%281%29.png)
-
 **Intégrer un lien**
 
 Différentes ressources sont proposées par défaut sur ONE \(LearningApps, Educaplay, YouTube, Dailymotion, Vimeo et Libcast\) et peuvent être intégrées à un service en recopiant leur adresse internet \(ex : [https://learningapps.org/1459550](https://learningapps.org/1459550)\).
@@ -181,40 +174,6 @@ Une nouvelle fenêtre s’ouvre, dans laquelle vous pouvez coller l’adresse de
 ![](.gitbook/assets/appercula-one%20%282%29.png)
 
 La ressource est maintenant intégrée à votre contenu !
-
-**Enregistrer une vidéo**
-
-Vous pouvez également ajouter une capture vidéo d’une durée maximale de 5 minutes. Pour cela, sélectionnez l’onglet Enregistrer une vidéo \(1\) dans la fenêtre qui s’ouvre lorsque vous cliquez sur l’icône Ajouter une vidéo. Puis autoriser \(2\) si besoin l’utilisation du micro et de la caméra de votre appareil
-
-![](.gitbook/assets/capturevideoone%20%281%29%20%281%29.png)
-
-Pour que l’enregistrement se mette en place, cliquez sur «Démarrer l’enregistrement» \(1\).
-
-![](.gitbook/assets/demarrerenregistrementone%20%283%29.png)
-
-Pour arrêter la captation, cliquez sur l’icône «Stop» \(2\). Vous pouvez ensuite voir votre enregistrement en cliquant sur «Lire la vidéo» \(3\). Pour recommencer, cliquer sur l’icône «Refaire» \(4\)
-
-![](.gitbook/assets/arreterenrone%20%283%29.png)
-
-![](.gitbook/assets/lirevideoone%20%281%29%20%281%29.png)
-
-![](.gitbook/assets/refairevideoone%20%283%29.png)
-
-Pour sauvegarder votre vidéo, cliquer sur l’icône «Enregistrer» \(5\).
-
-![](.gitbook/assets/savevideoone%20%281%29%20%281%29.png)
-
-La vidéo sera bien enregistrée et sauvegardée si ce bandeau s’affiche :
-
-![](.gitbook/assets/confirmationenregistrementone%20%283%29.png)
-
-Le message vous avertit que la vidéo est automatiquement placée dans votre Espace documentaire \(par défaut dans l’onglet “Document ajouté dans les applis”\)
-
-**Parcourir mon espace personnel**
-
-Enfin, le dernier onglet de la fenêtre permet de parcourir son espace personnel pour intégrer une captation vidéo déjà réalisée, et stockée dans la section “Document ajouté dans les applis” de l'Espace documentaire. Il vous suffit donc de sélectionner la vidéo que vous venez d’enregistrer, puis cliquer sur “Ajouter” pour l’intégrer à votre contenu.
-
-![](.gitbook/assets/parcourirmonespaceone%20%282%29%20%281%29.png)
 
 ## La gestion des paramètres
 
