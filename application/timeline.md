@@ -65,17 +65,25 @@ Comme précédemment, en survolant la notification avec la souris, vous verrez a
 
 Les widgets se situent à gauche du fil de nouveautés. Ils sont composés des notes personnelles, du calendrier, des actualités, du flux RSS, du dictaphone et des signets.
 
-* Le widget **Notes** \(pense-bêtes\) permet à l’utilisateur de saisir des notes personnelles conservées à chaque déconnexion/reconnexion
+* Le widget **Notes** \(pense-bêtes\) permet à l’utilisateur de saisir des notes personnelles conservées à chaque déconnexion/reconnexion :
 
 ![](.gitbook/assets/page_accueil_1d_notes-2-1-1%20%281%29.png)
 
-* Le widget **Calendrier** affiche le mois en cours et la date du jour
+* Le widget **Calendrier** affiche le mois en cours et la date du jour :
 
 ![](.gitbook/assets/page_accueil_1d_calendrier-1-1-1%20%281%29.png)
 
+* Le widget **Actualités** affiche les cinq dernières actualités partagées avec soi :
+
+![](.gitbook/assets/widget-actualit3.png)
+
+* Le widget **Humeur** permet de choisir son humeur du moment :
+
+![](.gitbook/assets/widget-humeur2.png)
+
 * Le widget **Dictaphone** permet d’enregistrer des sons depuis le micro de son ordinateur. Les sons seront enregistrés dans l’espace documentaire de l’utilisateur.
 
-![](.gitbook/assets/page_accueil_1d_dictaphone-2-1%20%282%29.png)
+![](.gitbook/assets/dictaphone1.png)
 
 Vous pouvez changer l’ordre d’apparition des widgets sur la page d’accueil de la plateforme en sélectionnant le widget puis en le déplaçant sur la page.
 
@@ -181,17 +189,17 @@ La gestion des paramètres vous permet de modifier votre thème d’apparence ma
 
 Pour y accéder, cliquez sur le bouton à droite de votre fil de nouveautés.
 
-L’onglet de gestion de vos paramètres apparaît.
-
 ![](.gitbook/assets/page_accueil_1d_preferences-2-1%20%281%29.png)
 
-![](.gitbook/assets/page_accueil_1d_fond-1-1%20%281%29.png)
+L’onglet de gestion de vos paramètres apparaît.
 
 Pour changer l’apparence de votre thème, cliquez sur celui de votre choix.
 
-Pour décider d’afficher seulement certains widgets, désélectionnez ceux que vous ne souhaitez pas voir apparaître sur votre page d’accueil. Ils seront grisés dans la gestion de vos paramètres.
+![](.gitbook/assets/nouveaux_themes.png)
 
-![](.gitbook/assets/page_accueil_1d_widget-1-1%20%281%29%20%281%29.png)
+Pour décider d’afficher seulement certains widgets, désélectionnez ceux que vous ne souhaitez pas voir apparaître sur votre page d’accueil. Les vignettes désélectionnées apparaîtront avec une couleur de fond plus claire dans la gestion de vos paramètres. Les widgets correspondants ne s'afficheront plus à gauche du fil de nouveauté. 
+
+![D&#xE9;sactiver le widget Dictaphone](.gitbook/assets/param_widgets3.png)
 
 ## Notifications externes
 
