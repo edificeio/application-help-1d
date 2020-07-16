@@ -165,9 +165,9 @@ Dans les différentes applications \(blog, actualités, messagerie, cahier de te
 
 ![](.gitbook/assets/editeurone%20%282%29.png)
 
-**Intégrer un lien**
+**Intégrer un lien à l'aide d'une URL**
 
-Différentes ressources sont proposées par défaut sur ONE \(LearningApps, Educaplay, YouTube, Dailymotion, Vimeo et Libcast\) et peuvent être intégrées à un service en recopiant leur adresse internet \(ex : [https://learningapps.org/1459550](https://learningapps.org/1459550)\).
+Différentes ressources sont proposées par défaut sur ONE \(LearningApps, Educaplay, YouTube, Dailymotion, Vimeo, Libcast...\) et peuvent être intégrées à un service en recopiant leur adresse internet \(ex : [https://learningapps.org/1459550](https://learningapps.org/1459550)\).
 
 a\) Copiez d’abord l’adresse URL du contenu
 
@@ -180,6 +180,34 @@ b\) Intégrez la ressource dans une application Cliquez sur l’icône du type d
 Une nouvelle fenêtre s’ouvre, dans laquelle vous pouvez coller l’adresse de la ressource en question \(1\). Une prévisualisation du contenu s’affiche \(2\), si vous souhaitez l’intégrer, cliquez sur le bouton “Appliquer” \(3\).
 
 ![](.gitbook/assets/appercula-one%20%282%29.png)
+
+#### Ajouter une ressource dont le type n’est pas proposé par défaut
+
+Si le type de la ressource à intégrer n’est pas proposé par défaut, il faudra coller le code d’intégration.
+
+**a\) Exemples de contenus à intégrer via le code d'intégration \(embed ou iframe\)**
+
+Il existe de nombreuses ressources internet que vous pouvez intégrer sur ONE si le code d’intégration lié est proposé.
+
+Voici quelques exemple de sites qui proposent des ressources intéressantes que vous pouvez intégrer sur les contenus partagés :
+
+*  Les vidéos du site [Les Fondamentau](https://www.reseau-canope.fr/lesfondamentaux/accueil.html)x ;
+*  [Padlet ](https://padlet.com/my/dashboard)qui propose des murs collaboratifs ;
+*  [Scratch ](https://scratch.mit.edu/)pour l’apprentissage des élèves au codage informatique.
+
+**b\) Collez le code d’intégration pour intégrer la ressource sur ONE**
+
+Une fois le code d’intégration copié, vous pouvez insérer la ressource dans toutes les applications dotées de l’éditeur de texte en cliquant sur l’icône d’intégration ci-contre.
+
+![](.gitbook/assets/7.one_ajout_multimedia-2.png)
+
+Une fenêtre s’ouvre, vous pouvez alors :
+
+1. Coller le lien d’intégration de la ressource ;
+2. Voir un aperçu du contenu à intégrer ;
+3. Cliquer sur le bouton « Appliquer » pour intégrer la ressource au contenu.
+
+![](.gitbook/assets/8.one_.ajout_.multimedia.png)
 
 La ressource est maintenant intégrée à votre contenu !
 
