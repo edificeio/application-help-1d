@@ -5,6 +5,7 @@
 * [Actualités](application/actualites.md)
 * [Annuaire](application/directory.md)
 * [Assistance ENT](application/support.md)
+* [Bibliothèque](application/bibliotheque.md)
 * [Blog](application/blog.md)
 * [Cahier de textes](application/homeworks.md)
 * [Cahier multimédia](application/scrap-book.md)
@@ -19,8 +20,6 @@
 * [Mon compte](application/userbook.md)
 * [Pad Collaboratif](application/collaborative-editor.md)
 * [Paramétrage de la classe](application/parametrage-de-la-classe.md)
-* [Site web](application/website.md)
 * [Statistiques](application/stats.md)
-* [Visioconférence](application/webconference.md)
 * [Wiki](application/wiki.md)
 
