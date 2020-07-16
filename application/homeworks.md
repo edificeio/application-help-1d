@@ -70,6 +70,14 @@ Comme pour les autres services, vous pouvez intégrer plusieurs types de contenu
 
 Lorsque vous saisissez des contenus, l’enregistrement des données est automatique. Il suffit de cliquer dans la zone de saisie pour effectuer les modifications.
 
+Si vous souhaitez que l'activité créé soit **récurrente** :
+
+1. Cliquez sur l'icone de récurrence à droite de la matière
+2. Renseignez la fréquence et la durée de répétition de l'activité
+3. cliquez sur le bouton "Valider"
+
+![R&#xE9;p&#xE9;tition de l&apos;activit&#xE9; natation toutes les semaines jusqu&apos;au 3 Juillet](.gitbook/assets/cahierdetexte_reccurence.png)
+
 Une fois que vous avez terminé, cliquez sur le bouton « Afficher la vue semaine » pour revenir à la page d’accueil du cahier.
 
 ![](.gitbook/assets/creeractivit_retourvuesemaine100%20%281%29%20%281%29.png)
