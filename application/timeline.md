@@ -211,6 +211,71 @@ Une fenêtre s’ouvre, vous pouvez alors :
 
 La ressource est maintenant intégrée à votre contenu !
 
+## Utiliser le dictaphone
+
+Le dictaphone vous permet de créer une bande son à partir du micro de votre ordinateur, tablette ou smartphone. Vous pouvez ensuite enregistrer la bande son dans l’espace documentaire, ou l’intégrer directement à l’un de vos contenus sur votre réseau éducatif.
+
+**1. Accéder au dictaphone**
+
+a\) A partir de la page "Quoi de neuf?"
+
+![](.gitbook/assets/dictaphone1%20%281%29.png)
+
+Le module Dictaphone apparaît sur la partie gauche de la page d’accueil.
+
+Si ce n’est pas le cas, il faut activer ce widget. Pour cela, ouvrez la fenêtre de personnalisation en cliquant sur l’icône en haut à droite du fil de nouveautés \(1\).
+
+![](.gitbook/assets/dictaphone-param.png)
+
+La fenêtre de personnalisation s’ouvre, elle contient deux rubriques :
+
+* “Mes thèmes” vous permet de choisir votre fond d’écran
+* “Mes widgets” vous permet de choisir d’afficher ou non les widgets sur le fil de nouveautés
+
+Ici, assurez-vous que l’icône Dictaphone est colorée, sinon cliquez sur cette icône pour afficher le widget \(2\).
+
+Le module dictaphone apparaît alors en haut à gauche de la page d’accueil, vous pouvez maintenant l’utiliser \(3\).
+
+b\) A partir des applications via l'éditeur de texte
+
+Vous pouvez créer un son grâce au dictaphone accessible directement depuis le blog, le cahier de textes, le cahier multimédia, la frise chronologique, le wiki ou la messagerie. Pour cela, lors de la création de contenu sur l’éditeur de texte, cliquez sur l’icône “Ajouter un fichier audio”. Vous accéderez ainsi au module Dictaphone.
+
+![barre de menu de l&#x2019;&#xE9;diteur de texte enrichi](.gitbook/assets/dictaphone_editeur.png)
+
+**2. Enregistrer la bande son**
+
+Cliquer sur Démarrer ou sur l’icone en forme de micro pour lancer l’enregistrement.
+
+![](.gitbook/assets/dictaphone_demarrer.png)
+
+Lorsque l’enregistrement est en cours, vous pouvez cliquer sur le bouton de pause pour l’interrompre.
+
+![](.gitbook/assets/dictaphone_suspendre.png)
+
+Vous avez alors la possibilité de Reprendre l’enregistrement \(1\), de le lire \(2\) de le recommencer \(3\), de personnaliser le nom de l’enregistrement \(4\) et de le sauvegarder dans l’espace documentaire \(5\)
+
+![](.gitbook/assets/dictaphone_reprendre-lire-sauv.png)
+
+
+
+**3. Utiliser la bande son dans les applications de votre réseau**
+
+a\) Enregistrement réalisé dans une application via l’éditeur de texte
+
+Si vous enregistrez votre bande son à partir d’une application \(blog, cahier multimédia, cahier de textes…\), le fichier MP3 sera sauvegardé dans le dossier “Documents ajoutés dans les applis” \(1\) de l’espace documentaire.
+
+Depuis la fenêtre d'import de son où vous avez effectué l'enregistrement, passez sur l'onglet PARCOURIR MON ESPACE PERSONNEL, 
+
+![](.gitbook/assets/dictaphone-parcourirespaceperso.png)
+
+Choisissez la section “Documents ajoutés dans les applis” \(1\) dans la colonne de gauche, puis la vignette du son que vous venez d'enregistrer \(2\), dans la partie centrale. Cliquez ensuite sur le bouton "Ajouter", en haut à droite, pour importer votre son dans votre contenu.
+
+b\) Enregistrement réalisé à partir du widget Dictaphone de la page « Quoi de neuf ? »
+
+Rendez-vous sur l’application « Espace documentaire » \(1\) puis cliquez sur la rubrique “Documents ajoutés dans les applis” \(2\). Vous trouverez votre enregistrement sous le nom de “Capture jour/mois/année” si vous ne l'avez pas renommé. En sélectionnant la vignette  \(3\), vous accéderez à différentes actions possibles \(4\), vous pourrez notamment renommer la bande son \(en cliquant sur le bouton Propriétés\) ou la partager avec vos élèves.
+
+![](.gitbook/assets/dictaphone-espacedoc.png)
+
 ## La gestion des paramètres
 
 La gestion des paramètres vous permet de modifier votre thème d’apparence mais également de choisir l’affichage de ses widgets.
