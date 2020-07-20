@@ -167,7 +167,7 @@ Dans les différentes applications \(blog, actualités, messagerie, cahier de te
 
 **Intégrer un lien à l'aide d'une URL**
 
-Différentes ressources sont proposées par défaut sur ONE \(LearningApps, Educaplay, YouTube, Dailymotion, Vimeo, Libcast...\) et peuvent être intégrées à un service en recopiant leur adresse internet \(ex : [https://learningapps.org/1459550](https://learningapps.org/1459550)\).
+Différentes ressources sont proposées par défaut sur votre réseau éducatif \(LearningApps, Educaplay, YouTube, Dailymotion, Vimeo, Libcast...\) et peuvent être intégrées à un service en recopiant leur adresse internet \(ex : [https://learningapps.org/1459550](https://learningapps.org/1459550)\).
 
 a\) Copiez d’abord l’adresse URL du contenu
 
@@ -195,7 +195,7 @@ Voici quelques exemple de sites qui proposent des ressources intéressantes que 
 *  [Padlet ](https://padlet.com/my/dashboard)qui propose des murs collaboratifs ;
 *  [Scratch ](https://scratch.mit.edu/)pour l’apprentissage des élèves au codage informatique.
 
-**b\) Collez le code d’intégration pour intégrer la ressource sur ONE**
+**b\) Collez le code d’intégration pour intégrer la ressource sur votre réseau éducatif**
 
 Une fois le code d’intégration copié, vous pouvez insérer la ressource dans toutes les applications dotées de l’éditeur de texte en cliquant sur l’icône d’intégration ci-contre.
 
