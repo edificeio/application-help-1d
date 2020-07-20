@@ -187,7 +187,7 @@ Si le type de la ressource à intégrer n’est pas proposé par défaut, il fau
 
 **a\) Exemples de contenus à intégrer via le code d'intégration \(embed ou iframe\)**
 
-Il existe de nombreuses ressources internet que vous pouvez intégrer sur ONE si le code d’intégration lié est proposé.
+Il existe de nombreuses ressources internet que vous pouvez intégrer sur votre réseau éducatif, si le code d’intégration lié est proposé.
 
 Voici quelques exemple de sites qui proposent des ressources intéressantes que vous pouvez intégrer sur les contenus partagés :
 

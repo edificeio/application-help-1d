@@ -160,7 +160,9 @@ Collez l’URL de la vidéo \(2\) et cliquez sur « Appliquer » \(3\).
   
 **Intégrer un contenu multimédia à partir de code d'intégration**
 
-Pour une vidéo hébergée ailleurs , appuyez sur la vignette "Collez votre propre code" \(4\),
+Il existe de nombreuses ressources internet que vous pouvez intégrer sur votre réseau éducatif si le code d’intégration lié est proposé. Ce code se trouve souvent derrière le symbole : **&lt;/&gt;** mais on peut le trouver également derrière un bouton "Partager" ou des icônes de partage. 
+
+Pour ces ressources, copiez le code d'intégration depuis le site externe, puis, dans la fenêtre d'ajout de contenu du cahier multimédia, appuyez sur la vignette "Collez votre propre code" \(4\).
 
 ![](.gitbook/assets/cma-6-1-1%20%281%29.png)
 
