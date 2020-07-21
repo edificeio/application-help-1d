@@ -181,11 +181,11 @@ Une nouvelle fenêtre s’ouvre, dans laquelle vous pouvez coller l’adresse de
 
 ![](.gitbook/assets/appercula-one%20%282%29.png)
 
-#### Ajouter une ressource dont le type n’est pas proposé par défaut
+**Ajouter une ressource dont le type n’est pas proposé par défaut**
 
 Si le type de la ressource à intégrer n’est pas proposé par défaut, il faudra coller le code d’intégration.
 
-**a\) Exemples de contenus à intégrer via le code d'intégration \(embed ou iframe\)**
+_**a\) Exemples de contenus à intégrer via le code d'intégration \(embed ou iframe\)**_
 
 Il existe de nombreuses ressources internet que vous pouvez intégrer sur votre réseau éducatif, si le code d’intégration lié est proposé.
 
@@ -195,7 +195,7 @@ Voici quelques exemple de sites qui proposent des ressources intéressantes que 
 *  [Padlet ](https://padlet.com/my/dashboard)qui propose des murs collaboratifs ;
 *  [Scratch ](https://scratch.mit.edu/)pour l’apprentissage des élèves au codage informatique.
 
-**b\) Collez le code d’intégration pour intégrer la ressource sur votre réseau éducatif**
+_**b\) Collez le code d’intégration pour intégrer la ressource sur votre réseau éducatif**_
 
 Une fois le code d’intégration copié, vous pouvez insérer la ressource dans toutes les applications dotées de l’éditeur de texte en cliquant sur l’icône d’intégration ci-contre.
 
