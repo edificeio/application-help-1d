@@ -24,7 +24,7 @@ L’application Espace documentaire d’un utilisateur est composée de 4 sectio
 
 ## Importer un document
 
-Pour importer un document dans votre espace de stockage personnel, cliquez sur le bouton « Importer » situé en haut de l’interface.
+Pour importer un document dans votre espace documentaire, cliquez sur le bouton « Importer » situé en haut de l’interface.
 
 ![](.gitbook/assets/one_espacedoc-importer.png)
 
