@@ -6,13 +6,15 @@
 
 En centralisant l’ensemble des documents accessibles par l’utilisateur, l’**Espace documentaire** permet d’intégrer facilement un contenu dans n’importe quelle appli.
 
+
+
 ![](.gitbook/assets/espacedoc-presentation.png)
 
 L’application Espace documentaire d’un utilisateur est composée de 4 sections :
 
 ![](.gitbook/assets/espacedoc-sections.png)
 
-**Documents personnels :** cette section comporte les documents que vous avez importés dans l'espace documentaire mais que vous n'avez pas partagés à d'autres utilisateurs.
+**Documents personnels :** cette section comporte les documents que vous avez importés dans l'espace documentaire mais que vous n'avez pas partagés à d'autres utilisateurs. Vous pouvez charger tous types de fichiers depuis votre ordinateur, qu’il s’agisse de documents texte ou PDF, d’images, de vidéos ou d’extraits audio.
 
 **Documents partagés** Vous retrouvez dans ce dossier tous les documents partagés, que d’autres utilisateurs ont partagés avec vous, ou que vous leur avez partagés.
 
@@ -24,9 +26,11 @@ L’application Espace documentaire d’un utilisateur est composée de 4 sectio
 
 Pour importer un document dans votre espace de stockage personnel, cliquez sur le bouton « Importer » situé en haut de l’interface.
 
-![](.gitbook/assets/espacedocone_2-importer-2-1.JPG)
+![](.gitbook/assets/one_espacedoc-importer.png)
 
-Dans la nouvelle fenêtre, suivez les étapes suivantes :
+N.B. : _Le bouton IMPORTER apparait lorsque la section des "Documents personnels" ou celle des "Documents partagés" est sélectionnée. En cas de positionnement sur la section "Documents partagés", une fenêtre de partage s'ouvrira automatiquement suite à l'import de document._ 
+
+Dans la fenêtre d'import, suivez les étapes suivantes :
 
 1. Cliquez sur « Parcourir » et sélectionnez sur votre ordinateur le document que vous souhaitez enregistrer dans l’espace documentaire de la plateforme.
 2. Cliquez sur « Importer ».
