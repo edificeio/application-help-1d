@@ -56,27 +56,35 @@ Cliquez ensuite sur un jour de la semaine pour saisir une nouvelle activité.
 
 Une fois le jour sélectionné, cliquez sur le bouton « Créer ».
 
-![](.gitbook/assets/creeractivit_btncreer100%20%283%29.png)
+![](.gitbook/assets/btn-creer.png)
 
-Vous pouvez ajouter une activité dans le cahier. Tout d’abord, cliquez sur la colonne de gauche pour ajouter la matière.
+Vous pouvez ajouter une activité dans le cahier. Tout d’abord, cliquez sur la colonne de gauche pour ajouter la matière. \(1\)
 
-![](.gitbook/assets/creeractivit_saisiematiere100%20%281%29%20%281%29.png)
+![](.gitbook/assets/matiere2.png)
 
 Cliquez dans la colonne principale pour afficher l’éditeur de texte \(2\).
 
-![](.gitbook/assets/creeractivit_editeurtxt100%20%282%29%20%281%29.png)
+![](.gitbook/assets/editeur2cdt.png)
 
-Comme pour les autres services, vous pouvez intégrer plusieurs types de contenus dans l’activité : texte, image, lecteur audio, lecteur vidéo, formule mathématique… \(3\)
+Une barre d'outil apparait au dessus de votre zone de saisie \(3\) Comme pour les autres services, vous pouvez intégrer plusieurs types de contenus dans l’activité : texte, image, lecteur audio, lecteur vidéo, formule mathématique… 
 
-Lorsque vous saisissez des contenus, l’enregistrement des données est automatique. Il suffit de cliquer dans la zone de saisie pour effectuer les modifications.
+Une fois vos contenus saisis. Cliquer sur le bouton ENREGISTRER en bas à droite de la zone de saisie pour enregistrer les données \(4\). En cliquant sur ANNULER, vos ajouts ou modifications ne seront pas prises en compte. 
+
+![](.gitbook/assets/enregistreractivit-cdt1d.png)
+
+Pour **modifier** votre activité, il suffit de recliquer sur la zone de saisie, y faire vos modifications et les enregistrer. 
 
 Si vous souhaitez que l'activité créé soit **récurrente** :
 
-1. Cliquez sur l'icone de récurrence à droite de la matière
-2. Renseignez la fréquence et la durée de répétition de l'activité
+1. Après avoir enregistré votre activité, cliquez sur l'icone de récurrence à droite de la matière
+2. Renseignez la fréquence \(hebdomadaire ou quinzomadaire\), le jour de répétition, et la durée de répétition de l'activité
 3. cliquez sur le bouton "Valider"
 
-![R&#xE9;p&#xE9;tition de l&apos;activit&#xE9; natation toutes les semaines jusqu&apos;au 3 Juillet](.gitbook/assets/cahierdetexte_reccurence.png)
+![](.gitbook/assets/recurrence-cdt1d.png)
+
+Lorsque vous modifiez la récurrence sur une de ses occurences, vous la modifiez pour les évènements à venir par rapport à cette occurence. 
+
+Lorsque vous supprimez la récurrence sur une de ses occurences, vous supprimez la récurrence de l'activité pour toute les dates sauf l'occurence sur laquelle vous faite la modification. 
 
 Une fois que vous avez terminé, cliquez sur le bouton « Afficher la vue semaine » pour revenir à la page d’accueil du cahier.
 
