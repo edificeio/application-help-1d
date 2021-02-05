@@ -75,8 +75,6 @@ Une fenêtre s'ouvrira, vous permettant de déplacer la frise sélectionnée dan
 
 ## Naviguer dans votre frise chronologique
 
-## Créer un événement dans la frise chronologique
-
 La vue frise vous permet de naviguer entre les différents évènements de la frise. Les flèches sur les côtés du diaporama \(1\)\(2\) vous permettent de faire défiler les évènements.
 
 Vous pouvez cliquez sur un évènement de la ligne du temps \(3\) pour vous y rendre directement.
