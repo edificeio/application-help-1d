@@ -17,8 +17,8 @@ Dans la fenêtre d’édition de site, renseigner les informations suivantes :
 
 ![](.gitbook/assets/one-formcrea1.png)
 
-5. Choisissez un modèle de site parmi plusieurs maquettes.  
-6. Cliquer sur le bouton **Enregistrer**, en bas à droite pour valider et lancer la création de votre site web
+1. Choisissez un modèle de site parmi plusieurs maquettes.  
+2. Cliquer sur le bouton **Enregistrer**, en bas à droite pour valider et lancer la création de votre site web
 
 ![](.gitbook/assets/siteweb-enregistrer.png)
 
@@ -28,7 +28,7 @@ L’édition du site ne sera possible pour les administrateurs locaux de l'écol
 
 ## Ouvrir et gérer votre site web
 
-Depuis le menu de l’application, vous pouvez cliquer sur la vignette pour accéder au site web ou cliquer sur le signe “**+**” pour éditer votre site. 
+Depuis le menu de l’application, vous pouvez cliquer sur la vignette pour accéder au site web ou cliquer sur le signe “**+**” pour éditer votre site.
 
 ![](.gitbook/assets/one-edit.png)
 

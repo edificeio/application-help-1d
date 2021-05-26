@@ -228,13 +228,13 @@ Si vous souhaitez exporter votre blog sous la forme d'un fichier PDF, il vous fa
 
 Dans le champ "Destination", choisissez l'option Enregistrer au format PDF
 
-![](.gitbook/assets/2019-07-11_15h18_39%20%284%29%20%281%29.png)
+![](.gitbook/assets/2019-07-11_15h18_39%20%283%29%20%281%29%20%281%29.png)
 
 * Pour Internet Explorer, Microsoft Edge et Mozilla Firefox :
 
 Dans le champ "Nom", choisissez l'option "Microsoft Print to PDF"
 
-![](.gitbook/assets/2019-07-11_15h18_03%20%282%29.png)
+![](.gitbook/assets/2019-07-11_15h18_03%20%282%29%20%281%29%20%281%29.png)
 
 * Pour Safari :
 

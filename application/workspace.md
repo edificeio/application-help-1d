@@ -6,8 +6,6 @@
 
 En centralisant l’ensemble des documents accessibles par l’utilisateur, l’**Espace documentaire** permet d’intégrer facilement un contenu dans n’importe quelle appli.
 
-
-
 ![](.gitbook/assets/espacedoc-presentation.png)
 
 L’application Espace documentaire d’un utilisateur est composée de 4 sections :
@@ -20,7 +18,7 @@ L’application Espace documentaire d’un utilisateur est composée de 4 sectio
 
 **Documents ajoutés dans les applis** Vous retrouverez ici tous les fichiers que vous avez ajouté dans d’autres applis \(par exemple image d’un billet de blog\).
 
-**Corbeille** : Cette section contient tous les documents que vous avez supprimés des autres sections. Les documents présents dans la corbeille sont comptabilisés dans l'espace de stockage utilisé. 
+**Corbeille** : Cette section contient tous les documents que vous avez supprimés des autres sections. Les documents présents dans la corbeille sont comptabilisés dans l'espace de stockage utilisé.
 
 ## Importer un document
 
@@ -28,7 +26,7 @@ Pour importer un document dans votre espace documentaire, cliquez sur le bouton 
 
 ![](.gitbook/assets/one_espacedoc-importer.png)
 
-N.B. : _Le bouton IMPORTER apparait lorsque la section des "Documents personnels" ou celle des "Documents partagés" est sélectionnée. En cas de positionnement sur la section "Documents partagés", une fenêtre de partage s'ouvrira automatiquement suite à l'import de document._ 
+N.B. : _Le bouton IMPORTER apparait lorsque la section des "Documents personnels" ou celle des "Documents partagés" est sélectionnée. En cas de positionnement sur la section "Documents partagés", une fenêtre de partage s'ouvrira automatiquement suite à l'import de document._
 
 Dans la fenêtre d'import, suivez les étapes suivantes :
 
@@ -43,7 +41,7 @@ Dans la fenêtre d'import, suivez les étapes suivantes :
 
 ![](.gitbook/assets/espacedocone_11-2-1.JPG)
 
-Il est possible d’**importer un fichier compressé** \(.zip\) et de choisir au moment de l’importation de conserver ou non la compression. 
+Il est possible d’**importer un fichier compressé** \(.zip\) et de choisir au moment de l’importation de conserver ou non la compression.
 
 ![](.gitbook/assets/esp-doc-one-1.png)
 
@@ -59,11 +57,9 @@ Vous pouvez aussi importer un document ou plusieurs documents en effectuant un g
 
 ## Naviguer dans mes Documents
 
-Trois types d'affichage de vos documents sont disponibles en haut à droite de l'espace documentaire  : un affichage sous forme de vignettes \(A\), un affichage détaillé ou un carrousel d'images \(C\) qui permet de faire défiler automatiquement et manuellement les images du dossier sélectionné.  
+Trois types d'affichage de vos documents sont disponibles en haut à droite de l'espace documentaire : un affichage sous forme de vignettes \(A\), un affichage détaillé ou un carrousel d'images \(C\) qui permet de faire défiler automatiquement et manuellement les images du dossier sélectionné.
 
 ![](.gitbook/assets/vue-visionneuse.png)
-
-
 
 Pour **accéder au menu d’option** d’un fichier ou d’un dossier, vous devez **cliquer une fois** dessus. Le menu s’affiche ensuite en bas de la page et vous pouvez choisir les actions à effectuer.  
 Vous devez cliquer une nouvelle fois sur le fichier ou le dossier pour le désélectionner.
@@ -118,7 +114,7 @@ Le dossier se trouve maintenant à l’emplacement choisi.
 
 ## Télécharger un document
 
-Vous souhaitez récupérer, sur votre poste de travail, un ou plusieurs documents présents dans votre espace documentaire,  rien de plus simple : 
+Vous souhaitez récupérer, sur votre poste de travail, un ou plusieurs documents présents dans votre espace documentaire, rien de plus simple :
 
 1. Sélectionner dans votre espace documentaire, le ou les documents à télécharger.
 2. Cliquer sur le bouton TÉLÉCHARGER présent dans le menu du bas qui s'affiche.
@@ -126,7 +122,7 @@ Vous souhaitez récupérer, sur votre poste de travail, un ou plusieurs document
 
 ![](.gitbook/assets/one_espacedoc-telecharger1.png)
 
- Vous pouvez également télécharger un document ouvert dans la visionneuse de document : 
+Vous pouvez également télécharger un document ouvert dans la visionneuse de document :
 
 ![](.gitbook/assets/one_espacedoc-telechargervisionneuse.png)
 

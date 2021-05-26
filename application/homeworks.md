@@ -66,13 +66,13 @@ Cliquez dans la colonne principale pour afficher l’éditeur de texte \(2\).
 
 ![](.gitbook/assets/editeur2cdt.png)
 
-Une barre d'outil apparait au dessus de votre zone de saisie \(3\) Comme pour les autres services, vous pouvez intégrer plusieurs types de contenus dans l’activité : texte, image, lecteur audio, lecteur vidéo, formule mathématique… 
+Une barre d'outil apparait au dessus de votre zone de saisie \(3\) Comme pour les autres services, vous pouvez intégrer plusieurs types de contenus dans l’activité : texte, image, lecteur audio, lecteur vidéo, formule mathématique…
 
-Une fois vos contenus saisis. Cliquer sur le bouton ENREGISTRER en bas à droite de la zone de saisie pour enregistrer les données \(4\). En cliquant sur ANNULER, vos ajouts ou modifications ne seront pas prises en compte. 
+Une fois vos contenus saisis. Cliquer sur le bouton ENREGISTRER en bas à droite de la zone de saisie pour enregistrer les données \(4\). En cliquant sur ANNULER, vos ajouts ou modifications ne seront pas prises en compte.
 
 ![](.gitbook/assets/enregistreractivit-cdt1d.png)
 
-Pour **modifier** votre activité, il suffit de recliquer sur la zone de saisie, y faire vos modifications et les enregistrer. 
+Pour **modifier** votre activité, il suffit de recliquer sur la zone de saisie, y faire vos modifications et les enregistrer.
 
 Si vous souhaitez que l'activité créé soit **récurrente** :
 
@@ -82,9 +82,9 @@ Si vous souhaitez que l'activité créé soit **récurrente** :
 
 ![](.gitbook/assets/recurrence-cdt1d.png)
 
-Lorsque vous modifiez la récurrence sur une de ses occurences, vous la modifiez pour les évènements à venir par rapport à cette occurence. 
+Lorsque vous modifiez la récurrence sur une de ses occurences, vous la modifiez pour les évènements à venir par rapport à cette occurence.
 
-Lorsque vous supprimez la récurrence sur une de ses occurences, vous supprimez la récurrence de l'activité pour toute les dates sauf l'occurence sur laquelle vous faite la modification. 
+Lorsque vous supprimez la récurrence sur une de ses occurences, vous supprimez la récurrence de l'activité pour toute les dates sauf l'occurence sur laquelle vous faite la modification.
 
 Une fois que vous avez terminé, cliquez sur le bouton « Afficher la vue semaine » pour revenir à la page d’accueil du cahier.
 

@@ -22,12 +22,12 @@ Renseignez un titre à votre mot \(1\), puis rédigez un texte en ajoutant du co
 
 **Vous allez ensuite pouvoir choisir vos destinataires :**
 
-Dans la fenêtre "Destinataires", vous pouvez choisir à qui distribuer le mot. 
+Dans la fenêtre "Destinataires", vous pouvez choisir à qui distribuer le mot.
 
-Un message vous indique que **les destinataires seront des élèves ou des groupes d’élèves uniquement**. **Le mot sera envoyé aux responsables des élèves en question. Les élèves auront un droit de lecture sur le mot \(1\).**   
-Effectuez votre recherche \(2\) et sélectionnez les élèves avec lesquels vous souhaitez partager le mot.   
-Les groupes et utilisateurs ajoutés apparaissent sous la barre de recherche \(3\).   
-Il vous est possible de consulter la fiche d'un utilisateur sélectionné dans la liste des utilisateurs ajoutés en cliquant sur son nom \(4\).   
+Un message vous indique que **les destinataires seront des élèves ou des groupes d’élèves uniquement**. **Le mot sera envoyé aux responsables des élèves en question. Les élèves auront un droit de lecture sur le mot \(1\).**  
+Effectuez votre recherche \(2\) et sélectionnez les élèves avec lesquels vous souhaitez partager le mot.  
+Les groupes et utilisateurs ajoutés apparaissent sous la barre de recherche \(3\).  
+Il vous est possible de consulter la fiche d'un utilisateur sélectionné dans la liste des utilisateurs ajoutés en cliquant sur son nom \(4\).  
 Le message sera transmis aux responsables de ces élèves. Vous pouvez cocher sur la croix pour les supprimer de votre sélection. Cliquez sur "Suivant" pour valider \(5\).
 
 ![](.gitbook/assets/destinataire-mot-1%20%283%29%20%284%29.png)

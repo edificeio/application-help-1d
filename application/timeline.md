@@ -191,9 +191,9 @@ Il existe de nombreuses ressources internet que vous pouvez intégrer sur votre 
 
 Voici quelques exemple de sites qui proposent des ressources intéressantes que vous pouvez intégrer sur les contenus partagés :
 
-*  Les vidéos du site [Les Fondamentau](https://www.reseau-canope.fr/lesfondamentaux/accueil.html)x ;
-*  [Padlet ](https://padlet.com/my/dashboard)qui propose des murs collaboratifs ;
-*  [Scratch ](https://scratch.mit.edu/)pour l’apprentissage des élèves au codage informatique.
+* Les vidéos du site [Les Fondamentau](https://www.reseau-canope.fr/lesfondamentaux/accueil.html)x ;
+* [Padlet ](https://padlet.com/my/dashboard)qui propose des murs collaboratifs ;
+* [Scratch ](https://scratch.mit.edu/)pour l’apprentissage des élèves au codage informatique.
 
 _**b\) Collez le code d’intégration pour intégrer la ressource sur votre réseau éducatif**_
 
@@ -256,15 +256,13 @@ Vous avez alors la possibilité de Reprendre l’enregistrement \(1\), de le lir
 
 ![](.gitbook/assets/dictaphone_reprendre-lire-sauv.png)
 
-
-
 **3. Utiliser la bande son dans les applications de votre réseau**
 
 a\) Enregistrement réalisé dans une application via l’éditeur de texte
 
 Si vous enregistrez votre bande son à partir d’une application \(blog, cahier multimédia, cahier de textes…\), le fichier MP3 sera sauvegardé dans le dossier “Documents ajoutés dans les applis” \(1\) de l’espace documentaire.
 
-Depuis la fenêtre d'import de son où vous avez effectué l'enregistrement, passez sur l'onglet PARCOURIR MON ESPACE PERSONNEL, 
+Depuis la fenêtre d'import de son où vous avez effectué l'enregistrement, passez sur l'onglet PARCOURIR MON ESPACE PERSONNEL,
 
 ![](.gitbook/assets/dictaphone-parcourirespaceperso.png)
 
@@ -272,7 +270,7 @@ Choisissez la section “Documents ajoutés dans les applis” \(1\) dans la col
 
 b\) Enregistrement réalisé à partir du widget Dictaphone de la page « Quoi de neuf ? »
 
-Rendez-vous sur l’application « Espace documentaire » \(1\) puis cliquez sur la rubrique “Documents ajoutés dans les applis” \(2\). Vous trouverez votre enregistrement sous le nom de “Capture jour/mois/année” si vous ne l'avez pas renommé. En sélectionnant la vignette  \(3\), vous accéderez à différentes actions possibles \(4\), vous pourrez notamment renommer la bande son \(en cliquant sur le bouton Propriétés\) ou la partager avec vos élèves.
+Rendez-vous sur l’application « Espace documentaire » \(1\) puis cliquez sur la rubrique “Documents ajoutés dans les applis” \(2\). Vous trouverez votre enregistrement sous le nom de “Capture jour/mois/année” si vous ne l'avez pas renommé. En sélectionnant la vignette \(3\), vous accéderez à différentes actions possibles \(4\), vous pourrez notamment renommer la bande son \(en cliquant sur le bouton Propriétés\) ou la partager avec vos élèves.
 
 ![](.gitbook/assets/dictaphone-espacedoc.png)
 
@@ -290,7 +288,7 @@ Pour changer l’apparence de votre thème, cliquez sur celui de votre choix.
 
 ![](.gitbook/assets/nouveaux_themes.png)
 
-Pour décider d’afficher seulement certains widgets, désélectionnez ceux que vous ne souhaitez pas voir apparaître sur votre page d’accueil. Les vignettes désélectionnées apparaîtront avec une couleur de fond plus claire dans la gestion de vos paramètres. Les widgets correspondants ne s'afficheront plus à gauche du fil de nouveauté. 
+Pour décider d’afficher seulement certains widgets, désélectionnez ceux que vous ne souhaitez pas voir apparaître sur votre page d’accueil. Les vignettes désélectionnées apparaîtront avec une couleur de fond plus claire dans la gestion de vos paramètres. Les widgets correspondants ne s'afficheront plus à gauche du fil de nouveauté.
 
 ![D&#xE9;sactiver le widget Dictaphone](.gitbook/assets/param_widgets3.png)
 
