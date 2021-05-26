@@ -10,7 +10,7 @@ L’application **Visioconférence** permet de créer et de partager des salles 
 
 Sur la page d'accueil de l'application visioconférence, cliquez sur le bouton **« Créer une salle »** pour créer une nouvelle salle. 
 
-![](.gitbook/assets/image%20%2886%29.png)
+![](.gitbook/assets/image%20%2886%29%20%281%29.png)
 
 Saisissez le nom de votre salle, puis cliquez sur **« Créer »**. 
 
@@ -30,35 +30,35 @@ Pour **inviter des utilisateurs de la plateforme** à rejoindre votre salle de v
 
 Une fois connecté sur la **salle de visioconférence**, vous pouvez gérer différents aspects de la conférence, tels que la présentation, la diffusion de contenu, les participants ...
 
-![](.gitbook/assets/image%20%28104%29.png)
+![](.gitbook/assets/image%20%28104%29%20%281%29.png)
 
 Le panel de gauche vous permet de voir et gérer la **liste des utilisateurs connectés** à votre visioconférence \(1\), d’accéder au **notes partagées** \(2\) et à la **discussion \(chat\) de groupe** \(3\).
 
-![](.gitbook/assets/image%20%2881%29.png)
+![](.gitbook/assets/image%20%28107%29.png)
 
 Sur la seconde partie de l’écran, vous pouvez choisir de partager ou non votre webcam \(1\), votre micro \(2\) ou votre écran \(3\).
 
-![](.gitbook/assets/image%20%28105%29.png)
+![](.gitbook/assets/image%20%28105%29%20%281%29.png)
 
-![](.gitbook/assets/image%20%2898%29.png)
+![](.gitbook/assets/image%20%2898%29%20%281%29.png)
 
-![](.gitbook/assets/image%20%2892%29.png)
+![](.gitbook/assets/image%20%2892%29%20%281%29.png)
 
 Vous pouvez aussi y ajouter des **annotations en direct** pour les utilisateurs connectés.
 
-![](.gitbook/assets/image%20%2895%29.png)
+![](.gitbook/assets/image%20%2899%29.png)
 
 Il vous est aussi possible de **charger un document**, de créer un **sondage en direct** ou de **partager une vidéo externe** \(1\). Pour paramétrer votre salle, cliquez sur les trois points en haut à votre droite \(2\). 
 
-![](.gitbook/assets/image%20%28106%29.png)
+![](.gitbook/assets/image%20%28108%29.png)
 
 ![](.gitbook/assets/image%20%2889%29.png)
 
-![](.gitbook/assets/image%20%2894%29.png)
+![](.gitbook/assets/image%20%28100%29.png)
 
 Vous y trouverez aussi l'option "**plein écran**" et l'**aide** \(1\). Cliquez sur ces trois points si vous voulez **mettre fin à la réunion** et/ou vous déconnecter \(2\).
 
-![](.gitbook/assets/image%20%2893%29.png)
+![](.gitbook/assets/image%20%2879%29%20%281%29.png)
 
 
 

@@ -12,9 +12,9 @@ Il est facile de publier les leçons des élèves dans le cahier de textes. Les 
 
 Pour accéder à l’appli Cahier de textes, cliquez sur l’icône correspondante dans la page « Mes applis ».
 
-![](.gitbook/assets/cahier-de-textes-3-1%20%281%29.png)
+![](.gitbook/assets/cahier-de-textes%20%283%29%20%284%29.png)
 
-![](.gitbook/assets/cahier-de-texte-2-1%20%281%29%20%281%29.png)
+![](.gitbook/assets/cahier-de-texte-2%20%282%29%20%285%29.png)
 
 Pour créer un nouveau cahier de textes, cliquez sur le bouton « Créer » en haut de la page.
 
@@ -30,7 +30,7 @@ Pour partager un cahier de textes avec d’autres utilisateurs, cliquez sur le s
 
 Dans la fenêtre de partage, vous pouvez donner des droits de lecture, de contribution et de gestion à d’autres personnes sur votre cahier. Pour cela, saisissez les premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs que vous recherchez \(1\), sélectionnez le résultat \(2\) et cochez les cases correspondant aux droits que vous souhaitez leur attribuer \(3\). Pour valider, cliquez sur "Partager" \(4\).
 
-![](.gitbook/assets/2018-08-23_10h17_05-1-1-1%20%281%29.png)
+![](.gitbook/assets/2018-08-23_10h17_05%20%282%29%20%284%29.png)
 
 Les différents droits que vous pouvez attribuer sont les suivants :
 
@@ -52,7 +52,7 @@ La semaine en cours est affichée par défaut. Pour saisir une activité pour un
 
 Cliquez ensuite sur un jour de la semaine pour saisir une nouvelle activité.
 
-![](.gitbook/assets/creeractivit_selectionjour-1-1%20%281%29.png)
+![](.gitbook/assets/creeractivit_selectionjour-1-1%20%283%29.png)
 
 Une fois le jour sélectionné, cliquez sur le bouton « Créer ».
 
@@ -88,5 +88,5 @@ Lorsque vous supprimez la récurrence sur une de ses occurences, vous supprimez 
 
 Une fois que vous avez terminé, cliquez sur le bouton « Afficher la vue semaine » pour revenir à la page d’accueil du cahier.
 
-![](.gitbook/assets/creeractivit_retourvuesemaine100%20%281%29%20%281%29.png)
+![](.gitbook/assets/creeractivit_retourvuesemaine100%20%282%29%20%283%29.png)
 

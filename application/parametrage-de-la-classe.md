@@ -8,9 +8,9 @@ Cette application permet notamment de créer et gérer de nouveaux comptes \(él
 
 Pour accéder à l’application Paramétrage de la classe, cliquez sur l’icône correspondante dans la page « Mes applis ».
 
-![](.gitbook/assets/2018-08-24_11h44_08-2-1%20%281%29%20%281%29.png)
+![](.gitbook/assets/2018-08-24_11h44_08%20%283%29%20%286%29.png)
 
-![](.gitbook/assets/mesapplis2%20%284%29.PNG)
+![](.gitbook/assets/mesapplis2%20%284%29%20%284%29.PNG)
 
 ## Créer des utilisateurs dans la classe
 
@@ -18,7 +18,7 @@ Vous accédez à la page de gestion de votre classe, qui vous permet de consulte
 
 Il est alors possible d’ajouter des élèves, des parents, des enseignants et des personnels en cliquant sur le bouton "Ajouter des utilisateurs" \(1\) pour la classe sélectionnée \(2\).
 
-![](.gitbook/assets/creer-1%20%282%29.png)
+![](.gitbook/assets/creer%20%281%29%20%283%29.png)
 
 Une interface propose trois options pour ajouter des utilisateurs à votre classe :
 
@@ -36,7 +36,7 @@ Une interface propose trois options pour ajouter des utilisateurs à votre class
 6. Courriel \(5\)
 7. Rechercher un élève  : uniquement pour les responsables légaux, afin de relier l'élève au responsable créé manuellement\(6\) 
 
-![](.gitbook/assets/creation%20%281%29%20%281%29.PNG)
+![](.gitbook/assets/creation%20%283%29.PNG)
 
 Si vous avez créé un **utilisateur existant déjà sur votre école**, une interface de détection du doublon de compte vous propose trois actions :
 
@@ -44,7 +44,7 @@ Si vous avez créé un **utilisateur existant déjà sur votre école**, une int
 * Rattacher aux deux classes \(2\) : le compte sera rattaché à la classe et conservera son rattachement à l'autre classe
 * Créer l'utilisateur \(3\) : le compte sera créé dans la classe
 
-![](.gitbook/assets/doublon%20%281%29%20%281%29.PNG)
+![](.gitbook/assets/doublon%20%283%29.PNG)
 
 1. Si vous souhaitez **importer des utilisateurs** à partir d'un fichier, vous avez la possibilité d'exporter votre fichier ONDE pour votre classe afin de l'importer depuis l'interface prévue à cet effet.
 
@@ -79,7 +79,7 @@ Dans l'interface de l'application, vous disposez d'un bouton pour vous permettre
 
 Une nouvelle fenêtre s'ouvre où vous pourrez sélectionner un ou plusieurs profils afin de créer leur fiche de connexion.
 
-![](.gitbook/assets/profilfiche-1-1%20%281%29.PNG)
+![](.gitbook/assets/profilfiche%20%283%29.PNG)
 
 Une fois le ou les profils sélectionnés, vous disposez de plusieurs options pour récupérer et transmettre des fiches de connexion :
 
@@ -88,11 +88,11 @@ Une fois le ou les profils sélectionnés, vous disposez de plusieurs options po
 * Fiches de connexions détaillées par mail \(3\)
 * Exporter les codes d'activations en .CSV \(4\)
 
-![](.gitbook/assets/modefiche2%20%282%29%20%281%29.PNG)
+![](.gitbook/assets/modefiche2%20%283%29%20%281%29.PNG)
 
 Vous pouvez également créer une ou plusieurs fiches de connexions détaillées pour un ou plusieurs comptes, en sélectionnant le ou les comptes \(1\), puis en cliquant sur "Fiches de connexions" \(2\).
 
-![](.gitbook/assets/1d-param-fiches-de-connexion%20%282%29%20%281%29.png)
+![](.gitbook/assets/1d-param-fiches-de-connexion%20%282%29%20%284%29.png)
 
 En allant consulter la fiche utilisateur d'un élève \(voir partie "Consulter et modifier les informations utilisateurs"\), vous pouvez récupérer des fiches de connexions simplifiées en PDF pour l'élève et son ou ses responsables légaux, en cliquant sur le lien "Fiches de connexion" \(1\)
 
@@ -102,7 +102,7 @@ En allant consulter la fiche utilisateur d'un élève \(voir partie "Consulter e
 
 Dans l’onglet correspondant, **uniquement pour les utilisateurs activés**, sélectionnez l’utilisateur dont vous souhaitez renouveler le mot de passe \(1\) et cliquez sur « Réinitialiser le mot de passe » \(2\).
 
-![](.gitbook/assets/bouton-en-bas-2%20%281%29%20%281%29.png)
+![](.gitbook/assets/bouton-en-bas-2%20%281%29%20%284%29.png)
 
 L'email suivant est alors envoyé sur l’adresse email que vous avez renseigné dans la rubrique Mon compte :
 
@@ -122,11 +122,11 @@ Vous avez la possibilité de transmettre ce message à l’utilisateur concerné
 
 Vous pouvez aussi sélectionner l'utilisateur en question \(1\) et cliquez sur "Générer un mot de passe temporaire" \(2\).
 
-![](.gitbook/assets/bouton-en-bas-3%20%281%29%20%281%29.png)
+![](.gitbook/assets/bouton-en-bas-3%20%283%29.png)
 
 Une nouvelle fenêtre s'ouvre où vous verrez l'utilisateur sélectionné, son identifiant et le mot de passe temporaire généré automatiquement.
 
-![](.gitbook/assets/2019-10-08_09h47_01%20%283%29.png)
+![](.gitbook/assets/2019-10-08_09h47_01%20%281%29%20%281%29.png)
 
 Vous avez alors la possibilité de transmettre l'email de réinitialisation / le mot de passe temporaire à l’utilisateur concerné pour qu’il renouvelle lui-même son mot de passe \(par exemple s’il s’agit d’un parent\), ou vous pouvez également effectuer vous-même la manipulation.
 
@@ -138,7 +138,7 @@ Dans les deux cas, vous accédez ensuite à l’interface de réinitialisation d
 
 Renseignez l’identifiant de l’utilisateur dans le premier champ \(1\). Saisissez ensuite le nouveau mot de passe \(2\), puis confirmez-le dans le dernier champ \(3\) et cliquez sur « Réinitialiser ».
 
-![](.gitbook/assets/p8-1-1-1%20%282%29.png)
+![](.gitbook/assets/p8%20%281%29%20%284%29.png)
 
 Renseignez l’identifiant de l’utilisateur dans le premier champ \(1\). Saisissez ensuite le nouveau mot de passe \(2\), puis confirmez-le dans le dernier champ \(3\) et cliquez sur « Réinitialiser ».
 
@@ -150,13 +150,13 @@ En cliquant sur le nom de l'utilisateur présent dans la liste, vous pouvez acc�
 
 Une fois la fiche utilisateur affichée, vous pouvez naviguer d'une fiche à l'autre en cliquant sur "utilisateur précédent" \(1\) ou "utilisateur suivant" \(2\).
 
-![](.gitbook/assets/fiche%20%283%29%20%281%29.png)
+![](.gitbook/assets/fiche%20%283%29%20%281%29%20%282%29.png)
 
 ## Bloquer un compte
 
 En cas de débordement, vous avez la possibilité de bloquer la connexion d'un utilisateur. Sélectionnez l'utilisateur que vous souhaitez bloquer dans la liste \(1\) puis cliquez sur le bouton d'action "Bloquer" \(2\) pour bloquer la connexion de l'utilisateur. Une fois l'action effectuée, l'utilisateur ne pourra donc plus se connecter.
 
-![](.gitbook/assets/1d-param-bloquer%20%283%29.png)
+![](.gitbook/assets/1d-param-bloquer%20%281%29.png)
 
 ## Retirer un utilisateur de la classe
 
@@ -166,13 +166,13 @@ Sélectionner l'utilisateur concerné \(1\) puis cliquer sur l'option "Retirer d
 
 En cas d'erreur, vous pourrez \(si l'utilisateur n'est rattaché à aucune autre classe\) aller dans la recherche d'utilisateur, et rattacher l'utilisateur à votre classe.
 
-![](.gitbook/assets/1d-param-retirer%20%281%29%20%281%29.png)
+![](.gitbook/assets/1d-param-retirer%20%282%29%20%282%29.png)
 
 ## Supprimer un utilisateur
 
 Dans l’onglet correspondant, sélectionnez l’utilisateur que vous souhaitez supprimer \(1\) et cliquez sur « Supprimer » \(2\).
 
-![](.gitbook/assets/1d-param-supprimer%20%282%29%20%281%29.png)
+![](.gitbook/assets/1d-param-supprimer%20%282%29.png)
 
 Une personne dont le compte est supprimé pourra encore se connecter et récupérer un export de ses documents \(appli Export\). En revanche, elle ne pourra plus accéder aux autres applis \(espace documentaire, blog, cahier multimédia, etc.\).
 

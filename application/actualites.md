@@ -8,7 +8,7 @@ Cet outil vous permet de **diffuser facilement une information** \(comme le dér
 
 Lorsque vous publiez une actualité, vous choisissez les utilisateurs ou les groupes de personnes avec lesquels vous souhaitez partager l’information. Les personnes concernées reçoivent une **notification** dans leur **fil de nouveautés** et voient apparaître l’actualité dans le **widget Actualités** sur la page d’accueil.
 
-![](.gitbook/assets/2018-08-22_17h56_50-2-1.png)
+![](.gitbook/assets/2018-08-22_17h56_50%20%282%29%20%283%29.png)
 
 ## Créer un fil d’actualités
 
@@ -20,11 +20,11 @@ Pour créer un fil d’actualités, suivez les étapes suivantes :
 4. Choisissez une image d’illustration
 5. Cliquez sur « Sauvegarder »
 
-![](.gitbook/assets/actu-2-2.png)
+![](.gitbook/assets/actu-2%20%283%29.png)
 
-![](.gitbook/assets/actu-3-2%20%283%29.png)
+![](.gitbook/assets/actu-3%20%282%29%20%286%29.png)
 
-![](.gitbook/assets/actu-4-1-1.png)
+![](.gitbook/assets/actu-4%20%282%29%20%284%29.png)
 
 Par défaut seuls les enseignants et les personnels sont habilités à créer des fils d’actualités.
 
@@ -36,9 +36,9 @@ Vous pouvez maintenant partager votre fil d’actualités :
 2. Sélectionnez la case à cocher du fil à partager
 3. Cliquez sur « Partager »
 
-![](.gitbook/assets/actu-2-1-2.png)
+![](.gitbook/assets/actu-2%20%283%29%20%283%29.png)
 
-![](.gitbook/assets/actu-5-2-1.png)
+![](.gitbook/assets/actu-5%20%282%29%20%286%29.png)
 
 Pour partager le fil d’actualités avec d’autres utilisateurs, suivez les étapes suivantes :
 
@@ -47,7 +47,7 @@ Pour partager le fil d’actualités avec d’autres utilisateurs, suivez les é
 3. Cochez les cases correspondant aux droits que vous souhaitez leur attribuer
 4. Cliquez sur "Partager" 
 
-![](.gitbook/assets/2018-08-22_17h59_33-1%20%282%29.png)
+![](.gitbook/assets/2018-08-22_17h59_33%20%282%29%20%283%29.png)
 
 Les différents droits que vous pouvez attribuer aux autres utilisateurs de la plateforme sur le fil d’actualités sont les suivants :
 
@@ -59,12 +59,12 @@ Les différents droits que vous pouvez attribuer aux autres utilisateurs de la p
 
 Pour créer une actualité, cliquez sur le bouton « Nouvelle actualité ».
 
-![](.gitbook/assets/actu-7-1-1-1.png)
+![](.gitbook/assets/actu-7%20%282%29%20%284%29.png)
 
 Dans la nouvelle fenêtre, indiquez le titre de l’actualité \(1\), le fil auquel l’actualité sera rattachée \(2\), les dates de publication et d’expiration \(3\), et le contenu de votre actualité \(4\).  
 La case à cocher « Mettre à la une » permet de laisser votre actualité en haut de la liste.
 
-![](.gitbook/assets/actu-8-2%20%281%29.png)
+![](.gitbook/assets/actu-8%20%282%29%20%283%29.png)
 
 Plusieurs actions sont ensuite proposées :
 
@@ -78,7 +78,7 @@ Vous pouvez décider d’attribuer des droits sur une actualité indépendamment
 
 Pour cela, cliquez sur la case à cocher de l’actualité concernée \(1\) puis sur « Partager » \(2\).
 
-![](.gitbook/assets/actu-9-2-1%20%281%29.png)
+![](.gitbook/assets/actu-9%20%282%29%20%283%29.png)
 
 Pour attribuer ces droits, suivez les étapes suivantes :
 
@@ -87,7 +87,7 @@ Pour attribuer ces droits, suivez les étapes suivantes :
 3. Cochez les cases correspondant aux droits que vous souhaitez leur attribuer
 4. Cliquez sur "Partager" 
 
-![](.gitbook/assets/2018-08-22_18h02_30-2-1-1.png)
+![](.gitbook/assets/2018-08-22_18h02_30%20%282%29%20%284%29.png)
 
 Les différents droits que vous pouvez attribuer aux autres utilisateurs de la plateforme sur l’actualité sont les suivants :
 

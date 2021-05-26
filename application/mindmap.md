@@ -6,17 +6,17 @@
 
 L’appli Carte Mentale permet de **représenter visuellement une arborescence** en créant des liens entre différentes idées. Le schéma se construit autour d’une idée principale, sous forme d’image ou de texte, à partir de laquelle plusieurs chemins se créent. La carte mentale peut être faite de manière collective ou personnelle, selon les souhaits du créateur de la carte.
 
-![](.gitbook/assets/2018-08-23_17h13_43-2-1-1%20%281%29.png)
+![](.gitbook/assets/2018-08-23_17h13_43%20%282%29%20%284%29.png)
 
 ## Créer une Carte Mentale
 
 Pour accéder à l’appli Carte mentale, cliquez sur l’icône correspondante dans la page « Mes applis ».
 
-![](.gitbook/assets/cartementale_1-appli-1-1%20%281%29.JPG)
+![](.gitbook/assets/cartementale_1-appli%20%282%29%20%285%29.JPG)
 
 Cliquez sur « Créer une carte mentale ».
 
-![](.gitbook/assets/image%20%2876%29.png)
+![](.gitbook/assets/image%20%2845%29%20%281%29.png)
 
 1. Saisissez un nom de carte
 2. Renseignez une description
@@ -34,13 +34,13 @@ Pour ajouter de nouvelles notions à un nœud, sélectionnez le nœud de départ
 
 Pour supprimer un nœud, sélectionnez le nœud et cliquez sur l’icône « Supprimer un nœud » ou taper directement sur la touche « supprimer ».
 
-![](.gitbook/assets/cartementale_5-editeur-supprimer-noeud-2-1-1%20%281%29.png)
+![](.gitbook/assets/cartementale_5-editeur-supprimer-noeud-2-1-1%20%288%29.png)
 
 ## Mettre en forme le texte
 
 La barre d’outils de la carte mentale vous permet de modifier le format du texte : la typographie, la taille, la mise en forme de la police et sa couleur. Pour modifier le texte, sélectionnez le texte du nœud et cliquez sur les icônes suivantes dans la barre d’outils.
 
-![](.gitbook/assets/cartementale_6-editeur-mise-en-forme-2-1%20%282%29.png)
+![](.gitbook/assets/cartementale_6-editeur-mise-en-forme%20%282%29%20%283%29.png)
 
 ## Ajouter un lien entre deux nœuds
 
@@ -58,7 +58,7 @@ Grâce à la barre d’outils de la carte mentale vous pouvez ajouter à vos nœ
 
 Pour ajouter un contenu complémentaire, sélectionnez le nœud et cliquez sur les icônes suivantes dans la barre d’outils.
 
-![](.gitbook/assets/cartementale_8-editeur-liens-emoticons-2-1%20%281%29.png)
+![](.gitbook/assets/cartementale_8-editeur-liens-emoticons-2%20%282%29%20%287%29.png)
 
 Les émoticônes apparaissent dans le nœud avant le texte. Les liens et les notes apparaissent sous forme d’icône dans le nœud avant le texte et une visualisation est proposée au survol de l’icône.
 
@@ -74,7 +74,7 @@ Pour partager une carte mentale avec d’autres utilisateurs, cliquez sur le + \
 
 Dans la fenêtre de partage, vous pouvez donner des droits de lecture, de contribution et de gestion à d’autres personnes sur votre carte. Pour cela, saisissez les premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs que vous recherchez \(1\), sélectionnez le résultat \(2\) et cochez les cases correspondant aux droits que vous souhaitez leur attribuer \(3\). Cliquez sur "Partager" pour valider \(4\).
 
-![](.gitbook/assets/2018-08-23_17h22_12-2-1%20%281%29%20%281%29.png)
+![](.gitbook/assets/2018-08-23_17h22_12%20%282%29%20%281%29.png)
 
 Les différents droits que vous pouvez attribuer sont les suivants :
 
