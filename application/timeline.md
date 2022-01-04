@@ -286,7 +286,7 @@ L’onglet de gestion de vos paramètres apparaît.
 
 Pour changer l’apparence de votre thème, cliquez sur celui de votre choix.
 
-![](.gitbook/assets/nouveaux_themes.png)
+![](.gitbook/assets/themesONEenProd.png)
 
 Pour décider d’afficher seulement certains widgets, désélectionnez ceux que vous ne souhaitez pas voir apparaître sur votre page d’accueil. Les vignettes désélectionnées apparaîtront avec une couleur de fond plus claire dans la gestion de vos paramètres. Les widgets correspondants ne s'afficheront plus à gauche du fil de nouveauté.
 
