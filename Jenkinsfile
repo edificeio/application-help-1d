@@ -25,7 +25,7 @@ pipeline {
             cp -Rf application/.gitbook/assets .
             rm -Rf application/*.md application/.gitbook
             mkdir help-1d && mv application assets help-1d 
-            tar cfzh application-help-1d.tar.gz help-1d
+            tar cfzh application-help-1d.tar.gz help-1d conf.j2
 	        '''
         }
       }
