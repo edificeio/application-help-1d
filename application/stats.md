@@ -84,5 +84,10 @@ En tant qu’enseignant, vous pouvez exporter les données des classes auxquelle
 
 Ce fichier contient les informations relatives à l'indicateur sur lequel vous étiez positionné lorsque vous avez cliqué sur le lien, ainsi que la granularité \(mois, semaine, jour\) sélectionnée.
 
-Il y a quatre exports différents : 1. Un export contenant les connexions, les visiteurs uniques et les comptes chargés et activés. 2. Un export contenant les statistiques des applications. 3. Un export contenant les statistiques des connecteurs. 4. Un export contenant les statistiques de connexions par type de support.
+Il y a quatre exports différents : 
+
+* Un export contenant les connexions, les visiteurs uniques et les comptes chargés et activés. 
+* Un export contenant les statistiques des applications.
+* Un export contenant les statistiques des connecteurs.
+* Un export contenant les statistiques de connexions par type de support.
 

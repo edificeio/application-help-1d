@@ -54,7 +54,7 @@ L’enseignant accède au suivi des accusés de lecture et éventuellement des r
 
 La fenêtre « Suivi du mot » s’ouvre avec deux colonnes :
 
-* La colonne de gauche \(1\) indique les élèves auxquels les responsables ont lu le mot. Une indication au dessus de la colonne informe du nombre de lu sur le total des destinataires \(2\).
+* La colonne de gauche \(1\) indique les élèves pour lesquels les responsables ont lu le mot. Une indication au dessus de la colonne informe du nombre de lu sur le total des destinataires \(2\).
 * La colonne de droite \(3\) indique les utilisateurs qui ont répondu au mot. 
 * Une indication au dessus de la colonne informe du nombre de réponse\(s\) reçue\(s\) \(4\).
 * Il est possible d'envoyer un rappel de lecture aux utilisateurs qui n'ont pas encore répondu \(5\).
@@ -135,7 +135,7 @@ Si l’enseignant a activé l’option « réponse » lors de l’envoi du mot :
 
 ## Vue Parent - Filtrez par enfant
 
-Les photos de profils sous le titre « Carnet de liaison » permet au parent de filtrer les mots selon les enfants dont il est responsable. S’il est rattaché à un seul enfant, la fonction filtre n’apparaît pas.
+Si vous êtes responsable de plusieurs enfants, un filtre vous permet de sélectionner l'enfant pour lequel vous souhaitez afficher les mots. Cliquer pour cela sur une des photos de profil sous le titre le l'application, en haut à gauche. Les mots du carnet de liaison de l'enfant sélectionné s'afficheront dans la partie centrale de l'écran.
 
 ![](.gitbook/assets/2018-08-23_16h53_00%20%282%29%20%286%29.png)
 
