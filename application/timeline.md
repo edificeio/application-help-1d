@@ -191,9 +191,9 @@ Il existe de nombreuses ressources internet que vous pouvez intégrer sur votre 
 
 Voici quelques exemple de sites qui proposent des ressources intéressantes que vous pouvez intégrer sur les contenus partagés :
 
-* Les vidéos du site [Les Fondamentau](https://www.reseau-canope.fr/lesfondamentaux/accueil.html)x ;
-* [Padlet ](https://padlet.com/my/dashboard)qui propose des murs collaboratifs ;
-* [Scratch ](https://scratch.mit.edu/)pour l’apprentissage des élèves au codage informatique.
+* Les vidéos du site [Les Fondamentaux](https://www.reseau-canope.fr/lesfondamentaux/accueil.html) ;
+* [Padlet](https://padlet.com/my/dashboard) qui propose des murs collaboratifs ;
+* [Scratch](https://scratch.mit.edu/) pour l’apprentissage des élèves au codage informatique.
 
 _**b\) Collez le code d’intégration pour intégrer la ressource sur votre réseau éducatif**_
 
