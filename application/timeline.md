@@ -161,55 +161,117 @@ L’éditeur d’images permet de :
 
 ## Intégrer un contenu multimédia
 
-Dans les différentes applications \(blog, actualités, messagerie, cahier de textes, wiki …\), vous pouvez intégrer des contenus multimédia comme des exercices interactifs, des vidéos, des murs collaboratifs, etc. Pour cela, rendez-vous sur une application, cliquez sur le bouton “Créer” et accédez à l’éditeur de texte. Cliquez sur l’icône multimédia présente dans la barre d’édition.
+Dans les différentes applications (blog, actualités, messagerie, cahier de textes, wiki …), vous pouvez intégrer des ressources externes comme des exercices interactifs, des vidéos, des murs collaboratifs, etc.
 
-![](.gitbook/assets/editeurone%20%282%29%20%281%29.png)
+Pour cela, rendez-vous sur une application, cliquez sur le bouton “Créer” et accédez à l’éditeur de texte. Cliquez sur l’icône multimédia présente dans la barre d’édition.
 
-**Intégrer un lien à l'aide d'une URL**
+![](.gitbook/assets/editeur-de-texte-enrichi.png)
 
-Différentes ressources sont proposées par défaut sur votre réseau éducatif \(LearningApps, Educaplay, YouTube, Dailymotion, Vimeo, Libcast...\) et peuvent être intégrées à un service en recopiant leur adresse internet \(ex : [https://learningapps.org/1459550](https://learningapps.org/1459550)\).
+La fenêtre, qui s’affiche propose un choix entre quatre options d’intégration multimédia :
 
-a\) Copiez d’abord l’adresse URL du contenu
+* L’onglet LIEN permet d’intégrer une vidéo en copiant-collant l’URL ou le code embed issu d’une plateforme de partage
+* L’onglet CAMERA permet de réaliser la captation, sur votre appareil, directement depuis votre espace numérique, en cliquant simplement sur “Démarrer l’enregistrement”.
+* L’onglet CHARGER permet d’utiliser une vidéo qui a été enregistrée par ailleurs depuis votre smartphone ou votre ordinateur.
+* L’onglet ESPACE DOCUMENTAIRE vous permet d’incorporer un contenu multimédia déjà présent dans votre espace numérique.
 
-![](.gitbook/assets/learningappsone%20%282%29%20%282%29.png)
+![](.gitbook/assets/onglets-ajout-contenu-multimédia-1D.png)
 
-b\) Intégrez la ressource dans une application Cliquez sur l’icône du type de contenu à insérer, LearningApps par exemple.
+**Intégrer un lien à partir d'une URL**
 
-![](.gitbook/assets/iconelearningappsone%20%282%29%20%281%29.png)
+Différentes ressources sont proposées par défaut (LearningApps, Educaplay, YouTube, Dailymotion, Vimeo, Libcast...) et peuvent être intégrées à un service en recopiant leur adresse internet (ex : [https://learningapps.org/1459550](https://learningapps.org/1459550)).
 
-Une nouvelle fenêtre s’ouvre, dans laquelle vous pouvez coller l’adresse de la ressource en question \(1\). Une prévisualisation du contenu s’affiche \(2\), si vous souhaitez l’intégrer, cliquez sur le bouton “Appliquer” \(3\).
+1. Copiez d’abord l’adresse URL du contenu
 
-![](.gitbook/assets/appercula-one%20%281%29%20%281%29.png)
+    ![](.gitbook/assets/exemple-ressource-externe-learningapps.png)
+
+2. Intégrez la ressource dans une application
+
+    Cliquez sur l’icône du type de contenu à insérer, (LearningApps dans notre exemple).
+
+    ![](.gitbook/assets/selection-learningapps-onglet-lien-ajout-contenu-multimedia-1D.png)
+
+    Une nouvelle fenêtre s’ouvre, dans laquelle vous pouvez coller l’adresse de la ressource en question (1). Une prévisualisation du contenu s’affiche (2), si vous souhaitez l’intégrer, cliquez sur le bouton “Appliquer” (3).
+
+    ![](.gitbook/assets/apercu-learningapps-onglet-lien-ajout-contenu-multimedia-1D.png)
+    
+La ressource est maintenant intégrée à votre contenu !
 
 **Ajouter une ressource dont le type n’est pas proposé par défaut**
 
 Si le type de la ressource à intégrer n’est pas proposé par défaut, il faudra coller le code d’intégration.
 
-_**a\) Exemples de contenus à intégrer via le code d'intégration \(embed ou iframe\)**_
+1. _**Exemples de contenus à intégrer via le code d'intégration (embed ou iframe)**_
 
-Il existe de nombreuses ressources internet que vous pouvez intégrer sur votre réseau éducatif, si le code d’intégration lié est proposé.
+    Il existe de nombreuses ressources internet que vous pouvez intégrer sur votre réseau éducatif si le code d’intégration lié est proposé. Ce code se trouve souvent derrière le symbole : **</>** mais on peut le trouver également derrière un bouton "Partager" ou des icônes de partage.
 
-Voici quelques exemple de sites qui proposent des ressources intéressantes que vous pouvez intégrer sur les contenus partagés :
+    Voici quelques exemples de sites qui proposent des ressources intéressantes que vous pouvez intégrer sur les contenus partagés :
+    
+    * [Padlet](https://padlet.com/my/dashboard) propose des murs collaboratifs.
+    * [Geogebra](https://www.geogebra.org/) fournit, pour tous les niveaux d'éducation, des ressources de mathématiques dynamiques qui associent géométrie, algèbre, tableur, grapheur, statistiques et calcul infinitésimal.
+    * [Corpus](https://www.reseau-canope.fr/corpus/) permet d'explorer le corps humain dans toutes ses dimensions au travers d'une interface 3D, de vidéos et de vidéos enrichies.
+    * [Scratch](https://scratch.mit.edu/) pour l’apprentissage des élèves au codage informatique.
+    * [OpenStreetMap](http://www.openstreetmap.fr/) : Le wiki cartographique mondial qui crée et fournit des données géographiques sous licence libre.
+    * Vous pouvez également intégrer des contenus interactifs (Présentations, Infographies, Dossiers, Vidéos-Présentations, ePosters, Quiz,...) créés sur [Genially](https://www.genial.ly/fr).    
+    
+2. _**Collez le code d’intégration pour intégrer la ressource sur votre espace numérique**_
 
-* Les vidéos du site [Les Fondamentaux](https://www.reseau-canope.fr/lesfondamentaux/accueil.html) ;
-* [Padlet](https://padlet.com/my/dashboard) qui propose des murs collaboratifs ;
-* [Scratch](https://scratch.mit.edu/) pour l’apprentissage des élèves au codage informatique.
+    Une fois le code d’intégration copié, vous pouvez insérer la ressource dans toutes les applications dotées de l’éditeur de texte en cliquant sur l’icône d’intégration ci-contre.
 
-_**b\) Collez le code d’intégration pour intégrer la ressource sur votre réseau éducatif**_
+    ![](.gitbook/assets/coller-code-integration-ajout-contenu-multimedia-1-1D.png)
 
-Une fois le code d’intégration copié, vous pouvez insérer la ressource dans toutes les applications dotées de l’éditeur de texte en cliquant sur l’icône d’intégration ci-contre.
+    Une fenêtre s’ouvre, vous pouvez alors :
 
-![](.gitbook/assets/7.one_ajout_multimedia-2.png)
+    1. Coller le lien d’intégration de la ressource ;
+    2. Voir un aperçu du contenu à intégrer ;
+    3. Cliquer sur le bouton « Appliquer » pour intégrer la ressource au contenu.
 
-Une fenêtre s’ouvre, vous pouvez alors :
+    ![](.gitbook/assets/coller-code-integration-ajout-contenu-multimedia-2-1D.png)
+    
+**Captation vidéo**
 
-1. Coller le lien d’intégration de la ressource ;
-2. Voir un aperçu du contenu à intégrer ;
-3. Cliquer sur le bouton « Appliquer » pour intégrer la ressource au contenu.
+Vous pouvez également ajouter une capture vidéo.
 
-![](.gitbook/assets/8.one_.ajout_.multimedia.png)
+Pour cela, sélectionnez l’onglet Caméra (1) dans la fenêtre qui s’ouvre lorsque vous cliquez sur l’icône Ajouter une vidéo. Puis autoriser (2) si besoin l’utilisation du micro et de la caméra de votre appareil.
 
-La ressource est maintenant intégrée à votre contenu !
+![](.gitbook/assets/captation-video-autoriser-camera-micro-1D.png)
+
+Pour que l’enregistrement se lance, cliquez sur le bouton «Démarrer l’enregistrement». (3)
+
+![](.gitbook/assets/captation-video-demarrer-enregistrement-1D.png)
+
+Pour arrêter la captation, cliquez sur l’icône «Arrêter» (4). Vous pouvez ensuite voir votre enregistrement en cliquant sur «Lire» la vidéo (5). Pour recommencer, cliquer sur l’icône «Refaire» (6).
+
+![](.gitbook/assets/captation-video-arreter-enregistrement-1D.png)
+
+![](.gitbook/assets/captation-video-lire-refaire-enregistrement-1D.png)
+
+Pour sauvegarder votre vidéo, cliquer sur l’icône «Enregistrer» (7).
+
+![](.gitbook/assets/captation-video-valider-enregistrement-1D.png)
+
+Lorsque vous l’enregistrez, un message vous avertit que la vidéo est automatiquement placée dans votre Espace documentaire (par défaut dans la section “Documents ajoutés dans les applis”). Cliquer sur le bouton “Ajouter” (8) pour intégrer votre capture vidéo dans l'éditeur de contenu.
+
+![](.gitbook/assets/captation-video-enregistrée-1D.png)
+
+**Chargement de fichier vidéo**
+
+L’onglet CHARGER vous permet d’importer vos propres fichiers vidéos. Lors du clic sur cet onglet, une zone de dépôt apparait avec le rappel des types de fichiers supportés et de la taille maximale autorisée. Pour ajouter un fichier, vous pouvez glisser-déposer un fichier depuis votre explorateur de fichiers ou cliquer sur le bouton “Parcourir”.
+
+![](.gitbook/assets/upload-video-parcourir-1D.png)
+
+Les fichiers vidéos sont automatiquement compressés et convertis au format mp4 afin d’optimiser la lecture en direct depuis le navigateur ou l’application mobile.
+
+![](.gitbook/assets/upload-video-importer-1D.png)
+
+En cliquant sur le bouton “Importer”, un message vous avertit que la vidéo est automatiquement placée dans votre Espace documentaire (par défaut dans l’onglet “Documents ajoutés dans les applis”). Cliquer sur le bouton “Ajouter” pour intégrer votre vidéo dans l'éditeur de contenu.
+
+![](.gitbook/assets/upload-video-enregistrée-1D.png)
+
+**Parcourir mon espace documentaire**
+
+Enfin, le dernier onglet de la fenêtre permet de parcourir son espace personnel pour intégrer un fichier vidéo (captation ou import) déjà stocké dans l’appli Espace documentaire. Il vous suffit donc de sélectionner la vidéo de votre choix , puis cliquer sur “Ajouter” pour l’intégrer à votre contenu.
+
+![](.gitbook/assets/ajout-video-espace-doc-1D.png)
 
 ## Utiliser le dictaphone
 
