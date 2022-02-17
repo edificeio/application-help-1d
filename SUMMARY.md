@@ -13,6 +13,7 @@
 * [Casier](application/rack.md)
 * [Espace documentaire](application/workspace.md)
 * [Mes données](application/archive.md)
+* [Formulaire](application/formulaire.md)
 * [Frise chronologique](application/timelinegenerator.md)
 * [Mes applis](application/portal.md)
 * [Messagerie](application/conversation.md)
