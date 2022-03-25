@@ -72,7 +72,7 @@ L’outil de création de la section s’affiche dans la page :
 
 Une fois la saisie des différentes questions terminée, vous avez différents **boutons d'action** :
 
-![](.gitbook/assets/Boutons d'action.png)
+![](<.gitbook/assets/Boutons d'action.png>)
 
 * **Retour :** le formulaire s’enregistre et la page d’accueil de Formulaire s’ouvre.
 
