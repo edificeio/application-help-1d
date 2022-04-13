@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Premiers pas](application/timeline.md)
 * [Actualités](application/actualites.md)
+* [Agenda](application/calendar.md)
 * [Annuaire](application/directory.md)
 * [Assistance ENT](application/support.md)
 * [Blog](application/blog.md)
