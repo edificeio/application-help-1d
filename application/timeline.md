@@ -249,9 +249,7 @@ Pour sauvegarder votre vidéo, cliquer sur l’icône «Enregistrer» (7).
 
 ![](.gitbook/assets/captation-video-valider-enregistrement-1D.png)
 
-Lorsque vous l’enregistrez, un message vous avertit que la vidéo est automatiquement placée dans votre Espace documentaire (par défaut dans la section “Documents ajoutés dans les applis”). Cliquer sur le bouton “Ajouter” (8) pour intégrer votre capture vidéo dans l'éditeur de contenu.
-
-![](.gitbook/assets/captation-video-enregistrée-1D.png)
+Lorsque vous l’enregistrez, la vidéo est automatiquement intégrée à l'éditeur de contenu et un message vous avertit que la vidéo a été placée dans votre Espace documentaire (par défaut dans la section “Documents ajoutés dans les applis”).
 
 **Chargement de fichier vidéo**
 
@@ -263,9 +261,7 @@ Les fichiers vidéos sont automatiquement compressés et convertis au format mp4
 
 ![](.gitbook/assets/upload-video-importer-1D.png)
 
-En cliquant sur le bouton “Importer”, un message vous avertit que la vidéo est automatiquement placée dans votre Espace documentaire (par défaut dans l’onglet “Documents ajoutés dans les applis”). Cliquer sur le bouton “Ajouter” pour intégrer votre vidéo dans l'éditeur de contenu.
-
-![](.gitbook/assets/upload-video-enregistrée-1D.png)
+En cliquant sur le bouton “Importer”, la vidéo est automatiquement intégrée à l'éditeur de contenu et un message vous avertit que la vidéo a été placée dans votre Espace documentaire (par défaut dans la section “Documents ajoutés dans les applis”).
 
 **Parcourir mon espace documentaire**
 
