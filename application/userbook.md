@@ -128,11 +128,11 @@ En un seul clic, vous choisissez l’icône correspondant au niveau de visibilit
 
 * L’icône “Cadenas” signifie que l’information est privée, vous êtes le \(la\) seul\(e\) à la voir.
 
-![](.gitbook/assets/m16%20%281%29%20%285%29.png)
+    ![](.gitbook/assets/m16%20%281%29%20%285%29.png)
 
 * L’icône “Globe” signifie que l’information est visible des autres utilisateurs de l’ENT, en fonction des droits de communication dont ils disposent.
 
-![](.gitbook/assets/m18%20%283%29%20%286%29.png)
+    ![](.gitbook/assets/m18%20%283%29%20%286%29.png)
 
 Lorsque vous ajoutez ou modifiez le texte ou les paramètres de visibilité dans votre espace personnel, l’enregistrement est automatique.
 

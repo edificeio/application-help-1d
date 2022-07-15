@@ -90,4 +90,3 @@ Il y a quatre exports différents :
 * Un export contenant les statistiques des applications.
 * Un export contenant les statistiques des connecteurs.
 * Un export contenant les statistiques de connexions par type de support.
-

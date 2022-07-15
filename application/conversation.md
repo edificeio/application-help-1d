@@ -58,7 +58,7 @@ Toutes les modifications effectuées sont automatiquement enregistrées. Vous po
 
 Une fois que votre message est prêt, vous pouvez l’envoyer.
 
-![](.gitbook/assets/messagerie-envoi%20%281%29.PNG)
+![](.gitbook/assets/messagerie-envoi%20%281%29.png)
 
 ## Visualiser mes messages reçus
 
@@ -116,7 +116,9 @@ En revenant à la liste de vos messages dans la rubrique « Boîte de réception
 
 ## Répondre, transférer, classer et supprimer un message
 
-Lorsque vous avez cliquez sur le titre d’un message, vous accédez à son contenu. Le bouton « répondre » en haut à droite vous permet de répondre à l’émetteur du message. ![](.gitbook/assets/messagerie-v2-16%20%282%29%20%284%29.png)
+Lorsque vous avez cliquez sur le titre d’un message, vous accédez à son contenu. Le bouton « répondre » en haut à droite vous permet de répondre à l’émetteur du message. 
+
+![](.gitbook/assets/messagerie-v2-16%20%282%29%20%284%29.png)
 
 La fenêtre de création d’un message s’ouvre. L’émetteur du message reçu est automatiquement ajouté en tant que destinataire.
 

@@ -56,11 +56,11 @@ Les différents droits que vous pouvez attribuer aux autres utilisateurs sont le
 
 Sur les vignettes de blog, des icônes vous permettent facilement de connaitre vos droit sur les contenus :
 
-* ![](https://github.com/opendigitaleducation/application-help-1d/tree/081e1f4b82e285a0b63a63ae402b347d6c888761/application/.gitbook/assets/eye.png) : Consulter
-* ![](https://github.com/opendigitaleducation/application-help-1d/tree/081e1f4b82e285a0b63a63ae402b347d6c888761/application/.gitbook/assets/pencil.png) : Contribuer
-* ![](https://github.com/opendigitaleducation/application-help-1d/tree/081e1f4b82e285a0b63a63ae402b347d6c888761/application/.gitbook/assets/cog.png) : Gérer
+* ![](.gitbook/assets/eye.png) : Consulter
+* ![](.gitbook/assets/pencil.png) : Contribuer
+* ![](.gitbook/assets/cog.png) : Gérer
 
-De plus, concernant les blogs sur lesquels vous êtes propriétaire, l'icone suivante vous permet de savoir si le contenu a déjà été partagé :![](https://github.com/opendigitaleducation/application-help-1d/tree/081e1f4b82e285a0b63a63ae402b347d6c888761/application/.gitbook/assets/share-1.png)
+De plus, concernant les blogs sur lesquels vous êtes propriétaire, l'icone suivante vous permet de savoir si le contenu a déjà été partagé : ![](.gitbook/assets/share-1.png)
 
 ![](.gitbook/assets/2019-07-12_17h49_02%20%283%29.png)
 
@@ -84,7 +84,7 @@ Note : Si l'on rend public un blog, les documents chargés sur le blog \(par vou
 
 ![](.gitbook/assets/image%20%2839%29.png)
 
-Sur la vignette du blog, le symbole suivant vous informe que le contenu est public :![](https://github.com/opendigitaleducation/application-help-1d/tree/081e1f4b82e285a0b63a63ae402b347d6c888761/application/.gitbook/assets/globe.png).
+Sur la vignette du blog, le symbole suivant vous informe que le contenu est public : ![](.gitbook/assets/globe.png).
 
 ![](.gitbook/assets/2019-07-11_10h34_53%20%284%29%20%284%29.png)
 

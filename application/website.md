@@ -37,4 +37,3 @@ _NB : l'édition Wordpress d'un site n'est possible que le lendemain de sa créa
 L'édition vous redirige sur un back-office WordPress, qui va vous permettre d’ajouter des pages et des articles. Vous y aurez également la possibilité de personnaliser plus finement l’apparence de votre site web \(thèmes, widgets, menus…\). Pour devenir incollable sur la création d’un site avec l’outil WordPress, consultez le manuel d’utilisation accessible [ici](https://wordpress.com/fr/support/)
 
 ![](.gitbook/assets/wordpress.png)
-

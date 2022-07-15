@@ -38,4 +38,3 @@ Les référents ENT et les demandeurs de l'établissement seront notifiés sur l
 ![](.gitbook/assets/assistance-5%20%282%29%20%285%29.png)
 
 ![](.gitbook/assets/aide_4-1024x432-1%20%281%29%20%285%29.png)
-

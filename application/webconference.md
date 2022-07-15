@@ -59,4 +59,3 @@ Il vous est aussi possible de **charger un document**, de créer un **sondage en
 Vous y trouverez aussi l'option "**plein écran**" et l'**aide** \(1\). Cliquez sur ces trois points si vous voulez **mettre fin à la réunion** et/ou vous déconnecter \(2\).
 
 ![](.gitbook/assets/image%20%2879%29%20%281%29.png)
-

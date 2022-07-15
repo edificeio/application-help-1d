@@ -91,7 +91,7 @@ Vous avez également la possibilité de créer des listes de favoris directement
 
 Vous pouvez envoyer directement un message sur la Messagerie en sélectionnant votre liste de favori depuis l’Annuaire. Une fois le favori sélectionné, il vous suffira de cliquer sur "Envoyer un message au favori"
 
-![Envoyer un message &#xE0; un favori depuis l&apos;Annuaire](.gitbook/assets/annuaire1d-message-favori%20%282%29%20%285%29.png)
+![Envoyer un message &#xE0; un favori depuis l Annuaire](.gitbook/assets/annuaire1d-message-favori%20%282%29%20%285%29.png)
 
 Les utilisateurs de votre favori seront ainsi directement pré-sélectionnés dans votre message
 

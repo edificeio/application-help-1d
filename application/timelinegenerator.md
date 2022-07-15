@@ -45,11 +45,11 @@ Les différents droits que vous pouvez attribuer sont les suivants :
 
 En bas de chaque frise, vous pourrez voir quel droit vous disposez sur la frise en question grâce aux icônes suivantes:
 
-* ![](https://github.com/opendigitaleducation/application-help-1d/tree/081e1f4b82e285a0b63a63ae402b347d6c888761/application/.gitbook/assets/eye.png) : Consulter
-* ![](https://github.com/opendigitaleducation/application-help-1d/tree/081e1f4b82e285a0b63a63ae402b347d6c888761/application/.gitbook/assets/pencil.png) : Contribuer
-* ![](https://github.com/opendigitaleducation/application-help-1d/tree/081e1f4b82e285a0b63a63ae402b347d6c888761/application/.gitbook/assets/cog.png) : Gérer
+* ![](.gitbook/assets/eye.png) : Consulter
+* ![](.gitbook/assets/pencil.png) : Contribuer
+* ![](.gitbook/assets/cog.png) : Gérer
 
-De plus, pour les frises vous appartenant, vous pourrez voir quels sont les frises que vous aurez déjà partagé car elles auront cette icône : ![](https://github.com/opendigitaleducation/application-help-1d/tree/081e1f4b82e285a0b63a63ae402b347d6c888761/application/.gitbook/assets/share-1.png)
+De plus, pour les frises vous appartenant, vous pourrez voir quels sont les frises que vous aurez déjà partagé car elles auront cette icône : ![](.gitbook/assets/share-1.png)
 
 ## Organiser ses frises chronologiques
 
@@ -166,4 +166,3 @@ Vous aurez ensuite la possibilité de modifier les champs saisis ou de supprimer
 ![](.gitbook/assets/image%20%2858%29.png)
 
 ![](.gitbook/assets/image%20%2868%29.png)
-

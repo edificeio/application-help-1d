@@ -46,7 +46,7 @@ Les différents droits que vous pouvez attribuer sont les suivants :
 * Contribution : l’utilisateur peut modifier le cahier
 * Gestion : l’utilisateur peut partager, modifier et supprimer le cahier
 
-Pour les cahiers vous appartenant, vous pourrez voir quels sont les cahiers que vous aurez déjà partagé car ils auront cette icône : ![](https://github.com/opendigitaleducation/application-help-1d/tree/081e1f4b82e285a0b63a63ae402b347d6c888761/application/.gitbook/assets/share-1.png)
+Pour les cahiers vous appartenant, vous pourrez voir quels sont les cahiers que vous aurez déjà partagé car ils auront cette icône : ![](.gitbook/assets/share-1.png)
 
 ## Organiser ses cahiers multimédias
 

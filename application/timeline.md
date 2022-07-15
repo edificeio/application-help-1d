@@ -406,4 +406,3 @@ Vous retrouverez ensuite ce favori de partage dans votre barre de recherche, au 
 Afin que vous partage soit pris en compte, n’oubliez pas de cliquer sur le bouton "Partager".
 
 ![](.gitbook/assets/2018-08-22_17h52_48-1-1%20%285%29.png)
-

@@ -146,4 +146,3 @@ Vous aurez ensuite la possibilité de modifier les champs saisis ou de supprimer
 ![](.gitbook/assets/image%20%2867%29.png)
 
 ![](.gitbook/assets/image%20%2841%29.png)
-

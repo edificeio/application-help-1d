@@ -12,7 +12,7 @@ L’appli Carte Mentale permet de **représenter visuellement une arborescence**
 
 Pour accéder à l’appli Carte mentale, cliquez sur l’icône correspondante dans la page « Mes applis ».
 
-![](.gitbook/assets/cartementale_1-appli%20%282%29%20%285%29.JPG)
+![](.gitbook/assets/cartementale_1-appli%20%282%29%20%285%29.jpg)
 
 Cliquez sur « Créer une carte mentale ».
 

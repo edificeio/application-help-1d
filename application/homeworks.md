@@ -6,7 +6,7 @@ Devenez un maître de l’organisation avec l’appli **Cahier de Textes** ! Cr�
 
 Il est facile de publier les leçons des élèves dans le cahier de textes. Les élèves y accèdent jour par jour et disposent également d’une synthèse de la semaine \(vue semaine\). Le cahier peut être partagé avec un utilisateur ou un groupe d’utilisateurs, selon les souhaits de l’enseignant.
 
-![](.gitbook/assets/vu-semaine_vierge%20%283%29.png)
+![](.gitbook/assets/vu-semaine_vierge.png)
 
 ## Créer un cahier de textes
 
