@@ -13,6 +13,7 @@
 * [Carte mentale](application/mindmap.md)
 * [Casier](application/rack.md)
 * [Espace documentaire](application/workspace.md)
+* [Exercices](application/exercizer.md)
 * [Mes données](application/archive.md)
 * [Formulaire](application/formulaire.md)
 * [Frise chronologique](application/timelinegenerator.md)
