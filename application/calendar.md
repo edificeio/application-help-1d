@@ -57,7 +57,9 @@ La fenêtre de création d’événement apparait en popup. Elle se décompose e
 
 ![](.gitbook/assets/03_creer_evenement1D.png)
 
-Le premier onglet appelé **"Détails"** comporte les informations générales de l’événement à créer :
+**Onglet Détails**
+
+Cette première rubrique comporte les informations générales de l’événement à créer :
 
 * le ou les agendas auxquels il appartient (à sélectionner parmi la liste des calendriers que l’utilisateur peut modifier, par défaut c’est l’agenda personnel qui est sélectionné),
 
@@ -67,18 +69,21 @@ Le premier onglet appelé **"Détails"** comporte les informations générales d
 
 * le lieu.
 
-Vous disposez également d’un bouton vous permettant d’associer une pièce jointe à votre événement. 
+* une ou des pièces jointes, à charger depuis son appareil ou à importer depuis son espace documentaire.
 
-Le second onglet appelé **"Dates"** permet la sélection de la plage horaire de l’événement.
+**Onglet Dates**
+
+Ce second onglet permet la sélection de la plage horaire de l’événement.
 
 ![](.gitbook/assets/03_date1D.png)
 
 Il est possible de changer les dates et heures de début et de fin. La case à cocher « Toute la journée » permet de définir un événement sans heure de début ou de fin.
 
-Enfin le dernier onglet appelé **"Récurrence"** permet de définir la récurrence de l’événement si nécessaire.
+**Onglet Récurrence**
 
-![](.gitbook/assets/03_recurrence1D.png)
+Enfin le troisième onglet appelé **"Récurrence"** permet de définir la récurrence de l’événement si nécessaire.
 
+![](.gitbook/assets/03_recurrence1D.png)										
 Pour cela, il faut cocher la case « Récurrence » pour pouvoir accéder à la sélection du paramétrage de la récurrence. Ensuite, il est possible de modifier :
 
 1. le type de récurrence (Tous les jours ou Toutes les semaines)
@@ -87,8 +92,9 @@ Pour cela, il faut cocher la case « Récurrence » pour pouvoir accéder à la 
 
 3. La fin de la série d’événements récurrents. Cette fin peut être paramétrée après un nombre d’occurrences ou à une date donnée.
 
-**Si le type de récurrence est « Toutes les semaines », la liste des jours de la semaine apparaît afin de choisir le ou les jours sur lesquelles se produira la récurrence.**
+**Si le type de récurrence est « Toutes les semaines », la liste des jours de la semaine apparaît afin de choisir le ou les jours sur lesquels se produira la récurrence.**
 
+Une fois la récurrence créée, on peut choisir de modifier seulement un évènement de la récurrence, ou l'ensemble des occurrences de l'évènement.
 ## Partager un agenda
 
 Afin de partager un agenda, il faut **le sélectionner** dans le menu à gauche puis **choisir "Partager"** dans le menu en bas.
@@ -109,11 +115,11 @@ Dans la fenêtre, vous pouvez donner aux utilisateurs différents droits d’acc
 
 Les droits de partage que vous pouvez attribuer aux autres utilisateurs sont les suivants :
 
-* **Lecteur** : l’utilisateur peut lire le contenu
+* **Lire** : l’utilisateur peut afficher les événements de l'agenda (à l'exception de ceux qui ont été restreints)
 
-* **Contribuer** : l’utilisateur peut contribuer à votre agenda
+* **Contribuer** : l’utilisateur peut contribuer à votre agenda en y créant des évènements. Il pourra également modifier, supprimer et restreindre les événements qu'il a créés dans cet agenda.
 
-* **Gestionnaire** : l’utilisateur peut modifier ou supprimer ou partager l’agenda
+* **Gérer** : l’utilisateur peut modifier les propriétés, supprimer ou partager l’agenda. Il peut également éditer tous les événements de l'agenda.
 
 ## Partager un événement
 

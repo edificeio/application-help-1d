@@ -12,17 +12,17 @@ L’appli Carte Mentale permet de **représenter visuellement une arborescence**
 
 Pour accéder à l’appli Carte mentale, cliquez sur l’icône correspondante dans la page « Mes applis ».
 
-![](.gitbook/assets/cartementale_1-appli%20%282%29%20%285%29.jpg)
+![](<.gitbook/assets/mindmap1D_02-créer-carte-mentale-1.png>)
 
 Cliquez sur « Créer une carte mentale ».
 
-![](.gitbook/assets/image%20%2845%29%20%281%29.png)
+![](<.gitbook/assets/mindmap1D_02-créer-carte-mentale-2.png>)
 
 1. Saisissez un nom de carte
 2. Renseignez une description
 3. Cliquez sur « Enregistrer »
 
-![](.gitbook/assets/image%20%2852%29.png)
+![](<.gitbook/assets/mindmap1D_02-créer-carte-mentale-3.png>)
 
 Cliquez sur le nom de votre carte mentale dans le menu principal pour commencer à la construire. Le titre de la carte constitue le nœud de départ.
 
@@ -52,9 +52,9 @@ Pour ajouter lien entre deux nœuds, sélectionnez le nœud de départ \(1\), cl
 
 Grâce à la barre d’outils de la carte mentale vous pouvez ajouter à vos nœuds :
 
-* des émoticônes : pour faciliter la visualisation et la mémorisation d’une notion ; 
+* des émoticônes : pour faciliter la visualisation et la mémorisation d’une notion ;
 * des notes pour compléter le texte du nœud
-* des liens externes 
+* des liens externes
 
 Pour ajouter un contenu complémentaire, sélectionnez le nœud et cliquez sur les icônes suivantes dans la barre d’outils.
 
@@ -68,9 +68,9 @@ Lorsque la carte mentale est terminée, cliquez sur « Enregistrer ». Votre car
 
 ## Partager une Carte Mentale
 
-Pour partager une carte mentale avec d’autres utilisateurs, cliquez sur le + \(1\) située à côté de la carte puis sur « Partager » \(2\).
+Pour partager une carte mentale avec d’autres utilisateurs, cliquez sur la carte mentale que vous souhaitez partager, puis choisissez l'option "partager" sur le menu.
 
-![](.gitbook/assets/image%20%2863%29.png)
+![](<.gitbook/assets/mindmap1D_07-partager-carte-mentale.png>)
 
 Dans la fenêtre de partage, vous pouvez donner des droits de lecture, de contribution et de gestion à d’autres personnes sur votre carte. Pour cela, saisissez les premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs que vous recherchez \(1\), sélectionnez le résultat \(2\) et cochez les cases correspondant aux droits que vous souhaitez leur attribuer \(3\). Cliquez sur "Partager" pour valider \(4\).
 
@@ -88,18 +88,18 @@ La Bibliothèque est un espace de partage et d’inspiration entre enseignants.
 
 Si vous souhaitez publier votre carte mentale dans la bibliothèque pour inspirer d’autres enseignants, il vous suffit de cliquer sur le contenu que vous voulez publier. Le bandeau orange en bas de l’écran s’affiche. Cliquez sur le bouton « Publier dans la Bibliothèque ».
 
-![](.gitbook/assets/image%20%2857%29.png)
+![](<.gitbook/assets/mindmap1D_08-Publier.png>)
 
 Vous devez ensuite renseigner les caractéristiques de votre contenu pour expliquer votre usage :
 
 * Titre : le plus explicatif possible
 * Vignette : carrée au format JPG ou PNG
-* Description et contexte pédagogique : Décrivez l’activité, son contexte, vos intentions pédagogiques, les résultats obtenus… Dites-nous tout ! 
-* Type d’activité : activité en classe, à la maison, individuelle, en groupe ? 
+* Description et contexte pédagogique : Décrivez l’activité, son contexte, vos intentions pédagogiques, les résultats obtenus… Dites-nous tout !
+* Type d’activité : activité en classe, à la maison, individuelle, en groupe ?
 * Discipline : Quelle est la discipline concernée par l’activité
-* Langue : Dans quelle langue est l’activité ? 
-* Âge des élèves : Quel est la tranche d’âge des élèves concernés par l’activité ? 
-* Mots-clés : Quels sont les mots-clés qui caractérisent le mieux votre activité ? 
+* Langue : Dans quelle langue est l’activité ?
+* Âge des élèves : Quel est la tranche d’âge des élèves concernés par l’activité ?
+* Mots-clés : Quels sont les mots-clés qui caractérisent le mieux votre activité ?
 
 ![](.gitbook/assets/image%20%2866%29.png)
 
@@ -113,3 +113,62 @@ Vous aurez ensuite la possibilité de modifier les champs saisis ou de supprimer
 
 ![](.gitbook/assets/image%20%2875%29.png)
 
+## Dupliquer une carte mentale
+
+Cliquez sur la carte mentale dont vous souhaitez faire une copie, puis choisissez l'option "dupliquer" sur le menu.
+
+![](<.gitbook/assets/Mindmap1D_09-dupliquer-1.png>)
+
+Vous verrez apparaître un message vous signalant que la copie a été correctement réalisée.
+
+![](<.gitbook/assets/Mindmap1D_09-dupliquer-2.png>)
+
+Vous pourrez ensuite vérifier que la copie est bien présente dans votre application.
+
+![](<.gitbook/assets/Mindmap1D_09-dupliquer-3.png>)
+
+## Gestion des dossiers
+
+Les cartes mentales peuvent être **rangées et triées dans des dossiers**.
+
+**Créer un dossier**
+
+Pour créer un dossier, il vous suffit de cliquer sur le bouton **« Créer un dossier »**.
+
+![](<.gitbook/assets/Mindmap1D_10-gestion-dossier-1.png>)
+
+Au clic sur ce bouton, une pop-up apparait où il vous est demandé de renseigner **le nom du dossier**. Il suffit de cliquer sur **« Enregistrer »** pour valider l'action de création d'un dossier.
+
+![](<.gitbook/assets/Mindmap1D_10-gestion-dossier-2.png>)
+
+**L’arborescence à gauche** vous permet de **vous retrouver parmi tous les dossiers** que vous avez créés. Une fois le dossier créé, il devient **visible** dans cette arborescence.
+
+![](<.gitbook/assets/Mindmap1D_10-gestion-dossier-3.png>)
+
+**Déplacer un dossier**
+
+Pour déplacer un dossier il vous suffit de **sélectionner le dossier à déplacer** puis de cliquer sur le bouton **« Déplacer »** dans le bandeau orange en bas.
+
+![](<.gitbook/assets/Mindmap1D_10-gestion-dossier-4.png>)
+
+Une pop-up apparait, affichant toute **l’arborescence de dossiers**. Pour choisir le nouvel emplacement du dossier :
+
+1. **Sélectionner l’endroit** dans lequel vous souhaitez déplacer votre dossier
+
+2. Cliquez sur **« Déplacer »** pour valider l’action
+
+    ![](<.gitbook/assets/Mindmap1D_10-gestion-dossier-5.png>)
+
+**Supprimer un dossier**
+
+Pour supprimer un dossier il suffit de :
+
+1. **Sélectionner le dossier** à supprimer
+
+2. Cliquer sur le bouton **« Supprimer »** dans le bandeau orange en bas
+
+   ![](<.gitbook/assets/Mindmap1D_10-gestion-dossier-6.png>)
+
+Une pop-up avec un **message de confirmation** de la suppression apparait. Un clic sur le bouton **« Supprimer »** permet de confirmer l’action de suppression.
+
+![](<.gitbook/assets/Mindmap1D_10-gestion-dossier-7.png>)
