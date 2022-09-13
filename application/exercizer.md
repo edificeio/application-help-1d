@@ -322,7 +322,7 @@ Cette option vous permettra notamment de ne pas inclure ces élèves dans les ra
 
 Elle n’est disponible que pour les sujets interactifs.
 
-![](<.gitbook/assets/exercizer_rendu_manuel_old.png>)
+![](<.gitbook/assets/exercizer_rendu_manuel.png>)
 
 ## Enseignant - Partager un sujet
 
@@ -392,7 +392,7 @@ Vous disposez de plusieurs statuts de correction pour vous repérer au cours des
 
 Vous pouvez cocher la case à gauche du nom de l’élève pour changer à la volée le statut d'une ou de plusieurs copies en "corrigé" (2).
 
-![](<.gitbook/assets/exercizer_corriger_sujet_interactif_2_old.png>)
+![](<.gitbook/assets/exercizer_corriger_sujet_interactif_2.png>)
 
 Cliquez sur le nom de l’élève pour corriger la copie rendue par celui-ci.
 
