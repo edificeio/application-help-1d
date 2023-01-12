@@ -4,7 +4,7 @@
 
 La page "Quoi de neuf ?" est la première page affichée après vous être connecté avec votre identifiant et mot de passe. Elle vous permet d’accéder à différentes fonctions et contenus, comme le fil de nouveautés, les widgets, le bandeau de navigation \(présents sur chaque page de la plateforme\) mais aussi de changer de thème.
 
-![](.gitbook/assets/page_accueil_1d%20%281%29%20%282%29.png)
+![](.gitbook/assets/timeline_01_Homepage.png)
 
 ## Le fil de nouveautés
 
@@ -81,9 +81,9 @@ Les widgets se situent à gauche du fil de nouveautés. Ils sont composés des n
 
 ![](.gitbook/assets/widget-humeur2.png)
 
-* Le widget **Dictaphone** permet d’enregistrer des sons depuis le micro de son ordinateur. Les sons seront enregistrés dans l’espace documentaire de l’utilisateur.
+* Le widget **Studio** permet d’enregistrer des sons ou des vidéos depuis le micro et la caméra de son ordinateur. Les sons et vidéos seront enregistrés dans la section "Documents ajoutés dans les applis" de son espace documentaire.
 
-![](.gitbook/assets/dictaphone1%20%281%29%20%281%29.png)
+![](.gitbook/assets/timeline_04_Widget-Studio.png)
 
 Vous pouvez changer l’ordre d’apparition des widgets sur la page d’accueil de la plateforme en sélectionnant le widget puis en le déplaçant sur la page.
 
@@ -163,7 +163,7 @@ L’éditeur d’images permet de :
 
 Dans les différentes applications (blog, actualités, messagerie, cahier de textes, wiki …), vous pouvez intégrer des ressources externes comme des exercices interactifs, des vidéos, des murs collaboratifs, etc.
 
-Pour cela, rendez-vous sur une application, cliquez sur le bouton “Créer” et accédez à l’éditeur de texte. Cliquez sur l’icône multimédia présente dans la barre d’édition.
+Pour cela, rendez-vous sur une application, cliquez sur le bouton de création d'un nouveau contenu et accédez à l’éditeur de texte. Cliquez sur l’icône multimédia présente dans la barre d’édition.
 
 ![](.gitbook/assets/editeur-de-texte-enrichi.png)
 
@@ -235,21 +235,7 @@ Pour cela, sélectionnez l’onglet Caméra (1) dans la fenêtre qui s’ouvre l
 
 ![](.gitbook/assets/captation-video-autoriser-camera-micro-1D.png)
 
-Pour que l’enregistrement se lance, cliquez sur le bouton «Démarrer l’enregistrement». (3)
-
-![](.gitbook/assets/captation-video-demarrer-enregistrement-1D.png)
-
-Pour arrêter la captation, cliquez sur l’icône «Arrêter» (4). Vous pouvez ensuite voir votre enregistrement en cliquant sur «Lire» la vidéo (5). Pour recommencer, cliquer sur l’icône «Refaire» (6).
-
-![](.gitbook/assets/captation-video-arreter-enregistrement-1D.png)
-
-![](.gitbook/assets/captation-video-lire-refaire-enregistrement-1D.png)
-
-Pour sauvegarder votre vidéo, cliquer sur l’icône «Enregistrer» (7).
-
-![](.gitbook/assets/captation-video-valider-enregistrement-1D.png)
-
-Lorsque vous l’enregistrez, la vidéo est automatiquement intégrée à l'éditeur de contenu et un message vous avertit que la vidéo a été placée dans votre Espace documentaire (par défaut dans la section “Documents ajoutés dans les applis”).
+Pour plus de détail sur l'enregistrement vidéo, consulter la rubrique "Enregistrer une vidéo"
 
 **Chargement de fichier vidéo**
 
@@ -269,36 +255,27 @@ Enfin, le dernier onglet de la fenêtre permet de parcourir son espace personnel
 
 ![](.gitbook/assets/ajout-video-espace-doc-1D.png)
 
-## Utiliser le dictaphone
+## Enregistrer un son
 
-Le dictaphone vous permet de créer une bande son à partir du micro de votre ordinateur, tablette ou smartphone. Vous pouvez ensuite enregistrer la bande son dans l’espace documentaire, ou l’intégrer directement à l’un de vos contenus sur votre réseau éducatif.
+Le dictaphone vous permet de créer une bande son à partir du micro de votre ordinateur, tablette ou smartphone. Vous pouvez enregistrer la bande son depuis l'outil "Studio" de la page d'accueil, ou l’intégrer directement à l’un de vos contenus sur votre réseau éducatif.
 
 **1. Accéder au dictaphone**
 
-a\) A partir de la page "Quoi de neuf?"
+a) A partir de la page "Quoi de neuf?"
 
-![](.gitbook/assets/dictaphone1%20%281%29.png)
+L'accès au dictaphone se fait en cliquant sur le bouton "Son" du widget Studio.
 
-Le module Dictaphone apparaît sur la partie gauche de la page d’accueil.
+![](.gitbook/assets/timeline_09_widget-studio-son.png)
 
-Si ce n’est pas le cas, il faut activer ce widget. Pour cela, ouvrez la fenêtre de personnalisation en cliquant sur l’icône en haut à droite du fil de nouveautés \(1\).
+Si le widget studio n'apparaît pas la partie gauche de la page d’accueil, il faut l'activer. Pour cela, ouvrez la fenêtre de personnalisation en cliquant sur l’icône en haut à droite du fil de nouveautés (1), puis assurez-vous, dans la rubrique "Widgets", que l’icône Studio est colorée. Sinon cliquez sur cette icône pour afficher le widget (2).
 
-![](.gitbook/assets/dictaphone-param.png)
+![](.gitbook/assets/timeline_09_param-widget-studio.png)
 
-La fenêtre de personnalisation s’ouvre, elle contient deux rubriques :
-
-* “Mes thèmes” vous permet de choisir votre fond d’écran
-* “Mes widgets” vous permet de choisir d’afficher ou non les widgets sur le fil de nouveautés
-
-Ici, assurez-vous que l’icône Dictaphone est colorée, sinon cliquez sur cette icône pour afficher le widget \(2\).
-
-Le module dictaphone apparaît alors en haut à gauche de la page d’accueil, vous pouvez maintenant l’utiliser \(3\).
-
-b\) A partir des applications via l'éditeur de texte
+b) A partir des applications via l'éditeur de texte
 
 Vous pouvez créer un son grâce au dictaphone accessible directement depuis le blog, le cahier de textes, le cahier multimédia, la frise chronologique, le wiki ou la messagerie. Pour cela, lors de la création de contenu sur l’éditeur de texte, cliquez sur l’icône “Ajouter un fichier audio”. Vous accéderez ainsi au module Dictaphone.
 
-![barre de menu de l&#x2019;&#xE9;diteur de texte enrichi](.gitbook/assets/dictaphone_editeur.png)
+![barre de menu de l&#x2019;&#xE9;diteur de texte enrichi](.gitbook/assets/timeline_09_editeurRiche-son.png)
 
 **2. Enregistrer la bande son**
 
@@ -310,27 +287,73 @@ Lorsque l’enregistrement est en cours, vous pouvez cliquer sur le bouton de pa
 
 ![](.gitbook/assets/dictaphone_suspendre.png)
 
-Vous avez alors la possibilité de Reprendre l’enregistrement \(1\), de le lire \(2\) de le recommencer \(3\), de personnaliser le nom de l’enregistrement \(4\) et de le sauvegarder dans l’espace documentaire \(5\)
+Vous avez alors la possibilité de Reprendre l’enregistrement (1), de le lire (2) de le recommencer (3), de personnaliser le nom de l’enregistrement (4) et de le sauvegarder dans l’espace documentaire (5)
 
 ![](.gitbook/assets/dictaphone_reprendre-lire-sauv.png)
 
 **3. Utiliser la bande son dans les applications de votre réseau**
 
-a\) Enregistrement réalisé dans une application via l’éditeur de texte
+a) Enregistrement réalisé dans une application via l’éditeur de texte
 
-Si vous enregistrez votre bande son à partir d’une application \(blog, cahier multimédia, cahier de textes…\), le fichier MP3 sera sauvegardé dans le dossier “Documents ajoutés dans les applis” \(1\) de l’espace documentaire.
+Si vous enregistrez votre bande son à partir d’une application (blog, cahier multimédia, cahier de textes…), la vidéo est automatiquement intégrée à l'éditeur de contenu et un message vous avertit que l'enregistrement a été placé dans votre Espace documentaire (par défaut dans la section “Documents ajoutés dans les applis”).
 
-Depuis la fenêtre d'import de son où vous avez effectué l'enregistrement, passez sur l'onglet PARCOURIR MON ESPACE PERSONNEL,
+b) Enregistrement réalisé à partir du widget Studio de la page « Quoi de neuf ? »
 
-![](.gitbook/assets/dictaphone-parcourirespaceperso.png)
-
-Choisissez la section “Documents ajoutés dans les applis” \(1\) dans la colonne de gauche, puis la vignette du son que vous venez d'enregistrer \(2\), dans la partie centrale. Cliquez ensuite sur le bouton "Ajouter", en haut à droite, pour importer votre son dans votre contenu.
-
-b\) Enregistrement réalisé à partir du widget Dictaphone de la page « Quoi de neuf ? »
-
-Rendez-vous sur l’application « Espace documentaire » \(1\) puis cliquez sur la rubrique “Documents ajoutés dans les applis” \(2\). Vous trouverez votre enregistrement sous le nom de “Capture jour/mois/année” si vous ne l'avez pas renommé. En sélectionnant la vignette \(3\), vous accéderez à différentes actions possibles \(4\), vous pourrez notamment renommer la bande son \(en cliquant sur le bouton Propriétés\) ou la partager avec vos élèves.
+Rendez-vous sur l’application « Espace documentaire » (1) puis cliquez sur la rubrique “Documents ajoutés dans les applis” (2). Vous trouverez votre enregistrement sous le nom de “Capture jour/mois/année” si vous ne l'avez pas renommé. En sélectionnant la vignette (3), vous accéderez à différentes actions possibles (4), vous pourrez notamment renommer la bande son (en cliquant sur le bouton Propriétés) ou la copier dans un dossier partagé.
 
 ![](.gitbook/assets/dictaphone-espacedoc.png)
+
+## Enregistrer une vidéo
+
+Le Studio vous permet de créer une vidéo à partir du micro et de la caméra de votre ordinateur, tablette ou smartphone. Vous pouvez aussi enregistrer la vidéo depuis l'éditeur de texte riche pour l’intégrer directement à l’un de vos contenus.
+
+**1. Accéder à l'enregistrement vidéo**
+
+a) A partir de la page "Quoi de neuf?"
+
+L'accès l'enregistrement vidéo se fait en cliquant sur le bouton "Vidéo" du widget Studio.
+
+![](.gitbook/assets/timeline_10_widget-studio-video.png)
+
+Si le widget studio n'apparaît pas la partie gauche de la page d’accueil, il faut l'activer. Pour cela, ouvrez la fenêtre de personnalisation en cliquant sur l’icône en haut à droite du fil de nouveautés (1), puis assurez-vous, dans la rubrique "Widgets", que l’icône Studio est colorée. Sinon cliquez sur cette icône pour afficher le widget (2).
+
+![](.gitbook/assets/timeline_09_param-widget-studio.png)
+
+b) A partir des applications via l'éditeur de texte
+
+Vous pouvez créer une vidéo, en édition de contenu, directement depuis un blog, un cahier de textes, un cahier multimédia, une frise chronologique, un wiki ou la messagerie. Pour cela, lors de la création de contenu sur l’éditeur de texte, cliquez sur l’icône “Ajouter un contenu multimédia”.
+
+![](.gitbook/assets/editeur-de-texte-enrichi.png)
+
+Dans la fenêtre d'ajout qui s'est ouverte, sélectionner l'onglet "CAMERA" (1) puis "Autoriser" (2) si besoin l’utilisation du micro et de la caméra de votre appareil.
+
+![](.gitbook/assets/captation-video-autoriser-camera-micro-1D.png)
+
+**2. Enregistrer une vidéo**
+
+Pour que l’enregistrement se lance, cliquez sur le bouton «Enregistrer».
+
+![](.gitbook/assets/timeline_10_enregistrer-annuler-Video.png)
+
+Pour arrêter la captation, cliquez sur l’icône «Arrêter». 
+
+![](.gitbook/assets/timeline_10_arreter-Video.png)
+
+Vous pouvez ensuite voir votre enregistrement en cliquant sur «Lire» la vidéo. Pour recommencer, cliquez sur l’icône «Annuler» puis relancez un enregistrement. Pour le sauvegarder, cliquer sur le bouton en forme de vignette sur fond vert.
+
+![](.gitbook/assets/timeline_10_lire-sauvegarder-annuler-Video.png)
+
+**3. Utiliser l'enregistrement' dans les applications de votre réseau**
+
+a) Enregistrement réalisé dans une application via l’éditeur de texte
+
+Si vous enregistrez à partir d’une application (blog, cahier multimédia, cahier de textes…), la vidéo est automatiquement intégrée à l'éditeur de contenu et un message vous avertit que la vidéo a été placée dans votre Espace documentaire (par défaut dans la section “Documents ajoutés dans les applis”).
+
+b) Enregistrement réalisé à partir du widget Studio de la page « Quoi de neuf ? »
+
+Rendez-vous sur l’application « Espace documentaire » puis cliquez sur la rubrique “Documents ajoutés dans les applis”. Vous trouverez votre enregistrement sous le nom de “Capture Vidéo jour/mois/année”, si vous ne l'avez pas renommée. En sélectionnant la vignette, vous accéderez à différentes actions possibles, vous pourrez notamment renommer la capture vidéo (en cliquant sur le bouton Propriétés) ou la copier dans un dossier partagé.
+
+![](.gitbook/assets/timeline_10_integrerVideo-espaceDoc.png)
 
 ## La gestion des paramètres
 
@@ -348,7 +371,7 @@ Pour changer l’apparence de votre thème, cliquez sur celui de votre choix.
 
 Pour décider d’afficher seulement certains widgets, désélectionnez ceux que vous ne souhaitez pas voir apparaître sur votre page d’accueil. Les vignettes désélectionnées apparaîtront avec une couleur de fond plus claire dans la gestion de vos paramètres. Les widgets correspondants ne s'afficheront plus à gauche du fil de nouveauté.
 
-![D&#xE9;sactiver le widget Dictaphone](.gitbook/assets/param_widgets3.png)
+![](.gitbook/assets/timeline_11_widgets-param.png)
 
 ## Notifications externes
 
