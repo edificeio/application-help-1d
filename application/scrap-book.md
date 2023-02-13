@@ -6,7 +6,7 @@ Avec le **Cahier multimédia**, votre banal exposé sur les fables de La Fontain
 
 Les cahiers créés peuvent être utilisés comme des **supports de restitution** de travaux ou encore comme **outil de communication** avec d’autres utilisateurs puisque chaque cahier peut être partagé avec un utilisateur ou un groupe d’utilisateurs.
 
-Les utilisateurs ayant des droits de contribution dans le cahier choisissent le nombre de pages du cahier et la mise en forme qu’ils souhaitent appliquer à chaque page.
+Les utilisateurs ayant des droits de contribution dans le cahier choisissent le nombre de pages du cahier et la mise en forme qu’ils souhaitent appliquer à chaque page. Ils peuvent éditer à plusieurs et en même temps un cahier multimédia, en se positionnant sur des pages différentes.
 
 ![](.gitbook/assets/2019-07-11_13h15_41%20%283%29%20%284%29.png)
 
@@ -95,17 +95,29 @@ Vous pouvez ajouter les contenus suivants dans vos cahiers :
 
 Il est possible de modifier une zone de texte. Pour cela, cliquez sur la zone puis cliquer sur le bouton "Editer" :
 
-![](.gitbook/assets/2019-07-11_13h35_57%20%281%29.png)
+![](.gitbook/assets/scrap-book_04_editText-Btn.png)
 
 L'éditeur de texte riche s'affiche.
 
-![](.gitbook/assets/2019-07-11_13h36_16%20%282%29.png)
+![](.gitbook/assets/scrap-book_04_editeurRiche.png)
 
 Pour tous les types de contenus, il est aussi possible de modifier la position et la taille de la zone. Pour déplacer un contenu : cliquez dessus, maintenez le clic enfoncé et déplacez le contenu.
 
+![](.gitbook/assets/scrap-book_04_moveBloc.png)
+
 Pour modifier la taille du contenu, cliquez sur le contenu puis cliquez sur l'icône "flèches" situé en bas à droite du contenu.
 
-![](.gitbook/assets/2019-07-11_13h47_50%20%283%29.png)
+![](.gitbook/assets/scrap-book_04_resizeText-Btn.png)
+
+Il est possible de **collaborer à plusieurs en simultané** sur un cahier multimédia. En effet, plusieurs utilisateurs peuvent éditer en même temps **des pages différentes** d'un même cahier multimédia.
+
+Lorsque vous éditez une page, celle-ci est verrouillée. Les autres utilisateurs pourront toujours consulter le contenu de cette page, mais ils ne pourront pas la modifier.
+
+_Rq : Ce verrou est maintenu tant que vous êtes en cours d'édition de la page, et est automatiquement levé en cas d’absence d’activité pendant 10min, ou après enregistrement. Ainsi, si vous perdez la connexion, vous aurez 10 min pour vous reconnecter et continuer de modifier la page en cours d’édition._
+
+Si vous tentez de modifier une page éditée par un autre utilisateur, vous obtiendrez le message suivant :
+
+![](.gitbook/assets/scrap-book_04_messageVerrou.png)
 
 Pour visualiser votre cahier, cliquez sur « Afficher ». N’oubliez pas d’enregistrer vos travaux avant de quitter la page en cliquant sur « Enregistrer ».
 
