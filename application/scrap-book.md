@@ -119,6 +119,12 @@ Si vous tentez de modifier une page éditée par un autre utilisateur, vous obti
 
 ![](.gitbook/assets/scrap-book_04_messageVerrou.png)
 
+Lorsque vous changez de page après l’avoir éditée, le changement de page entraîne une sauvegarde automatique de la page que vous quittez. 
+
+![](.gitbook/assets/scrap-book_04_pageSaved1D.png)
+
+La page quittée est de nouveau disponible pour modification par un autre utilisateur.
+
 Pour visualiser votre cahier, cliquez sur « Afficher ». N’oubliez pas d’enregistrer vos travaux avant de quitter la page en cliquant sur « Enregistrer ».
 
 ![](.gitbook/assets/2019-07-11_13h52_30%20%282%29%20%282%29.png)
