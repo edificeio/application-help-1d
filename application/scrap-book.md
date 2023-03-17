@@ -79,7 +79,7 @@ Pour modifier plus facilement le cahier multimédia, vous disposez de l'option "
 
 Pour ajouter de nouvelles pages, cliquez sur « Ajouter une page » \(1\) ou sur la flèche à droite du cahier \(2\).
 
-![](.gitbook/assets/2019-07-11_13h32_21%20%282%29%20%283%29.png)
+![](.gitbook/assets/scrap-book_04_ajouterPage.png)
 
 Vous pouvez ajouter les contenus suivants dans vos cahiers :
 
@@ -125,37 +125,29 @@ Lorsque vous changez de page après l’avoir éditée, le changement de page en
 
 La page quittée est de nouveau disponible pour modification par un autre utilisateur.
 
-Pour visualiser votre cahier, cliquez sur « Afficher ». N’oubliez pas d’enregistrer vos travaux avant de quitter la page en cliquant sur « Enregistrer ».
+Pour visualiser votre cahier, cliquez sur « Quitter l'édition ». N’oubliez pas d’enregistrer vos travaux avant de quitter la page en cliquant sur « Enregistrer ».
 
-![](.gitbook/assets/2019-07-11_13h52_30%20%282%29%20%282%29.png)
+![](.gitbook/assets/scrap-book_04_Btns-Enregistrer-Quitter.png)
 
 ## Organiser les pages du cahier multimédia
 
 Différentes options sont à votre disposition pour organiser les pages de votre cahier multimédia. Dans le mode édition du cahier multimédia, cliquez sur le bouton "+"
 
-* Vous pouvez modifier l'ordre des pages en cliquant sur le bouton "Ordre des pages".
+![](.gitbook/assets/scrap-book_05_toaster-OrgaPages.png)
 
-![](.gitbook/assets/2019-07-11_14h24_48%20%284%29%20%281%29.png)
+\(1\) Vous pouvez modifier l'ordre des pages en cliquant sur le bouton "**Réorganiser les pages**". Une fenêtre s'ouvrira pour accéder à toutes les pages de votre cahier multimédia. Par un simple glisser-déposer, vous pourrez ordonner vos pages comme vous le souhaitez.
 
-Une fenêtre s'ouvrira pour accéder à toutes les pages de votre cahier multimédia. Par un simple glisser-déposer, vous pourrez ordonner vos pages comme vous le souhaitez.
+![](.gitbook/assets/scrap-book_05_fenetre-reorganiserPages.png)
 
-![](.gitbook/assets/2019-07-11_14h39_18%20%283%29.png)
+\(2\) Vous pouvez dupliquer la page en cours, en cliquant sur "**Dupliquer la page**". La page dupliquée se retrouvera avant la page sélectionnée.
 
-* Vous pouvez dupliquer la page en cours, en cliquant sur "Dupliquer la page". La page dupliquée se retrouvera avant la page sélectionnée.
+\(3\) Vous pouvez dupliquer la page en cours dans un autre cahier multimédia en cliquant sur le bouton "**Copier vers un cahier**". Vous pourrez choisir le ou les cahiers multimédias de destination puis cliquer sur "Copier".
 
-![](.gitbook/assets/2019-07-11_14h26_45%20%283%29%20%284%29.png)
+![](.gitbook/assets/scrap-book_05_fenetre-CopierPage.png)
 
-* Vous pouvez dupliquer la page en cours dans un autre cahier multimédia en cliquant sur le bouton "Copier vers un cahier".
+\(4\) Vous pouvez également supprimer la page en cours, en cliquant sur le bouton "**Supprimer la page**".
 
-![](.gitbook/assets/2019-07-11_14h27_12%20%283%29%20%281%29%20%281%29.png)
-
-Vous pourrez choisir le ou les cahiers multimédias de destination puis cliquer sur "Copier".
-
-![](.gitbook/assets/2019-07-11_14h39_56%20%283%29%20%284%29.png)
-
-* Vous pouvez également supprimer la page en cours, en cliquant sur le bouton "Supprimer la page".
-
-![](.gitbook/assets/2019-07-11_14h31_24%20%283%29%20%281%29%20%282%29.png)
+\(5\) Et enfin, vous pouvez ajouter une nouvelle page juste après celle sur laquelle vous êtes positionnée en cliquant sur le bouton "**Ajouter une page à la suite**"
 
 ## Publier une vidéo dans un cahier multimédia
 
@@ -232,7 +224,7 @@ Il vous est possible d'imprimer votre cahier multimédia. Vous pouvez le faire d
 
 Vous pouvez également ouvrir le cahier multimédia souhaité, cliquer sur le "+" \(1\) puis cliquer sur "Imprimer" \(2\).
 
-![](.gitbook/assets/2019-07-11_15h24_50%20%283%29%20%283%29.png)
+![](.gitbook/assets/scrap-book_08_Btn-imprimer.png)
 
 ## Exporter un cahier multimédia en PDF
 
