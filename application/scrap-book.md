@@ -32,7 +32,7 @@ Vous accédez à l’interface de création du cahier.
 
 ![](.gitbook/assets/2019-07-11_13h29_42%20%283%29%20%281%29.png)
 
-Votre cahier est désormais créé mais n’est pas encore visible. Pour le partager avec d’autres utilisateurs, sélectionnez le cahier que vous souhaitez partager \(1\) puis sur cliquez sur « Partager » \(2\).
+Votre cahier est désormais créé, mais n’est pas encore visible. Pour le partager avec d’autres utilisateurs, sélectionnez le cahier que vous souhaitez partager \(1\) puis sur cliquez sur « Partager » \(2\).
 
 ![](.gitbook/assets/1d-cahier-multimedia-partager%20%283%29%20%282%29.png)
 
@@ -46,7 +46,7 @@ Les différents droits que vous pouvez attribuer sont les suivants :
 * Contribution : l’utilisateur peut modifier le cahier
 * Gestion : l’utilisateur peut partager, modifier et supprimer le cahier
 
-Pour les cahiers vous appartenant, vous pourrez voir quels sont les cahiers que vous aurez déjà partagé car ils auront cette icône : ![](.gitbook/assets/share-1.png)
+Pour les cahiers vous appartenant, vous pourrez voir quels sont les cahiers que vous aurez déjà partagés, car ils auront cette icône : ![](.gitbook/assets/share-1.png)
 
 ## Organiser ses cahiers multimédias
 
@@ -57,7 +57,7 @@ Vous avez à votre disposition différents outils pour trier les cahiers multim�
    * **Les cahiers partagés avec moi,** pour afficher/masquer les cahiers multimédia qui vous ont été partagés
 2. Vous pouvez organiser vos cahiers grâce à l'arborescence suivante :
    * **Mes cahiers**, qui est le dossier principal, dans lequel vous pourrez créer tous vos sous-dossiers \(grâce au bouton "Créer un dossier"\)
-   * **Corbeille** où vous retrouverez les cahiers multimédia que vous aurez supprimé, pour éviter toute suppression définitive involontaire.
+   * **Corbeille** où vous retrouverez les cahiers multimédias que vous aurez supprimés, pour éviter toute suppression définitive involontaire.
 
 ![](.gitbook/assets/2019-07-11_14h06_42%20%283%29%20%281%29.png)
 
@@ -131,7 +131,7 @@ Pour visualiser votre cahier, cliquez sur « Quitter l'édition ». N’oubliez 
 
 ## Organiser les pages du cahier multimédia
 
-Différentes options sont à votre disposition pour organiser les pages de votre cahier multimédia. Dans le mode édition du cahier multimédia, cliquez sur le bouton "+"
+Différentes options sont à votre disposition pour organiser les pages de votre cahier multimédia. Dans le mode édition du cahier multimédia, cliquez sur le bouton "+".
 
 ![](.gitbook/assets/scrap-book_05_toaster-OrgaPages.png)
 
@@ -244,7 +244,7 @@ Dans le champ "Nom", choisissez l'option "Microsoft Print to PDF"
 
 * Pour Safari :
 
-Cliquez sur la flèche vers le bas situé à coté du PDF puis choisissez l'option "Enregistrer au format PDF"
+Cliquez sur la flèche vers le bas situé à côté du PDF puis choisissez l'option "Enregistrer au format PDF"
 
 ![](.gitbook/assets/capture-decran-2019-07-11-a-15.36.46%20%283%29.png)
 
