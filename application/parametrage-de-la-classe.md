@@ -22,7 +22,7 @@ Il est alors possible d’ajouter des élèves, des parents, des enseignants et 
 
 ![](.gitbook/assets/parametrage-de-la-classe_02_Btn-Ajouter.png)
 
-Une interface propose trois options pour ajouter des utilisateurs à votre classe :
+Une interface propose deux options pour ajouter des utilisateurs à votre classe :
 
 * Créer des utilisateurs \(1\) : vous permet de créer manuellement des utilisateurs
 * Rechercher des utilisateurs \(2\) : vous permet de rechercher des utilisateurs déjà présents dans l'école
