@@ -20,6 +20,18 @@ Vous accédez à votre espace personnel dans lequel vous pouvez mettre à jour v
 
 Les enseignants ont la possibilité de choisir un nom d’affichage personnalisé, visible par les autres utilisateurs de la plateforme. Par défaut, ce nom d’affichage est le prénom et le nom de l’utilisateur.
 
+## Administrateur - Modifier mes informations personnelles
+
+Si vous avez le rôle d’administrateur local de votre réseau éducatif, afin de modifier vos informations personnelles, vous devez, dans un premier temps, cliquer sur le bouton "déverrouiller" en haut à droite.
+
+![Mon compte - Verrou administrateur .png](.gitbook%2Fassets%2FMon%20compte%20-%20Verrou%20administrateur%20.png)
+
+Une nouvelle fenêtre s'ouvre et une double authentification vous sera demandée. Un code à 6 chiffres vous sera envoyé par SMS sur votre mobile.
+
+![Mon compte - Double authentification.png](.gitbook%2Fassets%2FMon%20compte%20-%20Double%20authentification.png)
+
+La réception du code peut prendre quelques instants. Une fois reçu, vous n'aurez plus qu'à indiquer ce dernier dans le champ prévu à cet effet afin d'accéder à l'application. Vos conditions de changements d'informations personnelles seront ensuite les mêmes que les autres utilisateurs, détaillées ci-dessous.
+
 ## Changer mon identifiant
 
 Vous pouvez remplacer votre identifiant de connexion par un alias, en cliquant sur "Modifier" à côté de l'identifiant :
@@ -84,11 +96,29 @@ Pour ajouter ou modifier votre adresse mail, saisissez votre nouvelle adresse da
 
 ![](.gitbook/assets/userbook_05_moncompte-8.png)
 
-En cas d’oubli de votre mot de passe, un lien de récupération vous sera envoyé sur l’adresse mail renseignée dans votre compte.
-
-Si vous avez le rôle d’administrateur local de votre réseau éducatif, il vous faudra vérifier la nouvelle adresse mail renseignée en saisissant le code de vérification reçu par email à cette adresse.
+Il vous faudra ensuite vérifier la nouvelle adresse mail renseignée en saisissant le code de vérification reçu par email à cette adresse.
 
 ![](.gitbook/assets/userbook_05_moncompte-8-1.png)
+
+En cas d’oubli de votre mot de passe, un lien de récupération vous sera envoyé sur l’adresse mail renseignée dans votre compte.
+
+## Modifier mes numéros de téléphone
+
+Vous pouvez ajouter ou modifier vos numéros de téléphone fixe et mobile dans l’espace « Mon compte ». Pour ajouter ou modifier le numéro de téléphone fixe, saisissez le numéro dans le champ prévu, en face de « téléphone ».
+
+![Mon compte - Modifier num 1.png](.gitbook%2Fassets%2FMon%20compte%20-%20Modifier%20num%201.png)
+
+Ajoutez ou modifiez votre numéro de téléphone fixe directement dans la fenêtre ci-dessous
+
+![Mon compte - Modification du num .png](.gitbook%2Fassets%2FMon%20compte%20-%20Modification%20du%20num%20.png)
+
+Une fenêtre s'ouvrira alors pour vérifier votre numéro de téléphone. Il vous suffira de rentrer votre numéro dans un premier temps, puis de cliquer sur le bouton "vérifier mon numéro".
+
+![Mon compte - vérif numéro 1.png](.gitbook%2Fassets%2FMon%20compte%20-%20v%C3%A9rif%20num%C3%A9ro%201.png)
+
+Vous recevrez alors un code à six chiffres qu'il faudra entrer dans une nouvelle fenêtre. Enfin, votre nouveau numéro de mobile sera enregistré dans vos informations personnelles.
+
+![Mon compte - Vérif num 2.png](.gitbook%2Fassets%2FMon%20compte%20-%20V%C3%A9rif%20num%202.png)
 
 ## Ajouter une devise à mon compte
 
