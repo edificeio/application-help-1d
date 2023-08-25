@@ -147,25 +147,20 @@ Vous pouvez réaliser les actions suivantes en cliquant sur « Publier » ou sur
 
 ## Organiser vos blogs et billets de blog
 
-1. Vous disposez de 3 filtres pour afficher vos blogs : 
-   * **Mes blogs**, pour afficher/masquer les blogs dont vous êtes le propriétaire
-   * **Les blogs partagés avec moi**, pour afficher/masquer les blogs qui vous ont été partagés
-   * **Blogs publics**, pour afficher/masquer les blogs accessibles publiquement
-2. Une barre de recherche vous permet de trouver rapidement un blog en saisissant son nom.
-3. Afin d'organiser vos blogs, vous disposez de l'arborescence suivante : 
-   * **Mes blogs**, qui est le dossier principal, dans lequel vous pourrez créer tous vos sous-dossiers \(grâce au bouton **Créer un dossier\)**
-   * **Corbeille** où vous retrouverez les blogs que vous aurez supprimés, pour éviter toute suppression définitive involontaire
+Afin d'organiser vos blogs, vous disposez de l'arborescence suivante :
 
-![](.gitbook/assets/image%20%2840%29.png)
+**Mes blogs**, qui est le dossier principal, dans lequel vous pourrez créer tous vos sous-dossiers (grâce au bouton Créer un dossier)
+**Corbeille** où vous retrouverez les blogs que vous aurez supprimés, pour éviter toute suppression définitive involontaire
 
-Après avoir créé vos différents dossiers, sélectionnez \(1\) le ou les blogs que vous voulez mettre dans vos dossiers, puis cliquez sur le bouton "Déplacer" \(2\).
+Attention, les dossiers mis à la corbeille sont, eux, définitivement supprimés. Les blogs contenus dans ces dossiers sont mis dans la corbeille
 
-![](.gitbook/assets/1d-blog-deplacer-1%20%284%29%20%283%29.png)
+Après avoir créé vos différents dossiers, sélectionnez le ou les blogs que vous voulez mettre dans vos dossiers via les 3 petits points des blogs (1), puis cliquez sur le bouton "Déplacer" (2).
+
+![Blog - Organiser ses blogs .png](.gitbook%2Fassets%2FBlog%20-%20Organiser%20ses%20blogs%20.png)
 
 Une fenêtre s'ouvrira, vous permettant de déplacer le blog sélectionné dans un dossier existant ou d'en créer un nouveau. Il vous est également possible de déplacer des dossiers.
 
-![](.gitbook/assets/1d-blog-deplacer-2%20%283%29%20%282%29.png)
-
+![Blog - fenêtre déplacer un blog .png](.gitbook%2Fassets%2FBlog%20-%20fen%C3%AAtre%20d%C3%A9placer%20un%20blog%20.png)
 
 **Organiser les billets d'un blog**
 
