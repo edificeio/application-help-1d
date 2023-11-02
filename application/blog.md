@@ -8,7 +8,7 @@ L’appli **Blog** permet de publier facilement des informations, en y intégran
 
 En cas de contribution de la part d’autres utilisateurs, le gestionnaire du blog choisit le **circuit de publication** souhaité : soit il relit les billets soumis par les autres utilisateurs avant de les publier, soit les billets sont publiés immédiatement quel qu’en soit l’auteur.
 
-![](.gitbook/assets/blog-1%20%282%29%20%287%29.png)
+![Blog - Présentation de l'application .png](.gitbook%2Fassets%2FBlog%20-%20Pr%C3%A9sentation%20de%20l%27application%20.png)
 
 ## Créer un blog public ou privé
 
@@ -18,16 +18,17 @@ Cliquez sur la page « Mes applis » puis sur l’icône « Blog ».
 
 Dans le service Blog, cliquez sur le bouton « Créer un blog » présent en haut à droite de la page.
 
-![Blog - Créer un blog privé ou public .png](.gitbook%2Fassets%2FBlog%20-%20Cr%C3%A9er%20un%20blog%20priv%C3%A9%20ou%20public%20.png)
+![Blog - Créer un blog public ou privé .png](.gitbook%2Fassets%2FBlog%20-%20Cr%C3%A9er%20un%20blog%20public%20ou%20priv%C3%A9%20.png)
 
 Vous accédez à l’interface de création du blog.
 
 1. Indiquez le titre de votre blog.
-2. Ajoutez une vignette d’illustration du blog \(si vous ne modifiez pas l’image, c’est la vignette par défaut qui s’affichera\).
+2. Ajoutez une description (optionnel)
+3. N'oubliez pas d'illustrer le blog par une vignette (si vous ne modifiez pas l’image, c’est la vignette par défaut qui s’affichera).
 
-Cliquez sur « Enregistrer » pour valider la création du blog.
+Cliquez sur « Créer » pour valider la création du blog.
 
-![](.gitbook/assets/2019-07-11_10h03_02%20%283%29%20%282%29.png)
+![Blog - Fenêtre de création .png](.gitbook%2Fassets%2FBlog%20-%20Fen%C3%AAtre%20de%20cr%C3%A9ation%20.png)
 
 **Créer un blog public**
 
@@ -35,31 +36,27 @@ Si vous êtes administrateur, vous avez la possibilité de créer un blog public
 
 Pour créer un blog accessible à des personnes extérieures à l'ENT, allez dans la page d’accueil des blogs et ouvrez le toaster d’actions via les 3 petits points du blog concerné.
 
-![Créer un blog public - Menu .png](.gitbook%2Fassets%2FCr%C3%A9er%20un%20blog%20public%20-%20Menu%20.png)
+![Blog - Blog public .png](.gitbook%2Fassets%2FBlog%20-%20Blog%20public%20.png)
 
 Cliquez sur "Propriétés". La page des propriétés du blog s'ouvre et vous pouvez y trouver une rubrique nommée "Accès au blog".
 
-![Blog public - propriétés.png](.gitbook%2Fassets%2FBlog%20public%20-%20propri%C3%A9t%C3%A9s.png)
+![Blog - Blog public propriétés .png](.gitbook%2Fassets%2FBlog%20-%20Blog%20public%20propri%C3%A9t%C3%A9s%20.png)
 
 Activez l’option “Accessible publiquement via une URL" (1)
 
+L'URL se crée automatiquement. C'est l'adresse qui permettra d'accéder au blog sans être connecté à l'ENT.
 
-Complétez l’url se trouvant sous l’option "extension personnalisée". C'est l'adresse qui permettra d'accéder au blog sans être connecté à l'ENT. Vous pouvez personnaliser l'URL du blog (2)
-
-Si l'adresse existe déjà, un message d'erreur apparaît.
-
-Pour communiquer facilement cette URL, vous pouvez cliquer sur le bouton "Copier URL". (3)
-
+Pour communiquer facilement cette URL, vous pouvez cliquer sur le bouton "Copier URL". (2)
 
 Note : Si l'on rend public un blog, les documents chargés sur le blog (par vous ou par un autre utilisateur) seront, eux aussi publics.
 
-Sur la vignette du blog, le symbole suivant vous informe que le contenu est public :![globe.png](.gitbook%2Fassets%2Fglobe.png)
+Sur la vignette du blog, le symbole suivant vous informe que le contenu est public :
 
-![Vignette blog public.png](.gitbook%2Fassets%2FVignette%20blog%20public.png)
+![Blog - Vignette blog public.png](.gitbook%2Fassets%2FBlog%20-%20Vignette%20blog%20public.png)
 
 L'URL du blog public est également visible dans le blog, sous l'image du blog. L'adresse apparaît tronquée. Par un clic-droit, vous pouvez récupérer l'URL en choisissant l'option "Copier l'adresse du lien".
 
-![Blog public - URL d' accès.png](.gitbook%2Fassets%2FBlog%20public%20-%20URL%20d%27%20acc%C3%A8s.png)
+![Blog - URL d'accès blog public.png](.gitbook%2Fassets%2FBlog%20-%20URL%20d%27acc%C3%A8s%20blog%20public.png)
 
 Note : Les commentaires qui s'affichent dans l'ENT ne sont pas visibles sur la version publique du blog.
 
@@ -72,7 +69,7 @@ Pour partager un blog avec d’autres utilisateurs, suivez les étapes suivantes
 1. Cliquez sur les 3 petits points qui apparaissent au survol de la souris sur le blog à partager (1)
 2. Cliquez sur le bouton « Partager » qui se trouve dans le toaster d’actions qui vient de s’ouvrir (2)
 
-![Partager un blog - barre d'actions.png](.gitbook%2Fassets%2FPartager%20un%20blog%20-%20barre%20d%27actions.png)
+![Blog - Partager un blog barre d'actions.png](.gitbook%2Fassets%2FBlog%20-%20Partager%20un%20blog%20barre%20d%27actions.png)
 
 Pour le partager, suivez les étapes suivantes :
 
@@ -92,7 +89,8 @@ Les différents droits que vous pouvez attribuer aux autres utilisateurs sont le
 Pour valider, cliquez sur le bouton "Partager".
 
 De plus, concernant les blogs sur lesquels vous êtes propriétaire, une icône vous permet de savoir si le contenu a déjà été partagé :
-![Blog - icône de partage .png](.gitbook%2Fassets%2FBlog%20-%20icone%20de%20partage%20.png)
+
+![Blog - Icône de partage.png](.gitbook%2Fassets%2FBlog%20-%20Ic%C3%B4ne%20de%20partage.png)
 
 Pour gérer le circuit de publication de votre blog, ouvrez la fenêtre de partage. En bas de la fenêtre de partage, vous pouvez choisir entre deux options :
 
@@ -114,7 +112,7 @@ L’outil de création du billet s’affiche dans la page :
 
 ![Blog - publier un billet .png](.gitbook%2Fassets%2FBlog%20-%20publier%20un%20billet%20.png)
 
-Une fois la saisie terminée, vous pouvez soit :
+Une fois la saisie terminée, vous avez différents boutons d'action (3) :
 
 * **Enregistrer le billet** : il passe alors au format brouillon et n’est pas visible des autres utilisateurs ayant accès au blog
 * **Publier le billet** : le billet est alors visible par les utilisateurs ayant accès au blog
@@ -128,7 +126,7 @@ Pour les utilisateurs pouvant contribuer à un blog dans lequel le circuit de pu
 
 **Valider un billet**
 
-Si vous avez activé un circuit de publication \(billets à soumettre pour les contributeurs\), les billets en attente de validation se trouvent dans la catégorie « Soumis ».
+Si vous avez activé un circuit de publication (billets à soumettre pour les contributeurs), les billets en attente de validation se trouvent dans la catégorie « Soumis ».
 
 Cliquez la case à cocher des billets soumis pour afficher les billets rédigés par les contributeurs du blog.
 
@@ -147,12 +145,30 @@ Vous pouvez réaliser les actions suivantes en cliquant sur « Publier » ou sur
 
 ## Organiser vos blogs et billets de blog
 
-Afin d'organiser vos blogs, vous disposez de l'arborescence suivante :
+![Blog - Menu filtres et recherche.png](.gitbook%2Fassets%2FBlog%20-%20Menu%20filtres%20et%20recherche.png)
 
-**Mes blogs**, qui est le dossier principal, dans lequel vous pourrez créer tous vos sous-dossiers (grâce au bouton Créer un dossier)
-**Corbeille** où vous retrouverez les blogs que vous aurez supprimés, pour éviter toute suppression définitive involontaire
+Vous disposez de 3 filtres (1) pour afficher vos blogs :
 
-Attention, les dossiers mis à la corbeille sont, eux, définitivement supprimés. Les blogs contenus dans ces dossiers sont mis dans la corbeille
+* **Mes blogs**, pour afficher/masquer les blogs dont vous êtes le propriétaire
+* **Les blogs partagés avec moi**, pour afficher/masquer les blogs qui vous ont été partagés
+* **Blogs publics**, pour afficher/masquer les blogs accessibles publiquement
+
+Une barre de recherche (2) vous permet de trouver rapidement un blog en saisissant son nom.
+
+Afin d'organiser vos blogs, vous disposez de l'arborescence (3) suivante :
+
+* **Mes blogs**, qui est le dossier principal, dans lequel vous pourrez créer tous vos sous-dossiers (grâce au bouton **Nouveau dossier**)
+* **Corbeille** où vous retrouverez les blogs que vous aurez supprimés, pour éviter toute suppression définitive involontaire
+
+Fonctionnement de la **corbeille** et mise en sourdine :
+
+* Les ressources que vous avez placées ou qu’un auteur/gestionnaire a placées dans votre propre corbeille ne génèrent plus de notifications mails ni de notifications dans le fil de nouveautés.
+
+* Les dossiers placés dans la corbeille sont automatiquement et définitivement supprimés. Les ressources contenues de ces dossiers ne sont cependant pas définitivement supprimées, et s’ajouteront simplement aux autres éléments de la corbeille.
+
+* Les ressources restaurées depuis la corbeille se replaceront dans leur dossier d’origine si celui-ci existe toujours. Les notifications seront également réactivées pour les ressources restaurées.
+
+**Déplacer un blog**
 
 Après avoir créé vos différents dossiers, sélectionnez le ou les blogs que vous voulez mettre dans vos dossiers via les 3 petits points des blogs (1), puis cliquez sur le bouton "Déplacer" (2).
 
@@ -166,7 +182,7 @@ Une fenêtre s'ouvrira, vous permettant de déplacer le blog sélectionné dans 
 
 Il vous est possible de modifier l'ordre des billets. Ainsi, vous pouvez choisir pour chaque billet de le remonter en première position.
 
-Cliquer sur le bouton "+" du billet que vous souhaitez remonter \(1\) puis cliquer sur "Remonter" \(2\).
+Cliquer sur le bouton "+" du billet que vous souhaitez remonter (1) puis cliquer sur "Remonter" (2).
 
 ![](.gitbook/assets/image%20%2842%29.png)
 
@@ -186,14 +202,14 @@ Si vous souhaitez publier votre blog dans la bibliothèque pour inspirer d’aut
 
 2. Vous devez ensuite renseigner les caractéristiques de votre contenu pour expliquer votre usage :
 
-* Titre : le plus explicatif possible
-* Vignette : carrée au format JPG ou PNG
-* Description et contexte pédagogique : Décrivez l’activité, son contexte, vos intentions pédagogiques, les résultats obtenus… Dites-nous tout ! 
-* Type d’activité : activité en classe, à la maison, individuelle, en groupe ? 
-* Discipline : Quelle est la discipline concernée par l’activité
-* Langue : Dans quelle langue est l’activité ? 
-* Âge des élèves : Quel est la tranche d’âge des élèves concernés par l’activité ? 
-* Mots-clés : Quels sont les mots-clés qui caractérisent le mieux votre activité ? 
+* **Titre** : le plus explicatif possible
+* **Vignette** : carrée au format JPG ou PNG
+* **Description et contexte pédagogique** : Décrivez l’activité, son contexte, vos intentions pédagogiques, les résultats obtenus… Dites-nous tout ! 
+* **Type d’activité** : activité en classe, à la maison, individuelle, en groupe ? 
+* **Discipline** : Quelle est la discipline concernée par l’activité
+* **Langue** : Dans quelle langue est l’activité ? 
+* **Âge des élèves** : Quel est la tranche d’âge des élèves concernés par l’activité ? 
+* **Mots-clés** : Quels sont les mots-clés qui caractérisent le mieux votre activité ? 
 
 Attention, tous les champs sont obligatoires sauf les mots clefs.
 
@@ -214,7 +230,7 @@ En tant qu'enseignant, dans la page d’accueil contenant la liste de vos blogs,
 
 ## Imprimer et exporter un blog
 
-Lorsque vous naviguez sur votre blog, vous avez la possibilité de l'imprimer, en cliquant sur le bouton "Imprimer le blog" :
+Lorsque vous naviguez sur votre blog, vous avez la possibilité de l'imprimer, en cliquant sur le bouton "**Imprimer**" :
 
 ![Blog - imprimer un blog .png](.gitbook%2Fassets%2FBlog%20-%20imprimer%20un%20blog%20.png)
 
@@ -244,11 +260,4 @@ Cliquez sur la flèche vers le bas situé à côté du PDF puis choisissez l'opt
 
 ![](.gitbook/assets/capture-decran-2019-07-11-a-15.36.46%20%283%29.png)
 
-# Corbeille et mise en sourdine
-
-* Les ressources que vous avez placées ou qu’un auteur/gestionnaire a placées dans votre propre corbeille ne génèrent plus de notifications mails ni de notifications dans le fil de nouveautés.
-
-* Les dossiers placés dans la corbeille sont automatiquement et définitivement supprimés. Les ressources contenues de ces dossiers ne sont cependant pas définitivement supprimées, et s’ajouteront simplement aux autres éléments de la corbeille.
-
-* Les ressources restaurées depuis la corbeille se replaceront dans leur dossier d’origine si celui-ci existe toujours. Les notifications seront également ré-activées pour les ressources restaurées.
 
