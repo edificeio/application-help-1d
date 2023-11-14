@@ -232,13 +232,13 @@ Vous pouvez également ouvrir le cahier multimédia souhaité, cliquer sur le "+
 
 Vous pouvez désormais exporter un cahier multimédia en HTML, pour conserver les outils interactifs audio et vidéo, même hors de votre ENT !
 
-Pour cela, sélectionnez le cahier multimédia que vous souhaitez exporter, puis cliquez sur Exporter en bas de page, et dans la fenêtre qui s'ouvre.
+Pour cela, sélectionnez le cahier multimédia que vous souhaitez exporter, puis cliquez sur **Exporter** en bas de page, et dans la fenêtre qui s'ouvre.
 
-![ONE_Cahiermulti_export.png](.gitbook%2Fassets%2FONE_Cahiermulti_export.png)
+![](.gitbook%2Fassets%2FONE_Cahiermulti_export.png)
 
-Le cahier est téléchargé au format ZIP sur votre ordinateur. Choisissez le fichier "Index" dans le dossier qui s'ouvre.
+Le cahier est téléchargé **au format ZIP** sur votre ordinateur. Choisissez le fichier "**Index**" dans le dossier qui s'ouvre.
 
-Sur Windows, assurez-vous d'ouvrir le dossier ZIP en choisissant "extraire tout" en faisant un clic droit sur le dossier zippé.
+Sur Windows, assurez-vous d'ouvrir le dossier ZIP en choisissant "**extraire tout**" en faisant un clic droit sur le dossier zippé.
 
 **Exporter un cahier multimédia en PDF**
 
