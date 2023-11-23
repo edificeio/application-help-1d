@@ -26,8 +26,7 @@ Vous accédez à l'**interface de création** d'une carte mentale.
 
 Cliquez sur **Créer** pour valider la création de la carte.
 
-<center><img src=".gitbook/assets/1D_Cartementale_Creer une carte mentale_3.png" alt="" width="600"/></center>
-
+![](.gitbook%2Fassets%2F1D_Cartementale_Creer%20une%20carte%20mentale_3.png)
 
 Cliquez sur la vignette de votre carte mentale dans le menu principal pour commencer à la construire. Le titre de la carte constitue le **nœud de départ**.
 
@@ -45,7 +44,7 @@ Pour supprimer un nœud, sélectionnez le nœud et cliquez sur l’icône « **-
 
 La barre d’outils de la carte mentale vous permet de modifier le format du texte : la police, sa taille, mise en forme et couleur. Pour modifier le texte, sélectionnez le nœud ou une partie du texte du nœud et cliquez sur les icônes suivantes dans la **barre d’outils**.
 
-<center><img src=".gitbook/assets/1D_Cartementale_Mettre en forme le texte.png" alt="" width="300"/></center>
+![](.gitbook%2Fassets%2F1D_Cartementale_Mettre%20en%20forme%20le%20texte.png)
 
 **Ajouter un lien entre deux nœuds**
 
@@ -136,7 +135,7 @@ Afin de les organiser, vous disposez de l'arborescence suivante :
 
 * **Corbeille**, où vous retrouverez les cartes mentales que vous aurez supprimées, pour éviter toute suppression définitive involontaire.
 
-<center><img src=".gitbook/assets/1D_Cartementale_Organiser ses cartes mentales.png" alt="" width="300"/></center>
+![](.gitbook%2Fassets%2F1D_Cartementale_Organiser%20ses%20cartes%20mentales.png)
 
 Fonctionnement de la **corbeille** et mise en sourdine :
 
@@ -174,6 +173,6 @@ Dans la carte que vous souhaitez exporter, cliquez sur le bouton **Exporter**.
 
 Choisissez quel format vous préférez dans le menu déroulant, et cliquez sur **Exporter**.
 
-<center><img src=".gitbook/assets/1D_Cartementale_Exporter ma carte_2.png" alt="" width="500"/></center>
+![](.gitbook%2Fassets%2F1D_Cartementale_Exporter%20ma%20carte_2.png)
 
 Il n'est pas possible d'importer une carte mentale.
