@@ -60,7 +60,7 @@ Sur la **vignette** du blog, le symbole suivant vous informe que le contenu est 
 
 L'URL du blog public est également visible dans le blog, sous l'image du blog. L'adresse apparaît tronquée. Par un clic-droit, vous pouvez récupérer l'URL en choisissant l'option **Copier l'adresse du lien**.
 
-![](.gitbook%2Fassets%2FBlog%20-%20URL%20d%27acc%E8s%20blog%20public.png)
+![](.gitbook%2Fassets%2FBlog%20-%20URL%20d'accès%20blog%20public.png)
 
 _Note : Les commentaires qui s'affichent dans l'ENT ne sont **pas visibles** sur la version publique du blog._
 
