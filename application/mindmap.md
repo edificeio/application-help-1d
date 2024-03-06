@@ -123,7 +123,9 @@ En tant qu'enseignant, dans la page d’accueil contenant la liste de vos cartes
 
 ## Dupliquer une carte mentale
 
-Il n'est pas possible à l'heure actuelle de dupliquer une carte mentale.
+Cliquez sur les 3 petits points sur la carte mentale que vous souhaitez dupliquer, puis cliquez sur **Dupliquer** dans le menu ouvert en bas de la page
+
+Votre carte mentale est dupliquée, vous pouvez ensuite la renommer, la déplacer dans un autre dossier et la modifier, etc.
 
 ## Organiser ses cartes mentales
 
