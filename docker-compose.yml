@@ -1,4 +1,5 @@
-pandoc:
-  image: vbatts/pandoc
-  volumes:
-    - ./application:/application
+services:
+    pandoc:
+        image: vbatts/pandoc
+        volumes:
+            - ./application:/application
