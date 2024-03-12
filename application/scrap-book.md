@@ -18,9 +18,9 @@ Pour accéder à l’appli Cahier multimédia, cliquez sur l’icône correspond
 
 ![](.gitbook/assets/2018-08-23_10h26_57%20%282%29%20%287%29.png)
 
-Dans le service Cahier multimédia, cliquez sur le bouton « Créer » en haut de la page.
+Dans le service Cahier multimédia, cliquez sur le bouton **Nouveau cahier** en haut de la page.
 
-![](.gitbook/assets/1d-cahier-multimedia-creer%20%283%29%20%282%29.png)
+![](.gitbook/assets/CMM_Accueil.png)
 
 Vous accédez à l’interface de création du cahier.
 
@@ -30,23 +30,22 @@ Vous accédez à l’interface de création du cahier.
 4. Choisissez une couleur de couverture
 5. Cliquez sur « Enregistrer »
 
-![](.gitbook/assets/2019-07-11_13h29_42%20%283%29%20%281%29.png)
+![](.gitbook/assets/CMM_page_garde.png)
 
 Votre cahier est désormais créé, mais n’est pas encore visible. Pour le partager avec d’autres utilisateurs :
 
 1. Sélectionnez le cahier que vous souhaitez partager.
 2. Cliquez sur **Partager**.
 
-![](.gitbook/assets/1d-cahier-multimedia-partager%20%283%29%20%282%29.png)
+![](.gitbook/assets/CMM_partage.png)
 
 Dans la fenêtre, vous pouvez donner des droits de consultation, de contribution et de gestion sur votre cahier. Pour cela :
 
-1. Saisissez les premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs que vous recherchez.
-2. Sélectionnez le résultat
+1. Saisissez les premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs que vous recherchez, et sélectionnez le résultat dans le menu déroulant qui s'ouvre.
 3. Cochez les cases correspondant aux droits que vous souhaitez leur attribuer.
 4. Cliquez sur **Partager** pour valider.
 
-![](.gitbook/assets/2018-08-23_10h35_25%20%282%29%20%288%29.png)
+![](.gitbook/assets/CMM_fenetre_partage.png)
 
 Les différents droits que vous pouvez attribuer sont les suivants :
 
@@ -54,7 +53,9 @@ Les différents droits que vous pouvez attribuer sont les suivants :
 * **Contribution** : l’utilisateur peut modifier le cahier
 * **Gestion** : l’utilisateur peut partager, modifier et supprimer le cahier
 
-Pour les cahiers vous appartenant, vous pourrez voir quels sont les cahiers que vous aurez déjà partagés, car ils auront cette icône : ![](.gitbook/assets/share-1.png)
+Pour les cahiers vous appartenant, vous pourrez voir quels sont les cahiers que vous aurez déjà partagés, car ils auront cette icône :
+
+![](.gitbook/assets/CMM_icone_partage.png)
 
 ## Organiser ses cahiers multimédias
 
@@ -64,10 +65,10 @@ Vous avez à votre disposition différents outils pour trier les cahiers multim�
 * **Mes cahiers,** pour afficher/masquer les cahiers multimédia dont vous êtes le propriétaire
 * **Les cahiers partagés avec moi,** pour afficher/masquer les cahiers multimédia qui vous ont été partagés
 2. Vous pouvez organiser vos cahiers grâce à l'arborescence suivante :
-* **Mes cahiers**, qui est le dossier principal, dans lequel vous pourrez créer tous vos sous-dossiers \(grâce au bouton "Créer un dossier"\)
+* **Tous les cahiers**, qui est le dossier principal, dans lequel vous pourrez créer tous vos sous-dossiers \(grâce au bouton **Nouveau dossier**\)
 * **Corbeille** où vous retrouverez les cahiers multimédias que vous aurez supprimés, pour éviter toute suppression définitive involontaire.
 
-![](.gitbook/assets/2019-07-11_14h06_42%20%283%29%20%281%29.png)
+![](.gitbook/assets/CMM_filtres.png)
 
 **Déplacer un cahier multimédia**
 
@@ -76,11 +77,9 @@ Après avoir créé vos différents dossiers :
 1. **Sélectionnez** le ou les cahiers que vous voulez mettre dans vos dossiers
 2. Cliquez sur le bouton **Déplacer**.
 
-![](.gitbook/assets/2019-07-11_14h07_40%20%282%29%20%284%29.png)
+![](.gitbook/assets/CMM_deplacer.png)
 
 Une fenêtre s'ouvrira, vous permettant de déplacer le cahier sélectionné dans un dossier existant ou d'en créer un nouveau. Vous pouvez également déplacer et organiser vos dossiers de la même manière.
-
-![](.gitbook/assets/2019-07-11_14h08_18%20%282%29%20%281%29.png)
 
 **Dupliquer un cahier multimédia**
 
@@ -214,9 +213,9 @@ Votre cahier est complété et la vidéo prête à être regardée !
 
 La Bibliothèque est un espace de partage et d’inspiration entre enseignants.
 
-Si vous souhaitez publier votre cahier multimédia dans la bibliothèque pour inspirer d’autres enseignants, il vous suffit de cliquer sur le contenu que vous voulez publier. Le bandeau orange en bas de l’écran s’affiche. Cliquez sur le bouton « Publier dans la Bibliothèque ».
+Si vous souhaitez publier votre cahier multimédia dans la bibliothèque pour inspirer d’autres enseignants, il vous suffit de cliquer sur le contenu que vous voulez publier. Le bandeau bleu en bas de l’écran s’affiche. Cliquez sur le bouton « Publier dans la Bibliothèque ».
 
-![](.gitbook/assets/image%20%2825%29.png)
+![](.gitbook/assets/CMM_publier_bibli.png)
 
 Vous devez ensuite renseigner les caractéristiques de votre contenu pour expliquer votre usage :
 
@@ -248,7 +247,7 @@ Il vous est possible d'imprimer votre cahier multimédia. Vous pouvez le faire d
 1. Sélectionnant le cahier que vous voulez imprimer
 2. Cliquant sur **Imprimer**.
 
-![](.gitbook/assets/2019-07-11_15h15_35%20%283%29%20%281%29.png)
+![](.gitbook/assets/CMM_imprimer.png)
 
 Vous pouvez également ouvrir le cahier multimédia souhaité puis :
 
@@ -265,7 +264,7 @@ Vous pouvez désormais exporter un cahier multimédia en HTML, pour conserver le
 
 Pour cela, sélectionnez le cahier multimédia que vous souhaitez exporter, puis cliquez sur **Exporter** en bas de page, et dans la fenêtre qui s'ouvre.
 
-![](.gitbook%2Fassets%2FONE_Cahiermulti_export.png)
+![](.gitbook/assets/CMM_exporter.png)
 
 Le cahier est téléchargé **au format ZIP** sur votre ordinateur. Choisissez le fichier "**Index**" dans le dossier qui s'ouvre.
 
